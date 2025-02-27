@@ -24,7 +24,7 @@ jobs:
         python-version: "3.10"
 
     - name: 📦 安装依赖
-      run: pip install requests
+      run: pip install -r requirements.txt
 
     - name: ⚙️ 执行合并脚本
       run: python dl.py
