@@ -34,9 +34,9 @@ def detect_encoding(content):
 
 def fetch_and_merge_hosts():
     urls = [
-        "https://ghproxy.net/raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
-        "https://raw.gitmirror.com/lingeringsound/10007_auto/master/reward",
-        "https://ghfast.top/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt"
+        "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+        "https://lingeringsound.github.io/10007_auto/reward",
+        "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt"
     ]
 
     unique_entries = []
