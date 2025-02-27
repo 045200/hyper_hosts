@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-02-27 23:20:19
+# 最后更新时间: 2025-02-28 00:24:55
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0-cafw4cuaifsvnlnjqzehy0dkssp-bidder-maxads-4.cab.gbc.criteo.com
@@ -7422,7 +7422,7 @@
 127.0.0.1	api.gi.igexin.com
 127.0.0.1	api.gif.duapps.com
 127.0.0.1	api.gimbal.com
-140.82.116.5	api.github.com
+140.82.114.5	api.github.com
 127.0.0.1	api.glance.inmobi.com
 127.0.0.1	api.go88r.pro
 127.0.0.1	api.greenp.kr
@@ -8093,12 +8093,12 @@
 127.0.0.1	avads.net
 127.0.0.1	avast-downloads.com
 185.199.109.133	avatars.githubusercontent.com
-185.199.111.133	avatars0.githubusercontent.com
-185.199.110.133	avatars1.githubusercontent.com
-185.199.109.133	avatars2.githubusercontent.com
+185.199.109.133	avatars0.githubusercontent.com
+185.199.108.133	avatars1.githubusercontent.com
+185.199.111.133	avatars2.githubusercontent.com
 185.199.109.133	avatars3.githubusercontent.com
 185.199.108.133	avatars4.githubusercontent.com
-185.199.109.133	avatars5.githubusercontent.com
+185.199.108.133	avatars5.githubusercontent.com
 127.0.0.1	avazunativeads.com
 127.0.0.1	avelozpranky.click
 127.0.0.1	aventus.pro
@@ -9499,7 +9499,7 @@
 127.0.0.1	centerpointeadvisers.com
 127.0.0.1	centerpostcustomer.dns.army
 127.0.0.1	centimetreedscissorsed.pro
-140.82.114.21	central.github.com
+140.82.114.22	central.github.com
 127.0.0.1	centralads.simpli.fi
 127.0.0.1	centro.pixel.ad
 127.0.0.1	centrum24.pro
@@ -10109,7 +10109,7 @@
 127.0.0.1	code.native-ad.net
 127.0.0.1	codeads.com
 127.0.0.1	codeinghunted.pro
-140.82.116.9	codeload.github.com
+140.82.114.9	codeload.github.com
 127.0.0.1	codetop1a.click
 127.0.0.1	coding.sensorbuqnn.pro
 127.0.0.1	codziennainspiracja.click
@@ -10262,7 +10262,7 @@
 127.0.0.1	coolerads.com
 127.0.0.1	coolerclaimer.click
 127.0.0.1	cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
-138.91.182.224	copilot-proxy.githubusercontent.com
+20.85.130.105	copilot-proxy.githubusercontent.com
 127.0.0.1	coplerni.click
 127.0.0.1	coquviu0.pro
 127.0.0.1	corallinal.wildcatler.click
@@ -10882,7 +10882,7 @@
 127.0.0.1	descriptivetitle.pro
 127.0.0.1	designer.dynamic-dns.net
 127.0.0.1	desk.mspaceads.com
-185.199.109.133	desktop.githubusercontent.com
+185.199.108.133	desktop.githubusercontent.com
 127.0.0.1	destinia-ad.eulerian.net
 127.0.0.1	desygnowanie.click
 127.0.0.1	deta.ero-advertising.com
@@ -12308,7 +12308,7 @@
 127.0.0.1	fategames.click
 127.0.0.1	fathed.pro
 127.0.0.1	fav.simba.taobao.com
-185.199.109.133	favicons.githubusercontent.com
+185.199.111.133	favicons.githubusercontent.com
 127.0.0.1	favorite-option.pro
 127.0.0.1	fawhotoads.net
 127.0.0.1	fb-ads-business.com
@@ -12949,18 +12949,18 @@
 127.0.0.1	ginads.com
 127.0.0.1	giqazoo1.pro
 127.0.0.1	girlwallpaper.pro
-140.82.116.4	gist.github.com
-3.5.30.202	github-cloud.s3.amazonaws.com
-3.5.28.20	github-com.s3.amazonaws.com
-54.231.138.65	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.185.130	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.134.9	github-production-user-asset-6210df.s3.amazonaws.com
-140.82.116.4	github.com
-140.82.114.17	github.community
-185.199.108.154	github.githubassets.com
-151.101.65.194	github.global.ssl.fastly.net
+140.82.113.4	gist.github.com
+52.217.136.105	github-cloud.s3.amazonaws.com
+3.5.30.241	github-com.s3.amazonaws.com
+52.217.124.9	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.50.49	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.16.59	github-production-user-asset-6210df.s3.amazonaws.com
+140.82.113.4	github.com
+140.82.113.18	github.community
+185.199.111.154	github.githubassets.com
+151.101.1.194	github.global.ssl.fastly.net
 185.199.111.153	github.io
-185.199.110.133	github.map.fastly.net
+185.199.109.133	github.map.fastly.net
 185.199.108.153	githubstatus.com
 127.0.0.1	giveawayskin.pro
 127.0.0.1	giveo7jlf.click
@@ -16040,7 +16040,7 @@
 127.0.0.1	media.boomads.com
 127.0.0.1	media.easyads.bg
 127.0.0.1	media.ethicalads.io
-185.199.111.133	media.githubusercontent.com
+185.199.108.133	media.githubusercontent.com
 127.0.0.1	media.joinupads.com
 127.0.0.1	media.mobpartner.mobi
 127.0.0.1	media.mydas.mobi
@@ -17302,7 +17302,7 @@
 127.0.0.1	objasnienialudzi.click
 127.0.0.1	objasnienieprawdy.click
 127.0.0.1	objasnieniewydarzenia.click
-185.199.108.133	objects.githubusercontent.com
+185.199.111.133	objects.githubusercontent.com
 127.0.0.1	obo.moatads.com
 127.0.0.1	obowiazekszukania.click
 127.0.0.1	oboxads.com
@@ -19641,8 +19641,8 @@
 127.0.0.1	rationalan.pro
 127.0.0.1	ratunekdziecka.click
 127.0.0.1	raw-help.pro
-185.199.109.133	raw.github.com
-185.199.109.133	raw.githubusercontent.com
+185.199.110.133	raw.github.com
+185.199.108.133	raw.githubusercontent.com
 127.0.0.1	rayli.adsame.com
 127.0.0.1	raymonds.click
 127.0.0.1	raysoil.pro
@@ -25244,7 +25244,7 @@
 127.0.0.1	useless-speaker.pro
 127.0.0.1	usepl-winna.click
 127.0.0.1	usepriorityadvertising.com
-185.199.111.133	user-images.githubusercontent.com
+185.199.108.133	user-images.githubusercontent.com
 127.0.0.1	user-shield-check.com
 127.0.0.1	user.ad-locus.com
 127.0.0.1	users.api.jeeng.com
