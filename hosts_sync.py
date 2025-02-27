@@ -1,159 +1,93 @@
 import os
-import re
 import requests
+import re
 from datetime import datetime
 from collections import defaultdict
 
-# 基础路径配置
+# 基础路径配置（全部使用相对路径）
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 TEMP_DIR = os.path.join(DATA_DIR, "python")
 RULE_DIR = os.path.join(DATA_DIR, "rules")
 
-# 多源配置（支持镜像站自动回退）
+# 下载源配置
 HOSTS_SOURCES = [
     "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
     "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward",
-    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt"
+    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt",
+"https://raw.githubusercontent.com/ineo6/hosts/refs/heads/master/hosts"
 ]
-
-MIRROR_PROXIES = [
-    "https://ghproxy.net/",
-    "https://ghfast.top/",
-    "https://raw.gitmirror.com/"
-]
-
-# 调试输出
-print(f"[DEBUG] 工作目录: {BASE_DIR}")
-print(f"[DEBUG] 数据存储路径: {DATA_DIR}")
 
 def ensure_directory(path):
-    """确保目标目录存在"""
+    """确保目录存在"""
     dir_path = os.path.dirname(path)
     os.makedirs(dir_path, exist_ok=True)
-    print(f"✓ 已创建目录: {dir_path}")
-
-def download_with_retry(url, retries=3):
-    """带镜像回退的下载器"""
-    for attempt in range(retries):
-        try:
-            # 优先尝试直连
-            if attempt == 0:
-                resp = requests.get(url, timeout=10)
-            # 失败后使用镜像站
-            else:
-                proxy = MIRROR_PROXIES[attempt % len(MIRROR_PROXIES)]
-                resp = requests.get(f"{proxy}{url}", timeout=15)
-            
-            resp.raise_for_status()
-            return resp.text
-        except Exception as e:
-            print(f"第 {attempt+1} 次下载失败: {str(e)}")
-            if attempt == retries - 1:
-                raise
+    print(f"[目录已创建] {dir_path}")
 
 def download_hosts():
     """下载多源hosts文件"""
     downloaded_files = []
-    
     for index, url in enumerate(HOSTS_SOURCES):
         try:
-            content = download_with_retry(url)
-            filename = f"hosts_{index}_{datetime.now().strftime('%Y%m%d')}.txt"
+            response = requests.get(url, timeout=10)
+            response.raise_for_status()
+            
+            filename = f"hosts_{index}.txt"
             save_path = os.path.join(TEMP_DIR, filename)
             
             ensure_directory(save_path)
             with open(save_path, 'w', encoding='utf-8') as f:
-                f.write(content)
+                f.write(response.text)
             
-            print(f"↓ 已下载: {url} => {save_path}")
+            print(f"[下载成功] {url} → {save_path}")
             downloaded_files.append(save_path)
         except Exception as e:
-            print(f"× 下载失败 [{url}]: {str(e)}")
+            print(f"[下载失败] {url} - {str(e)}")
             continue
-    
     return downloaded_files
 
-def merge_hosts_files(file_paths):
-    """合并并去重hosts条目"""
-    entry_pattern = re.compile(
-        r"^\s*((?:[0-9]{1,3}\.){3}[0-9]{1,3}|::1)\s+([a-zA-Z0-9\.-]+)\s*(?:#.*)?$"
-    )
+def merge_hosts(files):
+    """合并去重逻辑"""
+    entry_pattern = re.compile(r'^\s*(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\s+(\S+)')
+    domain_map = {}
     
-    domain_map = defaultdict(list)
-    preserved_comments = []
-    unique_ips = set()
-
-    # 第一阶段：收集所有条目
-    for file_path in file_paths:
-        try:
-            with open(file_path, 'r', encoding='utf-8') as f:
-                for line in f:
-                    line = line.strip()
-                    
-                    # 保留文件头注释
-                    if line.startswith("#"):
-                        if len(preserved_comments) < 5:
-                            preserved_comments.append(line)
-                        continue
-                    
-                    # 解析有效条目
-                    match = entry_pattern.match(line)
-                    if match:
-                        ip, domain = match.groups()
-                        domain = domain.lower()
-                        
-                        # 记录唯一IP
-                        if ip not in unique_ips:
-                            unique_ips.add(ip)
-                        
-                        # 冲突处理：记录最后出现的IP
-                        domain_map[domain].append(ip)
-        except Exception as e:
-            print(f"× 文件处理错误 [{file_path}]: {str(e)}")
-            continue
-
-    # 第二阶段：生成合并结果
-    merged_content = []
+    for file_path in files:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                match = entry_pattern.match(line)
+                if match:
+                    ip, domain = match.groups()
+                    domain_map[domain.lower()] = ip  # 最后出现的IP会覆盖之前的
     
-    # 添加保留注释
-    merged_content.extend(preserved_comments)
-    
-    # 添加IP注释统计
-    merged_content.append(f"# Merged at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    merged_content.append(f"# Total unique IPs: {len(unique_ips)}")
-    merged_content.append(f"# Total domains: {len(domain_map)}\n")
-    
-    # 按字母顺序排序输出
-    for domain in sorted(domain_map.keys()):
-        ips = domain_map[domain]
-        # 使用最后出现的IP地址
-        merged_content.append(f"{ips[-1]}\t{domain}")
-    
-    return merged_content
+    return domain_map
 
 def main():
-    print("\n=== 同步流程开始 ===")
+    print("\n=== 开始同步流程 ===")
     
-    # 下载阶段
+    # 步骤1: 下载文件
     print("\n[阶段1] 下载源文件")
     hosts_files = download_hosts()
     if not hosts_files:
-        print("! 错误: 未成功下载任何文件")
+        print("错误: 未下载到任何有效文件")
         return
     
-    # 合并阶段
+    # 步骤2: 合并去重
     print("\n[阶段2] 合并处理")
+    merged_data = merge_hosts(hosts_files)
+    
+    # 步骤3: 生成最终文件
     output_path = os.path.join(RULE_DIR, "merged_hosts.txt")
     ensure_directory(output_path)
     
-    merged_data = merge_hosts_files(hosts_files)
-    
-    # 写入最终文件
     with open(output_path, 'w', encoding='utf-8') as f:
-        f.write("\n".join(merged_data))
+        f.write(f"# 最后更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write("# 项目地址: https://github.com/yourusername/yourrepo\n\n")
+        for domain, ip in sorted(merged_data.items()):
+            f.write(f"{ip}\t{domain}\n")
     
-    print(f"\n★ 同步完成: 生成 {len(merged_data)-4} 条规则（已保存至 {output_path}）")
+    print(f"\n=== 同步完成 ===")
+    print(f"生成文件: {output_path}")
+    print(f"规则总数: {len(merged_data)}")
 
 if __name__ == "__main__":
     main()
