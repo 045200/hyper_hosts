@@ -2,12 +2,16 @@ name: Hosts Sync
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # 每天自动执行
-  workflow_dispatch:     # 支持手动触发
+    - cron: '0 */12 * * *'  # UTC时间每天执行两次（对应北京时间+8小时）
+  workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    # 设置整个 job 的时区为北京时间
+    env:
+      TZ: Asia/Shanghai
+      
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
@@ -22,7 +26,8 @@ jobs:
       
     - name: Run sync script
       run: |
-        mkdir -p /.././data/python /.././data/rules
+        # 修正路径：在仓库根目录创建 data 子文件夹
+        mkdir -p data/python data/rules
         python hosts_sync.py
       env:
         PYTHONUNBUFFERED: 1
