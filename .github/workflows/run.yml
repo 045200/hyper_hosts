@@ -22,7 +22,7 @@ jobs:
       
     - name: Run sync script
       run: |
-        mkdir -p /data/python /data/rules
+        mkdir -p /.././data/python /.././data/rules
         python hosts_sync.py
       env:
         PYTHONUNBUFFERED: 1
