@@ -81,7 +81,7 @@ def main():
     
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(f"# 最后更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write("# 项目地址: https://github.com/yourusername/yourrepo\n\n")
+        f.write("# 项目地址: https://github.com/045200/hyper_hosts\n\n")
         for domain, ip in sorted(merged_data.items()):
             f.write(f"{ip}\t{domain}\n")
     
