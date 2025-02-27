@@ -2,7 +2,7 @@ name: Hosts Sync
 
 on:
   schedule:
-    - cron: '0 16,4 * * *'  # UTC时间 0点和12点（对应北京时间+8）
+    - cron: '0 16,4 * * *'  # 保持 UTC 定时
   workflow_dispatch:
 
 jobs:
@@ -12,51 +12,20 @@ jobs:
       TZ: Asia/Shanghai
 
     steps:
-    - name: 检出代码
-      uses: actions/checkout@v4
-      with:
-        persist-credentials: false  # 必须关闭默认凭证保存
+    - uses: actions/checkout@v4
 
-    - name: 设置Python环境
-      uses: actions/setup-python@v4
+    - uses: actions/setup-python@v4
       with:
         python-version: '3.10'
 
-    - name: 安装依赖
-      run: pip install requests
+    - run: pip install requests && python hosts_sync.py
 
-    - name: 运行同步脚本
+    - name: Commit Changes
       run: |
-        # 调试信息
-        echo "当前工作目录: $(pwd)"
-        python hosts_sync.py
-        
-        # 验证生成文件
-        echo "生成文件列表:"
-        ls -lR data
-
-    - name: 提交变更
-      run: |
-        # 配置身份信息
-        git config --global user.name "GitHub Actions Bot"
-        git config --global user.email "actions-bot@users.noreply.github.com"
-        
-        # 重置远程仓库URL（关键修复）
-        REPO_URL="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-        git remote set-url origin $REPO_URL
-        
-        # 调试信息
-        echo "当前远程仓库配置:"
-        git remote -v
-        
-        # 添加并提交变更
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
         git add .
-        if [ -n "$(git status --porcelain)" ]; then
-          git commit -m "自动同步: $(date +'%Y-%m-%d %H:%M:%S')"
-          git push origin main
-          echo "变更已提交"
-        else
-          echo "无变更需要提交"
-        fi
+        git commit -m "Sync: $(date +'%Y-%m-%d %H:%M')" || exit 0
+        git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
