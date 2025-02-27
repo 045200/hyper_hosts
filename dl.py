@@ -7,8 +7,7 @@ from datetime import datetime
 # GitHub 环境配置
 MAX_RETRIES = 3
 REQUEST_TIMEOUT = 20
-USER_AGENT = "GitHub-Hosts-Merger/1.0 https://https://github.com/045200/hyper_hosts"
-OUTPUT_PATH = os.path.join(os.getcwd(), "rules/hosts")
+OUTPUT_PATH ="/.././rules/hosts"
 
 def create_session():
     session = requests.Session()
