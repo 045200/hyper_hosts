@@ -36,7 +36,8 @@ def fetch_and_merge_hosts():
     urls = [
         "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
         "https://lingeringsound.github.io/10007_auto/reward",
-        "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt"
+        "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt",
+"https://raw.githubusercontent.com/ineo6/hosts/refs/heads/master/hosts"
     ]
 
     unique_entries = []
