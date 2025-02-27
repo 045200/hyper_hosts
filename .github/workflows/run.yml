@@ -2,32 +2,33 @@ name: Hosts Sync
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # UTC时间每天执行两次（对应北京时间+8小时）
+    - cron: '0 16,4 * * *'  # 对应北京时间 0点 和 12点（UTC+8）
   workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-    # 设置整个 job 的时区为北京时间
     env:
-      TZ: Asia/Shanghai
-      
+      TZ: Asia/Shanghai  # 设置时区为北京时间
+
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
-      
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
-        
+
     - name: Install dependencies
       run: pip install requests
-      
+
     - name: Run sync script
       run: |
-        # 修正路径：在仓库根目录创建 data 子文件夹
-        mkdir -p data/python data/rules
+        # 调试信息
+        echo "当前工作目录: $(pwd)"
+        ls -al
+        # 运行脚本
         python hosts_sync.py
       env:
         PYTHONUNBUFFERED: 1
