@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-02-28 00:44:14
+# 最后更新时间: 2025-02-28 12:22:36
 # 规则总数: 32833
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -9888,7 +9888,7 @@
 127.0.0.1	calopir.click
 127.0.0.1	calve.pro
 127.0.0.1	camads.net
-185.199.108.133	camo.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
 127.0.0.1	camp247adventure.com
 127.0.0.1	campaign-tapad.s3.amazonaws.com
 127.0.0.1	campaign-uploads.s3.amazonaws.com
@@ -10233,7 +10233,7 @@
 127.0.0.1	centerpointeadvisers.com
 127.0.0.1	centerpostcustomer.dns.army
 127.0.0.1	centimetreedscissorsed.pro
-140.82.114.22	central.github.com
+140.82.114.21	central.github.com
 127.0.0.1	centralads.simpli.fi
 127.0.0.1	centro.pixel.ad
 127.0.0.1	centrum24.pro
@@ -13388,7 +13388,7 @@
 127.0.0.1	fategames.click
 127.0.0.1	fathed.pro
 127.0.0.1	fav.simba.taobao.com
-185.199.111.133	favicons.githubusercontent.com
+185.199.108.133	favicons.githubusercontent.com
 127.0.0.1	favorite-option.pro
 127.0.0.1	fawhotoads.net
 127.0.0.1	fb-ads-business.com
@@ -14134,18 +14134,18 @@
 127.0.0.1	giqazoo1.pro
 127.0.0.1	girlwallpaper.pro
 20.205.243.166	gist.github.com
-52.217.136.105	github-cloud.s3.amazonaws.com
-3.5.30.241	github-com.s3.amazonaws.com
-52.217.124.9	github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.50.49	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.16.59	github-production-user-asset-6210df.s3.amazonaws.com
+52.217.90.244	github-cloud.s3.amazonaws.com
+52.217.204.225	github-com.s3.amazonaws.com
+54.231.201.81	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.27.157	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.30.157	github-production-user-asset-6210df.s3.amazonaws.com
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-151.101.1.194	github.global.ssl.fastly.net
+151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.109.133	github.map.fastly.net
+185.199.108.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 127.0.0.1	giveawayskin.pro
 127.0.0.1	giveo7jlf.click
