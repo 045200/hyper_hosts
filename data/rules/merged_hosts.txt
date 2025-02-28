@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-02-28 12:22:36
-# 规则总数: 32833
+# 最后更新时间: 2025-03-01 00:24:19
+# 规则总数: 32733
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0-cafw4cuaifsvnlnjqzehy0dkssp-bidder-maxads-4.cab.gbc.criteo.com
@@ -402,7 +402,6 @@
 127.0.0.1	6063.bapi.adsafeprotected.com
 127.0.0.1	61.156.8.189
 127.0.0.1	61.170.72.15
-127.0.0.1	61ads.net
 127.0.0.1	631.dlads.cn
 127.0.0.1	641fd7ea99.netvshow.click
 127.0.0.1	64511.a.irs01.com
@@ -740,6 +739,7 @@
 127.0.0.1	account-secuirty-check.66ai6.com
 127.0.0.1	account-worda-ads.cacaobliss.pt
 127.0.0.1	account.1192360.sitamet.click
+127.0.0.1	account.capabillities.click
 127.0.0.1	account.coordinatoins.click
 127.0.0.1	account.resolutoin.click
 127.0.0.1	account.tingyun.com
@@ -4932,7 +4932,7 @@
 127.0.0.1	adslvfile.qq.com
 127.0.0.1	adslvseed.qq.com
 127.0.0.1	adsm.soush.com
-127.0.0.1	adsmanager.meta.com-policy.co
+127.0.0.1	adsmanager-centersupportsverifyaccount.com
 127.0.0.1	adsmansion.com
 127.0.0.1	adsmarket.com
 127.0.0.1	adsmart.co.uk
@@ -5731,6 +5731,7 @@
 127.0.0.1	advocatenkantoormaastricht.com
 127.0.0.1	advocateseducationalservices.com
 127.0.0.1	advod.sbs.co.kr
+127.0.0.1	advogadobrasileirousa.com
 127.0.0.1	advokateg.xyz
 127.0.0.1	advokateurope.online
 127.0.0.1	advolution.de
@@ -7757,6 +7758,7 @@
 127.0.0.1	api.doubles.click
 127.0.0.1	api.doublewin123.com
 127.0.0.1	api.doumob.com
+127.0.0.1	api.drivercamhub.cloud
 127.0.0.1	api.dsp.madserving.com
 127.0.0.1	api.dsp.yhd.com
 127.0.0.1	api.e-pfg.ca
@@ -8781,6 +8783,7 @@
 127.0.0.1	badwolf.open-election-compass.com
 127.0.0.1	badyner-investing.pro
 127.0.0.1	badznabierzaco.click
+127.0.0.1	bafkreibywcvvwvhydbqdzz6ihxjgdxnopdczwjade6uwryemahqlcyja3e.ipfs.flk-ipfs.xyz
 127.0.0.1	bafybeia4wnvo3f7q7ompkrufwctsad377rmqqre5nikeig54m6gvdk2aom.ipfs.fleek.cool
 127.0.0.1	bafybeibnasu2d2dxquhfpiedmdb2x2tz56welgbngad4ifbwvu74mior24.ipfs-public.thirdwebcdn.com
 127.0.0.1	bafybeicx632kovolcmtykzyzsmgbl3uxxxsplyazgvwb2adw7pxbxuyfre.ipfs.w3s.link
@@ -9140,7 +9143,6 @@
 127.0.0.1	betads.xyz
 127.0.0.1	betahit.click
 127.0.0.1	betas.pro
-127.0.0.1	betendads.com
 127.0.0.1	betmasteradvice.com
 127.0.0.1	betootadvocate.com
 127.0.0.1	betskin.pro
@@ -9869,7 +9871,6 @@
 127.0.0.1	caid.shuzilm.cn
 127.0.0.1	caing.adsame.com
 127.0.0.1	cainv.click
-127.0.0.1	caixadirectadsecure.com
 127.0.0.1	caixin.adsame.com
 127.0.0.1	caixinimg.adsame.com
 127.0.0.1	cajunua1.pro
@@ -10343,11 +10344,10 @@
 127.0.0.1	check.autotrdes.top
 127.0.0.1	check.ayaiu.online
 127.0.0.1	check.ayieo.online
+127.0.0.1	check.basyg.icu
 127.0.0.1	check.baww.shop
-127.0.0.1	check.byzl.shop
-127.0.0.1	check.cipx.shop
+127.0.0.1	check.buhah.icu
 127.0.0.1	check.cloud-too.online
-127.0.0.1	check.codh.shop
 127.0.0.1	check.deldhl.info
 127.0.0.1	check.digoc.icu
 127.0.0.1	check.diia-gov.pw
@@ -10357,34 +10357,32 @@
 127.0.0.1	check.euclasco.xyz
 127.0.0.1	check.fnos.net
 127.0.0.1	check.frbservices.org
+127.0.0.1	check.gidyw.icu
 127.0.0.1	check.go19.online
 127.0.0.1	check.gozun.icu
-127.0.0.1	check.gunh.shop
-127.0.0.1	check.hegk.shop
 127.0.0.1	check.iauou.online
 127.0.0.1	check.ieuoi.online
 127.0.0.1	check.iyeui.online
 127.0.0.1	check.iyyuy.online
-127.0.0.1	check.johw.shop
-127.0.0.1	check.jysz.shop
-127.0.0.1	check.jywyj.icu
+127.0.0.1	check.lavow.icu
 127.0.0.1	check.lawashpol.site
-127.0.0.1	check.miwj.shop
+127.0.0.1	check.losyb.icu
+127.0.0.1	check.lymum.icu
 127.0.0.1	check.oyuai.online
 127.0.0.1	check.pocztowy.top
 127.0.0.1	check.rayjump.com
+127.0.0.1	check.rikez.icu
+127.0.0.1	check.segir.icu
 127.0.0.1	check.sijuh.icu
 127.0.0.1	check.sukif.icu
-127.0.0.1	check.sult.shop
-127.0.0.1	check.tokep.icu
+127.0.0.1	check.tymis.icu
 127.0.0.1	check.uueoe.online
 127.0.0.1	check.uuuyi.online
+127.0.0.1	check.vokaz.icu
 127.0.0.1	check.whozyourdoula.com
-127.0.0.1	check.wiqn.shop
-127.0.0.1	check.wivp.shop
 127.0.0.1	check.yayei.online
 127.0.0.1	check.yuuuo.online
-127.0.0.1	check.zajp.shop
+127.0.0.1	check.zinus.icu
 127.0.0.1	checkedmixes.pro
 127.0.0.1	checker.cityads.com
 127.0.0.1	checking-your-browser.com
@@ -10944,7 +10942,7 @@
 127.0.0.1	code.sms.mob.com
 127.0.0.1	codeads.com
 127.0.0.1	codeinghunted.pro
-140.82.114.9	codeload.github.com
+140.82.113.10	codeload.github.com
 127.0.0.1	codetop1a.click
 127.0.0.1	coding.sensorbuqnn.pro
 127.0.0.1	codziennainspiracja.click
@@ -11067,6 +11065,7 @@
 127.0.0.1	confirmprotection.pro
 127.0.0.1	congnb.analytics.saas-vn.network
 127.0.0.1	coni-pro.hotpr0g.site
+127.0.0.1	coniucarto.pro
 127.0.0.1	connect-advance.net
 127.0.0.1	connect-dre.hispace.hicloud.com
 127.0.0.1	connect-hub2fa.pro
@@ -12287,7 +12286,6 @@
 127.0.0.1	download.56.com
 127.0.0.1	download.88kwp.com
 127.0.0.1	download.adsage.com
-127.0.0.1	download.apple-sk.com
 127.0.0.1	download.apps.co.pl
 127.0.0.1	download.backpackergame.com
 127.0.0.1	download.bav.baidu.com
@@ -12334,6 +12332,7 @@
 127.0.0.1	download.milkpot.com
 127.0.0.1	download.net.daraz.com
 127.0.0.1	download.netcetera.com
+127.0.0.1	download.overengine.store
 127.0.0.1	download.parkunload.com
 127.0.0.1	download.planify.io
 127.0.0.1	download.poolking.in
@@ -12812,6 +12811,7 @@
 127.0.0.1	edgecast-vod.yahoo.net
 127.0.0.1	edgecast-vod.yimg.com
 127.0.0.1	edgexads.com
+127.0.0.1	edicodiffe.pro
 127.0.0.1	editionoverlookadvocate.com
 127.0.0.1	editoralra.pro
 127.0.0.1	editsnail.pro
@@ -13191,7 +13191,6 @@
 127.0.0.1	evri.qasotges.click
 127.0.0.1	evri.qoaitgege.click
 127.0.0.1	evri.qostgeapp.click
-127.0.0.1	evri.qostgepu.click
 127.0.0.1	evri.qoutkigo.click
 127.0.0.1	evri.qsinkge.click
 127.0.0.1	evri.quostgu.click
@@ -13388,7 +13387,7 @@
 127.0.0.1	fategames.click
 127.0.0.1	fathed.pro
 127.0.0.1	fav.simba.taobao.com
-185.199.108.133	favicons.githubusercontent.com
+185.199.110.133	favicons.githubusercontent.com
 127.0.0.1	favorite-option.pro
 127.0.0.1	fawhotoads.net
 127.0.0.1	fb-ads-business.com
@@ -13744,7 +13743,6 @@
 127.0.0.1	free-fb-traffic.com
 127.0.0.1	free-fbook-traffic.com
 127.0.0.1	free-games-download.falcoware.com
-127.0.0.1	free-instagram-download.en.musicforyou3d.com
 127.0.0.1	free-lbv3.idouyinvod.com
 127.0.0.1	free-share-buttons.com
 127.0.0.1	free-traffic.xyz
@@ -14134,16 +14132,16 @@
 127.0.0.1	giqazoo1.pro
 127.0.0.1	girlwallpaper.pro
 20.205.243.166	gist.github.com
-52.217.90.244	github-cloud.s3.amazonaws.com
-52.217.204.225	github-com.s3.amazonaws.com
-54.231.201.81	github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.27.157	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.30.157	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.25.109	github-cloud.s3.amazonaws.com
+54.231.162.233	github-com.s3.amazonaws.com
+16.15.178.30	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.92.252	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.27.174	github-production-user-asset-6210df.s3.amazonaws.com
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-151.101.193.194	github.global.ssl.fastly.net
+151.101.1.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
 185.199.108.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
@@ -14351,6 +14349,7 @@
 127.0.0.1	google-deckoffice.ml
 127.0.0.1	google-docs.org
 127.0.0.1	google-finance.pw
+127.0.0.1	google-hao.top
 127.0.0.1	google-jrm.xyz
 127.0.0.1	google-js-01.xyz
 127.0.0.1	google-js-02.xyz
@@ -14360,6 +14359,7 @@
 127.0.0.1	google-pagerank.net
 127.0.0.1	google-pay.net
 127.0.0.1	google-pl.com
+127.0.0.1	google-president.mamont.sbs
 127.0.0.1	google-shopping-v2.sapoapps.vn
 127.0.0.1	google-shopping.sapoapps.vn
 127.0.0.1	google-team.pl
@@ -14429,7 +14429,6 @@
 127.0.0.1	grapf.click
 127.0.0.1	graphicmads.com
 127.0.0.1	graphics.medleyads.com
-127.0.0.1	graphql-api.apple-sk.com
 127.0.0.1	gratkadlabystrzaka.click
 127.0.0.1	grave-orange.pro
 127.0.0.1	greathealthcareadvice.com
@@ -14698,7 +14697,6 @@
 127.0.0.1	help.fenxi.cnzz.com
 127.0.0.1	help.juicyads.com
 23.218.130.190	help.steampowered.com
-127.0.0.1	helpcenter04829.click
 127.0.0.1	helpdesksupportads.web.app
 127.0.0.1	helpfulduty.pro
 127.0.0.1	helpinghandsadvocacy.org
@@ -14716,7 +14714,6 @@
 127.0.0.1	hetollroads-tollevasiobusa.xin
 127.0.0.1	hetollroads-tollevasiobvc.xin
 127.0.0.1	hetollroads-tollevasiobvn.xin
-127.0.0.1	hetollroads-tollevasiocbv.xin
 127.0.0.1	hetollroads-tollevasiocvb.xin
 127.0.0.1	hetollroads-tollevasiocxv.xin
 127.0.0.1	hetollroads-tollevasiocxz.xin
@@ -14726,7 +14723,6 @@
 127.0.0.1	hetollroads-tollevasiovcb.xin
 127.0.0.1	hetollroads-tollevasioxcz.xin
 127.0.0.1	hetollroads-tollevasioxzc.xin
-127.0.0.1	hetollroads-tollevasiozxc.xin
 127.0.0.1	hexagon-analytics.com
 127.0.0.1	hexovythi.pro
 127.0.0.1	hexusads.fluent.ltd.uk
@@ -15200,7 +15196,6 @@
 127.0.0.1	ido.getui.net
 127.0.0.1	idp.voiceads.cn
 127.0.0.1	ids.ad.gt
-127.0.0.1	idsjidwjup.dynamic-dns.net
 127.0.0.1	idspaces.ero-advertising.com
 127.0.0.1	idx.m.hub.sandai.net
 127.0.0.1	iej.8hwo.pro
@@ -15690,7 +15685,6 @@
 127.0.0.1	install2.kugou.com
 127.0.0.1	installads.net
 127.0.0.1	installads.org
-127.0.0.1	installads2.com
 127.0.0.1	installer-drcn.hispace.dbankcloud.cn
 127.0.0.1	installer-drcn.hispace.dbankcloud.com
 127.0.0.1	installer-drcn.hispace.dbankcloud.eu
@@ -15768,7 +15762,6 @@
 127.0.0.1	intl.mtp.umeng.com
 127.0.0.1	intl.wapa.taobao.com
 127.0.0.1	intl.waptest.taobao.com
-127.0.0.1	intlaccangesverifyngwebapps.sadg7gwdvgshdys.biz.id
 127.0.0.1	intranet.account-check-netflix.com
 127.0.0.1	intraoxnxt.click
 127.0.0.1	intro4ads.com
@@ -17231,7 +17224,6 @@
 127.0.0.1	m.adsymptotic.com
 127.0.0.1	m.analytics.126.net
 127.0.0.1	m.anycast.adnxs.com
-127.0.0.1	m.api-qa.apple-sk.com
 127.0.0.1	m.api.baifendian.com
 127.0.0.1	m.app.account-check-netflix.com
 127.0.0.1	m.appsflyer.com
@@ -17250,7 +17242,6 @@
 127.0.0.1	m.da.mgtv.com
 127.0.0.1	m.data.mob.com
 127.0.0.1	m.doubleclick.net
-127.0.0.1	m.download.apple-sk.com
 127.0.0.1	m.game.weibo.cn
 127.0.0.1	m.gbjslyhr.account-check-netflix.com
 127.0.0.1	m.gdt.qq.com
@@ -18482,7 +18473,6 @@
 127.0.0.1	myads.ru
 127.0.0.1	myads.telkomsel.com
 127.0.0.1	myadsserver.com
-127.0.0.1	myadvertyt.store
 127.0.0.1	myaudioads.com
 127.0.0.1	mybb.ero-advertising.com
 127.0.0.1	mybbc-analytics.files.bbci.co.uk
@@ -18961,6 +18951,7 @@
 127.0.0.1	norma-external-collect.meizu.com
 127.0.0.1	normalheart.pro
 127.0.0.1	normyuliczne.click
+127.0.0.1	northpeeak.pro
 127.0.0.1	nota.click
 127.0.0.1	notablechemistry.pro
 127.0.0.1	notatkizapisane.click
@@ -19015,6 +19006,7 @@
 127.0.0.1	nowtrendingflash.click
 127.0.0.1	nowuxue5.pro
 127.0.0.1	noxagile.duapp.com
+127.0.0.1	nozipe-jafowi.pro
 127.0.0.1	nr-events.taboola.com
 127.0.0.1	nr-op.elemecdn.com
 127.0.0.1	nr.taboola.com
@@ -20964,6 +20956,7 @@
 127.0.0.1	preview.ads.zalo.me
 127.0.0.1	preview.adsame.com
 127.0.0.1	preview.msn.com
+127.0.0.1	previous-trip.pro
 127.0.0.1	prezentacjazdarzenia.click
 127.0.0.1	prfctlivs.click
 127.0.0.1	prg.smartadserver.com
@@ -20991,6 +20984,7 @@
 127.0.0.1	prizefestival.mobi
 127.0.0.1	prnhpe.pro
 127.0.0.1	pro-accesssoires.fr
+127.0.0.1	pro-acheminement.com
 127.0.0.1	pro-adblocker.com
 127.0.0.1	pro-advert.de
 127.0.0.1	pro-amporn.com
@@ -21556,7 +21550,6 @@
 127.0.0.1	qqshow2-item.qq.com
 127.0.0.1	qqwx.zhangguangzong.com
 127.0.0.1	qr-code.click
-127.0.0.1	qrcodes.pro
 127.0.0.1	qring-tms.qq.com
 127.0.0.1	qsb.browser.miui.srv
 127.0.0.1	qskin.pro
@@ -21827,6 +21820,7 @@
 127.0.0.1	rediads.com
 127.0.0.1	redir.juicyads.com
 127.0.0.1	redir.metaservices.microsoft.com
+127.0.0.1	redirect-api.com
 127.0.0.1	redirect.advconversion.com
 127.0.0.1	redirect.appleads-trk.com
 127.0.0.1	redirect.ero-advertising.com
@@ -21869,6 +21863,7 @@
 127.0.0.1	rejestr2.testvps.pro
 127.0.0.1	rejestra.testvps.pro
 127.0.0.1	rejestrpodpisu.click
+127.0.0.1	reklamaallegroads.pl
 127.0.0.1	reklamasdhost.click
 127.0.0.1	reklamka360.click
 127.0.0.1	reklamko.pro
@@ -22004,6 +21999,7 @@
 127.0.0.1	respectfulintersection.click
 127.0.0.1	responsad1.space
 127.0.0.1	response.emoneyadvisor.com
+127.0.0.1	responseinquiry-tos.com
 127.0.0.1	responsiveads.com
 127.0.0.1	rest.irs01.com
 127.0.0.1	rest.wsq.umeng.com
@@ -22626,11 +22622,13 @@
 127.0.0.1	sap-traffic.com
 127.0.0.1	sapi.ads.oppomobile.com
 127.0.0.1	sapphire-api.target.com
+127.0.0.1	saqadau5.pro
 127.0.0.1	sarcasmadvisor.com
 127.0.0.1	sas.nsm-corp.com
 127.0.0.1	sasdk.3g.qq.com
 127.0.0.1	sasiedzkiesprawy.click
 127.0.0.1	sasiedzkipriorytet.click
+127.0.0.1	sassysparrows.pro
 127.0.0.1	sasuwiy6.pro
 127.0.0.1	satisfactiones.pro
 127.0.0.1	satisfied-tour.pro
@@ -23041,6 +23039,7 @@
 127.0.0.1	serboantir.pro
 127.0.0.1	sercenatury.click
 127.0.0.1	serenadeescelestialing.pro
+127.0.0.1	serenesymphony.pro
 127.0.0.1	seripage-cad23.pages.net.br
 127.0.0.1	serpentinejob.pro
 127.0.0.1	serpentinelay.pro
@@ -23594,11 +23593,8 @@
 127.0.0.1	sm-test.groc.press
 127.0.0.1	sm.acessos-itau.com
 127.0.0.1	sm.amazon2-secure.com
-127.0.0.1	sm.beta.apple-sk.com
 127.0.0.1	sm.cdn-wellsfargo.com
 127.0.0.1	sm.delltechnologies.com
-127.0.0.1	sm.docu.apple-sk.com
-127.0.0.1	sm.documentation.apple-sk.com
 127.0.0.1	sm.domob.cn
 127.0.0.1	sm.domobcdn.com
 127.0.0.1	sm.easysale.domobcdn.com
@@ -23607,12 +23603,10 @@
 127.0.0.1	sm.groc.press
 127.0.0.1	sm.joef.lat
 127.0.0.1	sm.koqx.lat
-127.0.0.1	sm.lab.apple-sk.com
 127.0.0.1	sm.macys.com
 127.0.0.1	sm.makino.com
 127.0.0.1	sm.rtb.mts.ru
 127.0.0.1	sm.secure.cdn-wellsfargo.com
-127.0.0.1	sm.sfiles.apple-sk.com
 127.0.0.1	sm.sheffpresp.online
 127.0.0.1	sm.shop.bbva-s.shop
 127.0.0.1	sm.sintranet.bbva-s.shop
@@ -23625,10 +23619,8 @@
 127.0.0.1	sm.ssssadmin.amazon-relay.com
 127.0.0.1	sm.ssssop.amazon-relay.com
 127.0.0.1	sm.ssssortal.amazon-relay.com
-127.0.0.1	sm.status.apple-sk.com
 127.0.0.1	sm.stjude.org
 127.0.0.1	sm.sungardas.com
-127.0.0.1	sm.sversion.apple-sk.com
 127.0.0.1	sm.sylectus.com
 127.0.0.1	sm.trb.com
 127.0.0.1	sm.vxfc.lat
@@ -25069,7 +25061,6 @@
 127.0.0.1	theplayadvisor.com
 127.0.0.1	thesekid.pro
 127.0.0.1	thetollroads-dfgnsqazs.world
-127.0.0.1	thetollroads-fdgcvbtyu.world
 127.0.0.1	thetollroads-fdsgqazxs.world
 127.0.0.1	thetollroads-fgcvtqazxs.world
 127.0.0.1	thetollroads-gdfbcvstg.world
@@ -25079,7 +25070,6 @@
 127.0.0.1	thetollroads-gfdvcwsx.world
 127.0.0.1	thetollroads-hfgsertqas.world
 127.0.0.1	thetollroads-hfutjgrbf.world
-127.0.0.1	thetollroads-hgfewsdvcxqw.world
 127.0.0.1	thetollroads-iuykhjrw.world
 127.0.0.1	thetollroads-iuyrbcwer.world
 127.0.0.1	thetollroads-jgherazxv.world
@@ -25094,13 +25084,11 @@
 127.0.0.1	thetollroads-liyrqazsd.world
 127.0.0.1	thetollroads-lkhytewzx.world
 127.0.0.1	thetollroads-lkngdeq.world
-127.0.0.1	thetollroads-nfnvdruew.world
 127.0.0.1	thetollroads-paydfsdq.vip
 127.0.0.1	thetollroads-payfdgzx.vip
 127.0.0.1	thetollroads-payfgd.vip
 127.0.0.1	thetollroads-paygsqwe.vip
 127.0.0.1	thetollroads-payhfgjd.vip
-127.0.0.1	thetollroads-payjghfdq.vip
 127.0.0.1	thetollroads-payjghsd.vip
 127.0.0.1	thetollroads-payjythgf.vip
 127.0.0.1	thetollroads-payqwzx.vip
@@ -25117,7 +25105,6 @@
 127.0.0.1	thetollroads-paytollaei.xin
 127.0.0.1	thetollroads-paytollaej.xin
 127.0.0.1	thetollroads-paytollameg.xin
-127.0.0.1	thetollroads-paytollarg.world
 127.0.0.1	thetollroads-paytollasa.xin
 127.0.0.1	thetollroads-paytollasb.xin
 127.0.0.1	thetollroads-paytollasc.xin
@@ -25138,8 +25125,6 @@
 127.0.0.1	thetollroads-paytollawe.xin
 127.0.0.1	thetollroads-paytollawf.xin
 127.0.0.1	thetollroads-paytollawh.xin
-127.0.0.1	thetollroads-paytollawk.xin
-127.0.0.1	thetollroads-paytollawl.xin
 127.0.0.1	thetollroads-paytollawm.xin
 127.0.0.1	thetollroads-paytollawn.xin
 127.0.0.1	thetollroads-paytollawo.xin
@@ -25147,7 +25132,6 @@
 127.0.0.1	thetollroads-paytollawq.xin
 127.0.0.1	thetollroads-paytollawr.xin
 127.0.0.1	thetollroads-paytollaws.xin
-127.0.0.1	thetollroads-paytollawt.xin
 127.0.0.1	thetollroads-paytollawu.xin
 127.0.0.1	thetollroads-paytollaww.xin
 127.0.0.1	thetollroads-paytollawwv.xin
@@ -25234,7 +25218,6 @@
 127.0.0.1	thetollroads-paytollbtl.world
 127.0.0.1	thetollroads-paytollbtm.world
 127.0.0.1	thetollroads-paytollbtn.world
-127.0.0.1	thetollroads-paytollbto.world
 127.0.0.1	thetollroads-paytollbts.world
 127.0.0.1	thetollroads-paytollbtz.world
 127.0.0.1	thetollroads-paytollcdr.world
@@ -25242,7 +25225,6 @@
 127.0.0.1	thetollroads-paytollcma.world
 127.0.0.1	thetollroads-paytollcmc.world
 127.0.0.1	thetollroads-paytollcmd.world
-127.0.0.1	thetollroads-paytollcmh.world
 127.0.0.1	thetollroads-paytollcmj.world
 127.0.0.1	thetollroads-paytollcmm.world
 127.0.0.1	thetollroads-paytollcmn.world
@@ -25251,7 +25233,6 @@
 127.0.0.1	thetollroads-paytollcqb.world
 127.0.0.1	thetollroads-paytollcua.world
 127.0.0.1	thetollroads-paytollcub.world
-127.0.0.1	thetollroads-paytollcuc.world
 127.0.0.1	thetollroads-paytollcue.world
 127.0.0.1	thetollroads-paytollcuf.world
 127.0.0.1	thetollroads-paytollcug.world
@@ -25280,7 +25261,6 @@
 127.0.0.1	thetollroads-paytollexd.xin
 127.0.0.1	thetollroads-paytollexf.xin
 127.0.0.1	thetollroads-paytollexg.xin
-127.0.0.1	thetollroads-paytollexi.xin
 127.0.0.1	thetollroads-paytollexj.xin
 127.0.0.1	thetollroads-paytollexk.xin
 127.0.0.1	thetollroads-paytollexl.xin
@@ -25297,10 +25277,8 @@
 127.0.0.1	thetollroads-paytollfce.world
 127.0.0.1	thetollroads-paytollfcf.world
 127.0.0.1	thetollroads-paytollfcg.world
-127.0.0.1	thetollroads-paytollfcj.world
 127.0.0.1	thetollroads-paytollfco.world
 127.0.0.1	thetollroads-paytollfoa.vip
-127.0.0.1	thetollroads-paytollfoc.vip
 127.0.0.1	thetollroads-paytollfof.vip
 127.0.0.1	thetollroads-paytollfog.vip
 127.0.0.1	thetollroads-paytollfoh.vip
@@ -25310,7 +25288,6 @@
 127.0.0.1	thetollroads-paytollfsc.world
 127.0.0.1	thetollroads-paytollfsd.world
 127.0.0.1	thetollroads-paytollfsf.world
-127.0.0.1	thetollroads-paytollfsg.world
 127.0.0.1	thetollroads-paytollfsh.world
 127.0.0.1	thetollroads-paytollfsi.world
 127.0.0.1	thetollroads-paytollfsj.world
@@ -25326,12 +25303,10 @@
 127.0.0.1	thetollroads-paytollftj.world
 127.0.0.1	thetollroads-paytollftk.world
 127.0.0.1	thetollroads-paytollftm.world
-127.0.0.1	thetollroads-paytollftn.world
 127.0.0.1	thetollroads-paytollfyl.xin
 127.0.0.1	thetollroads-paytollg.world
 127.0.0.1	thetollroads-paytollgay.world
 127.0.0.1	thetollroads-paytollgcohmn.xin
-127.0.0.1	thetollroads-paytollgds.xin
 127.0.0.1	thetollroads-paytollgeg.world
 127.0.0.1	thetollroads-paytollggb.xin
 127.0.0.1	thetollroads-paytollggba.xin
@@ -25379,7 +25354,6 @@
 127.0.0.1	thetollroads-paytollijy.world
 127.0.0.1	thetollroads-paytolliki.world
 127.0.0.1	thetollroads-paytolljeqq.xin
-127.0.0.1	thetollroads-paytolljjs.world
 127.0.0.1	thetollroads-paytolljla.world
 127.0.0.1	thetollroads-paytolljmg.xin
 127.0.0.1	thetollroads-paytolljqscly.xin
@@ -25389,7 +25363,6 @@
 127.0.0.1	thetollroads-paytollkcll.xin
 127.0.0.1	thetollroads-paytollkdv.world
 127.0.0.1	thetollroads-paytollkdz.xin
-127.0.0.1	thetollroads-paytollkkq.world
 127.0.0.1	thetollroads-paytollklg.world
 127.0.0.1	thetollroads-paytollkng.world
 127.0.0.1	thetollroads-paytollktk.world
@@ -25403,7 +25376,6 @@
 127.0.0.1	thetollroads-paytollkyj.world
 127.0.0.1	thetollroads-paytollkyk.world
 127.0.0.1	thetollroads-paytollkyp.world
-127.0.0.1	thetollroads-paytollkyu.world
 127.0.0.1	thetollroads-paytollkyv.world
 127.0.0.1	thetollroads-paytollkyy.world
 127.0.0.1	thetollroads-paytollkyz.world
@@ -25416,7 +25388,6 @@
 127.0.0.1	thetollroads-paytollmber.xin
 127.0.0.1	thetollroads-paytollmed.world
 127.0.0.1	thetollroads-paytollmhd.world
-127.0.0.1	thetollroads-paytollmji.xin
 127.0.0.1	thetollroads-paytollmkj.world
 127.0.0.1	thetollroads-paytollmvb.world
 127.0.0.1	thetollroads-paytollmwr.world
@@ -25424,7 +25395,6 @@
 127.0.0.1	thetollroads-paytollnad.world
 127.0.0.1	thetollroads-paytollnan.world
 127.0.0.1	thetollroads-paytollncr.world
-127.0.0.1	thetollroads-paytollnfq.xin
 127.0.0.1	thetollroads-paytollngf.xin
 127.0.0.1	thetollroads-paytollnrc.world
 127.0.0.1	thetollroads-paytollnsb.world
@@ -25459,7 +25429,6 @@
 127.0.0.1	thetollroads-paytollqaj.world
 127.0.0.1	thetollroads-paytollqak.world
 127.0.0.1	thetollroads-paytollqap.world
-127.0.0.1	thetollroads-paytollqaq.world
 127.0.0.1	thetollroads-paytollqar.world
 127.0.0.1	thetollroads-paytollqas.world
 127.0.0.1	thetollroads-paytollqat.world
@@ -25489,11 +25458,9 @@
 127.0.0.1	thetollroads-paytollqdc.world
 127.0.0.1	thetollroads-paytollqdd.world
 127.0.0.1	thetollroads-paytollqdk.world
-127.0.0.1	thetollroads-paytollqdl.world
 127.0.0.1	thetollroads-paytollqdv.world
 127.0.0.1	thetollroads-paytollqdx.world
 127.0.0.1	thetollroads-paytollqdz.world
-127.0.0.1	thetollroads-paytollqea.world
 127.0.0.1	thetollroads-paytollqeb.world
 127.0.0.1	thetollroads-paytollqed.world
 127.0.0.1	thetollroads-paytollqef.world
@@ -25507,7 +25474,6 @@
 127.0.0.1	thetollroads-paytollqeu.world
 127.0.0.1	thetollroads-paytollqev.world
 127.0.0.1	thetollroads-paytollqex.world
-127.0.0.1	thetollroads-paytollqey.world
 127.0.0.1	thetollroads-paytollqf.help
 127.0.0.1	thetollroads-paytollqf.world
 127.0.0.1	thetollroads-paytollqfb.world
@@ -25516,7 +25482,6 @@
 127.0.0.1	thetollroads-paytollqfe.world
 127.0.0.1	thetollroads-paytollqff.world
 127.0.0.1	thetollroads-paytollqfg.world
-127.0.0.1	thetollroads-paytollqfh.world
 127.0.0.1	thetollroads-paytollqfi.world
 127.0.0.1	thetollroads-paytollqfj.world
 127.0.0.1	thetollroads-paytollqfk.world
@@ -25543,12 +25508,9 @@
 127.0.0.1	thetollroads-paytollqgk.world
 127.0.0.1	thetollroads-paytollqgm.world
 127.0.0.1	thetollroads-paytollqgo.world
-127.0.0.1	thetollroads-paytollqgt.world
 127.0.0.1	thetollroads-paytollqgu.world
-127.0.0.1	thetollroads-paytollqgw.world
 127.0.0.1	thetollroads-paytollqgx.world
 127.0.0.1	thetollroads-paytollqgy.world
-127.0.0.1	thetollroads-paytollqh.world
 127.0.0.1	thetollroads-paytollqhe.world
 127.0.0.1	thetollroads-paytollqhr.world
 127.0.0.1	thetollroads-paytollqht.world
@@ -25571,23 +25533,19 @@
 127.0.0.1	thetollroads-paytollqo.world
 127.0.0.1	thetollroads-paytollqogn.xin
 127.0.0.1	thetollroads-paytollqp.world
-127.0.0.1	thetollroads-paytollqpa.vip
 127.0.0.1	thetollroads-paytollqpa.world
 127.0.0.1	thetollroads-paytollqpb.vip
-127.0.0.1	thetollroads-paytollqpb.world
 127.0.0.1	thetollroads-paytollqpc.vip
 127.0.0.1	thetollroads-paytollqpd.vip
 127.0.0.1	thetollroads-paytollqpd.world
 127.0.0.1	thetollroads-paytollqpe.world
 127.0.0.1	thetollroads-paytollqph.vip
-127.0.0.1	thetollroads-paytollqpi.vip
 127.0.0.1	thetollroads-paytollqpj.vip
 127.0.0.1	thetollroads-paytollqpk.world
 127.0.0.1	thetollroads-paytollqpl.world
 127.0.0.1	thetollroads-paytollqpm.world
 127.0.0.1	thetollroads-paytollqps.xin
 127.0.0.1	thetollroads-paytollqq.world
-127.0.0.1	thetollroads-paytollqr.world
 127.0.0.1	thetollroads-paytollqs.world
 127.0.0.1	thetollroads-paytollqsv.world
 127.0.0.1	thetollroads-paytollqt.world
@@ -25596,7 +25554,6 @@
 127.0.0.1	thetollroads-paytollqtf.vip
 127.0.0.1	thetollroads-paytollqth.vip
 127.0.0.1	thetollroads-paytollqur.world
-127.0.0.1	thetollroads-paytollqv.help
 127.0.0.1	thetollroads-paytollqve.world
 127.0.0.1	thetollroads-paytollqw.world
 127.0.0.1	thetollroads-paytollqwa.vip
@@ -25622,14 +25579,12 @@
 127.0.0.1	thetollroads-paytollruc.world
 127.0.0.1	thetollroads-paytollrud.world
 127.0.0.1	thetollroads-paytollrue.world
-127.0.0.1	thetollroads-paytollruf.world
 127.0.0.1	thetollroads-paytollrug.world
 127.0.0.1	thetollroads-paytollruj.world
 127.0.0.1	thetollroads-paytollruk.world
 127.0.0.1	thetollroads-paytollrul.world
 127.0.0.1	thetollroads-paytollrum.world
 127.0.0.1	thetollroads-paytollrun.world
-127.0.0.1	thetollroads-paytollruo.world
 127.0.0.1	thetollroads-paytollrwv.world
 127.0.0.1	thetollroads-paytollrzwxpf.xin
 127.0.0.1	thetollroads-paytolls.world
@@ -25645,7 +25600,6 @@
 127.0.0.1	thetollroads-paytollsajc.xin
 127.0.0.1	thetollroads-paytollsal.xin
 127.0.0.1	thetollroads-paytollsala.xin
-127.0.0.1	thetollroads-paytollsam.xin
 127.0.0.1	thetollroads-paytollsan.xin
 127.0.0.1	thetollroads-paytollsanb.xin
 127.0.0.1	thetollroads-paytollsans.xin
@@ -25659,13 +25613,9 @@
 127.0.0.1	thetollroads-paytollsau.xin
 127.0.0.1	thetollroads-paytollsaud.xin
 127.0.0.1	thetollroads-paytollsavn.xin
-127.0.0.1	thetollroads-paytollsaw.xin
-127.0.0.1	thetollroads-paytollsawi.xin
 127.0.0.1	thetollroads-paytollsax.xin
 127.0.0.1	thetollroads-paytollsaxo.xin
-127.0.0.1	thetollroads-paytollsay.xin
 127.0.0.1	thetollroads-paytollsayb.xin
-127.0.0.1	thetollroads-paytollsaz.xin
 127.0.0.1	thetollroads-paytollsazt.xin
 127.0.0.1	thetollroads-paytollsba.xin
 127.0.0.1	thetollroads-paytollsbaa.xin
@@ -25710,15 +25660,12 @@
 127.0.0.1	thetollroads-paytollscf.xin
 127.0.0.1	thetollroads-paytollscg.xin
 127.0.0.1	thetollroads-paytollscgy.xin
-127.0.0.1	thetollroads-paytollsci.xin
 127.0.0.1	thetollroads-paytollscj.xin
-127.0.0.1	thetollroads-paytollsck.xin
 127.0.0.1	thetollroads-paytollsckd.xin
 127.0.0.1	thetollroads-paytollscp.xin
 127.0.0.1	thetollroads-paytollscq.xin
 127.0.0.1	thetollroads-paytollscqt.xin
 127.0.0.1	thetollroads-paytollscr.xin
-127.0.0.1	thetollroads-paytollscs.world
 127.0.0.1	thetollroads-paytollsct.xin
 127.0.0.1	thetollroads-paytollscu.xin
 127.0.0.1	thetollroads-paytollscuk.xin
@@ -25743,16 +25690,13 @@
 127.0.0.1	thetollroads-paytollsht.world
 127.0.0.1	thetollroads-paytollshv.xin
 127.0.0.1	thetollroads-paytollshyj.xin
-127.0.0.1	thetollroads-paytollsib.world
 127.0.0.1	thetollroads-paytollsicm.xin
 127.0.0.1	thetollroads-paytollsipkar.xin
 127.0.0.1	thetollroads-paytollsiui.xin
-127.0.0.1	thetollroads-paytollskff.xin
 127.0.0.1	thetollroads-paytollskpx.xin
 127.0.0.1	thetollroads-paytollskqb.xin
 127.0.0.1	thetollroads-paytollskqyui.xin
 127.0.0.1	thetollroads-paytollslpl.xin
-127.0.0.1	thetollroads-paytollsltw.xin
 127.0.0.1	thetollroads-paytollsmjugt.xin
 127.0.0.1	thetollroads-paytollsngj.xin
 127.0.0.1	thetollroads-paytollsnkw.xin
@@ -25768,7 +25712,6 @@
 127.0.0.1	thetollroads-paytollsqwv.xin
 127.0.0.1	thetollroads-paytollsrhlil.xin
 127.0.0.1	thetollroads-paytollsrklcn.xin
-127.0.0.1	thetollroads-paytollsrkvkfq.xin
 127.0.0.1	thetollroads-paytollsrnwym.xin
 127.0.0.1	thetollroads-paytollsrnzfe.xin
 127.0.0.1	thetollroads-paytollsrrqezm.xin
@@ -25805,26 +25748,21 @@
 127.0.0.1	thetollroads-paytolltmn.world
 127.0.0.1	thetollroads-paytolltov.world
 127.0.0.1	thetollroads-paytolltqsyls.xin
-127.0.0.1	thetollroads-paytolltra.vip
 127.0.0.1	thetollroads-paytolltrc.vip
 127.0.0.1	thetollroads-paytolltrd.vip
 127.0.0.1	thetollroads-paytolltre.vip
 127.0.0.1	thetollroads-paytolltrh.vip
 127.0.0.1	thetollroads-paytolltts.world
-127.0.0.1	thetollroads-paytollu.world
 127.0.0.1	thetollroads-paytollubb.world
-127.0.0.1	thetollroads-paytollubd.world
 127.0.0.1	thetollroads-paytolludw.world
 127.0.0.1	thetollroads-paytollueu.world
 127.0.0.1	thetollroads-paytollujg.world
-127.0.0.1	thetollroads-paytollv.world
 127.0.0.1	thetollroads-paytollvdd.xin
 127.0.0.1	thetollroads-paytollvhf.world
 127.0.0.1	thetollroads-paytollvtf.world
 127.0.0.1	thetollroads-paytollvwq.world
 127.0.0.1	thetollroads-paytollw.world
 127.0.0.1	thetollroads-paytollwaus.xin
-127.0.0.1	thetollroads-paytollwb.world
 127.0.0.1	thetollroads-paytollwc.world
 127.0.0.1	thetollroads-paytollwd.world
 127.0.0.1	thetollroads-paytollwg.world
@@ -25839,7 +25777,6 @@
 127.0.0.1	thetollroads-paytollwp.world
 127.0.0.1	thetollroads-paytollwq.world
 127.0.0.1	thetollroads-paytollwrc.world
-127.0.0.1	thetollroads-paytollwu.world
 127.0.0.1	thetollroads-paytollwv.world
 127.0.0.1	thetollroads-paytollwwm.world
 127.0.0.1	thetollroads-paytollxcc.world
@@ -25874,7 +25811,6 @@
 127.0.0.1	thetollroads-paytollyzy.world
 127.0.0.1	thetollroads-paytollz.world
 127.0.0.1	thetollroads-paytollzas.world
-127.0.0.1	thetollroads-paytollzcf.world
 127.0.0.1	thetollroads-paytollzcg.world
 127.0.0.1	thetollroads-paytollzch.world
 127.0.0.1	thetollroads-paytollzcj.world
@@ -25883,12 +25819,10 @@
 127.0.0.1	thetollroads-paytollzda.world
 127.0.0.1	thetollroads-paytollzdc.world
 127.0.0.1	thetollroads-paytollzdd.world
-127.0.0.1	thetollroads-paytollzde.world
 127.0.0.1	thetollroads-paytollzdg.world
 127.0.0.1	thetollroads-paytollzdh.world
 127.0.0.1	thetollroads-paytollzdi.world
 127.0.0.1	thetollroads-paytollzdo.world
-127.0.0.1	thetollroads-paytollze.icu
 127.0.0.1	thetollroads-paytollzg.icu
 127.0.0.1	thetollroads-paytollzge.world
 127.0.0.1	thetollroads-paytollzl.icu
@@ -25909,9 +25843,7 @@
 127.0.0.1	thetollroads-paytollzr.icu
 127.0.0.1	thetollroads-paytollzs.icu
 127.0.0.1	thetollroads-paytollzsc.xin
-127.0.0.1	thetollroads-paytollzse.xin
 127.0.0.1	thetollroads-paytollzsf.xin
-127.0.0.1	thetollroads-paytollzsh.xin
 127.0.0.1	thetollroads-paytollzsj.xin
 127.0.0.1	thetollroads-paytollzsn.xin
 127.0.0.1	thetollroads-paytollzst.xin
@@ -25922,13 +25854,11 @@
 127.0.0.1	thetollroads-paytollzxc.xin
 127.0.0.1	thetollroads-paytollzy.icu
 127.0.0.1	thetollroads-paytollzzb.icu
-127.0.0.1	thetollroads-paytollzzo.world
 127.0.0.1	thetollroads-paytollzzp.world
 127.0.0.1	thetollroads-paytollzzu.world
 127.0.0.1	thetollroads-paytollzzv.icu
 127.0.0.1	thetollroads-paytollzzx.icu
 127.0.0.1	thetollroads-paytollzzx.world
-127.0.0.1	thetollroads-paytotxa.world
 127.0.0.1	thetollroads-paytotxf.world
 127.0.0.1	thetollroads-paytotxk.world
 127.0.0.1	thetollroads-paytotya.world
@@ -25943,13 +25873,11 @@
 127.0.0.1	thetollroads-poityrwqazx.world
 127.0.0.1	thetollroads-qadgfdfrty.world
 127.0.0.1	thetollroads-qadxzgfrty.world
-127.0.0.1	thetollroads-qadxzgfty.world
 127.0.0.1	thetollroads-rewgfdsaq.world
 127.0.0.1	thetollroads-tollevasion.world
 127.0.0.1	thetollroads-tollevasionab.xin
 127.0.0.1	thetollroads-tollevasionah.xin
 127.0.0.1	thetollroads-tollevasionam.xin
-127.0.0.1	thetollroads-tollevasionau.xin
 127.0.0.1	thetollroads-tollevasioncaa.xin
 127.0.0.1	thetollroads-tollevasioncac.xin
 127.0.0.1	thetollroads-tollevasioncad.xin
@@ -25961,7 +25889,6 @@
 127.0.0.1	thetollroads-tollevasioncal.xin
 127.0.0.1	thetollroads-tollevasioncam.xin
 127.0.0.1	thetollroads-tollevasioncan.xin
-127.0.0.1	thetollroads-tollevasioncao.xin
 127.0.0.1	thetollroads-tollevasioncba.xin
 127.0.0.1	thetollroads-tollevasioncbc.xin
 127.0.0.1	thetollroads-tollevasioncbe.xin
@@ -25975,7 +25902,6 @@
 127.0.0.1	thetollroads-tollevasioncbn.xin
 127.0.0.1	thetollroads-tollevasioncbo.xin
 127.0.0.1	thetollroads-tollevasioncfa.xin
-127.0.0.1	thetollroads-tollevasioncfb.xin
 127.0.0.1	thetollroads-tollevasioncfc.xin
 127.0.0.1	thetollroads-tollevasioncfd.xin
 127.0.0.1	thetollroads-tollevasioncfe.xin
@@ -25989,7 +25915,6 @@
 127.0.0.1	thetollroads-tollevasioncfm.xin
 127.0.0.1	thetollroads-tollevasioncfn.xin
 127.0.0.1	thetollroads-tollevasioncfo.xin
-127.0.0.1	thetollroads-tollevasioncga.xin
 127.0.0.1	thetollroads-tollevasioncgb.xin
 127.0.0.1	thetollroads-tollevasioncgc.xin
 127.0.0.1	thetollroads-tollevasioncgd.xin
@@ -26000,9 +25925,7 @@
 127.0.0.1	thetollroads-tollevasioncgj.xin
 127.0.0.1	thetollroads-tollevasioncgk.xin
 127.0.0.1	thetollroads-tollevasioncgl.xin
-127.0.0.1	thetollroads-tollevasioncgm.xin
 127.0.0.1	thetollroads-tollevasioncgn.xin
-127.0.0.1	thetollroads-tollevasioncgo.xin
 127.0.0.1	thetollroads-tollevasioncha.xin
 127.0.0.1	thetollroads-tollevasionchb.xin
 127.0.0.1	thetollroads-tollevasionchc.xin
@@ -26012,11 +25935,9 @@
 127.0.0.1	thetollroads-tollevasionchh.xin
 127.0.0.1	thetollroads-tollevasionchi.xin
 127.0.0.1	thetollroads-tollevasionchj.xin
-127.0.0.1	thetollroads-tollevasionchk.xin
 127.0.0.1	thetollroads-tollevasionchl.xin
 127.0.0.1	thetollroads-tollevasionchm.xin
 127.0.0.1	thetollroads-tollevasionchn.xin
-127.0.0.1	thetollroads-tollevasioncho.xin
 127.0.0.1	thetollroads-tollevasioncoc.xin
 127.0.0.1	thetollroads-tollevasioncod.xin
 127.0.0.1	thetollroads-tollevasioncoe.xin
@@ -26024,7 +25945,6 @@
 127.0.0.1	thetollroads-tollevasioncoh.xin
 127.0.0.1	thetollroads-tollevasioncoj.xin
 127.0.0.1	thetollroads-tollevasioncok.xin
-127.0.0.1	thetollroads-tollevasioncol.xin
 127.0.0.1	thetollroads-tollevasioncom.xin
 127.0.0.1	thetollroads-tollevasioncon.xin
 127.0.0.1	thetollroads-tollevasioncra.xin
@@ -26073,7 +25993,6 @@
 127.0.0.1	thetollroads-tollevasionrb.xin
 127.0.0.1	thetollroads-tollevasionrc.xin
 127.0.0.1	thetollroads-tollevasionrd.xin
-127.0.0.1	thetollroads-tollevasionre.xin
 127.0.0.1	thetollroads-tollevasionrg.xin
 127.0.0.1	thetollroads-tollevasionri.xin
 127.0.0.1	thetollroads-tollevasionrj.xin
@@ -26087,20 +26006,17 @@
 127.0.0.1	thetollroads-tollevasionrw.xin
 127.0.0.1	thetollroads-tollevasionrx.xin
 127.0.0.1	thetollroads-tollevasionry.xin
-127.0.0.1	thetollroads-tollevasionrz.xin
 127.0.0.1	thetollroads-tollevasiontna.xin
 127.0.0.1	thetollroads-tollevasiontnb.xin
 127.0.0.1	thetollroads-tollevasiontnc.xin
 127.0.0.1	thetollroads-tollevasiontnd.xin
 127.0.0.1	thetollroads-tollevasiontne.xin
 127.0.0.1	thetollroads-tollevasiontnf.xin
-127.0.0.1	thetollroads-tollevasiontng.xin
 127.0.0.1	thetollroads-tollevasiontnh.xin
 127.0.0.1	thetollroads-tollevasiontnj.xin
 127.0.0.1	thetollroads-tollevasiontnk.xin
 127.0.0.1	thetollroads-tollevasiontnl.xin
 127.0.0.1	thetollroads-tollevasiontnm.xin
-127.0.0.1	thetollroads-tollevasiontno.xin
 127.0.0.1	thetollroads-tollevasionuw.vip
 127.0.0.1	thetollroads-tollevasionvca.xin
 127.0.0.1	thetollroads-tollevasionvcb.xin
@@ -26153,7 +26069,6 @@
 127.0.0.1	thetollroads-tollevasionxcb.world
 127.0.0.1	thetollroads-tollevasionxcc.world
 127.0.0.1	thetollroads-tollevasionxcd.world
-127.0.0.1	thetollroads-tollevasionxce.world
 127.0.0.1	thetollroads-tollevasionxcf.world
 127.0.0.1	thetollroads-tollevasionxcg.world
 127.0.0.1	thetollroads-tollevasionxch.world
@@ -26166,7 +26081,6 @@
 127.0.0.1	thetollroads-tollevasionxdc.world
 127.0.0.1	thetollroads-tollevasionxde.world
 127.0.0.1	thetollroads-tollevasionxdg.world
-127.0.0.1	thetollroads-tollevasionxdh.world
 127.0.0.1	thetollroads-tollevasionxdj.world
 127.0.0.1	thetollroads-tollevasionxdk.world
 127.0.0.1	thetollroads-tollevasionxdl.world
@@ -26212,7 +26126,6 @@
 127.0.0.1	thetollroads-tollevasionyxo.xin
 127.0.0.1	thetollroads-tollevasionyzb.xin
 127.0.0.1	thetollroads-tollevasionyzc.xin
-127.0.0.1	thetollroads-tollevasionyzd.xin
 127.0.0.1	thetollroads-tollevasionyze.xin
 127.0.0.1	thetollroads-tollevasionyzf.xin
 127.0.0.1	thetollroads-tollevasionyzg.xin
@@ -26221,7 +26134,6 @@
 127.0.0.1	thetollroads-tollevasionyzj.xin
 127.0.0.1	thetollroads-tollevasionyzk.xin
 127.0.0.1	thetollroads-tollevasionyzl.xin
-127.0.0.1	thetollroads-tollevasionyzm.xin
 127.0.0.1	thetollroads-tollevasionyzn.xin
 127.0.0.1	thetollroads-tollevasionyzo.xin
 127.0.0.1	thetollroads-tollevasionzb.world
@@ -26281,16 +26193,13 @@
 127.0.0.1	thetollroads-tollevasiosar.xin
 127.0.0.1	thetollroads-tollevasiosat.xin
 127.0.0.1	thetollroads-tollevasiosau.xin
-127.0.0.1	thetollroads-tollevasiosaw.xin
 127.0.0.1	thetollroads-tollevasiosay.xin
 127.0.0.1	thetollroads-tollevasiosaz.xin
 127.0.0.1	thetollroads-tollevasiosqa.xin
 127.0.0.1	thetollroads-tollevasiosqd.xin
 127.0.0.1	thetollroads-tollevasiosqs.xin
 127.0.0.1	thetollroads-tollevasiosqw.xin
-127.0.0.1	thetollroads-tollevasiowqa.xin
 127.0.0.1	thetollroads-tollevasiowqc.xin
-127.0.0.1	thetollroads-tollevasiowqd.xin
 127.0.0.1	thetollroads-tollevasiowqe.xin
 127.0.0.1	thetollroads-tollevasiowqf.xin
 127.0.0.1	thetollroads-tollevasiowqg.xin
@@ -26305,7 +26214,6 @@
 127.0.0.1	thetollroads-tollevasiowqu.xin
 127.0.0.1	thetollroads-tollevasiowqw.xin
 127.0.0.1	thetollroads-tollevasiowqx.xin
-127.0.0.1	thetollroads-tollevasiowqy.xin
 127.0.0.1	thetollroads-tollevasiowqz.xin
 127.0.0.1	thetollroads-trefgqwscv.world
 127.0.0.1	thetollroads-tregdwqzx.world
@@ -26316,9 +26224,7 @@
 127.0.0.1	thetollroads-wedfadfx.world
 127.0.0.1	thetollroads-wqezfetgh.world
 127.0.0.1	thetollroads-yrthgfwdv.world
-127.0.0.1	thetollroads.cenzwb.com
 127.0.0.1	thetollroads.com-01ex.cyou
-127.0.0.1	thetollroads.com-1x8c.cyou
 127.0.0.1	thetollroads.com-41ij.cyou
 127.0.0.1	thetollroads.com-63lh.cyou
 127.0.0.1	thetollroads.com-7d4k.top
@@ -26341,7 +26247,6 @@
 127.0.0.1	thetollroads.com-fastrakbe.xin
 127.0.0.1	thetollroads.com-fastrakbf.xin
 127.0.0.1	thetollroads.com-fastrakbg.xin
-127.0.0.1	thetollroads.com-fastrakbh.xin
 127.0.0.1	thetollroads.com-fastrakbj.xin
 127.0.0.1	thetollroads.com-fastrakbk.xin
 127.0.0.1	thetollroads.com-fastrakbl.xin
@@ -26365,13 +26270,9 @@
 127.0.0.1	thetollroads.com-fastrakcz.xin
 127.0.0.1	thetollroads.com-fastrakea.xin
 127.0.0.1	thetollroads.com-fastrakec.xin
-127.0.0.1	thetollroads.com-fastrakeg.xin
-127.0.0.1	thetollroads.com-fastrakeh.xin
 127.0.0.1	thetollroads.com-fastrakei.xin
 127.0.0.1	thetollroads.com-fastrakem.xin
 127.0.0.1	thetollroads.com-fastraken.xin
-127.0.0.1	thetollroads.com-fastrakeq.xin
-127.0.0.1	thetollroads.com-fastrakes.xin
 127.0.0.1	thetollroads.com-fastrakeu.xin
 127.0.0.1	thetollroads.com-fastrakew.xin
 127.0.0.1	thetollroads.com-fastrakex.xin
@@ -26402,7 +26303,6 @@
 127.0.0.1	thetollroads.com-fastrakqr.xin
 127.0.0.1	thetollroads.com-fastrakqt.xin
 127.0.0.1	thetollroads.com-fastrakqy.xin
-127.0.0.1	thetollroads.com-fastrakra.xin
 127.0.0.1	thetollroads.com-fastrakrd.xin
 127.0.0.1	thetollroads.com-fastrakrf.xin
 127.0.0.1	thetollroads.com-fastrakrg.xin
@@ -26410,7 +26310,6 @@
 127.0.0.1	thetollroads.com-fastrakrl.xin
 127.0.0.1	thetollroads.com-fastrakrm.xin
 127.0.0.1	thetollroads.com-fastrakrn.xin
-127.0.0.1	thetollroads.com-fastrakrp.xin
 127.0.0.1	thetollroads.com-fastrakrq.xin
 127.0.0.1	thetollroads.com-fastrakrr.xin
 127.0.0.1	thetollroads.com-fastrakrs.xin
@@ -26424,7 +26323,6 @@
 127.0.0.1	thetollroads.com-fastraktc.xin
 127.0.0.1	thetollroads.com-fastraktd.xin
 127.0.0.1	thetollroads.com-fastraktf.xin
-127.0.0.1	thetollroads.com-fastraktg.xin
 127.0.0.1	thetollroads.com-fastraktk.xin
 127.0.0.1	thetollroads.com-fastraktl.xin
 127.0.0.1	thetollroads.com-fastrakto.xin
@@ -26438,19 +26336,16 @@
 127.0.0.1	thetollroads.com-fastrakvd.xin
 127.0.0.1	thetollroads.com-fastrakvg.xin
 127.0.0.1	thetollroads.com-fastrakvh.xin
-127.0.0.1	thetollroads.com-fastrakvl.xin
 127.0.0.1	thetollroads.com-fastrakvs.xin
 127.0.0.1	thetollroads.com-fastrakvx.xin
 127.0.0.1	thetollroads.com-fastrakwe.xin
 127.0.0.1	thetollroads.com-fastrakwf.xin
 127.0.0.1	thetollroads.com-fastrakwi.xin
-127.0.0.1	thetollroads.com-fastrakwj.xin
 127.0.0.1	thetollroads.com-fastrakwk.xin
 127.0.0.1	thetollroads.com-fastrakwm.xin
 127.0.0.1	thetollroads.com-fastrakwn.xin
 127.0.0.1	thetollroads.com-fastrakwo.xin
 127.0.0.1	thetollroads.com-fastrakwp.xin
-127.0.0.1	thetollroads.com-fastrakwq.xin
 127.0.0.1	thetollroads.com-fastrakwt.xin
 127.0.0.1	thetollroads.com-fastrakwv.xin
 127.0.0.1	thetollroads.com-fastrakwx.xin
@@ -26465,7 +26360,6 @@
 127.0.0.1	thetollroads.com-fastrakxi.xin
 127.0.0.1	thetollroads.com-fastrakxk.xin
 127.0.0.1	thetollroads.com-fastrakxl.xin
-127.0.0.1	thetollroads.com-fastrakxo.xin
 127.0.0.1	thetollroads.com-fastrakxp.xin
 127.0.0.1	thetollroads.com-fastrakxt.xin
 127.0.0.1	thetollroads.com-fastrakxv.xin
@@ -26473,7 +26367,6 @@
 127.0.0.1	thetollroads.com-fastrakxy.xin
 127.0.0.1	thetollroads.com-fastrakxz.xin
 127.0.0.1	thetollroads.com-fastrakya.xin
-127.0.0.1	thetollroads.com-fastrakyd.xin
 127.0.0.1	thetollroads.com-fastrakye.xin
 127.0.0.1	thetollroads.com-fastrakyg.xin
 127.0.0.1	thetollroads.com-fastrakyo.xin
@@ -26497,8 +26390,6 @@
 127.0.0.1	thetollroads.com-fcbw.xin
 127.0.0.1	thetollroads.com-fcby.xin
 127.0.0.1	thetollroads.com-fcf.xin
-127.0.0.1	thetollroads.com-fcg.xin
-127.0.0.1	thetollroads.com-fch.xin
 127.0.0.1	thetollroads.com-fci.xin
 127.0.0.1	thetollroads.com-fcob.xin
 127.0.0.1	thetollroads.com-fcoe.xin
@@ -26537,7 +26428,6 @@
 127.0.0.1	thetollroads.com-kjgcx.top
 127.0.0.1	thetollroads.com-kkzdu.top
 127.0.0.1	thetollroads.com-ktwu.top
-127.0.0.1	thetollroads.com-mrla.top
 127.0.0.1	thetollroads.com-nscln.top
 127.0.0.1	thetollroads.com-olfja.top
 127.0.0.1	thetollroads.com-paytollbyc.world
@@ -26555,7 +26445,6 @@
 127.0.0.1	thetollroads.com-wcrmx.top
 127.0.0.1	thetollroads.com-yuio.top
 127.0.0.1	thetollroads.com-yuir.top
-127.0.0.1	thetollroads.com-ywbl.top
 127.0.0.1	thetollroads.com-zejj.top
 127.0.0.1	thetollroads.com-zflyj.top
 127.0.0.1	thetollroads.huili666.vip
@@ -26563,7 +26452,6 @@
 127.0.0.1	thetollroads.texas-nei.top
 127.0.0.1	thetollroads.texas-ubz.top
 127.0.0.1	thetollroadsets.quest
-127.0.0.1	thetollroadshs.cfd
 127.0.0.1	thetollroadsour.top
 127.0.0.1	thetollrroadsi.help
 127.0.0.1	thevapeadvisor.com
@@ -27034,6 +26922,7 @@
 127.0.0.1	trade.officetrader.pro
 127.0.0.1	trade14.com
 127.0.0.1	trade2.euprofx.top
+127.0.0.1	trade2025po.com
 127.0.0.1	trade360.com
 127.0.0.1	trade365.org
 127.0.0.1	trade46-q.com
@@ -27709,6 +27598,7 @@
 127.0.0.1	update.netiflix.synoserver.com
 127.0.0.1	update.onet.rsbmw.pl
 127.0.0.1	update.openx.com
+127.0.0.1	update.overengine.store
 127.0.0.1	update.pan.baidu.com
 127.0.0.1	update.postimp-ofw.fyber.com
 127.0.0.1	update.privdog.com
@@ -29068,6 +28958,7 @@
 127.0.0.1	windows-afx-update.com
 127.0.0.1	windows-and-doors-replacement-company-0901.click
 127.0.0.1	windows-and-doors-replacement-company-1301.click
+127.0.0.1	windows-br01.click
 127.0.0.1	windows-cnd-update.com
 127.0.0.1	windows-en-us-update.com
 127.0.0.1	windows-for-house-13012.click
@@ -29642,6 +29533,7 @@
 127.0.0.1	www.advoc8cy.com
 127.0.0.1	www.advocatemy.org
 127.0.0.1	www.advocateseducationalservices.com
+127.0.0.1	www.advogadobrasileirousa.com
 127.0.0.1	www.advparvezali.com
 127.0.0.1	www.adw.ero-advertising.com
 127.0.0.1	www.adwo.com
@@ -30030,6 +29922,7 @@
 127.0.0.1	www.compoqkraj.click
 127.0.0.1	www.confirm.offer-click.shop
 127.0.0.1	www.confirm.view-click.shop
+127.0.0.1	www.coniucarto.pro
 127.0.0.1	www.connect-advance.net
 127.0.0.1	www.connect-hub2fa.pro
 127.0.0.1	www.connect.api.almirall.com
@@ -30243,6 +30136,7 @@
 127.0.0.1	www.economytodayinsights.click
 127.0.0.1	www.ecorchq.chainverd.click
 127.0.0.1	www.edbfmwlfspquwpt.click
+127.0.0.1	www.edicodiffe.pro
 127.0.0.1	www.eedclicks.ero-advertising.com
 127.0.0.1	www.eggheadspooled.info
 127.0.0.1	www.ekka.muchflaw.click
@@ -30919,7 +30813,6 @@
 127.0.0.1	www.messiahstickvestry.pro
 127.0.0.1	www.mesyruogi.pro
 127.0.0.1	www.meta-ads.aag.co.id
-127.0.0.1	www.meta-bussiness.click
 127.0.0.1	www.metaadvertisingsupportsolution.com
 127.0.0.1	www.metronews-spot.click
 127.0.0.1	www.metronews-stream.click
@@ -31071,6 +30964,7 @@
 127.0.0.1	www.nners.ero-advertising.com
 127.0.0.1	www.nolimits.globalinvest365.click
 127.0.0.1	www.nolimitsads.com
+127.0.0.1	www.northpeeak.pro
 127.0.0.1	www.nota.click
 127.0.0.1	www.notepad2.com
 127.0.0.1	www.nova5.cadsolutions.org
@@ -31083,6 +30977,7 @@
 127.0.0.1	www.nowoczesnyserwis.click
 127.0.0.1	www.nowoscwiadomosc.click
 127.0.0.1	www.nowtrendingflash.click
+127.0.0.1	www.nozipe-jafowi.pro
 127.0.0.1	www.nstla.asdads.texoengineeringworks.com
 127.0.0.1	www.ntlhub-verif.pro
 127.0.0.1	www.numquamxoz.click
@@ -31475,6 +31370,8 @@
 127.0.0.1	www.sanlook.click
 127.0.0.1	www.santander-japaneseheadspa.com
 127.0.0.1	www.santander-wywiad2023.com
+127.0.0.1	www.saqadau5.pro
+127.0.0.1	www.sassysparrows.pro
 127.0.0.1	www.sasuwiy6.pro
 127.0.0.1	www.scalestram.pro
 127.0.0.1	www.scye.maquiladora.click
@@ -31504,6 +31401,7 @@
 127.0.0.1	www.sephora.advents-sales.com
 127.0.0.1	www.serboantir.pro
 127.0.0.1	www.sercenatury.click
+127.0.0.1	www.serenesymphony.pro
 127.0.0.1	www.servedby-buysellads.com
 127.0.0.1	www.service-vinted-pro.eu
 127.0.0.1	www.seure-update.fartit.com
@@ -31725,6 +31623,7 @@
 127.0.0.1	www.tracking.beginads.com
 127.0.0.1	www.tracking.ero-advertising.com
 127.0.0.1	www.trade.officetrader.pro
+127.0.0.1	www.trade2025po.com
 127.0.0.1	www.trade360.com
 127.0.0.1	www.tradeffocus.click
 127.0.0.1	www.tradplusad.com
@@ -32386,6 +32285,7 @@
 127.0.0.1	xy.phone.igexin.com
 127.0.0.1	xydizyu8.pro
 127.0.0.1	xylophenomina.click
+127.0.0.1	xylzwamxxshgw.click
 127.0.0.1	xynter-invest.pro
 127.0.0.1	xyqh5.163.com
 127.0.0.1	xyz.bid-algorix.cn
