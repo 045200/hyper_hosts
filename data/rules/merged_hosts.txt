@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-03-04 00:23:32
+# 最后更新时间: 2025-03-04 12:22:23
 # 规则总数: 38918
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -13147,7 +13147,7 @@
 127.0.0.1	calopir.click
 127.0.0.1	calve.pro
 127.0.0.1	camads.net
-185.199.111.133	camo.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
 127.0.0.1	camp247adventure.com
 127.0.0.1	campaign-tapad.s3.amazonaws.com
 127.0.0.1	campaign.ad-brix.com
@@ -13646,7 +13646,7 @@
 127.0.0.1	centerpointeadvisers.com
 127.0.0.1	centerpostcustomer.dns.army
 127.0.0.1	centimetreedscissorsed.pro
-140.82.112.21	central.github.com
+140.82.114.21	central.github.com
 127.0.0.1	centralads.simpli.fi
 127.0.0.1	centro.pixel.ad
 127.0.0.1	centrum24.pro
@@ -14447,7 +14447,7 @@
 127.0.0.1	code.sms.mob.com
 127.0.0.1	codeads.com
 127.0.0.1	codeinghunted.pro
-140.82.112.9	codeload.github.com
+140.82.113.10	codeload.github.com
 127.0.0.1	codetop1a.click
 127.0.0.1	coding.sensorbuqnn.pro
 127.0.0.1	codziennainspiracja.click
@@ -17262,7 +17262,7 @@
 127.0.0.1	fategames.click
 127.0.0.1	fathed.pro
 127.0.0.1	fav.simba.taobao.com
-185.199.110.133	favicons.githubusercontent.com
+185.199.111.133	favicons.githubusercontent.com
 127.0.0.1	favorite-option.pro
 127.0.0.1	fawhotoads.net
 127.0.0.1	fb-ads-business.com
@@ -18143,18 +18143,18 @@
 127.0.0.1	giqazoo1.pro
 127.0.0.1	girlwallpaper.pro
 20.205.243.166	gist.github.com
-52.217.163.225	github-cloud.s3.amazonaws.com
-16.182.38.233	github-com.s3.amazonaws.com
-16.15.201.184	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.4.140	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.132.137	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.11.178	github-cloud.s3.amazonaws.com
+3.5.10.196	github-com.s3.amazonaws.com
+16.182.66.65	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.30.41	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.103.9	github-production-user-asset-6210df.s3.amazonaws.com
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
 151.101.1.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.109.133	github.map.fastly.net
+185.199.108.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 127.0.0.1	giveawayskin.pro
 127.0.0.1	giveo7jlf.click
