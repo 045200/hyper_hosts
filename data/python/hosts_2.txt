@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 741
+!Total lines: 742
 !Version: 1.5.8-乙巳蛇年🐍-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -91,6 +91,7 @@
 127.0.0.1 ads.tiktok.com
 127.0.0.1 ads.v3mh.com
 127.0.0.1 ads.youtube.com
+127.0.0.1 ads.zhinengxiyifang.cn
 127.0.0.1 ads3-normal-hl.zijieapi.com
 127.0.0.1 ads3-normal-lf.zijieapi.com
 127.0.0.1 ads3-normal-lq.zijieapi.com
@@ -199,6 +200,7 @@
 127.0.0.1 api.kingdata.ksyun.com
 127.0.0.1 api.statsig.com
 127.0.0.1 api.touch-moblie.com
+127.0.0.1 api.yfanads.com
 127.0.0.1 api5-normal-quic-lf.ixigua.com
 127.0.0.1 apiyd.my91app.com
 127.0.0.1 apks.webxiaobai.top
@@ -261,7 +263,6 @@
 127.0.0.1 ck.ads.oppomobile.com
 127.0.0.1 click.googleanalytics.com
 127.0.0.1 click.oneplus.cn
-127.0.0.1 client.app.coc.10086.cn
 127.0.0.1 clog.miguvideo.com
 127.0.0.1 cn-api.anythinktech.com
 127.0.0.1 cnlogs.umeng.com
