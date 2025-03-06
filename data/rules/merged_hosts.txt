@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-03-06 00:30:30
+# 最后更新时间: 2025-03-06 12:23:58
 # 规则总数: 39034
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -13168,7 +13168,7 @@
 127.0.0.1	calopir.click
 127.0.0.1	calve.pro
 127.0.0.1	camads.net
-185.199.109.133	camo.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
 127.0.0.1	camp247adventure.com
 127.0.0.1	campaign-tapad.s3.amazonaws.com
 127.0.0.1	campaign.ad-brix.com
@@ -14479,7 +14479,7 @@
 127.0.0.1	code.sms.mob.com
 127.0.0.1	codeads.com
 127.0.0.1	codeinghunted.pro
-140.82.112.10	codeload.github.com
+140.82.116.10	codeload.github.com
 127.0.0.1	codetop1a.click
 127.0.0.1	coding.sensorbuqnn.pro
 127.0.0.1	codziennainspiracja.click
@@ -14702,7 +14702,7 @@
 127.0.0.1	coolerclaimer.click
 127.0.0.1	cooperation.html5.qq.com
 127.0.0.1	cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
-20.85.130.105	copilot-proxy.githubusercontent.com
+138.91.182.224	copilot-proxy.githubusercontent.com
 127.0.0.1	coplerni.click
 127.0.0.1	coquviu0.pro
 127.0.0.1	coral-media-dsp1.rtb.adx1.com
@@ -17312,7 +17312,7 @@
 127.0.0.1	fategames.click
 127.0.0.1	fathed.pro
 127.0.0.1	fav.simba.taobao.com
-185.199.109.133	favicons.githubusercontent.com
+185.199.108.133	favicons.githubusercontent.com
 127.0.0.1	favorite-option.pro
 127.0.0.1	fawhotoads.net
 127.0.0.1	fb-ads-business.com
@@ -18197,16 +18197,16 @@
 127.0.0.1	giqazoo1.pro
 127.0.0.1	girlwallpaper.pro
 20.205.243.166	gist.github.com
-52.217.108.92	github-cloud.s3.amazonaws.com
-52.217.136.41	github-com.s3.amazonaws.com
-3.5.20.219	github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.28.203	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.20.169	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.211.65	github-cloud.s3.amazonaws.com
+16.15.217.114	github-com.s3.amazonaws.com
+3.5.28.240	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.2.206	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.25.19	github-production-user-asset-6210df.s3.amazonaws.com
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-151.101.65.194	github.global.ssl.fastly.net
+151.101.1.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
 185.199.108.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
