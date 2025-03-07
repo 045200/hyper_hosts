@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-03-07 00:24:21
+# 最后更新时间: 2025-03-07 12:23:01
 # 规则总数: 34030
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -12682,7 +12682,7 @@
 127.0.0.1	calmvibes.pro
 127.0.0.1	calve.pro
 127.0.0.1	camads.net
-185.199.111.133	camo.githubusercontent.com
+185.199.108.133	camo.githubusercontent.com
 127.0.0.1	camp247adventure.com
 127.0.0.1	campaign-tapad.s3.amazonaws.com
 127.0.0.1	campaign.ad-brix.com
@@ -16215,7 +16215,7 @@
 127.0.0.1	fata.ero-advertising.com
 127.0.0.1	fathed.pro
 127.0.0.1	fav.simba.taobao.com
-185.199.110.133	favicons.githubusercontent.com
+185.199.108.133	favicons.githubusercontent.com
 127.0.0.1	favorite-option.pro
 127.0.0.1	fawhotoads.net
 127.0.0.1	fb-ads-business.com
@@ -16972,16 +16972,16 @@
 127.0.0.1	giqazoo1.pro
 127.0.0.1	girlwallpaper.pro
 20.205.243.166	gist.github.com
-3.5.28.35	github-cloud.s3.amazonaws.com
-52.217.203.25	github-com.s3.amazonaws.com
-52.216.89.220	github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.12.48	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.231.65	github-production-user-asset-6210df.s3.amazonaws.com
+54.231.128.201	github-cloud.s3.amazonaws.com
+3.5.25.218	github-com.s3.amazonaws.com
+52.217.113.25	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.179.193	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.39.153	github-production-user-asset-6210df.s3.amazonaws.com
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-151.101.193.194	github.global.ssl.fastly.net
+151.101.65.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
 185.199.108.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
