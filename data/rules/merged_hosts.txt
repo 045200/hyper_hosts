@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-03-13 00:24:58
+# 最后更新时间: 2025-03-13 12:23:42
 # 规则总数: 35087
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -12985,7 +12985,7 @@
 127.0.0.1	calmvibes.pro
 127.0.0.1	calve.pro
 127.0.0.1	camads.net
-185.199.109.133	camo.githubusercontent.com
+185.199.108.133	camo.githubusercontent.com
 127.0.0.1	camp247adventure.com
 127.0.0.1	campaign-tapad.s3.amazonaws.com
 127.0.0.1	campaign.ad-brix.com
@@ -13467,7 +13467,7 @@
 127.0.0.1	centerpointeadvisers.com
 127.0.0.1	centerpostcustomer.dns.army
 127.0.0.1	centimetreedscissorsed.pro
-140.82.112.21	central.github.com
+140.82.113.22	central.github.com
 127.0.0.1	centralads.simpli.fi
 127.0.0.1	centro.pixel.ad
 127.0.0.1	centrum24.pro
@@ -14273,7 +14273,7 @@
 127.0.0.1	code.sms.mob.com
 127.0.0.1	codeads.com
 127.0.0.1	codeinghunted.pro
-140.82.114.9	codeload.github.com
+140.82.116.10	codeload.github.com
 127.0.0.1	coding.sensorbuqnn.pro
 127.0.0.1	coin-ad.com
 127.0.0.1	coinads.io
@@ -14476,7 +14476,7 @@
 127.0.0.1	coolerads.com
 127.0.0.1	cooperation.html5.qq.com
 127.0.0.1	cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
-20.85.130.105	copilot-proxy.githubusercontent.com
+138.91.182.224	copilot-proxy.githubusercontent.com
 127.0.0.1	coquviu0.pro
 127.0.0.1	coral-media-dsp1.rtb.adx1.com
 127.0.0.1	core-waw-1.wildcard.dns.army
@@ -16728,7 +16728,7 @@
 127.0.0.1	fata.ero-advertising.com
 127.0.0.1	fathed.pro
 127.0.0.1	fav.simba.taobao.com
-185.199.109.133	favicons.githubusercontent.com
+185.199.111.133	favicons.githubusercontent.com
 127.0.0.1	favorite-option.pro
 127.0.0.1	fawhotoads.net
 127.0.0.1	fb-ads-business.com
@@ -17500,18 +17500,18 @@
 127.0.0.1	giqazoo1.pro
 127.0.0.1	girlwallpaper.pro
 20.205.243.166	gist.github.com
-52.216.88.211	github-cloud.s3.amazonaws.com
-3.5.29.132	github-com.s3.amazonaws.com
-16.182.104.65	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.163.49	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.82.84	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.44.129	github-cloud.s3.amazonaws.com
+3.5.28.76	github-com.s3.amazonaws.com
+54.231.196.249	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.140.177	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.41.137	github-production-user-asset-6210df.s3.amazonaws.com
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-151.101.193.194	github.global.ssl.fastly.net
+151.101.1.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.109.133	github.map.fastly.net
+185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 127.0.0.1	giuncfraza.pro
 127.0.0.1	giveawayskin.pro
