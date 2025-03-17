@@ -20,7 +20,11 @@ HOSTS_SOURCES = [
 
 "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt",
 
-"https://raw.githubusercontent.com/maxiaof/github-hosts/refs/heads/master/hosts"
+"https://raw.githubusercontent.com/maxiaof/github-hosts/refs/heads/master/hosts",
+
+"https://raw.gitmirror.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt",
+
+"https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts"
 
 ]
 
