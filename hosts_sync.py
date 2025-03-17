@@ -95,7 +95,7 @@ def main():
     merged_data = merge_hosts(hosts_files)
     
     # 阶段3: 生成最终文件
-    output_path = os.path.join(RULE_DIR, "merged_hosts.txt")
+    output_path = os.path.join(RULE_DIR, "hosts.txt")
     ensure_directory(output_path)
     
     with open(output_path, 'w', encoding='utf-8') as f:
