@@ -12,6 +12,8 @@ RULE_DIR = os.path.join(DATA_DIR, "rules")
 # 下载源配置
 HOSTS_SOURCES = [
  "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all",
+
+"https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts"
     "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt",
     "https://raw.githubusercontent.com/ineo6/hosts/refs/heads/master/hosts",
 
