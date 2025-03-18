@@ -13,6 +13,8 @@ RULE_DIR = os.path.join(DATA_DIR, "rules")
 HOSTS_SOURCES = [
  "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all",
 
+"https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts",
+
 "https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts",
     "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt",
     "https://raw.githubusercontent.com/ineo6/hosts/refs/heads/master/hosts",
