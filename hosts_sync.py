@@ -15,11 +15,9 @@ HOSTS_SOURCES = [
 
 "https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts",
 
-"https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts",
-    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt",
+"https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockhosts.txt",
+ "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt",
     "https://raw.githubusercontent.com/ineo6/hosts/refs/heads/master/hosts",
-
-"https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt",
 
 "https://raw.githubusercontent.com/maxiaof/github-hosts/refs/heads/master/hosts",
 
