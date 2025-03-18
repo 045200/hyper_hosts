@@ -23,8 +23,6 @@ HOSTS_SOURCES = [
 
 "https://raw.githubusercontent.com/maxiaof/github-hosts/refs/heads/master/hosts",
 
-"https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts",
-
 "https://raw.hellogithub.com/hosts"
 
 ]
