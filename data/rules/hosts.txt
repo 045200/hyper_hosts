@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-03-19 00:25:48
+# 最后更新时间: 2025-03-19 12:22:51
 # 规则总数: 50695
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -11535,7 +11535,7 @@
 127.0.0.1	asset.adserver.vrizead.com
 127.0.0.1	asset.xapads.com
 104.17.170.73	assets-9gag-fun.9cache.com
-185.199.111.153	assets-cdn.github.com
+185.199.109.153	assets-cdn.github.com
 104.16.4.13	assets-fe.change.org
 127.0.0.1	assets.adspruce.com
 127.0.0.1	assets.adstage.io
@@ -13274,7 +13274,7 @@
 127.0.0.1	calmvibes.pro
 127.0.0.1	calve.pro
 127.0.0.1	camads.net
-185.199.108.133	camo.githubusercontent.com
+185.199.111.133	camo.githubusercontent.com
 127.0.0.1	camp247adventure.com
 127.0.0.1	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
@@ -15221,7 +15221,7 @@
 127.0.0.1	coolerads.com
 127.0.0.1	cooperation.html5.qq.com
 127.0.0.1	cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
-20.85.130.105	copilot-proxy.githubusercontent.com
+4.249.131.160	copilot-proxy.githubusercontent.com
 205.251.235.239	copilot.amazon.co.jp
 127.0.0.1	coquviu0.pro
 127.0.0.1	coral-media-dsp1.rtb.adx1.com
@@ -19572,9 +19572,9 @@
 74.125.248.73	git.chromium.org
 138.201.212.228	git.torproject.org
 151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
-52.217.133.1	github-cloud.s3.amazonaws.com
-52.217.224.153	github-com.s3.amazonaws.com
-16.182.101.209	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.176.0	github-cloud.s3.amazonaws.com
+52.217.162.113	github-com.s3.amazonaws.com
+54.231.228.33	github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.48.33	github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.15.194.140	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
@@ -19584,7 +19584,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.108.133	github.map.fastly.net
+185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 138.201.212.228	gitweb.torproject.org
 127.0.0.1	giuncfraza.pro
