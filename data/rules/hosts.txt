@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-03-24 00:21:26
-# 规则总数: 39549
+# 最后更新时间: 2025-03-24 12:23:35
+# 规则总数: 39551
 # 项目地址: https://github.com/045200/hyper_hosts
 
 157.240.7.35	0-edge-chat.facebook.com
@@ -14609,11 +14609,11 @@
 74.125.248.73	git.chromium.org
 138.201.212.228	git.torproject.org
 151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
-16.15.185.131	github-cloud.s3.amazonaws.com
-52.216.50.113	github-com.s3.amazonaws.com
-52.216.62.241	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.236.185	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.0.201	github-production-user-asset-6210df.s3.amazonaws.com
+16.15.177.187	github-cloud.s3.amazonaws.com
+52.217.133.57	github-com.s3.amazonaws.com
+54.231.228.33	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.217.233	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.194.140	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -15295,6 +15295,7 @@
 0.0.0.0	houyi.kkmh.com
 127.0.0.1	hovejyi.pro
 127.0.0.1	hpd.baidu.com
+0.0.0.0	hpplay.cdn.cibn.cc
 127.0.0.1	hq.appsflyer.com
 127.0.0.1	hq1.appsflyer.com
 127.0.0.1	hqs1.cnzz.com
@@ -36513,6 +36514,7 @@
 127.0.0.1	vs9.gzcm.u3.ucweb.com
 127.0.0.1	vs9.gzct.u3.ucweb.com
 127.0.0.1	vs9.gzcu.u3.ucweb.com
+13.107.246.40	vscode.dev
 127.0.0.1	vscore.pro
 127.0.0.1	vserv.mobi
 127.0.0.1	vshi.tc.qq.com
