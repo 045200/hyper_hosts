@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-03-28 00:25:42
-# 规则总数: 39527
+# 最后更新时间: 2025-03-28 12:23:52
+# 规则总数: 39528
 # 项目地址: https://github.com/045200/hyper_hosts
 
 157.240.7.35	0-edge-chat.facebook.com
@@ -14573,11 +14573,11 @@
 74.125.248.73	git.chromium.org
 138.201.212.228	git.torproject.org
 151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
-52.217.122.97	github-cloud.s3.amazonaws.com
+52.217.113.1	github-cloud.s3.amazonaws.com
 52.217.133.57	github-com.s3.amazonaws.com
-54.231.228.33	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.62.241	github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.48.33	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.194.140	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.0.201	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -36454,6 +36454,7 @@
 0.0.0.0	vs9.gzcm.u3.ucweb.com
 0.0.0.0	vs9.gzct.u3.ucweb.com
 0.0.0.0	vs9.gzcu.u3.ucweb.com
+13.107.246.40	vscode.dev
 0.0.0.0	vscore.pro
 0.0.0.0	vserv.mobi
 127.0.0.1	vshi.tc.qq.com
