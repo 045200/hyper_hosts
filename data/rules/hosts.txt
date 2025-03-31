@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-03-31 00:22:06
-# 规则总数: 39550
+# 最后更新时间: 2025-03-31 12:23:59
+# 规则总数: 39537
 # 项目地址: https://github.com/045200/hyper_hosts
 
 157.240.7.35	0-edge-chat.facebook.com
@@ -531,7 +531,6 @@
 0.0.0.0	a-uap.iads.unity3d.com
 127.0.0.1	a-usa.applovin.com
 72.21.91.96	a-v2.sndcdn.com
-0.0.0.0	a.abbyads.com
 127.0.0.1	a.ac.qq.com
 0.0.0.0	a.ad.gt
 0.0.0.0	a.ad.playstation.net
@@ -654,7 +653,6 @@
 0.0.0.0	ab-config.propellerads.com
 0.0.0.0	ab.advertiserurl.com
 0.0.0.0	ab.hysdknb.com
-0.0.0.0	abbyads.com
 0.0.0.0	abc-ads.com
 127.0.0.1	abc.if.qidian.com
 74.125.206.210	abc.xyz
@@ -6520,7 +6518,6 @@
 0.0.0.0	adxmaster.go2affise.com
 0.0.0.0	adxmi.com
 0.0.0.0	adxnexus.com
-0.0.0.0	adxoclick.com
 0.0.0.0	adxoo.com
 0.0.0.0	adxpansion.com
 0.0.0.0	adxpartner.com
@@ -7823,7 +7820,6 @@
 0.0.0.0	api.hugemedia.cz
 0.0.0.0	api.huq.io
 0.0.0.0	api.huqindustries.co.uk
-0.0.0.0	api.hvapi.com
 127.0.0.1	api.hybrid.xiaomi.com
 0.0.0.0	api.hypelab.com
 0.0.0.0	api.hzsanjiaomao.com
@@ -8079,7 +8075,6 @@
 0.0.0.0	api.playit2019.com
 0.0.0.0	api.playtomic.com
 0.0.0.0	api.plyair.com
-0.0.0.0	api.policeel.com
 127.0.0.1	api.poll.aiseet.atianqi.com
 127.0.0.1	api.poll.video.qq.com
 0.0.0.0	api.popads.net
@@ -8174,7 +8169,6 @@
 127.0.0.1	api.sdk.admobile.top
 0.0.0.0	api.sdk.zadn.vn
 0.0.0.0	api.sdkbox.com
-0.0.0.0	api.searchify.com
 0.0.0.0	api.secondstreetapp.com
 0.0.0.0	api.securedvisit.com
 0.0.0.0	api.seg.analytics.fieldguide.io
@@ -8638,7 +8632,6 @@
 0.0.0.0	as1image1.adshuffle.com
 0.0.0.0	as1image2.adshuffle.com
 0.0.0.0	as2.adserverhd.com
-0.0.0.0	asadventure.tt.omtrdc.net
 0.0.0.0	asap.ad7.com
 183.177.40.228	asciimw.kadokawa.co.jp
 0.0.0.0	asdkfjskl.guiliangtechnology.com
@@ -10000,7 +9993,7 @@
 119.235.235.63	callback.line.me
 127.0.0.1	callback.tradplusad.com
 0.0.0.0	calmvibes.pro
-185.199.111.133	camo.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
 151.101.128.84	canary.pinterest.com
@@ -11413,7 +11406,7 @@
 0.0.0.0	coolerads.com
 127.0.0.1	cooperation.html5.qq.com
 0.0.0.0	cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
-20.85.130.105	copilot-proxy.githubusercontent.com
+4.249.131.160	copilot-proxy.githubusercontent.com
 205.251.235.239	copilot.amazon.co.jp
 0.0.0.0	coquviu0.pro
 0.0.0.0	coral-media-dsp1.rtb.adx1.com
@@ -13456,7 +13449,6 @@
 0.0.0.0	dsp.adspyglass.com
 0.0.0.0	dsp.adviad.com
 0.0.0.0	dsp.api.vungle.com
-0.0.0.0	dsp.brackenads.com
 0.0.0.0	dsp.cityads.com
 0.0.0.0	dsp.fcbox.com
 0.0.0.0	dsp.hot-mob.com
@@ -14000,7 +13992,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.111.133	favicons.githubusercontent.com
+185.199.110.133	favicons.githubusercontent.com
 0.0.0.0	fb.adsrvr.org
 157.240.7.35	fb.me
 127.0.0.1	fb.umeng.com
@@ -14600,10 +14592,10 @@
 138.201.212.228	git.torproject.org
 151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
 52.217.113.1	github-cloud.s3.amazonaws.com
-16.182.106.249	github-com.s3.amazonaws.com
-54.231.228.33	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.133.57	github-com.s3.amazonaws.com
+54.231.202.225	github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.236.185	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.32.241	github-production-user-asset-6210df.s3.amazonaws.com
+16.15.194.140	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -14682,7 +14674,6 @@
 0.0.0.0	go.ad2up.com
 0.0.0.0	go.ad2upapp.com
 0.0.0.0	go.adversal.com
-0.0.0.0	go.adxoclick.com
 127.0.0.1	go.appsflyer.com
 127.0.0.1	go.cnzz.com
 203.133.167.82	go.daum.net
@@ -33361,7 +33352,6 @@
 0.0.0.0	setupad-d.openx.net
 0.0.0.0	seure-update.fartit.com
 0.0.0.0	sewacea6.pro
-0.0.0.0	sexapi.net
 0.0.0.0	sezeqea.pro
 0.0.0.0	sf-ads.io
 127.0.0.1	sf-tb-sg.ibytedtos.com
@@ -35532,7 +35522,6 @@
 0.0.0.0	unified.adsafeprotected.com
 0.0.0.0	unifiedbidding.ad.smaato.net
 0.0.0.0	uniformadvantage.demdex.net
-0.0.0.0	uniformadvantage.tt.omtrdc.net
 0.0.0.0	uniformadvantage3283141z.btttag.com
 0.0.0.0	unindrisol.pro
 0.0.0.0	union-philippines.com
@@ -36470,7 +36459,6 @@
 0.0.0.0	vs9.gzcm.u3.ucweb.com
 0.0.0.0	vs9.gzct.u3.ucweb.com
 0.0.0.0	vs9.gzcu.u3.ucweb.com
-13.107.246.40	vscode.dev
 0.0.0.0	vscore.pro
 0.0.0.0	vserv.mobi
 127.0.0.1	vshi.tc.qq.com
@@ -38228,7 +38216,6 @@
 0.0.0.0	www.metaadvertisingsupportsolution.com
 0.0.0.0	www.metolyy4.pro
 0.0.0.0	www.mexicoadschool.com
-0.0.0.0	www.mfcads.com
 0.0.0.0	www.mi-n.metrd.site
 0.0.0.0	www.miami.ero-advertising.com
 104.21.64.1	www.miaoyun.cloud
