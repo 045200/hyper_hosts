@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-04-07 00:21:40
-# 规则总数: 39167
+# 最后更新时间: 2025-04-07 12:24:20
+# 规则总数: 39188
 # 项目地址: https://github.com/045200/hyper_hosts
 
 157.240.7.35	0-edge-chat.facebook.com
@@ -921,6 +921,7 @@
 0.0.0.0	ad-plus.com.tr
 127.0.0.1	ad-r.soulapp.cn
 0.0.0.0	ad-renderer-assets.ads.sportradar.com
+0.0.0.0	ad-resources.brandcdn.com
 127.0.0.1	ad-reward.play.aiseet.atianqi.com
 0.0.0.0	ad-ru-01.p.adserv.ai
 0.0.0.0	ad-ru-02.p.adserv.ai
@@ -2975,6 +2976,7 @@
 0.0.0.0	ads.co.com
 0.0.0.0	ads.cobrad.com
 0.0.0.0	ads.cocomobi.com
+0.0.0.0	ads.coingecko.com
 0.0.0.0	ads.collegclub.com
 0.0.0.0	ads.collegemix.com
 0.0.0.0	ads.colombiaonline.com
@@ -3702,7 +3704,9 @@
 0.0.0.0	ads.pro-market.net.edgesuite.net
 0.0.0.0	ads.proboards.com
 0.0.0.0	ads.proc.cc
+0.0.0.0	ads.prod.webservices.mozgcp.net
 0.0.0.0	ads.prod.wifog.com
+0.0.0.0	ads.production-public.tubi.io
 0.0.0.0	ads.production.travelaudience.com
 0.0.0.0	ads.profitsdeluxe.com
 0.0.0.0	ads.profootballtalk.com
@@ -5642,6 +5646,7 @@
 0.0.0.0	adsrv.ea.com
 0.0.0.0	adsrv.eacdn.com
 0.0.0.0	adsrv.fashion.bg
+0.0.0.0	adsrv.hh.ru
 0.0.0.0	adsrv.hpg.com.br
 0.0.0.0	adsrv.iol.co.za
 0.0.0.0	adsrv.keycaptcha.com
@@ -6796,6 +6801,7 @@
 0.0.0.0	analytics.fsoft.com.vn
 0.0.0.0	analytics.fuckingawesome.com
 0.0.0.0	analytics.futuro360.com
+0.0.0.0	analytics.gadventures.com
 127.0.0.1	analytics.ganji.com
 0.0.0.0	analytics.getshogun.com
 0.0.0.0	analytics.gismart.xyz
@@ -7487,6 +7493,7 @@
 0.0.0.0	api.aurogon.intl.miui.com
 0.0.0.0	api.autoads.asia
 0.0.0.0	api.autocompleteplus.com
+0.0.0.0	api.avo.app
 0.0.0.0	api.avocet.io
 0.0.0.0	api.aws.parking.godaddy.com
 0.0.0.0	api.axept.io
@@ -7587,6 +7594,7 @@
 0.0.0.0	api.crazyrocket.io
 0.0.0.0	api.crispadvertising.com
 54.241.32.12	api.crittercism.com
+0.0.0.0	api.crm.mandmdirect.com
 127.0.0.1	api.cupid.iqiyi.com
 0.0.0.0	api.cupid.qiyi.com
 0.0.0.0	api.curation.ameba.jp
@@ -7681,6 +7689,7 @@
 0.0.0.0	api.ftspecialist.exponea.com
 0.0.0.0	api.fuseplatform.net
 0.0.0.0	api.fyber.com
+0.0.0.0	api.gadgetgine.xyz
 0.0.0.0	api.game-sdk.com
 127.0.0.1	api.game.letvstore.com
 0.0.0.0	api.gameads.io
@@ -7716,6 +7725,7 @@
 0.0.0.0	api.hk.goforandroid.com
 0.0.0.0	api.hoisin.hw.coocaatv.com
 0.0.0.0	api.home.skysrt.com
+0.0.0.0	api.honeygain.com
 0.0.0.0	api.hookupers.com
 0.0.0.0	api.houston.advgo.net
 0.0.0.0	api.htp.ad-scope.com.cn
@@ -7760,6 +7770,7 @@
 127.0.0.1	api.iot.jiguang.cn
 0.0.0.0	api.iperceptions.com
 0.0.0.0	api.ipinfodb.com
+0.0.0.0	api.iproyal.com
 0.0.0.0	api.ipstack.com
 127.0.0.1	api.iqiyi.com
 0.0.0.0	api.iris.tv
@@ -7772,6 +7783,7 @@
 0.0.0.0	api.jcpclick.com
 0.0.0.0	api.jeeng.com
 0.0.0.0	api.jetgadget.me
+0.0.0.0	api.jetgadget.xyz
 0.0.0.0	api.jialiangad.com
 127.0.0.1	api.jietuhb.com
 127.0.0.1	api.jiguang.cn
@@ -7951,11 +7963,13 @@
 0.0.0.0	api.parking.godaddy.com
 0.0.0.0	api.parse.com
 0.0.0.0	api.parsely.com
+0.0.0.0	api.pawns.app
 0.0.0.0	api.pbbl.co
 0.0.0.0	api.pbxai.com
 0.0.0.0	api.pcloud.run
 0.0.0.0	api.pcpitstop.com
 0.0.0.0	api.pdbarea.com
+0.0.0.0	api.peer2profit.global
 0.0.0.0	api.permutive.app
 0.0.0.0	api.permutive.com
 0.0.0.0	api.personaclick.com
@@ -7972,7 +7986,6 @@
 0.0.0.0	api.playit2019.com
 0.0.0.0	api.playtomic.com
 0.0.0.0	api.plyair.com
-0.0.0.0	api.policeel.com
 127.0.0.1	api.poll.aiseet.atianqi.com
 127.0.0.1	api.poll.video.qq.com
 0.0.0.0	api.popads.net
@@ -8246,6 +8259,7 @@
 0.0.0.0	api.vungle.com.edgekey.net
 127.0.0.1	api.w.inmobi.cn
 127.0.0.1	api.w.inmobi.com
+0.0.0.0	api.wavebrowser.co
 0.0.0.0	api.webengage.com
 0.0.0.0	api.webhop.me
 0.0.0.0	api.webpush.jp
@@ -8515,6 +8529,7 @@
 0.0.0.0	as1image1.adshuffle.com
 0.0.0.0	as1image2.adshuffle.com
 0.0.0.0	as2.adserverhd.com
+0.0.0.0	asadventure.tt.omtrdc.net
 0.0.0.0	asap.ad7.com
 183.177.40.228	asciimw.kadokawa.co.jp
 0.0.0.0	asdkfjskl.guiliangtechnology.com
@@ -9877,7 +9892,7 @@
 119.235.235.63	callback.line.me
 127.0.0.1	callback.tradplusad.com
 0.0.0.0	calmvibes.pro
-185.199.111.133	camo.githubusercontent.com
+185.199.108.133	camo.githubusercontent.com
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
 151.101.128.84	canary.pinterest.com
@@ -10940,6 +10955,7 @@
 0.0.0.0	clientsdk.bright-sdk.com
 0.0.0.0	clientsdk.lum-sdk.io
 0.0.0.0	clientsdk.luminati.io
+0.0.0.0	clientsdk.luminatinet.com
 0.0.0.0	clifads.com
 54.192.151.22	clips-media-assets2.twitch.tv
 0.0.0.0	clips.coolerads.com
@@ -13829,7 +13845,6 @@
 0.0.0.0	fardeinvog.pro
 0.0.0.0	fast.dunbradstreetinc.demdex.net
 0.0.0.0	fast.main-click.shop
-0.0.0.0	fastadsonline.com
 0.0.0.0	fastapi.net
 0.0.0.0	fastdownload10.com
 127.0.0.1	fastimage.uve.weibo.com
@@ -13840,7 +13855,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.111.133	favicons.githubusercontent.com
+185.199.108.133	favicons.githubusercontent.com
 0.0.0.0	fb.adsrvr.org
 157.240.7.35	fb.me
 127.0.0.1	fb.umeng.com
@@ -14414,10 +14429,10 @@
 138.201.212.228	git.torproject.org
 151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
 52.217.44.92	github-cloud.s3.amazonaws.com
-52.216.50.113	github-com.s3.amazonaws.com
-3.5.30.13	github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.217.233	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.38.25	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.24.250	github-com.s3.amazonaws.com
+54.231.202.225	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.105.236	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.154.52	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -14425,7 +14440,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.111.133	github.map.fastly.net
+185.199.108.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 138.201.212.228	gitweb.torproject.org
 0.0.0.0	giuncfraza.pro
@@ -15509,6 +15524,7 @@
 0.0.0.0	imdb.amazon-adsystem.com
 0.0.0.0	imdns.hpplay.cn
 0.0.0.0	imeds.ero-advertising.com
+0.0.0.0	img-1000736.ad-score.com
 104.17.170.73	img-9gag-fun.9cache.com
 0.0.0.0	img-ad-nex.com
 0.0.0.0	img-ad.oupeng.com
@@ -16930,6 +16946,7 @@
 0.0.0.0	marlinads.g2afse.com
 74.125.206.210	mars.google.com
 127.0.0.1	mars.jd.com
+0.0.0.0	mars.prod.ads.prod.webservices.mozgcp.net
 0.0.0.0	marsads.com
 127.0.0.1	masdk.3g.qq.com
 127.0.0.1	masdkv6.3g.qq.com
@@ -17126,6 +17143,7 @@
 127.0.0.1	metrics-ad-drcn.dt.hihonorcloud.com
 0.0.0.0	metrics-api.librato.com
 0.0.0.0	metrics.api.drift.com
+0.0.0.0	metrics.consumersadvocate.org
 0.0.0.0	metrics.data.hicloud.com
 0.0.0.0	metrics.icloud.com
 0.0.0.0	metrics.mzstatic.com
@@ -17432,6 +17450,7 @@
 0.0.0.0	msads.net
 0.0.0.0	msadsense.com
 0.0.0.0	msadsscale.azureedge.net
+0.0.0.0	msadsscale.microsoft.com
 0.0.0.0	msdk-files.webengage.com
 127.0.0.1	msdk.irs01.com
 127.0.0.1	msdk.qq.com
@@ -18174,6 +18193,7 @@
 127.0.0.1	os.data.cnzz.com
 0.0.0.0	os2-opensea.pro
 127.0.0.1	osa.xdplt.com
+0.0.0.0	osm-ads-aka.delivery.roku.com
 127.0.0.1	oss-private.getui.com
 127.0.0.1	oss-public.getui.com
 0.0.0.0	oss.cdn.adintl.cn
@@ -18954,7 +18974,7 @@
 127.0.0.1	pingtcss.qq.com
 0.0.0.0	pinterest.adsymptotic.com
 72.247.96.248	pinterest.com
-127.255.0.128	pipelines.actions.githubusercontent.com
+13.107.42.16	pipelines.actions.githubusercontent.com
 127.0.0.1	pitaya.bytedance.com
 0.0.0.0	pitk.birdgesdk.com
 0.0.0.0	piwik.ero-advertising.com
@@ -19192,7 +19212,7 @@
 172.217.5.139	privacy.google.com.hk
 172.217.5.141	privacy.google.com.tw
 0.0.0.0	privacy.yieldlove-ad-serving.net
-185.199.111.133	private-user-images.githubusercontent.com
+185.199.108.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-bonded.com
@@ -19244,6 +19264,7 @@
 151.101.78.164	prod-video-us-west-1.pscp.tv
 151.101.194.164	prod-video-us-west-2.pscp.tv
 204.87.189.51	prod-www.kobobooks.com
+0.0.0.0	prod.ads.prod.webservices.mozgcp.net
 0.0.0.0	prod.adspsp.com
 0.0.0.0	prod.cm.publishers.advertising.a2z.com
 0.0.0.0	prod.entry.video-ads.a2z.com
@@ -35137,6 +35158,7 @@
 0.0.0.0	unified.adsafeprotected.com
 0.0.0.0	unifiedbidding.ad.smaato.net
 0.0.0.0	uniformadvantage.demdex.net
+0.0.0.0	uniformadvantage.tt.omtrdc.net
 0.0.0.0	uniformadvantage3283141z.btttag.com
 0.0.0.0	unindrisol.pro
 0.0.0.0	union-philippines.com
@@ -36074,7 +36096,6 @@
 0.0.0.0	vs9.gzcm.u3.ucweb.com
 0.0.0.0	vs9.gzct.u3.ucweb.com
 0.0.0.0	vs9.gzcu.u3.ucweb.com
-13.107.246.40	vscode.dev
 0.0.0.0	vscore.pro
 0.0.0.0	vserv.mobi
 127.0.0.1	vshi.tc.qq.com
