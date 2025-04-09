@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-04-09 00:26:01
-# 规则总数: 39207
+# 最后更新时间: 2025-04-09 12:23:53
+# 规则总数: 39198
 # 项目地址: https://github.com/045200/hyper_hosts
 
 157.240.7.35	0-edge-chat.facebook.com
@@ -1755,6 +1755,7 @@
 0.0.0.0	ad.yieldx.com
 0.0.0.0	ad.yixin.im
 0.0.0.0	ad.ymcdn.org
+0.0.0.0	ad.yna.co.kr
 0.0.0.0	ad.yo88.net
 0.0.0.0	ad.yo88.tv
 0.0.0.0	ad.yo88.win
@@ -7556,7 +7557,7 @@
 0.0.0.0	api.c.avazunativeads.com
 0.0.0.0	api.callget.cn
 0.0.0.0	api.calltrackingmetrics.com
-0.0.0.0	api.campaigns.affinionservices.com
+0.0.0.0	api.campaigns.notino.com
 0.0.0.0	api.caroda.io
 0.0.0.0	api.cartsee.cartx.cloud
 0.0.0.0	api.cazamba.com
@@ -9899,7 +9900,7 @@
 119.235.235.63	callback.line.me
 127.0.0.1	callback.tradplusad.com
 0.0.0.0	calmvibes.pro
-185.199.108.133	camo.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
 0.0.0.0	campaign.api.bingads.microsoft.com
@@ -11273,7 +11274,6 @@
 151.101.52.134	content.disqus.com
 172.217.168.202	content.googleapis.com
 151.101.65.63	content.issuu.com
-0.0.0.0	content.randstadsourceright.com
 184.51.198.112	contentdownloads.kobobooks.com
 0.0.0.0	contentrevolution.evolutionadv.it
 127.0.0.1	contenttracking.cn.miaozhen.com
@@ -11616,7 +11616,6 @@
 0.0.0.0	dasesu-daboci.pro
 127.0.0.1	dash.applovin.com
 0.0.0.0	dashapi.chartbeat.com
-0.0.0.0	dashboard-ui-bg.advisorengine.com
 127.0.0.1	dashboard.branch.io
 0.0.0.0	dat2.ero-advertising.com
 0.0.0.0	data-canary.flurry.com
@@ -13860,7 +13859,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.108.133	favicons.githubusercontent.com
+185.199.110.133	favicons.githubusercontent.com
 0.0.0.0	fb.adsrvr.org
 157.240.7.35	fb.me
 127.0.0.1	fb.umeng.com
@@ -14434,10 +14433,10 @@
 138.201.212.228	git.torproject.org
 151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
 3.5.24.116	github-cloud.s3.amazonaws.com
-52.217.162.113	github-com.s3.amazonaws.com
-3.5.28.246	github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.48.33	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.38.25	github-production-user-asset-6210df.s3.amazonaws.com
+52.217.133.57	github-com.s3.amazonaws.com
+3.5.6.157	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.236.185	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.154.52	github-production-user-asset-6210df.s3.amazonaws.com
 127.20.10.1	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -14445,7 +14444,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.108.133	github.map.fastly.net
+185.199.110.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 138.201.212.228	gitweb.torproject.org
 0.0.0.0	giuncfraza.pro
@@ -14517,7 +14516,6 @@
 0.0.0.0	go.ad1data.com
 0.0.0.0	go.ad2up.com
 0.0.0.0	go.ad2upapp.com
-0.0.0.0	go.advantage.zpg.co.uk
 0.0.0.0	go.adversal.com
 127.0.0.1	go.appsflyer.com
 127.0.0.1	go.cnzz.com
@@ -15449,7 +15447,6 @@
 172.217.5.141	image.google.com.tw
 0.0.0.0	image.hpplay.cn
 151.101.65.63	image.issuu.com
-0.0.0.0	image.myriad-email.com
 127.0.0.1	image.zzd.sm.cn
 127.0.0.1	image2.ljcdn.com
 127.0.0.1	imageads.codoon.com
@@ -16138,7 +16135,6 @@
 127.0.0.1	jump.admobile.top
 0.0.0.0	jump.baidu.001union.com
 125.209.210.184	jumputi.game.line.me
-0.0.0.0	junxure-cdn-bg.advisorengine.com
 0.0.0.0	jupin.mediav.com
 0.0.0.0	jupiter.appads.com
 127.0.0.1	jupiter.sys.miui.com
@@ -16486,8 +16482,6 @@
 0.0.0.0	link-click.shop
 127.0.0.1	link.1905.com
 0.0.0.0	link.advancedsystemrepairpro.com
-0.0.0.0	link.advisorpedia.com
-0.0.0.0	link.thinkadvisor.com
 0.0.0.0	link4ads.com
 0.0.0.0	linkadstech.offerstrack.net
 0.0.0.0	linkadvdirect.com
@@ -16900,7 +16894,6 @@
 0.0.0.0	mainebiz.advertserve.com
 0.0.0.0	majestictheme.pro
 176.32.73.17	malaysia.kinokuniya.com
-0.0.0.0	mamba-bg.advisorengine.com
 0.0.0.0	mammut.vlion.cn
 150.95.236.31	manage.conoha.jp
 0.0.0.0	manage.juicyads.com
@@ -19222,7 +19215,7 @@
 172.217.5.139	privacy.google.com.hk
 172.217.5.141	privacy.google.com.tw
 0.0.0.0	privacy.yieldlove-ad-serving.net
-185.199.108.133	private-user-images.githubusercontent.com
+185.199.110.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-bonded.com
@@ -33218,8 +33211,6 @@
 127.0.0.1	sigmob.ads.8le8le.com
 0.0.0.0	sigmob.cn
 0.0.0.0	sigmob.com
-0.0.0.0	signal-r-hub-bg.advisorengine.com
-0.0.0.0	signal-r-hub-blue.advisorengine.com
 0.0.0.0	signup.advance.net
 127.0.0.1	signup.taboola.com
 0.0.0.0	sikisuu.pro
