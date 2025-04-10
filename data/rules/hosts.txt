@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-04-10 12:24:04
-# 规则总数: 39220
+# 最后更新时间: 2025-04-11 00:26:12
+# 规则总数: 39218
 # 项目地址: https://github.com/045200/hyper_hosts
 
 157.240.7.35	0-edge-chat.facebook.com
@@ -8542,7 +8542,7 @@
 0.0.0.0	asset.adserver.vrizead.com
 0.0.0.0	assetadvbd.com
 104.17.170.73	assets-9gag-fun.9cache.com
-185.199.111.153	assets-cdn.github.com
+185.199.109.153	assets-cdn.github.com
 104.16.4.13	assets-fe.change.org
 0.0.0.0	assets.adspruce.com
 0.0.0.0	assets.adstage.io
@@ -13491,7 +13491,6 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.114.21	education.github.com
 172.217.168.209	edudirectory.withgoogle.com
 172.217.168.209	eduproducts.withgoogle.com
 172.217.168.209	edutrainingcenter.withgoogle.com
@@ -14406,9 +14405,9 @@
 74.125.248.73	git.chromium.org
 138.201.212.228	git.torproject.org
 151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
-3.5.24.116	github-cloud.s3.amazonaws.com
-52.216.50.113	github-com.s3.amazonaws.com
-54.231.228.33	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.2.81	github-cloud.s3.amazonaws.com
+16.182.106.249	github-com.s3.amazonaws.com
+54.231.202.225	github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.48.33	github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.182.38.25	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
@@ -19209,7 +19208,6 @@
 172.217.5.139	privacy.google.com.hk
 172.217.5.141	privacy.google.com.tw
 0.0.0.0	privacy.yieldlove-ad-serving.net
-185.199.110.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-bonded.com
