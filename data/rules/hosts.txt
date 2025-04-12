@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-04-12 00:25:25
+# 最后更新时间: 2025-04-12 12:23:10
 # 规则总数: 39260
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -11299,7 +11299,7 @@
 0.0.0.0	coolerads.com
 127.0.0.1	cooperation.html5.qq.com
 0.0.0.0	cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
-20.85.130.105	copilot-proxy.githubusercontent.com
+138.91.182.224	copilot-proxy.githubusercontent.com
 205.251.235.239	copilot.amazon.co.jp
 0.0.0.0	coquviu0.pro
 0.0.0.0	coral-media-dsp1.rtb.adx1.com
