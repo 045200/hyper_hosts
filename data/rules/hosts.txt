@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-04-13 00:21:58
-# 规则总数: 39307
+# 最后更新时间: 2025-04-13 12:48:31
+# 规则总数: 39388
 # 项目地址: https://github.com/045200/hyper_hosts
 
 157.240.7.35	0-edge-chat.facebook.com
@@ -143,6 +143,7 @@
 108.177.125.189	15.drive.google.com
 127.0.0.1	15.taboola.com
 0.0.0.0	1500020991.vodplayer.wxamedia.com
+0.0.0.0	1500022744.vodplayer.wxamedia.com
 0.0.0.0	1500026601.vodplayer.wxamedia.com
 0.0.0.0	154.22.214.2
 127.0.0.1	15dv.l.mob.com
@@ -2227,6 +2228,7 @@
 0.0.0.0	adf.ly
 0.0.0.0	adf.send.microad.jp
 0.0.0.0	adf.shinobi.jp
+0.0.0.0	adf6.adf6.com
 127.0.0.1	adfile.caixin.com
 0.0.0.0	adfill.adview.cn
 127.0.0.1	adfilter.imtt.qq.com
@@ -5949,7 +5951,6 @@
 0.0.0.0	advancedcleaner.com
 0.0.0.0	advancedmactools.com
 0.0.0.0	advancedmn.us.intellitxt.com
-0.0.0.0	advancedreams.net
 0.0.0.0	advancedsearchbar.com
 0.0.0.0	advancedselfstore.com
 127.0.0.1	advancelocal-adapter-image-uploads.s3.amazonaws.com
@@ -6001,6 +6002,7 @@
 0.0.0.0	adventurefeeds.xml.ak-is2.net
 0.0.0.0	adventuregamers.xyz
 0.0.0.0	adventurerarmory.com
+0.0.0.0	adventures-from-home.com
 0.0.0.0	adventurousamount.com
 0.0.0.0	adventurousspiritss.sbs
 0.0.0.0	adventuroustame.com
@@ -6592,6 +6594,7 @@
 0.0.0.0	alebilet.ad
 52.94.210.248	alexa.amazon.co.jp
 127.0.0.1	ali-ad.a.yximgs.com
+0.0.0.0	ali-p2p-v2.pull.yximgs.com
 127.0.0.1	ali-stats.jpush.cn
 0.0.0.0	ali.cityads.com
 127.0.0.1	ali.irs01.com
@@ -7227,6 +7230,7 @@
 127.0.0.1	api-df.dutils.com
 127.0.0.1	api-df.hiaiabc.com
 127.0.0.1	api-dll.dutils.com
+0.0.0.0	api-doro.com
 127.0.0.1	api-error.dutils.com
 0.0.0.0	api-es.doglobal.net
 127.0.0.1	api-exc.dutils.com
@@ -7598,6 +7602,7 @@
 0.0.0.0	api.cludo.com
 13.33.231.37	api.clyp.it
 127.0.0.1	api.cn.miaozhen.com
+0.0.0.0	api.co-operativefinance.com
 0.0.0.0	api.coinerra.com
 0.0.0.0	api.collect.data.intl.miui.com
 0.0.0.0	api.company-target.com
@@ -8471,7 +8476,6 @@
 127.0.0.1	appchannel.html5.qq.com
 127.0.0.1	appdownload.alicdn.com
 127.0.0.1	appdownload.youku.com
-0.0.0.0	appeal-open-case.appealforpages3z.one
 172.217.168.202	appengine.clients6.google.com
 74.125.206.210	appengine.google.com
 127.0.0.1	appicsh.qq.com
@@ -8739,6 +8743,7 @@
 0.0.0.0	auto-satellite.advividnetwork.com
 0.0.0.0	autoads.asia
 0.0.0.0	autobild.adsame.com
+0.0.0.0	automrifor.pro
 127.0.0.1	autoupdate.tantanapp.com
 96.7.120.42	av.voanews.com
 127.0.0.1	av1.xdrig.com
@@ -9237,6 +9242,7 @@
 0.0.0.0	blockadsnot.com
 0.0.0.0	blockadstop.info
 0.0.0.0	blockchain-ads.com
+0.0.0.0	blockdraym.pro
 127.0.0.1	blog.branch.io
 104.17.136.180	blog.disqus.com
 0.0.0.0	blog.ero-advertising.com
@@ -9300,6 +9306,7 @@
 0.0.0.0	bong88.pro
 0.0.0.0	bongacams.com
 0.0.0.0	bonuqai6.pro
+0.0.0.0	booking.partner-id365411.com
 127.0.0.1	bookmark.cnzz.com
 0.0.0.0	books-analytics-events.apple.com
 207.241.225.247	books-general.archive.org
@@ -9364,6 +9371,7 @@
 0.0.0.0	bridgeoos.com
 78.47.38.229	bridges.torproject.org
 0.0.0.0	brightbubbles.pro
+0.0.0.0	brightcrescent.pro
 0.0.0.0	brightecho.pro
 0.0.0.0	brightflare.pro
 0.0.0.0	brightjumble.pro
@@ -11238,6 +11246,7 @@
 0.0.0.0	commercial-ad-sg.finosfin.com
 127.0.0.1	commercial.iem.taptap.cn
 127.0.0.1	commercial.shouji.360.cn
+0.0.0.0	commewaguh.pro
 101.78.207.157	common.hkjc.com
 172.217.24.16	commondatastorage.googleapis.com
 23.53.11.248	community.akamai.steamstatic.com
@@ -11483,6 +11492,7 @@
 108.177.125.136	creatoracademy.youtube.com
 0.0.0.0	creditburner.blueadvertise.com
 127.0.0.1	credits.bz.mgtv.com
+0.0.0.0	cremeimpin.pro
 0.0.0.0	crimsonstormfire.pro
 0.0.0.0	crimsonvista.pro
 0.0.0.0	crispadvertising.com
@@ -11865,6 +11875,7 @@
 172.217.5.141	desktop4.google.com.tw
 74.125.206.210	desktop5.google.com
 74.125.206.210	desktop6.google.com
+0.0.0.0	desmoesist.pro
 203.104.130.159	destiny-child-blog.line.me
 0.0.0.0	deta.ero-advertising.com
 0.0.0.0	detail-adsapi.vivo.com.cn
@@ -12006,6 +12017,7 @@
 74.125.206.210	ditu.google.com
 0.0.0.0	divatea.pro
 0.0.0.0	divavillage.advertserve.com
+0.0.0.0	dixovoi1.pro
 127.0.0.1	dizhensubao.getui.com
 0.0.0.0	djaxadserver.com
 127.0.0.1	dk-open-phone.getui.com
@@ -13444,6 +13456,8 @@
 0.0.0.0	dynamicdescription.pro
 0.0.0.0	dynamphosp.pro
 0.0.0.0	dynsrv.wps.cn
+0.0.0.0	dyp2p-ali.douyucdn.cn
+0.0.0.0	dyp2p-hw.douyucdn.cn
 0.0.0.0	dyzyvea5.pro
 0.0.0.0	dz.ads.justpremium.com
 127.0.0.1	dz.mmstat.com
@@ -13765,7 +13779,6 @@
 0.0.0.0	euro4ads.de
 0.0.0.0	euroad1.advantage.as
 0.0.0.0	europe.adserver.yahoo.com
-0.0.0.0	eurorefund.pro
 0.0.0.0	eurtb.unoadsrv.com
 0.0.0.0	euw-data.adsrvr.org
 0.0.0.0	euw.adserver.snapads.com
@@ -13848,6 +13861,7 @@
 0.0.0.0	express-app-solution-update-master.codeanyapp.com
 127.0.0.1	exquisite.shouji.360.cn
 127.0.0.1	ext.mediav.com
+0.0.0.0	extemquota.pro
 54.192.151.87	extension-files.twitch.tv
 23.21.193.169	external-content.duckduckgo.com
 31.13.91.15	external.xx.fbcdn.net
@@ -14547,6 +14561,7 @@
 0.0.0.0	glores2.lanzoui.com
 0.0.0.0	glores2.lanzoux.com
 0.0.0.0	glores2.taisantech.com
+0.0.0.0	glowgardeners.pro
 0.0.0.0	glowing-glowfertilityovulationapp.adsbynimbus.com
 0.0.0.0	glowingrainfire.pro
 0.0.0.0	glsdk.logsss.com
@@ -15051,6 +15066,7 @@
 203.133.167.84	helium.daum.net
 0.0.0.0	heliumads.com
 172.217.168.201	help.blogger.com
+0.0.0.0	help.check-violation.com
 127.0.0.1	help.cnzz.com
 151.101.120.134	help.disqus.com
 13.210.167.213	help.duckduckgo.com
@@ -15077,6 +15093,7 @@
 0.0.0.0	hesads.akamaized.net
 0.0.0.0	hexagon-analytics.com
 0.0.0.0	hexusads.fluent.ltd.uk
+0.0.0.0	heyheads.com
 127.0.0.1	heyi-acs.cp31.ott.cibntv.net
 0.0.0.0	hflalffajhf.top
 0.0.0.0	hfm.adsame.com
@@ -15247,6 +15264,8 @@
 0.0.0.0	hw-cdn.trafficjunky.net
 0.0.0.0	hw-cdn2.trafficjunky.net
 0.0.0.0	hw-ot-ad.a.yximgs.com
+0.0.0.0	hw-p2p-pull.video-voip.com
+0.0.0.0	hw-p2p.pull.yximgs.com
 127.0.0.1	hw.zuimeitianqi.com
 127.0.0.1	hwapi.jpush.cn
 0.0.0.0	hwpub-s01-drcn.cloud.dbankcloud.cn
@@ -15855,6 +15874,7 @@
 127.0.0.1	intl.mtp.umeng.com
 127.0.0.1	intl.wapa.taobao.com
 127.0.0.1	intl.waptest.taobao.com
+0.0.0.0	introredea.pro
 0.0.0.0	investing.rtb.monetixads.com
 74.125.206.210	investor.google.com
 0.0.0.0	inviax.pro
@@ -16092,6 +16112,7 @@
 0.0.0.0	joyfulexperiences.pro
 0.0.0.0	joyfulfusionyser.pro
 0.0.0.0	joyfuljourney.pro
+0.0.0.0	joyfulnest.pro
 0.0.0.0	joysmileadventure185.sbs
 127.0.0.1	jp-api-fc.dutils.com
 127.0.0.1	jp-api-fd.dutils.com
@@ -16296,6 +16317,8 @@
 0.0.0.0	kpstaticbj.wx.ckjr001.com
 151.101.128.84	kr.pinterest.com
 127.0.0.1	kr59779-qq.com
+0.0.0.0	ks-p2p-v2.pull.yximgs.com
+0.0.0.0	ks-p2p.pull.yximgs.com
 0.0.0.0	ks.ferlytc.com
 0.0.0.0	ks.pull.yximgs.com
 127.0.0.1	kstj.baidu.com
@@ -16443,6 +16466,7 @@
 127.0.0.1	learn.chaoxing.com
 0.0.0.0	leboapi.hpplay.com.cn
 0.0.0.0	legjava.pro
+0.0.0.0	lenifmagis.pro
 0.0.0.0	lepixae1.pro
 127.0.0.1	letv-mipdx.cn.miaozhen.com
 127.0.0.1	letv.axp.admaster.com.cn
@@ -16606,6 +16630,7 @@
 127.0.0.1	lives.l.qq.com
 0.0.0.0	livescorelimited-livescorelivesportsscores.adsbynimbus.com
 127.0.0.1	livew.l.qq.com
+0.0.0.0	livewebbs2pcdn.msstatic.com
 0.0.0.0	lixaja.trackadspulse.com
 127.0.0.1	lks.share.mob.com
 127.0.0.1	llmchat.voiceads.cn
@@ -16616,6 +16641,7 @@
 0.0.0.0	lmadvertising.engine.adglare.net
 127.0.0.1	lmbsy.qq.com
 0.0.0.0	lnads.osdn.com
+0.0.0.0	lnpost-pl.check-buy120.shop
 0.0.0.0	lnpost-pl.check-buy1215.shop
 0.0.0.0	lnpost-pl.check-buy1220.shop
 0.0.0.0	lnpost-pl.check-buy1223.shop
@@ -16744,7 +16770,6 @@
 127.0.0.1	lon6-accesspoint-a33.lon6.spotify.com
 0.0.0.0	longitudeads-com.videoplayerhub.com
 0.0.0.0	looptreejam.pro
-0.0.0.0	lordballastreduce.pro
 0.0.0.0	lordofads.com
 0.0.0.0	lottery.flygame.io
 0.0.0.0	lottery.headlines.pw
@@ -16968,6 +16993,7 @@
 0.0.0.0	main.exosrv.com
 0.0.0.0	main.rampidads.com
 0.0.0.0	mainadv.com
+0.0.0.0	majesticoasis.pro
 0.0.0.0	majestictheme.pro
 176.32.73.17	malaysia.kinokuniya.com
 0.0.0.0	mammut.vlion.cn
@@ -16977,6 +17003,7 @@
 127.0.0.1	manager.tradplusad.com
 192.0.78.13	managingbias.fb.com
 203.104.131.93	manga.line.me
+0.0.0.0	mangaarris.pro
 0.0.0.0	mangoads.net
 127.0.0.1	manhua.acimg.cn
 0.0.0.0	manifest-server.naiadsystems.com
@@ -17269,6 +17296,7 @@
 0.0.0.0	mindsparkadvertising.com
 127.0.0.1	mine.z74d.com
 127.0.0.1	mingkuaian.cn.miaozhen.com
+0.0.0.0	mini-prog-drm.vodplayvideo.net
 127.0.0.1	mini-stats.jpush.cn
 127.0.0.1	mini2015.qq.com
 127.0.0.1	miniapp-ad.cdn.bcebos.com
@@ -17624,6 +17652,7 @@
 127.0.0.1	mtt.eve.mdt.qq.com
 127.0.0.1	mtt.str.mdt.qq.com
 0.0.0.0	mu88ads.com
+0.0.0.0	mugneequin.pro
 0.0.0.0	muliphein.iad-01.braze.com
 0.0.0.0	multi-az-ad.kuaishou.cn
 127.0.0.1	multiply.crwdcntrl.net
@@ -18314,7 +18343,6 @@
 0.0.0.0	out1.cityads.com
 0.0.0.0	out2.cityads.com
 0.0.0.0	out3.cityads.com
-0.0.0.0	outboundnomads.com
 127.0.0.1	outcome-cdn.supersonicads.com
 0.0.0.0	outcome-ssp-cf.supersonicads.com
 127.0.0.1	outcome-ssp.supersonicads.com
@@ -18550,6 +18578,10 @@
 0.0.0.0	p29-ad.byteimg.com
 0.0.0.0	p29-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0	p29-orange.byteorge.com
+0.0.0.0	p2pchunk-table.douyucdn.cn
+0.0.0.0	p2plive-ali.douyucdn.cn
+0.0.0.0	p2pupdate.gamedl.qq.com
+0.0.0.0	p2pupgrade.gamedl.qq.com
 127.0.0.1	p3-ad-sign.byteimg.com
 0.0.0.0	p3-ad.adbkwai.com
 0.0.0.0	p3-ad.adkwai.com
@@ -18682,6 +18714,7 @@
 127.0.0.1	pages.juxiao.mediav.com
 127.0.0.1	pagespeed.report.qq.com
 0.0.0.0	pageview.joinads.me
+0.0.0.0	pagodesort.pro
 0.0.0.0	pali.iad-03.braze.com
 0.0.0.0	palurui.pro
 127.0.0.1	pan.getui.com
@@ -18796,6 +18829,7 @@
 127.0.0.1	pcbrowser.dd.qq.com
 0.0.0.0	pccleaner-update.xyz
 127.0.0.1	pcd.autohome.com.cn
+0.0.0.0	pcdn.xmcdn.com
 127.0.0.1	pci.spotify.com
 127.0.0.1	pclick.yahoo.com
 0.0.0.0	pcm-img.zhls.qq.com
@@ -19234,6 +19268,7 @@
 127.0.0.1	post1.voiceads.cn
 0.0.0.0	postback.adsmoloco.com
 211.231.108.181	potplayer.daum.net
+0.0.0.0	poutiidiop.pro
 0.0.0.0	powerads.breaktime.com.tw
 0.0.0.0	poweredby.jads.co
 0.0.0.0	poweredby.jads.com
@@ -19282,6 +19317,7 @@
 0.0.0.0	premiumads.com.br
 0.0.0.0	premiumads.net
 0.0.0.0	preseherpe.pro
+0.0.0.0	prevecaset.pro
 127.0.0.1	preview-api.installer.xiaomi.com
 0.0.0.0	preview.ads.justpremium.com
 0.0.0.0	preview.ads.zalo.me
@@ -19623,6 +19659,7 @@
 127.0.0.1	qiye11.ejunshi.net
 127.0.0.1	qm-ab.wtzw.com
 0.0.0.0	qmsdk.shouji.sogou.com
+0.0.0.0	qn-cdnfile1pcdn.msstatic.com
 0.0.0.0	qohemoe7.pro
 0.0.0.0	qomubaa4.pro
 127.0.0.1	qos.report.qq.com
@@ -31980,6 +32017,7 @@
 0.0.0.0	rioscpolys.pro
 0.0.0.0	ripardtko.pro
 0.0.0.0	ripetobiur.pro
+0.0.0.0	ripiodampp.pro
 0.0.0.0	riposrispo.pro
 127.0.0.1	river.zhidao.baidu.com
 0.0.0.0	riverailj.rtb.adx1.com
@@ -32530,6 +32568,7 @@
 127.0.0.1	saxn.sina.com.cn
 0.0.0.0	saxs.sina.cn
 0.0.0.0	saxs.sina.com.cn
+0.0.0.0	saxysec.com
 74.125.206.210	sb-ssl.google.com
 0.0.0.0	sb.goadserver.com
 74.125.206.210	sb.google.com
@@ -34057,6 +34096,7 @@
 0.0.0.0	studio-t.teads.tv.edgekey.net
 216.239.38.21	studio.html5rocks.com
 127.0.0.1	study.snapads.com
+0.0.0.0	stun.hitv.com
 64.233.177.127	stun.l.google.com
 72.21.91.96	style.sndcdn.com
 0.0.0.0	styria.smartadserver.com
@@ -34221,6 +34261,7 @@
 0.0.0.0	syndication.trafficreps.com
 127.0.0.1	syndication.twitter.com
 0.0.0.0	synhandler.rtb.adx1.com
+0.0.0.0	synonbilbo.pro
 0.0.0.0	synsads.com
 0.0.0.0	syriaricon.pro
 127.0.0.1	syrs.z74d.com
@@ -34531,6 +34572,7 @@
 0.0.0.0	textads.madisonavenue.com
 0.0.0.0	textads.sexmoney.com
 0.0.0.0	textadvertising.com
+0.0.0.0	textileads.com
 0.0.0.0	textlink.simba.taobao.com
 0.0.0.0	textnow-2ndline.adsbynimbus.com
 0.0.0.0	textnow-textnow.adsbynimbus.com
@@ -34556,6 +34598,7 @@
 0.0.0.0	thecoreadv.com
 0.0.0.0	thehigginsadventure.com
 52.221.46.214	theinitium.com
+0.0.0.0	thejugaadstudio.com
 172.217.168.193	themes.googleusercontent.com
 0.0.0.0	themortgageadvisorguy.com
 0.0.0.0	theplayadvisor.com
@@ -34565,6 +34608,7 @@
 127.0.0.1	thind.unityads.unity3d.com
 0.0.0.0	thiosriagg.pro
 0.0.0.0	this.content.served.by.adshuffle.com
+0.0.0.0	thixochris.pro
 0.0.0.0	thoadsaibsou.net
 0.0.0.0	thoon.frequencyads.com
 192.0.66.2	threatexchange.fb.com
@@ -34772,6 +34816,7 @@
 0.0.0.0	tp.2632ce734-frontier.amazon-adsystem.com
 0.0.0.0	tp.adsafeprotected.com
 0.0.0.0	tp.adx.opera.com
+0.0.0.0	tpa-hcdn.iqiyi.com
 0.0.0.0	tpads.ovguide.com
 0.0.0.0	tpads.sv.publicus.com
 0.0.0.0	tpat-weight.ads.vungle.com
@@ -35032,6 +35077,7 @@
 0.0.0.0	trourted.pro
 34.212.220.91	trowel.twitch.tv
 0.0.0.0	trslm.tubeadvertising.eu
+0.0.0.0	truckchoiceadvisor.com
 0.0.0.0	true-click.pro
 0.0.0.0	trueadvantage.pro
 127.0.0.1	truth.qchannel01.cn
@@ -35116,6 +35162,8 @@
 0.0.0.0	tx-cfg-u1.ubixioe.com
 0.0.0.0	tx-data-u1.ubixioe.com
 0.0.0.0	tx-kmpaudio.pull.yximgs.com
+0.0.0.0	tx-p2p-pull.live-voip.com
+0.0.0.0	tx-p2p-v2.pull.yximgs.com
 54.193.253.0	txn.ingest.crittercism.com
 127.0.0.1	txt.go.sohu.com
 0.0.0.0	ty.viqiyi.admaster.com.cn
@@ -35199,6 +35247,7 @@
 127.0.0.1	ugame.umeng.com
 127.0.0.1	ugc.map.baidu.com
 127.0.0.1	ugcup.music.qq.com
+0.0.0.0	uhabo.com
 0.0.0.0	ui.adsupply.com
 0.0.0.0	ui.labs.adsupply.com
 0.0.0.0	uidapi.com
@@ -35280,6 +35329,7 @@
 0.0.0.0	unityads.unitychina.cn
 0.0.0.0	universallawadvisors.com
 127.0.0.1	university.inmobi.com
+0.0.0.0	unlacumid.pro
 0.0.0.0	unoadsrv.com
 127.0.0.1	unstat.baidu.com
 0.0.0.0	uoads.mediasmart.io
@@ -35348,6 +35398,7 @@
 0.0.0.0	update.stickyadstv.com
 0.0.0.0	update.tas.yieldmo.com
 0.0.0.0	update.vlnguba.com
+0.0.0.0	update.volam2005pk.com
 0.0.0.0	update.wo.gumgum.com
 0.0.0.0	update.wps.cn
 0.0.0.0	update.wtag.adaptv.advertising.com
@@ -35906,6 +35957,7 @@
 127.0.0.1	viqiyi.admaster.com.cn
 0.0.0.0	virusinfo-cloudscan-cn.heytapmobi.com
 172.217.161.180	virustotalcloud.appspot.com
+0.0.0.0	viscomonod.pro
 127.0.0.1	visit.webhosting.yahoo.com
 127.0.0.1	visitor.omnitagjs.com
 72.21.91.127	visuals.soundcloud.com
@@ -36589,7 +36641,6 @@
 0.0.0.0	world.popadscdn.net
 127.0.0.1	world.qpic.cn
 0.0.0.0	worldwidedigitalads.com
-0.0.0.0	wotaloe7.pro
 127.0.0.1	wow-activity.youdao.com
 0.0.0.0	wow.ero-advertising.com
 127.0.0.1	wow.youdao.com
@@ -36941,7 +36992,6 @@
 0.0.0.0	www.advancedagservices.com
 0.0.0.0	www.advancedcleaner.com
 0.0.0.0	www.advancedmactools.com
-0.0.0.0	www.advancedreams.net
 0.0.0.0	www.advancedselfstore.com
 0.0.0.0	www.advancedsoftwaresupport.com
 0.0.0.0	www.advangelists.com
@@ -36953,6 +37003,7 @@
 0.0.0.0	www.adventori.com
 0.0.0.0	www.adventurefeeds.com
 0.0.0.0	www.adventuregamers.xyz
+0.0.0.0	www.adventures-from-home.com
 0.0.0.0	www.adventurousspiritss.sbs
 0.0.0.0	www.advenueplatform.com
 0.0.0.0	www.adveric.net
@@ -37022,6 +37073,7 @@
 0.0.0.0	www.anonymousads.com
 0.0.0.0	www.antisooed.pro
 127.0.0.1	www.anythinktech.com
+0.0.0.0	www.api-doro.com
 0.0.0.0	www.api-olx.match-me.shop
 0.0.0.0	www.api-olx.place-ssl.shop
 0.0.0.0	www.api.axiatraders.com
@@ -37039,7 +37091,6 @@
 104.19.133.58	www.apkmirror.com
 0.0.0.0	www.app-ads-services.com
 0.0.0.0	www.appads.in
-0.0.0.0	www.appeal-open-case.appealforpages3z.one
 0.0.0.0	www.appleads.offerstrack.net
 127.0.0.1	www.applovin.com
 0.0.0.0	www.approzaqqu.pro
@@ -37065,6 +37116,7 @@
 127.0.0.1	www.audio2.spotify.com
 0.0.0.0	www.autoads.asia
 216.239.38.21	www.autodraw.com
+0.0.0.0	www.automrifor.pro
 0.0.0.0	www.avast-downloads.com
 0.0.0.0	www.avnads.com
 0.0.0.0	www.avoadsservices.com
@@ -37130,6 +37182,7 @@
 0.0.0.0	www.blissfuljolt.pro
 0.0.0.0	www.blissfulzenith.pro
 0.0.0.0	www.blockadsnot.com
+0.0.0.0	www.blockdraym.pro
 216.239.34.21	www.blog.google
 0.0.0.0	www.blog.intext.ero-advertising.com
 0.0.0.0	www.blogads.com
@@ -37144,6 +37197,7 @@
 0.0.0.0	www.boldbeverages.pro
 0.0.0.0	www.boldserene.pro
 0.0.0.0	www.bonuqai6.pro
+0.0.0.0	www.booking.partner-id365411.com
 0.0.0.0	www.borbopenic.pro
 0.0.0.0	www.bordeunsam.pro
 0.0.0.0	www.boruboy8.pro
@@ -37156,6 +37210,7 @@
 127.0.0.1	www.branch.io
 0.0.0.0	www.breezyfables.pro
 0.0.0.0	www.brightbubbles.pro
+0.0.0.0	www.brightcrescent.pro
 0.0.0.0	www.brightecho.pro
 0.0.0.0	www.brightflare.pro
 0.0.0.0	www.brightjumble.pro
@@ -37259,6 +37314,7 @@
 0.0.0.0	www.colorfulexpressions.pro
 0.0.0.0	www.coluvaa1.pro
 0.0.0.0	www.coluvue5.pro
+0.0.0.0	www.commewaguh.pro
 0.0.0.0	www.concelutel.pro
 0.0.0.0	www.confirm.offer-click.shop
 0.0.0.0	www.confirm.view-click.shop
@@ -37284,6 +37340,7 @@
 0.0.0.0	www.crazycarrots.pro
 0.0.0.0	www.creatingaiads.com
 216.239.38.21	www.creativelab5.com
+0.0.0.0	www.cremeimpin.pro
 0.0.0.0	www.crimsonstormfire.pro
 0.0.0.0	www.crimsonvista.pro
 0.0.0.0	www.crispads.com
@@ -37335,6 +37392,7 @@
 0.0.0.0	www.demoravval.pro
 0.0.0.0	www.deplestoni.pro
 0.0.0.0	www.derigyy8.pro
+0.0.0.0	www.desmoesist.pro
 0.0.0.0	www.deta.ero-advertising.com
 0.0.0.0	www.detailedresults.pro
 0.0.0.0	www.dethrobdur.pro
@@ -37359,6 +37417,7 @@
 0.0.0.0	www.dissocoltr.pro
 0.0.0.0	www.dissoricon.pro
 0.0.0.0	www.divatea.pro
+0.0.0.0	www.dixovoi1.pro
 0.0.0.0	www.djaxadserver.com
 0.0.0.0	www.dm.tocdefd.com
 104.25.27.31	www.dmhy.org
@@ -37489,13 +37548,13 @@
 0.0.0.0	www.eu.hsdkeer.com
 0.0.0.0	www.eunicvisce.pro
 0.0.0.0	www.euphorianest.pro
-0.0.0.0	www.eurorefund.pro
 0.0.0.0	www.everember.pro
 0.0.0.0	www.evergreenadvertising.org
 0.0.0.0	www.exactadvertising.com
 0.0.0.0	www.exit-ad.de
 0.0.0.0	www.experimentalmetrology.pro
 0.0.0.0	www.express-app-solution-update-master.codeanyapp.com
+0.0.0.0	www.extemquota.pro
 0.0.0.0	www.extraordinaryevents.pro
 0.0.0.0	www.extreme-dm.com
 0.0.0.0	www.fa-ceit.join-mhub.pro
@@ -37606,6 +37665,7 @@
 0.0.0.0	www.glimmerbuzz.pro
 0.0.0.0	www.glimmerwavevers.pro
 0.0.0.0	www.glitterwing.pro
+0.0.0.0	www.glowgardeners.pro
 0.0.0.0	www.glowingrainfire.pro
 0.0.0.0	www.gmads.net
 172.217.168.37	www.gmail.com
@@ -37735,7 +37795,9 @@
 0.0.0.0	www.hedyluy3.pro
 0.0.0.0	www.hehaway3.pro
 0.0.0.0	www.hekinay2.pro
+0.0.0.0	www.help.check-violation.com
 0.0.0.0	www.herpeesaco.pro
+0.0.0.0	www.heyheads.com
 0.0.0.0	www.hibaryu8.pro
 0.0.0.0	www.hidewui3.pro
 0.0.0.0	www.hifymeo4.pro
@@ -37808,6 +37870,7 @@
 0.0.0.0	www.internationaladschool.com
 0.0.0.0	www.interpolpolice.pro
 0.0.0.0	www.intext.ero-advertising.com
+0.0.0.0	www.introredea.pro
 0.0.0.0	www.inviax.pro
 0.0.0.0	www.ioads.ero-advertising.com
 0.0.0.0	www.iosdkcloud.com
@@ -37859,6 +37922,7 @@
 0.0.0.0	www.joyfulexperiences.pro
 0.0.0.0	www.joyfulfusionyser.pro
 0.0.0.0	www.joyfuljourney.pro
+0.0.0.0	www.joyfulnest.pro
 0.0.0.0	www.joysmileadventure185.sbs
 127.0.0.1	www.jpush.cn
 0.0.0.0	www.jubilantvocabulary.pro
@@ -37908,6 +37972,7 @@
 0.0.0.0	www.leadsfoundrygmbs.com
 0.0.0.0	www.leafwhispering.pro
 0.0.0.0	www.leafyecho.pro
+0.0.0.0	www.lenifmagis.pro
 0.0.0.0	www.lepixae1.pro
 0.0.0.0	www.levitateleads.com
 0.0.0.0	www.lewetoy6.pro
@@ -37923,6 +37988,7 @@
 0.0.0.0	www.livelydialogues.pro
 0.0.0.0	www.lixaja.trackadspulse.com
 0.0.0.0	www.llogin-mail-update-verif.articulturalland.com
+0.0.0.0	www.lnpost-pl.check-buy120.shop
 0.0.0.0	www.lnpost-pl.check-buy1215.shop
 0.0.0.0	www.lnpost-pl.check-buy1220.shop
 0.0.0.0	www.lnpost-pl.check-buy1223.shop
@@ -37940,7 +38006,6 @@
 0.0.0.0	www.logingquicklyed.pro
 0.0.0.0	www.lolimuo.pro
 0.0.0.0	www.looptreejam.pro
-0.0.0.0	www.lordballastreduce.pro
 0.0.0.0	www.lottery.ie
 0.0.0.0	www.lottery.olg.ca
 0.0.0.0	www.lottery.tresdor.com
@@ -37969,7 +38034,9 @@
 0.0.0.0	www.main-olx.pl-update.shop
 0.0.0.0	www.main-olx.select-check.shop
 0.0.0.0	www.mainadv.com
+0.0.0.0	www.majesticoasis.pro
 0.0.0.0	www.majestictheme.pro
+0.0.0.0	www.mangaarris.pro
 127.0.0.1	www.maplehaze.cn
 0.0.0.0	www.maralgel.pro
 0.0.0.0	www.mata.ero-advertising.com
@@ -38032,6 +38099,7 @@
 0.0.0.0	www.motipao6.pro
 0.0.0.0	www.movieads.ero-advertising.com
 0.0.0.0	www.mu88ads.com
+0.0.0.0	www.mugneequin.pro
 0.0.0.0	www.muxubai8.pro
 0.0.0.0	www.mx.ero-advertising.com
 0.0.0.0	www.my-olx.october-update.shop
@@ -38148,13 +38216,13 @@
 0.0.0.0	www.ourdadsworkshop.com
 0.0.0.0	www.ourlads.com
 0.0.0.0	www.oursanantonioadventure.com
-0.0.0.0	www.outboundnomads.com
 0.0.0.0	www.outdooradventures.monster
 0.0.0.0	www.outstisoga.pro
 0.0.0.0	www.overoptimization.pro
 0.0.0.0	www.oversminor.pro
 0.0.0.0	www.pafiri-banase.pro
 0.0.0.0	www.pagepeel.ero-advertising.com
+0.0.0.0	www.pagodesort.pro
 0.0.0.0	www.palurui.pro
 0.0.0.0	www.pandora-pansionat.com
 0.0.0.0	www.pandora.klyroquest.com
@@ -38228,6 +38296,7 @@
 0.0.0.0	www.porada24.eu
 0.0.0.0	www.postads24.com
 0.0.0.0	www.postnewsads.com
+0.0.0.0	www.poutiidiop.pro
 0.0.0.0	www.poweredbyliquidfire.mobi
 0.0.0.0	www.pozifyi9.pro
 0.0.0.0	www.prebid.adnxs.com
@@ -38235,6 +38304,7 @@
 0.0.0.0	www.premium-leagueesl.pro
 0.0.0.0	www.premiumads.com.br
 0.0.0.0	www.preseherpe.pro
+0.0.0.0	www.prevecaset.pro
 0.0.0.0	www.prighunbod.pro
 0.0.0.0	www.prizefestival.mobi
 0.0.0.0	www.pro-bonded.com
@@ -38344,6 +38414,7 @@
 0.0.0.0	www.rioscpolys.pro
 0.0.0.0	www.ripardtko.pro
 0.0.0.0	www.ripetobiur.pro
+0.0.0.0	www.ripiodampp.pro
 0.0.0.0	www.riposrispo.pro
 0.0.0.0	www.rivibsnowl.pro
 0.0.0.0	www.rockieroads2.com
@@ -38504,6 +38575,7 @@
 0.0.0.0	www.sygjx.com
 0.0.0.0	www.synanovere.pro
 0.0.0.0	www.syndication.exdynsrv.com
+0.0.0.0	www.synonbilbo.pro
 0.0.0.0	www.syriaricon.pro
 0.0.0.0	www.t-analytics.com
 127.0.0.1	www.taboola.com
@@ -38524,16 +38596,19 @@
 0.0.0.0	www.tex.ero-advertising.com
 0.0.0.0	www.text-link-ads.com
 0.0.0.0	www.textadvertising.com
+0.0.0.0	www.textileads.com
 0.0.0.0	www.textlinkads.com
 0.0.0.0	www.theadschampion.com
 216.239.38.21	www.thegobridgeoglepuzzle.com
 216.239.38.21	www.thegooglepuzzle.com
 0.0.0.0	www.thehigginsadventure.com
+0.0.0.0	www.thejugaadstudio.com
 0.0.0.0	www.themortgageadvisorguy.com
 192.229.179.32	www.thenation.com
 104.16.230.14	www.thetvdb.com
 72.14.249.236	www.thinkwithgoogle.com
 0.0.0.0	www.thiosriagg.pro
+0.0.0.0	www.thixochris.pro
 0.0.0.0	www.thumb.ero-advertising.com
 0.0.0.0	www.thumbads.ero-advertising.com
 0.0.0.0	www.thumbs.xlaces.ero-advertising.com
@@ -38591,6 +38666,7 @@
 0.0.0.0	www.trollabeta.pro
 0.0.0.0	www.tropodande.pro
 0.0.0.0	www.trourted.pro
+0.0.0.0	www.truckchoiceadvisor.com
 0.0.0.0	www.true-click.pro
 0.0.0.0	www.trueadvantage.pro
 0.0.0.0	www.truthtellerspeaks.pro
@@ -38620,6 +38696,7 @@
 0.0.0.0	www.unitedapproach.pro
 0.0.0.0	www.universal-traffic.com
 0.0.0.0	www.universallawadvisors.com
+0.0.0.0	www.unlacumid.pro
 0.0.0.0	www.update-1.com
 0.0.0.0	www.update-56632.serveris.id.lv
 0.0.0.0	www.update-information.zzux.com
@@ -38703,6 +38780,7 @@
 0.0.0.0	www.violationcomplaintadsphere.vercel.app
 0.0.0.0	www.vipads.cc
 0.0.0.0	www.vipads.live
+0.0.0.0	www.viscomonod.pro
 0.0.0.0	www.vivaciouslingo.pro
 0.0.0.0	www.vividecho.pro
 0.0.0.0	www.vividharmony.pro
@@ -38767,7 +38845,6 @@
 0.0.0.0	www.wogydoy2.pro
 0.0.0.0	www.wokapea.pro
 0.0.0.0	www.worldnomads.com
-0.0.0.0	www.wotaloe7.pro
 0.0.0.0	www.wow.ero-advertising.com
 0.0.0.0	www.wpd83hnc3nrk4ip539dadd7j.gameignighter.com
 0.0.0.0	www.wqeruytbnmjklofgh.pro
@@ -38811,6 +38888,7 @@
 0.0.0.0	www.yoads.net
 0.0.0.0	www.yohoads.com
 0.0.0.0	www.yorkenergyadvice.com
+0.0.0.0	www.youradvert.com
 0.0.0.0	www.yourfreedownloads.com
 0.0.0.0	www.youripad4free.com
 108.177.125.136	www.youtube-nocookie.com
@@ -38925,6 +39003,7 @@
 127.0.0.1	xaftp.irs01.com
 127.0.0.1	xajs.irs01.com
 127.0.0.1	xajs2.irs01.com
+0.0.0.0	xakep.dad
 0.0.0.0	xapads.com
 0.0.0.0	xapads.cpm.ak-is2.net
 0.0.0.0	xapads.rtb-useast.ak-is2.net
@@ -39067,6 +39146,7 @@
 127.0.0.1	xunlei.ipdx.cn.miaozhen.com
 0.0.0.0	xuporea4.pro
 127.0.0.1	xy.phone.igexin.com
+0.0.0.0	xycdn.com
 0.0.0.0	xycusua2.pro
 0.0.0.0	xyqh5.163.com
 0.0.0.0	xyvifii.pro
@@ -39138,6 +39218,7 @@
 104.31.79.57	you-get.org
 127.0.0.1	youku-acs.m.taobao.com
 127.0.0.1	youku-dtv.m.cn.miaozhen.com
+0.0.0.0	youradvert.com
 0.0.0.0	yourfreedownloads.com
 0.0.0.0	youripad4free.com
 108.177.125.136	youtu.be
