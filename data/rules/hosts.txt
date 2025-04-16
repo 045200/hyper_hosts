@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-04-16 00:23:30
+# 最后更新时间: 2025-04-16 12:23:45
 # 规则总数: 39376
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -7783,7 +7783,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.114.21	api.individual.githubcopilot.com
+140.82.113.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -11353,7 +11353,7 @@
 0.0.0.0	coolerads.com
 127.0.0.1	cooperation.html5.qq.com
 0.0.0.0	cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
-4.249.131.160	copilot-proxy.githubusercontent.com
+20.85.130.105	copilot-proxy.githubusercontent.com
 205.251.235.239	copilot.amazon.co.jp
 0.0.0.0	coquviu0.pro
 0.0.0.0	coral-media-dsp1.rtb.adx1.com
@@ -13578,7 +13578,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.114.22	education.github.com
+140.82.113.22	education.github.com
 172.217.168.209	edudirectory.withgoogle.com
 172.217.168.209	eduproducts.withgoogle.com
 172.217.168.209	edutrainingcenter.withgoogle.com
@@ -14501,11 +14501,11 @@
 74.125.248.73	git.chromium.org
 138.201.212.228	git.torproject.org
 151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
-3.5.30.120	github-cloud.s3.amazonaws.com
-54.231.136.129	github-com.s3.amazonaws.com
-16.15.200.84	github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.32.201	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.130.121	github-production-user-asset-6210df.s3.amazonaws.com
+16.182.68.33	github-cloud.s3.amazonaws.com
+52.217.124.153	github-com.s3.amazonaws.com
+3.5.29.118	github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.37.209	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.30.206	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
