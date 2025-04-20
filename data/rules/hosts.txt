@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-04-20 12:22:19
-# 规则总数: 44974
+# 最后更新时间: 2025-04-21 00:22:22
+# 规则总数: 44975
 # 项目地址: https://github.com/045200/hyper_hosts
 
 157.240.7.35	0-edge-chat.facebook.com
@@ -7588,6 +7588,7 @@
 0.0.0.0	api.aff-online.com
 0.0.0.0	api.affinesystems.com
 0.0.0.0	api.affmates.com
+0.0.0.0	api.aftership-pixel.com
 0.0.0.0	api.agoda.com.edgekey.net
 0.0.0.0	api.agrantsem.com
 127.0.0.1	api.aiclk.com
@@ -7925,7 +7926,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.114.22	api.individual.githubcopilot.com
+140.82.112.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -8770,6 +8771,7 @@
 127.0.0.1	asia-ex-adlog.vivoglobal.com
 127.0.0.1	asia-exstsdk.vivoglobal.com
 127.0.0.1	asia-monitor-stsdk.vivoglobal.com
+0.0.0.0	asia-news-abroad-backstage-interface.vivoglobal.com
 127.0.0.1	asia-onrt-stsdk.vivoglobal.com
 127.0.0.1	asia-ort-stsdk.vivoglobal.com
 127.0.0.1	asia-pnrt-stsdk.vivoglobal.com
@@ -10685,7 +10687,7 @@
 0.0.0.0	censuchier.pro
 0.0.0.0	censuinart.pro
 0.0.0.0	centequart.pro
-140.82.114.22	central.github.com
+140.82.112.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centrfiocc.pro
 0.0.0.0	centro.pixel.ad
@@ -15554,11 +15556,11 @@
 74.125.248.73	git.chromium.org
 138.201.212.228	git.torproject.org
 151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
-52.217.172.1	github-cloud.s3.amazonaws.com
-52.216.204.131	github-com.s3.amazonaws.com
-52.217.130.241	github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.227.81	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.30.1	github-production-user-asset-6210df.s3.amazonaws.com
+54.231.167.49	github-cloud.s3.amazonaws.com
+52.216.171.67	github-com.s3.amazonaws.com
+52.216.37.1	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.27.249	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.236.97	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -37975,7 +37977,6 @@
 0.0.0.0	unified.adsafeprotected.com
 0.0.0.0	unifiedbidding.ad.smaato.net
 0.0.0.0	unifopersp.pro
-0.0.0.0	uniformadvantage.demdex.net
 0.0.0.0	uniformadvantage3283141z.btttag.com
 0.0.0.0	unimmungra.pro
 0.0.0.0	unindrisol.pro
