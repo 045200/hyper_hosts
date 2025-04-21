@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-04-21 00:22:22
-# 规则总数: 44975
+# 最后更新时间: 2025-04-21 12:24:10
+# 规则总数: 44987
 # 项目地址: https://github.com/045200/hyper_hosts
 
 157.240.7.35	0-edge-chat.facebook.com
@@ -768,6 +768,8 @@
 0.0.0.0	accultoxon.pro
 0.0.0.0	accurspriz.pro
 0.0.0.0	accuscosti.pro
+0.0.0.0	acd.op.hicloud.com
+0.0.0.0	acd.op.hihonorcloud.com
 127.0.0.1	acdn.adnxs-simple.com
 127.0.0.1	acdn.adnxs.com
 0.0.0.0	acdn.newshuntads.com
@@ -6328,12 +6330,14 @@
 0.0.0.0	adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 0.0.0.0	adx-dra.op.dbankcloud.com
 0.0.0.0	adx-dra.op.hicloud.com
+0.0.0.0	adx-dra.op.hihonorcloud.com
 0.0.0.0	adx-drcn.op.dbankcloud.cn
 0.0.0.0	adx-drcn.op.dbankcloud.com
 0.0.0.0	adx-drcn.op.hihonorcloud.cn
 0.0.0.0	adx-drcn.op.hihonorcloud.com
 0.0.0.0	adx-dre.op.dbankcloud.com
 0.0.0.0	adx-dre.op.hicloud.com
+0.0.0.0	adx-dre.op.hihonorcloud.com
 0.0.0.0	adx-drru.op.dbankcloud.ru
 127.0.0.1	adx-event.ad.jiguang.cn
 0.0.0.0	adx-event.tradplusad.com
@@ -7926,7 +7930,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.112.22	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -10687,7 +10691,7 @@
 0.0.0.0	censuchier.pro
 0.0.0.0	censuinart.pro
 0.0.0.0	centequart.pro
-140.82.112.21	central.github.com
+140.82.114.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centrfiocc.pro
 0.0.0.0	centro.pixel.ad
@@ -11862,7 +11866,7 @@
 127.0.0.1	cooperation.html5.qq.com
 0.0.0.0	cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	copertetra.pro
-20.85.130.105	copilot-proxy.githubusercontent.com
+4.249.131.160	copilot-proxy.githubusercontent.com
 205.251.235.239	copilot.amazon.co.jp
 0.0.0.0	coppiincru.pro
 0.0.0.0	copromemor.pro
@@ -14439,7 +14443,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.113.22	education.github.com
+140.82.114.22	education.github.com
 172.217.168.209	edudirectory.withgoogle.com
 172.217.168.209	eduproducts.withgoogle.com
 172.217.168.209	edutrainingcenter.withgoogle.com
@@ -14738,6 +14742,8 @@
 127.0.0.1	events.appsflyer.com
 74.125.206.210	events.google.com
 127.0.0.1	events.mz.unity3d.com
+0.0.0.0	events.op.hicloud.com
+0.0.0.0	events.op.hihonorcloud.com
 0.0.0.0	events.reddit.com
 0.0.0.0	events.redditmedia.com
 0.0.0.0	events.samsungads.com
@@ -15556,11 +15562,11 @@
 74.125.248.73	git.chromium.org
 138.201.212.228	git.torproject.org
 151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
-54.231.167.49	github-cloud.s3.amazonaws.com
-52.216.171.67	github-com.s3.amazonaws.com
-52.216.37.1	github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.27.249	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.236.97	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.221.201	github-cloud.s3.amazonaws.com
+52.217.81.164	github-com.s3.amazonaws.com
+3.5.29.186	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.130.129	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.27.67	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -19787,6 +19793,8 @@
 0.0.0.0	oofyficca.pro
 0.0.0.0	oolascapi.pro
 104.198.14.52	ooni.torproject.org
+0.0.0.0	op.hicloud.com
+0.0.0.0	op.hihonorcloud.com
 127.0.0.1	op.ssp.qq.com
 127.0.0.1	opabl-api-r.dutils.com
 0.0.0.0	opachscazo.pro
@@ -35191,6 +35199,8 @@
 0.0.0.0	sdkrec.tf.360.cn
 127.0.0.1	sdkreport.e.qq.com
 127.0.0.1	sdksecure.im.jiguang.cn
+0.0.0.0	sdkserver-drcn.op.dbankcloud.cn
+0.0.0.0	sdkserver-drcn.op.hihonorcloud.com
 127.0.0.1	sdksp.video.qq.com
 127.0.0.1	sdksp6.video.qq.com
 0.0.0.0	sdktmp.hubcloud.com.cn
@@ -38122,6 +38132,8 @@
 0.0.0.0	updatesdk.avlyun.com
 0.0.0.0	updatesecure.pro
 0.0.0.0	uperitrigo.pro
+0.0.0.0	upfile-drcn.platform.hicloud.com
+0.0.0.0	upfile-drcn.platform.hihonorcloud.com
 0.0.0.0	upgazsoffi.pro
 0.0.0.0	upgrade-adservice.hismarttv.com
 0.0.0.0	upgrade-ms-home.com
