@@ -2,7 +2,7 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"。
 #在相应行的开头加个"#"号
-#更新时间: 2025-04-23 10:27:49
+#更新时间: 2025-04-23 15:29:17
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
@@ -15,7 +15,7 @@
 127.0.1.1 hostname
 127.0.1.2 hostname
 127.0.1.3 hostname
-#规则数量:28033
+#规则数量:28057
 #GIthub订阅主页: https://github.com/lingeringsound/10007_auto
 
 0.0.0.0 0.r.msn.com
@@ -56,8 +56,10 @@
 0.0.0.0 120.232.210.153
 0.0.0.0 120.232.210.155
 0.0.0.0 120.238.119.113
+0.0.0.0 120.27.235.201
 0.0.0.0 121.12.1.102
 0.0.0.0 121.12.1.95
+0.0.0.0 121.196.197.147
 0.0.0.0 121.43.235.135
 0.0.0.0 122.14.229.147
 0.0.0.0 122.14.229.148
@@ -156,7 +158,12 @@
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 4.adsco.re
 0.0.0.0 4.afs.googleadservices.com
+0.0.0.0 47.110.187.87
+0.0.0.0 47.243.147.125
+0.0.0.0 47.56.131.76
 0.0.0.0 47.89.59.182
+0.0.0.0 47.97.215.55
+0.0.0.0 47.99.42.29
 0.0.0.0 480.zaloapp.ads.zdn.vn
 0.0.0.0 4anners.ero-advertising.com
 0.0.0.0 4b3325da2ad11b359d69f1c5af40712b.albfilz.com
@@ -319,6 +326,7 @@
 0.0.0.0 aads.shuzilm.cn
 0.0.0.0 aads.treehugger.com
 0.0.0.0 aaid.umeng.com
+0.0.0.0 aaid.uyunad.com
 0.0.0.0 aalbc.advertserve.com
 0.0.0.0 aanigicatat.pro
 0.0.0.0 aata.ero-advertising.com
@@ -581,6 +589,8 @@
 0.0.0.0 ad-gbn.com
 0.0.0.0 ad-generation.jp
 0.0.0.0 ad-generator.net
+0.0.0.0 ad-h5-cdn.soulapp.cn
+0.0.0.0 ad-h5-station-cdn.soulapp.cn
 0.0.0.0 ad-hatena.com
 0.0.0.0 ad-hoc-news.de.intellitxt.com
 0.0.0.0 ad-house.mobi
@@ -618,6 +628,7 @@
 0.0.0.0 ad-ping.tapcash.com
 0.0.0.0 ad-plus.cn
 0.0.0.0 ad-plus.com.tr
+0.0.0.0 ad-r.soulapp.cn
 0.0.0.0 ad-renderer-assets.ads.sportradar.com
 0.0.0.0 ad-ru-01.p.adserv.ai
 0.0.0.0 ad-ru-02.p.adserv.ai
@@ -1053,6 +1064,7 @@
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.intools.dev
 0.0.0.0 ad.investor.bg
+0.0.0.0 ad.iot.360.cn
 0.0.0.0 ad.ipadview.com
 0.0.0.0 ad.iplayer.org
 0.0.0.0 ad.ipredictive.com
@@ -2023,6 +2035,7 @@
 0.0.0.0 adpm.app.qq.com
 0.0.0.0 adpretirementservices.122.2o7.net
 0.0.0.0 adpro.pro.cn
+0.0.0.0 adproxy.autohome.com.cn
 0.0.0.0 adpulse.ads.targetnet.com
 0.0.0.0 adpush.goforandroid.com
 0.0.0.0 adpushsdk.goforandroid.com
@@ -7789,6 +7802,7 @@
 0.0.0.0 apistat.adbana.com
 0.0.0.0 apistats-static.propellerads.com
 0.0.0.0 apistats.propellerads.com
+0.0.0.0 apiv4-iyes.youku.com
 0.0.0.0 apk.flat-ads.com
 0.0.0.0 apm-volcano.zuoyebang.com
 0.0.0.0 apo.ero-advertising.com
@@ -13636,6 +13650,7 @@
 0.0.0.0 lewetoy6.pro
 0.0.0.0 lewocui8.pro
 0.0.0.0 lexicdemod.pro
+0.0.0.0 lf-ad-ies.bytecdn.cn
 0.0.0.0 lf0-common-ckv-tos.pstatp.com
 0.0.0.0 lf1-common-ckv-tos.pstatp.com
 0.0.0.0 lf10-common-ckv-tos.pstatp.com
@@ -13862,6 +13877,7 @@
 0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 m-hayakawa.ad.dev.nend.net
 0.0.0.0 m-static.ktokto.mobi
+0.0.0.0 m-vali.cp31.ott.cibntv.net
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 m.ads.sohu.com
@@ -18578,6 +18594,7 @@
 0.0.0.0 spitfpolys.pro
 0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 splash-screen.voodoo-ads.io
+0.0.0.0 splashimgretrybssdl.cloud.kugou.com
 0.0.0.0 splorgrati.pro
 0.0.0.0 spoliaardv.pro
 0.0.0.0 spoliurina.pro
@@ -19345,7 +19362,6 @@
 0.0.0.0 tamszumerle.pro
 0.0.0.0 tangeunrep.pro
 0.0.0.0 tanghbassu.pro
-0.0.0.0 tangram.e.qq.com
 0.0.0.0 tanklriagg.pro
 0.0.0.0 tannismott.pro
 0.0.0.0 tantahecto.pro
@@ -19680,6 +19696,8 @@
 0.0.0.0 tossiproce.pro
 0.0.0.0 tossoffads.com
 0.0.0.0 tostiscale.pro
+0.0.0.0 tosv.boe.byted.org
+0.0.0.0 tosv.byted.org
 0.0.0.0 totiprulla.pro
 0.0.0.0 tour.affbuzzads.com
 0.0.0.0 tournamentary.pro
@@ -20043,6 +20061,7 @@
 0.0.0.0 tyfefye.pro
 0.0.0.0 typicmorph.pro
 0.0.0.0 typo3.ero-advertising.com
+0.0.0.0 tysdk.95516.com
 0.0.0.0 tytx.m.cn.miaozhen.com
 0.0.0.0 u-ads.adap.tv
 0.0.0.0 u-x.jd.com
@@ -20558,6 +20577,7 @@
 0.0.0.0 valenstral.pro
 0.0.0.0 valf.atm.cp31.ott.cibntv.net
 0.0.0.0 vali-g1.cp31.ott.cibntv.net
+0.0.0.0 vali-ugc.cp31.ott.cibntv.net
 0.0.0.0 vali.cp31.ott.cibntv.net.302.myalicdn.com
 0.0.0.0 valiceracl.pro
 0.0.0.0 valigdiscl.pro
@@ -21059,6 +21079,7 @@
 0.0.0.0 vu.adschoom.com
 0.0.0.0 vulcarabbo.pro
 0.0.0.0 vumoseo6.pro
+0.0.0.0 vv6.video.qq.com
 0.0.0.0 vv84.bj.bcebos.com
 0.0.0.0 vwins.pro
 0.0.0.0 vwinvn.pro
@@ -27828,6 +27849,7 @@
 0.0.0.0 yt1.mmstat.com
 0.0.0.0 yueads.apse.svr.rixengine.com
 0.0.0.0 yuintbradshed.com
+0.0.0.0 yumao.puata.info
 0.0.0.0 yummyadvertiseexploded.com
 0.0.0.0 yuppyads.com
 0.0.0.0 yurtmowilli.pro
@@ -27993,13 +28015,14 @@
 0.0.0.0 m.gdt.qq.com
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 nc.gdt.qq.com
-0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 pgdt.gtimg.cn
+0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 pv.sohu.com
 0.0.0.0 q.i.gdt.qq.com
 0.0.0.0 rm.gdt.qq.com
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 t.gdt.qq.com
+0.0.0.0 tangram.e.qq.com
 0.0.0.0 v2.gdt.qq.com
 0.0.0.0 v3.gdt.qq.com
 0.0.0.0 v6ii.gdt.qq.com
@@ -28036,6 +28059,7 @@
 0.0.0.0 c.gdt.qq.com
 0.0.0.0 tmead.y.qq.com
 0.0.0.0 tmeadcomm.y.qq.com
+0.0.0.0 tmeadbak.y.qq.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 oth.str.mdt.qq.com
 0.0.0.0 oth.update.mdt.qq.com
