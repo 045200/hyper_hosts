@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-04-24 00:26:12
-# 规则总数: 31741
+# 最后更新时间: 2025-04-24 12:23:54
+# 规则总数: 31746
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -7745,7 +7745,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -12568,7 +12568,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.114.22	education.github.com
 0.0.0.0	edunaremtesu.pro
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
@@ -13618,11 +13618,11 @@
 0.0.0.0	girelobes.pro
 0.0.0.0	girelwhett.pro
 20.205.243.166	gist.github.com
-16.15.216.60	github-cloud.s3.amazonaws.com
-3.5.20.54	github-com.s3.amazonaws.com
-52.217.202.233	github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.199.9	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.70.233	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.3.53	github-cloud.s3.amazonaws.com
+54.231.160.41	github-com.s3.amazonaws.com
+54.231.139.169	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.192.30	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.4.4	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -19914,6 +19914,7 @@
 127.0.0.1	rpen.xdplt.com
 127.0.0.1	rplog.baidu.com
 127.0.0.1	rprain.bz.mgtv.com
+0.0.0.0	rps.hpplay.cn
 0.0.0.0	rpt-gdt.play.t002.ottcn.com
 127.0.0.1	rpt.gdt.qq.com
 0.0.0.0	rpvehb.pro
@@ -20348,6 +20349,7 @@
 0.0.0.0	sa8.tuisong.baidu.com
 127.0.0.1	saad.ms.zhangyue.net
 0.0.0.0	saadsfds7.myshoplaza.com
+0.0.0.0	saas.hpplay.cn
 127.0.0.1	saas.tingyun.com
 0.0.0.0	sabainarco.pro
 0.0.0.0	sabbiarruf.pro
@@ -24106,6 +24108,7 @@
 127.0.0.1	vcs.snssdk.com
 127.0.0.1	vcs.zijieapi.com
 127.0.0.1	vd.l.qq.com
+0.0.0.0	vd6.l.qq.com
 0.0.0.0	ve.ads.justpremium.com
 0.0.0.0	veads.veinteractive.com
 0.0.0.0	vebinmy.pro
@@ -24171,6 +24174,7 @@
 0.0.0.0	vh.adscale.de
 127.0.0.1	vhotlxp.video.qq.com
 0.0.0.0	vhunantv.admaster.com.cn
+0.0.0.0	vi.l.qq.com
 0.0.0.0	viads.com
 0.0.0.0	viads.net
 0.0.0.0	viamichelin.media.trafficjunky.net
@@ -24290,6 +24294,7 @@
 0.0.0.0	vipads.live
 0.0.0.0	vipads.offerstrack.net
 0.0.0.0	vipauth.hpplay.cn
+0.0.0.0	vipgslb.hpplay.cn
 127.0.0.1	viqiyi.admaster.com.cn
 0.0.0.0	virusinfo-cloudscan-cn.heytapmobi.com
 0.0.0.0	visagnonpr.pro
