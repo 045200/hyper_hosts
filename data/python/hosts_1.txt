@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 734
-!Version: 1.6.0-release
-!Update time: 2025-04-24 12:22:09 UTC+8
-!Update content: more TV (yunshitin、yinheqiyiguo...) ad block.
+!Total lines: 769
+!Version: 1.6.5-release
+!Update time: 2025-04-25 03:13:15 UTC+8
+!Update content: remove "ads-us.tiktok.com" to refresh the version.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -20,6 +20,7 @@
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
 0.0.0.0 abtest-ch.snssdk.com
+0.0.0.0 ad-cdn.qingting.fm
 0.0.0.0 ad-scope.com
 0.0.0.0 ad-scope.com.cn
 0.0.0.0 ad-sdk-config.youdao.com
@@ -78,6 +79,7 @@
 0.0.0.0 ads.huan.tv
 0.0.0.0 ads.huantest.com
 0.0.0.0 ads.icloseli.cn
+0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.music.126.net
 0.0.0.0 ads.pinterest.com
@@ -143,6 +145,8 @@
 0.0.0.0 adx-os.anythinktech.com
 0.0.0.0 adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 adx.appsdk.com.cn
+0.0.0.0 adx.sogaha.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 adxserver.ad.cmvideo.cn
 0.0.0.0 aegis.qq.com
@@ -156,6 +160,7 @@
 0.0.0.0 als.baidu.com
 0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 an.facebook.com
+0.0.0.0 analysis.chatglm.cn
 0.0.0.0 analysis.yozocloud.cn
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.google.com
@@ -185,11 +190,13 @@
 0.0.0.0 api-htp.beizi.biz
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.e.kuaishou.com
+0.0.0.0 api.fu.xcultur.com
 0.0.0.0 api.htp.hubcloud.com.cn
 0.0.0.0 api.hzsanjiaomao.com
 0.0.0.0 api.installer.xiaomi.com
 0.0.0.0 api.jietuhb.com
 0.0.0.0 api.kingdata.ksyun.com
+0.0.0.0 api.ssp.xcultur.com
 0.0.0.0 api.statsig.com
 0.0.0.0 api.touch-moblie.com
 0.0.0.0 api.yfanads.com
@@ -200,6 +207,7 @@
 0.0.0.0 applog.lc.quark.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 applog.zijieapi.com
+0.0.0.0 applovin.com
 0.0.0.0 aspect-upush.umeng.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audid-api.taobao.com
@@ -241,10 +249,12 @@
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 cdn-ad.wtzw.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
+0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0 cdn.aiclk.com
 0.0.0.0 cdn.chinaliftoff-creatives.io
 0.0.0.0 cdn.hpplay.com.cn
+0.0.0.0 cdn.iads.unitychina.cn
 0.0.0.0 cdn.liftoff-creatives.io
 0.0.0.0 cdn.ynuf.aliapp.org
 0.0.0.0 cfg.imtt.qq.com
@@ -266,12 +276,15 @@
 0.0.0.0 commdata.v.qq.com
 0.0.0.0 conf.hpplay.cn
 0.0.0.0 config.chsmarttv.com
+0.0.0.0 config.inmobi.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 cpc-service-square.aiclk.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 csjplatform.com
 0.0.0.0 cws-cctv.conviva.com
+0.0.0.0 d.applovin.com
+0.0.0.0 d.applvn.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 data.chsmarttv.com
 0.0.0.0 data.mistat.india.xiaomi.com
@@ -303,6 +316,7 @@
 0.0.0.0 entry.baidu.com
 0.0.0.0 errlog.umeng.com
 0.0.0.0 errnewlog.umeng.com
+0.0.0.0 et-eus.w.inmobi.com
 0.0.0.0 event.tradplusad.com
 0.0.0.0 events-drcn.op.dbankcloud.cn
 0.0.0.0 events.reddit.com
@@ -333,6 +347,7 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googletagservices-cn.com
 0.0.0.0 gorgon.youdao.com
+0.0.0.0 graph.facebook.com
 0.0.0.0 gromore.pangolin-sdk-toutiao.com
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 grs.hicloud.com
@@ -361,6 +376,8 @@
 0.0.0.0 hybrid.miniapp.taobao.com
 0.0.0.0 hye.comp.360os.com
 0.0.0.0 hyt.comp.360os.com
+0.0.0.0 i.l-new.inmobicdn.net
+0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 iad.apple.com
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iadsdk.apple.com
@@ -378,6 +395,7 @@
 0.0.0.0 img.adnyg.com.w.kunlungr.com
 0.0.0.0 impression-asia.chinaliftoff.io
 0.0.0.0 impression-asia.liftoff.io
+0.0.0.0 impression.appsflyer.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
@@ -484,6 +502,10 @@
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 monsetting.toutiao.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 ms.applvn.com
+0.0.0.0 ms4.applovin.com
+0.0.0.0 ms4.applvn.com
 0.0.0.0 mssdk.volces.com
 0.0.0.0 mssdk.zijieapi.com
 0.0.0.0 mtj.baidu.com
@@ -492,6 +514,7 @@
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 nsclick.baidu.com
+0.0.0.0 o-sdk.mediation.unity3d.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 ogads-pa.clients6.google.com
@@ -535,6 +558,7 @@
 0.0.0.0 pms.mb.qq.com
 0.0.0.0 policy.video.ptqy.gitv.tv
 0.0.0.0 pos.baidu.com
+0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 proxy.advp.apple.com
 0.0.0.0 public.gdtimg.com
 0.0.0.0 q.i.gdt.qq.com
@@ -543,6 +567,7 @@
 0.0.0.0 qzs.gdtimg.com
 0.0.0.0 recommend-drcn.hms.dbankcloud.cn
 0.0.0.0 report.tv.kohesport.qq.com
+0.0.0.0 res1.applovin.com
 0.0.0.0 res1.hubcloud.com.cn
 0.0.0.0 resolve.umeng.com
 0.0.0.0 review.gdtimg.com
@@ -552,6 +577,8 @@
 0.0.0.0 rp.hpplay.cn
 0.0.0.0 rps.hpplay.cn
 0.0.0.0 rpt.gdt.qq.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 rt.applvn.com
 0.0.0.0 rtb.voiceads.cn
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s8t.teads.tv
@@ -566,6 +593,7 @@
 0.0.0.0 sdk-ab-config.qquanquan.com
 0.0.0.0 sdk-cache.video.ptqy.gitv.tv
 0.0.0.0 sdk.1rtb.net
+0.0.0.0 sdk.ad.smaato.net
 0.0.0.0 sdk.beizi.biz
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 sdk.hzsanjiaomao.com
@@ -610,10 +638,12 @@
 0.0.0.0 stg-data.ads.heytapmobi.com
 0.0.0.0 stun.hitv.com
 0.0.0.0 success.ctobsnssdk.com
+0.0.0.0 supply.inmobicdn.net
 0.0.0.0 sv-video.play.aiseet.atianqi.com
 0.0.0.0 syh-imp.cdnjtzy.com
 0.0.0.0 szbdyd.com
 0.0.0.0 t-dsp.pinduoduo.com
+0.0.0.0 t.applovin.com
 0.0.0.0 t.teads.tv
 0.0.0.0 t.track.ad.xiaomi.com
 0.0.0.0 t1.a.market.xiaomi.com
@@ -626,6 +656,7 @@
 0.0.0.0 tdc.qq.com
 0.0.0.0 tdsdk.cpatrk.net
 0.0.0.0 tdsdk.xdrig.com
+0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 tencent-dtv.m.cn.miaozhen.com
 0.0.0.0 terms-drcn.platform.dbankcloud.cn
 0.0.0.0 test.ad.xiaomi.com
@@ -648,6 +679,7 @@
 0.0.0.0 tpa-hcdn.iqiyi.com
 0.0.0.0 tpc.googlesyndication-cn.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 tr-asia.adsmoloco.com
 0.0.0.0 trace.qq.com
 0.0.0.0 tracelog-debug.aiclk.com
 0.0.0.0 tracelog-debug.qquanquan.com
@@ -686,6 +718,7 @@
 0.0.0.0 uranus.jd.com
 0.0.0.0 us.l.qq.com
 0.0.0.0 usr-api.aiclk.com
+0.0.0.0 v.110route.cn
 0.0.0.0 v.adintl.cn
 0.0.0.0 v.adx.hubcloud.com.cn
 0.0.0.0 v1-ad.video.yximgs.com
@@ -726,6 +759,7 @@
 0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
 0.0.0.0 ws.sj.qq.com
+0.0.0.0 wv.inner-active.mobi
 0.0.0.0 wwads.cn
 0.0.0.0 wxa.wxs.qq.com
 0.0.0.0 wxaintpcos.wxqcloud.qq.com.cn
@@ -745,6 +779,7 @@
 0.0.0.0 ykad-data.youku.com
 0.0.0.0 ykad-gateway.youku.com
 0.0.0.0 youku-acs.m.taobao.com
+0.0.0.0 ytx-file.110route.cn
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 :: 1500020991.vodplayer.wxamedia.com
@@ -800,6 +835,7 @@
 :: android.bugly.qq.com
 :: ap.dongqiudi.com
 :: api.ad.xiaomi.com
+:: api.fu.xcultur.com
 :: api.jietuhb.com
 :: api5-normal-quic-lf.ixigua.com
 :: app-measurement.com
@@ -825,6 +861,7 @@
 :: click.liftoff.io
 :: cnlogs.umengcloud.com
 :: crashlyticsreports-pa.googleapis.com
+:: d.applovin.com
 :: data.mistat.india.xiaomi.com
 :: data.mistat.rus.xiaomi.com
 :: dm.toutiao.com
@@ -832,7 +869,6 @@
 :: drcn-weather.cloud.huawei.com
 :: dualstack-logs.amap.com
 :: dxp.baidu.com
-:: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
@@ -847,6 +883,7 @@
 :: googleads.g.doubleclick.net
 :: googleadservices-cn.com
 :: googletagservices-cn.com
+:: graph.facebook.com
 :: h.trace.qq.com
 :: heads-ak.spotify.com.edgesuite.net
 :: heads-fa.spotify.com
@@ -900,6 +937,7 @@
 :: mon.zijieapi.com
 :: monitor.music.qq.com
 :: monsetting.toutiao.com
+:: ms.applovin.com
 :: mssdk.volces.com
 :: offerwall.yandex.net
 :: ogads-pa.clients6.google.com
@@ -921,10 +959,13 @@
 :: qqdata.ab.qq.com
 :: qzs.gdtimg.com
 :: recommend-drcn.hms.dbankcloud.cn
+:: res1.applovin.com
 :: resolve.umeng.com
 :: review.gdtimg.com
 :: rms-drcn.platform.dbankcloud.cn
 :: rpt.gdt.qq.com
+:: rt.applovin.com
+:: rt.applvn.com
 :: s8t.teads.tv
 :: sdk.e.qq.com
 :: search.ixigua.com

@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-04-25 00:26:05
-# 规则总数: 31503
+# 最后更新时间: 2025-04-25 12:24:15
+# 规则总数: 31514
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -6647,6 +6647,7 @@
 0.0.0.0	analffamil.pro
 0.0.0.0	analldisve.pro
 127.0.0.1	analy.qq.com
+0.0.0.0	analysis.chatglm.cn
 0.0.0.0	analysis.yozocloud.cn
 0.0.0.0	analytic.woozooo.com
 0.0.0.0	analyticlocationapi21.api.adsctv.net
@@ -7676,6 +7677,7 @@
 0.0.0.0	api.fpjs.io
 0.0.0.0	api.fraud0.com
 0.0.0.0	api.ftspecialist.exponea.com
+0.0.0.0	api.fu.xcultur.com
 0.0.0.0	api.fuseplatform.net
 0.0.0.0	api.fyber.com
 0.0.0.0	api.game-sdk.com
@@ -8125,6 +8127,7 @@
 0.0.0.0	api.sprig.com
 127.0.0.1	api.srv.jpush.cn
 127.0.0.1	api.ssp.admobile.top
+0.0.0.0	api.ssp.xcultur.com
 0.0.0.0	api.ssp.zxrtb.com
 0.0.0.0	api.st666.win
 0.0.0.0	api.stack-sonar.com
@@ -10150,7 +10153,7 @@
 0.0.0.0	censuchier.pro
 0.0.0.0	censuinart.pro
 0.0.0.0	centequart.pro
-140.82.113.21	central.github.com
+140.82.114.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centrfiocc.pro
 0.0.0.0	centro.pixel.ad
@@ -12360,7 +12363,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.112.21	education.github.com
+140.82.112.22	education.github.com
 0.0.0.0	edunaremtesu.pro
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
@@ -13413,11 +13416,11 @@
 0.0.0.0	girelobes.pro
 0.0.0.0	girelwhett.pro
 20.205.243.166	gist.github.com
-16.182.74.1	github-cloud.s3.amazonaws.com
-16.182.106.81	github-com.s3.amazonaws.com
-54.231.231.121	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.216.235	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.199.169	github-production-user-asset-6210df.s3.amazonaws.com
+52.217.225.137	github-cloud.s3.amazonaws.com
+52.216.153.60	github-com.s3.amazonaws.com
+3.5.20.172	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.217.1	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.29.35	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -13586,6 +13589,7 @@
 0.0.0.0	granfammin.pro
 0.0.0.0	granuritem.pro
 0.0.0.0	grapeshot-goldbach.prod.gbads.net
+0.0.0.0	graph.facebook.com
 0.0.0.0	graphics.medleyads.com
 0.0.0.0	grassunghi.pro
 0.0.0.0	grattdistu.pro
@@ -14098,6 +14102,8 @@
 0.0.0.0	i.ipinyou.com
 127.0.0.1	i.isnssdk.com
 0.0.0.0	i.jads.co
+0.0.0.0	i.l-new.inmobicdn.net
+0.0.0.0	i.l.inmobicdn.net
 0.0.0.0	i.mixadvert.com
 72.247.96.248	i.pinimg.com
 127.0.0.1	i.qchannel03.cn
@@ -16572,6 +16578,7 @@
 0.0.0.0	ms.bdimg.com
 0.0.0.0	ms.yandex.ru
 127.0.0.1	ms4.applovin.com
+0.0.0.0	ms4.applvn.com
 0.0.0.0	msads.net
 0.0.0.0	msadsense.com
 0.0.0.0	msadsscale.azureedge.net
@@ -21957,6 +21964,7 @@
 0.0.0.0	supplsgatt.pro
 0.0.0.0	suppltarta.pro
 0.0.0.0	supply.advangelists.com
+0.0.0.0	supply.inmobicdn.net
 0.0.0.0	supply.xapads.com
 0.0.0.0	supporrtadvertissing.com
 0.0.0.0	support-opensea.pro
@@ -22139,6 +22147,7 @@
 0.0.0.0	t.agrantsem.com
 0.0.0.0	t.alimama.com
 0.0.0.0	t.appads.in
+0.0.0.0	t.applovin.com
 127.0.0.1	t.appsflyer.com
 0.0.0.0	t.channeladvisor.com
 127.0.0.1	t.dentsuchina.cn
@@ -23636,6 +23645,7 @@
 0.0.0.0	uxip-res.meizu.com
 0.0.0.0	uxip.meizu.com
 0.0.0.0	uy.ads.justpremium.com
+0.0.0.0	v.110route.cn
 0.0.0.0	v.adintl.cn
 127.0.0.1	v.admaster.com.cn
 0.0.0.0	v.adsrvr.cn
@@ -31342,6 +31352,7 @@
 0.0.0.0	yt-adv.bn.netease.com
 127.0.0.1	yt.mmstat.com
 127.0.0.1	yt1.mmstat.com
+0.0.0.0	ytx-file.110route.cn
 0.0.0.0	yueads.apse.svr.rixengine.com
 0.0.0.0	yuintbradshed.com
 0.0.0.0	yumao.puata.info
