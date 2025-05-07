@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-05-07 12:24:10
-# 规则总数: 42846
+# 最后更新时间: 2025-05-08 00:27:19
+# 规则总数: 42835
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -4691,7 +4691,6 @@
 127.0.0.1	ads5-normal-lq.zijieapi.com
 0.0.0.0	ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net
 127.0.0.1	ads5-normal.zijieapi.com
-0.0.0.0	ads5.admatic.com.tr
 0.0.0.0	ads5.advance.net
 0.0.0.0	ads5.contentabc.com
 0.0.0.0	ads5.fxdepo.com
@@ -5456,7 +5455,6 @@
 0.0.0.0	adservingfront.com
 0.0.0.0	adservings.ru
 127.0.0.1	adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
-0.0.0.0	adservob.com
 0.0.0.0	adservone.com
 0.0.0.0	adservrs.com
 0.0.0.0	adservrs.com.edgekey.net
@@ -5633,7 +5631,6 @@
 0.0.0.0	adspeed.net
 0.0.0.0	adspend.space
 0.0.0.0	adsperfection.g2afse.com
-0.0.0.0	adspi.xyz
 0.0.0.0	adspire.io
 0.0.0.0	adspirit.de
 0.0.0.0	adspirit.net
@@ -6232,7 +6229,6 @@
 0.0.0.0	advimage.bolink.club
 0.0.0.0	advimg.ad-mapps.com
 0.0.0.0	advincent.com
-0.0.0.0	adviseforty.com
 0.0.0.0	adviser.bs-dante.ru
 0.0.0.0	advisible.com
 0.0.0.0	advision-adnw.genieesspv.jp
@@ -7764,7 +7760,6 @@
 0.0.0.0	api.applovefrom.com
 0.0.0.0	api.applovin.com
 0.0.0.0	api.appmetrica.yandex.ru
-0.0.0.0	api.appnxt.net
 0.0.0.0	api.appodeal.com
 0.0.0.0	api.appodealx.com
 0.0.0.0	api.appprodus.platform.navify.com
@@ -7884,6 +7879,7 @@
 0.0.0.0	api.content.ad
 0.0.0.0	api.cooladata.com
 0.0.0.0	api.coolguang.com
+0.0.0.0	api.counterapi.dev
 0.0.0.0	api.country.is
 0.0.0.0	api.cpu.baidu.com
 0.0.0.0	api.cquotient.com
@@ -8063,7 +8059,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -8183,7 +8179,6 @@
 0.0.0.0	api.mobio.vn
 0.0.0.0	api.mobitech-content.xyz
 127.0.0.1	api.moblink.mob.com
-0.0.0.0	api.mobojoy.baidu.com
 0.0.0.0	api.mobpowertech.com
 0.0.0.0	api.mobrtb.com
 0.0.0.0	api.mobshark.net
@@ -8311,7 +8306,6 @@
 0.0.0.0	api.products.kameleoon.com
 0.0.0.0	api.prooffactor.com
 0.0.0.0	api.proofpositivemedia.com
-0.0.0.0	api.proper.io
 0.0.0.0	api.proxistore.com
 0.0.0.0	api.pub.network
 0.0.0.0	api.pubfinity.com
@@ -11271,7 +11265,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.112.21	central.github.com
+140.82.113.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -14231,7 +14225,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.113.22	education.github.com
+140.82.114.21	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	edunaremtesu.pro
 0.0.0.0	eedclicks.ero-advertising.com
@@ -15699,11 +15693,11 @@
 0.0.0.0	girelwhett.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-52.216.88.219	github-cloud.s3.amazonaws.com
-52.217.125.121	github-com.s3.amazonaws.com
-54.231.140.105	github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.137.116	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.200.69	github-production-user-asset-6210df.s3.amazonaws.com
+16.182.104.241	github-cloud.s3.amazonaws.com
+16.182.98.57	github-com.s3.amazonaws.com
+52.217.44.28	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.133.1	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.106.188	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -18371,7 +18365,6 @@
 0.0.0.0	leads.radioedit.iheart.com
 0.0.0.0	leads.su
 0.0.0.0	leads.traffichaus.com
-0.0.0.0	leads2.specificmedia.com
 0.0.0.0	leadsecnow.com
 0.0.0.0	leadsfoundrygmbs.com
 0.0.0.0	leadshurriedlysoak.com
@@ -21893,7 +21886,6 @@
 0.0.0.0	playaquadr.pro
 0.0.0.0	playbuzzmm.ads.tremorhub.com
 0.0.0.0	playbuzzmobileweb.ads.tremorhub.com
-0.0.0.0	player-aws.ads.152media.com
 0.0.0.0	player.ad-adapex.io
 0.0.0.0	player.ads.152media.com
 0.0.0.0	player.adservrs.com
@@ -24817,7 +24809,6 @@
 127.0.0.1	sdk.adx.adwangmai.com
 0.0.0.0	sdk.airbridge.io
 0.0.0.0	sdk.apester.com
-0.0.0.0	sdk.api.altamob.com
 0.0.0.0	sdk.api.bjshcw.com
 127.0.0.1	sdk.api.gamex.mobile.youku.com
 0.0.0.0	sdk.api.kaffnet.com
@@ -28895,7 +28886,6 @@
 127.0.0.1	usdtop.58.com
 0.0.0.0	use-bid-dailymotion.adsrvr.org
 0.0.0.0	use-tor.adsrvr.org
-0.0.0.0	use.adsrvr.org
 0.0.0.0	use1-ads-proxy-temp-prebid-v3.yieldmo.com
 0.0.0.0	use1-secure.smartadserver.com
 0.0.0.0	use1.smartadserver.com
@@ -30704,7 +30694,6 @@
 0.0.0.0	www.ad-cloud.jp
 0.0.0.0	www.ad-diactivat.pages.dev
 0.0.0.0	www.ad-fuse.com
-0.0.0.0	www.ad-lister.co.uk
 0.0.0.0	www.ad-net.co.uk
 0.0.0.0	www.ad-server.eu
 0.0.0.0	www.ad-souk.com
