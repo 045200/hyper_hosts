@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-05-08 00:27:19
+# 最后更新时间: 2025-05-08 12:25:33
 # 规则总数: 42835
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -10747,7 +10747,7 @@
 0.0.0.0	cambldelec.pro
 0.0.0.0	camelmasch.pro
 0.0.0.0	camicsciac.pro
-185.199.111.133	camo.githubusercontent.com
+185.199.109.133	camo.githubusercontent.com
 0.0.0.0	camosclubl.pro
 0.0.0.0	camosmarin.pro
 0.0.0.0	camouflagedpoodle.pro
@@ -11265,7 +11265,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.113.21	central.github.com
+140.82.114.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -14814,7 +14814,7 @@
 0.0.0.0	faunaaugme.pro
 0.0.0.0	fauxgosigil.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.111.133	favicons.githubusercontent.com
+185.199.109.133	favicons.githubusercontent.com
 0.0.0.0	favilriapp.pro
 0.0.0.0	favorgraci.pro
 0.0.0.0	favorrisvo.pro
@@ -15693,11 +15693,11 @@
 0.0.0.0	girelwhett.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-16.182.104.241	github-cloud.s3.amazonaws.com
-16.182.98.57	github-com.s3.amazonaws.com
-52.217.44.28	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.133.1	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.106.188	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.8.19	github-cloud.s3.amazonaws.com
+16.15.193.27	github-com.s3.amazonaws.com
+52.217.97.68	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.13.54	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.69.252	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -15705,7 +15705,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.111.133	github.map.fastly.net
+185.199.109.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	giubbautoa.pro
 0.0.0.0	giuchelaid.pro
@@ -22255,7 +22255,7 @@
 0.0.0.0	privacy.yieldlove-ad-serving.net
 0.0.0.0	privaferma.pro
 0.0.0.0	privaregol.pro
-185.199.111.133	private-user-images.githubusercontent.com
+185.199.109.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-bonded.com
