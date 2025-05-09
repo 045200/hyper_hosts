@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-05-09 00:26:51
-# 规则总数: 42792
+# 最后更新时间: 2025-05-09 12:25:07
+# 规则总数: 43023
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -2101,6 +2101,7 @@
 0.0.0.0	adapi.smartadserver.com
 0.0.0.0	adapi.tuyensinh247.com
 0.0.0.0	adapi.yynetwk.com
+0.0.0.0	adaptabledormouse.pro
 0.0.0.0	adaptablefulmar.pro
 0.0.0.0	adapter.shouji.360.cn
 0.0.0.0	adaptv.advertising.com
@@ -2117,6 +2118,7 @@
 127.0.0.1	adashx4yt.m.taobao.com
 127.0.0.1	adashxgc.ut.taobao.com
 127.0.0.1	adavideo.baidu.com
+0.0.0.0	adaydealbais.pro
 0.0.0.0	adb-analytics.live-now.com
 0.0.0.0	adb.fling.com
 0.0.0.0	adb2waycm-atl.netmng.com
@@ -5513,6 +5515,7 @@
 0.0.0.0	adsmart.net
 0.0.0.0	adsmart.yicha.cn
 0.0.0.0	adsmartgetqtt.guangtuikeji.com
+0.0.0.0	adsmartgo.com
 0.0.0.0	adsmartracker.com
 0.0.0.0	adsmeasurement.com
 0.0.0.0	adsmediabox.com
@@ -5755,6 +5758,7 @@
 0.0.0.0	adsxtits.com
 0.0.0.0	adsxtits.pro
 0.0.0.0	adsxyz.com
+0.0.0.0	adsy-system.com
 0.0.0.0	adsymptotic.com
 0.0.0.0	adsync.tech
 127.0.0.1	adsyndication.msn.com
@@ -5992,6 +5996,7 @@
 0.0.0.0	adventureinnmoab.world
 0.0.0.0	adventurerarmory.com
 0.0.0.0	adventures-from-home.com
+0.0.0.0	adventures-nacho-social.com
 0.0.0.0	adventurostravel.com
 0.0.0.0	adventurousamount.com
 0.0.0.0	adventuroussoul.pro
@@ -8016,7 +8021,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.114.22	api.individual.githubcopilot.com
+140.82.114.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -8316,7 +8321,6 @@
 0.0.0.0	api.ril.com
 0.0.0.0	api.rlcdn.com
 0.0.0.0	api.rnet.plus
-0.0.0.0	api.rodebm.net
 0.0.0.0	api.rollbar.com
 0.0.0.0	api.rqmob.com
 0.0.0.0	api.rtvrapi.com
@@ -8362,6 +8366,7 @@
 0.0.0.0	api.sky88.com
 0.0.0.0	api.sky88.fun
 0.0.0.0	api.skyworthiot.com
+0.0.0.0	api.slackplane.com
 0.0.0.0	api.smart-sense.org
 0.0.0.0	api.smartechmetrics.com
 0.0.0.0	api.smartico.ai
@@ -8530,7 +8535,6 @@
 127.0.0.1	api.w.inmobi.cn
 127.0.0.1	api.w.inmobi.com
 0.0.0.0	api.webengage.com
-0.0.0.0	api.webhop.me
 0.0.0.0	api.webpush.jp
 0.0.0.0	api.websecure1.com
 127.0.0.1	api.webshare.mob.com
@@ -8746,6 +8750,7 @@
 0.0.0.0	appvast.adsafeprotected.com
 127.0.0.1	appversion.115.com
 0.0.0.0	appwall.api.airpush.com
+0.0.0.0	apreyrubri.pro
 0.0.0.0	apricotpony.pro
 0.0.0.0	aprocrepon.pro
 0.0.0.0	apronescrueting.pro
@@ -8976,6 +8981,7 @@
 0.0.0.0	astriaffab.pro
 0.0.0.0	astribomir.pro
 0.0.0.0	astricontr.pro
+0.0.0.0	astriruffi.pro
 0.0.0.0	astutesheep.pro
 0.0.0.0	aswpsdkus.com
 0.0.0.0	asyludisse.pro
@@ -9469,10 +9475,12 @@
 0.0.0.0	banners2.ero-advertising.com
 0.0.0.0	bannevs.ero-advertising.com
 0.0.0.0	bannibilke.pro
+0.0.0.0	banotia9.pro
 127.0.0.1	baobao.getui.com
 0.0.0.0	baofeng.m.cn.miaozhen.com
 0.0.0.0	baogia.vads.vn
 0.0.0.0	bapi.tads.me
+0.0.0.0	bapolue7.pro
 0.0.0.0	bappaads.xml.ak-is2.net
 127.0.0.1	bar.baidu.com
 0.0.0.0	baratethna.pro
@@ -9519,6 +9527,7 @@
 0.0.0.0	battasvent.pro
 0.0.0.0	batterival.pro
 0.0.0.0	bavners2.ero-advertising.com
+0.0.0.0	baxetuy6.pro
 0.0.0.0	bayofads.g2afse.com
 127.0.0.1	bazhua.igexin.com
 0.0.0.0	bbads.sv.publicus.com
@@ -9674,6 +9683,7 @@
 0.0.0.0	bettingads.365scores.com
 0.0.0.0	bettoshipk.pro
 0.0.0.0	bevanloung.pro
+0.0.0.0	bevicaa2.pro
 0.0.0.0	bewasunpen.pro
 0.0.0.0	bffymorta.pro
 0.0.0.0	bgg.baidu.com
@@ -9770,6 +9780,7 @@
 0.0.0.0	biunihallo.pro
 0.0.0.0	bivacinter.pro
 0.0.0.0	bivavai3.pro
+0.0.0.0	biwatyy2.pro
 127.0.0.1	bixi.alicdn.com
 127.0.0.1	biz.appsflyer.com
 127.0.0.1	biz.live.xunlei.com
@@ -10003,6 +10014,7 @@
 0.0.0.0	bo.goadservices.com
 0.0.0.0	boastihorrts.pro
 0.0.0.0	boastimpil.pro
+0.0.0.0	bobefay8.pro
 127.0.0.1	bobo.163.com
 0.0.0.0	boccadecon.pro
 0.0.0.0	bodymnonan.pro
@@ -10017,6 +10029,7 @@
 0.0.0.0	boilonauja.pro
 0.0.0.0	boismometan.pro
 0.0.0.0	boisterouspeccary.pro
+0.0.0.0	bojabio9.pro
 0.0.0.0	boldballoons.pro
 0.0.0.0	boldbeverages.pro
 0.0.0.0	boldserene.pro
@@ -10437,6 +10450,7 @@
 127.0.0.1	buluo.qq.com
 0.0.0.0	bumblejoy.pro
 0.0.0.0	bunchoverc.pro
+0.0.0.0	buqezuu8.pro
 0.0.0.0	burblokane.pro
 0.0.0.0	burdkosolfa.pro
 0.0.0.0	bureasurmu.pro
@@ -10462,6 +10476,7 @@
 0.0.0.0	bustoclamm.pro
 0.0.0.0	busycricket.pro
 0.0.0.0	busytoopor.pro
+0.0.0.0	butemei3.pro
 0.0.0.0	butsuammod.pro
 0.0.0.0	buttemispr.pro
 0.0.0.0	butterflywingdancing.pro
@@ -11175,6 +11190,7 @@
 0.0.0.0	cedraargum.pro
 0.0.0.0	cedresciun.pro
 0.0.0.0	cefaldrupa.pro
+0.0.0.0	celabee6.pro
 0.0.0.0	celebritap.pro
 0.0.0.0	celerseine.pro
 0.0.0.0	celestialblazingwhirl.pro
@@ -11212,7 +11228,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.114.22	central.github.com
+140.82.113.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -11378,8 +11394,8 @@
 0.0.0.0	check-contr.shop
 0.0.0.0	check-device-map.com
 0.0.0.0	check-dosz.shop
+0.0.0.0	check-for-status.cc
 0.0.0.0	check-info.xyz
-0.0.0.0	check-product-error-now.online
 0.0.0.0	check-tcp.rayjump.com
 0.0.0.0	check-zamov.shop
 0.0.0.0	check.cloud-too.online
@@ -11496,6 +11512,7 @@
 0.0.0.0	chromlibat.pro
 0.0.0.0	chucklebloom.pro
 0.0.0.0	chudicostu.pro
+0.0.0.0	chuguadventures.co.tz
 0.0.0.0	chumpsenso.pro
 0.0.0.0	chuppmicro.pro
 0.0.0.0	chykohija.pro
@@ -11515,6 +11532,8 @@
 0.0.0.0	cifrarisve.pro
 0.0.0.0	cifsbacce.pro
 0.0.0.0	cignfilib.pro
+0.0.0.0	cigosoo8.pro
+0.0.0.0	cijaziu3.pro
 0.0.0.0	cimbojacco.pro
 0.0.0.0	cimena-betuho.pro
 0.0.0.0	cinchvergh.pro
@@ -11605,7 +11624,6 @@
 0.0.0.0	clck.adskeeper.co.uk
 0.0.0.0	clck.adskeeper.com
 127.0.0.1	cleaner.baidu.com
-0.0.0.0	cleaningaheadstone.com
 0.0.0.0	cleaningmovies.analytics.qlook.net
 0.0.0.0	cleanlatif.pro
 0.0.0.0	cleanmediaads.com
@@ -12001,6 +12019,7 @@
 0.0.0.0	cointrade1000.net
 0.0.0.0	coitaessic.pro
 0.0.0.0	cojuxao6.pro
+0.0.0.0	cokizai8.pro
 0.0.0.0	cokovay1.pro
 0.0.0.0	col.mobileads.msn.com
 0.0.0.0	coldcrystalwhisper.pro
@@ -12572,6 +12591,7 @@
 0.0.0.0	crucipropl.pro
 0.0.0.0	crucisciac.pro
 0.0.0.0	crueldisco.pro
+0.0.0.0	cruseevalu.pro
 0.0.0.0	crypto-ads.net
 0.0.0.0	crystalbreeze.pro
 0.0.0.0	crystalclearwaters.pro
@@ -12783,6 +12803,7 @@
 0.0.0.0	dafabet.advertserve.com
 0.0.0.0	daffodildreams.pro
 0.0.0.0	daffytrout.pro
+0.0.0.0	daforye4.pro
 0.0.0.0	daftmalkoha.pro
 0.0.0.0	dagydiy6.pro
 127.0.0.1	dai.shuzilm.cn
@@ -12833,6 +12854,7 @@
 0.0.0.0	darwieaugu.pro
 127.0.0.1	das.api.youku.com
 127.0.0.1	das.mobile.youku.com
+0.0.0.0	dasaboe4.pro
 0.0.0.0	dasesu-daboci.pro
 127.0.0.1	dash.applovin.com
 0.0.0.0	dashapi.chartbeat.com
@@ -12899,6 +12921,7 @@
 0.0.0.0	dats.ero-advertising.com
 0.0.0.0	datt.ero-advertising.com
 0.0.0.0	daturhugga.pro
+0.0.0.0	datypua0.pro
 0.0.0.0	daua.ero-advertising.com
 0.0.0.0	daunteegyptian.pro
 0.0.0.0	dava.ero-advertising.com
@@ -12906,6 +12929,7 @@
 0.0.0.0	dawa.ero-advertising.com
 0.0.0.0	dawnnationaladvertiser.com
 0.0.0.0	daxigei8.pro
+0.0.0.0	daxivue8.pro
 0.0.0.0	daybeprese.pro
 0.0.0.0	dayboappen.pro
 0.0.0.0	daysskyfire.pro
@@ -13188,9 +13212,11 @@
 0.0.0.0	deuteciber.pro
 0.0.0.0	deutedevol.pro
 0.0.0.0	dev-adload.skyadsmart.com
+0.0.0.0	dev-e-urzadskarbovvy.pantheonsite.io
 127.0.0.1	dev-gitlab.getui.net
 127.0.0.1	dev-mysql-conf.tingyun.com
 127.0.0.1	dev-push.m.youku.com
+0.0.0.0	dev-urzadskarbovvy-pl.pantheonsite.io
 127.0.0.1	dev.branch.io
 127.0.0.1	dev.dc.letv.com
 0.0.0.0	dev.flurry.com
@@ -13255,6 +13281,7 @@
 0.0.0.0	diazeattir.pro
 0.0.0.0	dibasvicin.pro
 0.0.0.0	dibatzavor.pro
+0.0.0.0	dibycee3.pro
 0.0.0.0	diciasubap.pro
 0.0.0.0	dicolconde.pro
 0.0.0.0	dicolexhib.pro
@@ -13262,6 +13289,7 @@
 127.0.0.1	dict-live.youdao.com
 0.0.0.0	didaccitta.pro
 0.0.0.0	didacpapes.pro
+0.0.0.0	didactickestrel.pro
 0.0.0.0	didriabbac.pro
 0.0.0.0	didymunrep.pro
 0.0.0.0	dietepicci.pro
@@ -13304,6 +13332,7 @@
 0.0.0.0	dilitpolyp.pro
 0.0.0.0	dilivmiter.pro
 0.0.0.0	dilodiste.pro
+0.0.0.0	dilomsoffe.pro
 0.0.0.0	diluvabsol.pro
 0.0.0.0	dimagaceti.pro
 0.0.0.0	dimanseami.pro
@@ -13341,6 +13370,7 @@
 0.0.0.0	direct.adsrvr.org
 0.0.0.0	directadvert.ru
 0.0.0.0	directleads.com
+0.0.0.0	director-main-ads-id10058322495.vercel.app
 0.0.0.0	diriminten.pro
 0.0.0.0	diromcalmi.pro
 0.0.0.0	dirugmomis.pro
@@ -13352,6 +13382,7 @@
 0.0.0.0	disagimpor.pro
 0.0.0.0	disagsquat.pro
 0.0.0.0	disagtopso.pro
+0.0.0.0	disakoo7.pro
 0.0.0.0	disaltste.pro
 0.0.0.0	disamdilet.pro
 0.0.0.0	disamforce.pro
@@ -13752,7 +13783,6 @@
 0.0.0.0	download.adsage.com
 0.0.0.0	download.bav.baidu.com
 0.0.0.0	download.browseraccelerator.com
-0.0.0.0	download.caihong.com
 0.0.0.0	download.cdn.sharelive.net
 0.0.0.0	download.cdn.torchbrowser.com
 0.0.0.0	download.changhong.upgrade2.huan.tv
@@ -13762,7 +13792,6 @@
 0.0.0.0	download.filmfanatic.com
 0.0.0.0	download.fuyuncc.com
 0.0.0.0	download.fyxm.net
-0.0.0.0	download.glzip.cn
 0.0.0.0	download.grandcloud.cn
 0.0.0.0	download.haozip.com
 0.0.0.0	download.hitbox.com
@@ -13993,6 +14022,7 @@
 0.0.0.0	durerkill.pro
 0.0.0.0	durliconna.pro
 0.0.0.0	durriepisi.pro
+0.0.0.0	dutaciy0.pro
 127.0.0.1	dutils.com
 0.0.0.0	duvyleu6.pro
 0.0.0.0	dv-pix.adstk.io
@@ -14175,7 +14205,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.112.22	education.github.com
+140.82.112.21	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	edunaremtesu.pro
 0.0.0.0	eedclicks.ero-advertising.com
@@ -14819,6 +14849,7 @@
 0.0.0.0	feltrpatro.pro
 0.0.0.0	femmimutte.pro
 0.0.0.0	femmioverl.pro
+0.0.0.0	fenafui6.pro
 0.0.0.0	fennenonco.pro
 0.0.0.0	fenomacrom.pro
 0.0.0.0	feriapeati.pro
@@ -14891,6 +14922,7 @@
 0.0.0.0	fiorericer.pro
 0.0.0.0	fiorisemol.pro
 0.0.0.0	fipplmodan.pro
+0.0.0.0	fipysoy4.pro
 0.0.0.0	fireads.online
 0.0.0.0	fireads.org
 0.0.0.0	firebaselogging-pa.googleapis.com
@@ -15244,7 +15276,6 @@
 0.0.0.0	fugheappla.pro
 0.0.0.0	fugitodont.pro
 0.0.0.0	fugumua.pro
-0.0.0.0	fullyingelderberryed.pro
 127.0.0.1	fumiad.dxys.pro
 0.0.0.0	fumifottin.pro
 0.0.0.0	fun-adx.admaster.com.cn
@@ -15408,6 +15439,7 @@
 0.0.0.0	gametdiser.pro
 127.0.0.1	gamex.mobile.youku.com
 0.0.0.0	gamigoads.com
+0.0.0.0	gamopue0.pro
 0.0.0.0	gamopyrth.pro
 0.0.0.0	gan.doubleclick.net
 0.0.0.0	ganglasset.pro
@@ -15504,6 +15536,7 @@
 127.0.0.1	gecko5-lf.zijieapi.com
 127.0.0.1	gecko5-lq.zijieapi.com
 127.0.0.1	gecko5.zijieapi.com
+0.0.0.0	gecofya5.pro
 0.0.0.0	gekecai7.pro
 0.0.0.0	gelantravo.pro
 0.0.0.0	gelatineabstainads.com
@@ -15637,15 +15670,16 @@
 0.0.0.0	giostwaken.pro
 0.0.0.0	giovisuppl.pro
 0.0.0.0	giravilliv.pro
+0.0.0.0	giravya.pro
 0.0.0.0	girelobes.pro
 0.0.0.0	girelwhett.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-16.15.217.202	github-cloud.s3.amazonaws.com
-16.182.37.249	github-com.s3.amazonaws.com
-54.231.232.249	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.176.137	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.1.111	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.24.132	github-cloud.s3.amazonaws.com
+16.182.69.73	github-com.s3.amazonaws.com
+52.217.230.193	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.170.187	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.217.13	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -16021,6 +16055,7 @@
 0.0.0.0	guatinundi.pro
 0.0.0.0	gubodyu.pro
 0.0.0.0	guc-api.sonic-us.supersonicads.com
+0.0.0.0	gucazaa.pro
 0.0.0.0	guce.advertising.com
 0.0.0.0	gudja.iad-02.braze.com
 0.0.0.0	guerdgymno.pro
@@ -16028,6 +16063,7 @@
 127.0.0.1	guess.mediav.com
 127.0.0.1	guess.tf.360.cn
 0.0.0.0	guessspuli.pro
+0.0.0.0	gufadau1.pro
 0.0.0.0	gufouamicr.pro
 0.0.0.0	guidaexpla.pro
 0.0.0.0	guinaderap.pro
@@ -16043,6 +16079,8 @@
 0.0.0.0	guruads.de
 0.0.0.0	gusabid.adview.com
 0.0.0.0	gusaorpt.adview.com
+0.0.0.0	guvoxoo6.pro
+0.0.0.0	guweqay.pro
 0.0.0.0	guyerdissa.pro
 127.0.0.1	gv.xdrig.com
 127.0.0.1	gv1.xdrig.com
@@ -16066,8 +16104,8 @@
 127.0.0.1	gxh.material.qq.com
 127.0.0.1	gy.gepush.com
 127.0.0.1	gy.getui.net
-0.0.0.0	gybaway1.pro
 0.0.0.0	gygeboa0.pro
+0.0.0.0	gyjekei5.pro
 0.0.0.0	gymnoadvan.pro
 0.0.0.0	gynansubte.pro
 0.0.0.0	gypakau5.pro
@@ -16183,6 +16221,7 @@
 0.0.0.0	hathmoimpor.pro
 0.0.0.0	haulirefer.pro
 0.0.0.0	havcinvai.pro
+0.0.0.0	havusyy9.pro
 0.0.0.0	hawainootk.pro
 127.0.0.1	hawk-arvpn.jiguang.cn
 0.0.0.0	haxeni-kixayu.pro
@@ -16279,7 +16318,6 @@
 0.0.0.0	hgsprpgi.pro
 0.0.0.0	hhbekxxw5d9e.pflexads.com
 0.0.0.0	hi-cdn.adsparc.net
-0.0.0.0	hibaryu8.pro
 0.0.0.0	hiddenstarling.pro
 0.0.0.0	hiddenvalleydreams.pro
 0.0.0.0	hidewui3.pro
@@ -16288,6 +16326,7 @@
 0.0.0.0	highlandscoffee.adsota.com
 0.0.0.0	highnowprovenadvanced.top
 0.0.0.0	hightrafficads.com
+0.0.0.0	hihagiy4.pro
 127.0.0.1	hijack.baidu.com
 0.0.0.0	hildedesta.pro
 0.0.0.0	hilltopads.com
@@ -16701,6 +16740,7 @@
 0.0.0.0	id.halo.ad.gt
 0.0.0.0	id.sv388.mobi
 0.0.0.0	id545e247ad11.nes-srl.com
+0.0.0.0	id5bcdad881c9.nova-terra.cl
 0.0.0.0	id73a2eac123cadd6e458660dc0b8980da6.big-shop.ge
 127.0.0.1	idaa.shuzilm.cn
 127.0.0.1	idauth.xdrig.com
@@ -17033,6 +17073,7 @@
 0.0.0.0	imporunrep.pro
 0.0.0.0	imposappig.pro
 0.0.0.0	impospurit.pro
+0.0.0.0	impossiblerat.pro
 0.0.0.0	impowpanca.pro
 0.0.0.0	impreemani.pro
 0.0.0.0	impreennea.pro
@@ -17770,6 +17811,7 @@
 0.0.0.0	jetuno-garase.pro
 0.0.0.0	jeunebaron.pro
 0.0.0.0	jewishcontentnetwork.advertserve.com
+0.0.0.0	jezomoa8.pro
 0.0.0.0	jf.winads.cn
 0.0.0.0	jfdaily.adsame.com
 127.0.0.1	jg-cms.jiguang.cn
@@ -17790,7 +17832,6 @@
 0.0.0.0	jinshcoinf.pro
 0.0.0.0	jinyzuu1.pro
 0.0.0.0	jioads.akamaized.net
-0.0.0.0	jipabee4.pro
 0.0.0.0	jipinyouwu.com
 0.0.0.0	jira.indoleads.com
 0.0.0.0	jira.vlion.cn
@@ -17806,6 +17847,7 @@
 127.0.0.1	jnat.getui.com
 0.0.0.0	jnliakoeoqaq.pro
 127.0.0.1	job.getui.com
+0.0.0.0	jogypei4.pro
 0.0.0.0	johoroe6.pro
 0.0.0.0	join.cityads.com
 0.0.0.0	join.pro-gaming-world.com
@@ -18027,6 +18069,7 @@
 127.0.0.1	jverification.jiguang.cn
 127.0.0.1	jwa.xdplt.com
 0.0.0.0	jycosuy2.pro
+0.0.0.0	jysalai8.pro
 0.0.0.0	jyxocou.pro
 127.0.0.1	jzt.jd.com
 0.0.0.0	jzwjq.ads.tremorhub.com
@@ -18067,6 +18110,7 @@
 0.0.0.0	keratfisezo.pro
 0.0.0.0	keratvitto.pro
 0.0.0.0	kerchtrich.pro
+0.0.0.0	keretoo3.pro
 0.0.0.0	ketchattos.pro
 0.0.0.0	ketemnotac.pro
 0.0.0.0	ketinfitta.pro
@@ -18113,12 +18157,14 @@
 0.0.0.0	kobutopic.pro
 0.0.0.0	kociwoy4.pro
 0.0.0.0	kojangrech.pro
+0.0.0.0	kolicie3.pro
 0.0.0.0	kolkamu.pro
 0.0.0.0	kolserne.pro
 0.0.0.0	komigye6.pro
 0.0.0.0	kompasads.com
 0.0.0.0	konarifal.pro
 127.0.0.1	konka-mipdx.cn.miaozhen.com
+0.0.0.0	konozuy4.pro
 0.0.0.0	kookycheer.pro
 0.0.0.0	kookykaleidoscope.pro
 0.0.0.0	kookykites.pro
@@ -18127,6 +18173,7 @@
 0.0.0.0	korntdiroc.pro
 0.0.0.0	kospalyss.pro
 0.0.0.0	koudas.adstk.io
+0.0.0.0	kowerzhick.pro
 0.0.0.0	kpstaticbj.wx.ckjr001.com
 127.0.0.1	kr59779-qq.com
 0.0.0.0	krokiicoor.pro
@@ -18207,7 +18254,9 @@
 0.0.0.0	ladyhhartf.pro
 0.0.0.0	laevimanda.pro
 0.0.0.0	lagnedisce.pro
+0.0.0.0	lahudiauaday.pro
 0.0.0.0	laidpunta.pro
+0.0.0.0	lajupii6.pro
 0.0.0.0	lalande.iad-03.braze.com
 0.0.0.0	lambedisko.pro
 0.0.0.0	lambrsampl.pro
@@ -18242,6 +18291,7 @@
 0.0.0.0	largielami.pro
 0.0.0.0	larinconvo.pro
 0.0.0.0	larlipreva.pro
+0.0.0.0	larttads.info
 0.0.0.0	lascapyoge.pro
 0.0.0.0	laserscomb.pro
 127.0.0.1	latam.adspecs.yahoo.com
@@ -18329,6 +18379,7 @@
 127.0.0.1	learn.chaoxing.com
 0.0.0.0	leboapi.hpplay.com.cn
 0.0.0.0	lecanincor.pro
+0.0.0.0	leconiy2.pro
 0.0.0.0	leefticono.pro
 0.0.0.0	leggiavvit.pro
 0.0.0.0	leghidefor.pro
@@ -18345,7 +18396,6 @@
 0.0.0.0	lenzuliber.pro
 0.0.0.0	leopardspotagility.pro
 0.0.0.0	lepadfugit.pro
-0.0.0.0	lepixae1.pro
 0.0.0.0	leptopiros.pro
 0.0.0.0	lerceunpre.pro
 0.0.0.0	lessidelin.pro
@@ -18362,8 +18412,6 @@
 0.0.0.0	lever-analytics.com
 0.0.0.0	levigrethr.pro
 0.0.0.0	levisriman.pro
-0.0.0.0	levitateleads.com
-0.0.0.0	lewetoy6.pro
 0.0.0.0	lewocui8.pro
 0.0.0.0	lexicdemod.pro
 0.0.0.0	lf-ad-ies.bytecdn.cn
@@ -18453,10 +18501,13 @@
 0.0.0.0	lightningflashingpower.pro
 0.0.0.0	lightstep-collector.api.ua.com
 0.0.0.0	ligniresea.pro
+0.0.0.0	lihamyi3.pro
 0.0.0.0	lihugau.pro
+0.0.0.0	lijufoa5.pro
 0.0.0.0	likeads.com
 0.0.0.0	likedyu.pro
 0.0.0.0	lilacsmilodon.pro
+0.0.0.0	lilufoa5.pro
 0.0.0.0	limaistalk.pro
 0.0.0.0	limicornit.pro
 0.0.0.0	limonads.net
@@ -18710,7 +18761,6 @@
 0.0.0.0	lottery.kuaiya.cn
 0.0.0.0	lottery.olg.ca
 0.0.0.0	lottery.tresdor.com
-0.0.0.0	lottos.store-google-play.com
 0.0.0.0	loudmusicplaysnight.pro
 0.0.0.0	louis-360.com
 0.0.0.0	loutishrattlesnake.pro
@@ -18804,6 +18854,7 @@
 0.0.0.0	lycanfiamm.pro
 0.0.0.0	lyciarituo.pro
 0.0.0.0	lyconery-readset.com
+0.0.0.0	lydajuu3.pro
 0.0.0.0	lyewfndsvvpq.pro
 0.0.0.0	lygaxei4.pro
 0.0.0.0	lyhonua.pro
@@ -19010,6 +19061,7 @@
 0.0.0.0	manageadv.cblogs.eu
 127.0.0.1	manager.tradplusad.com
 0.0.0.0	manarasse.pro
+0.0.0.0	mandabarke.pro
 0.0.0.0	mandaimbit.pro
 0.0.0.0	mandeunrha.pro
 0.0.0.0	mandrancor.pro
@@ -19064,6 +19116,7 @@
 0.0.0.0	mariorimpa.pro
 0.0.0.0	mariosnoek.pro
 0.0.0.0	maritparal.pro
+0.0.0.0	maritprote.pro
 0.0.0.0	maritwoozi.pro
 127.0.0.1	mark.l.qq.com
 0.0.0.0	markab.iad-03.braze.com
@@ -19134,6 +19187,7 @@
 0.0.0.0	matchgroup-tinder.adsbynimbus.com
 0.0.0.0	matchgroup-upward.adsbynimbus.com
 0.0.0.0	matchpassg.pro
+0.0.0.0	matecua0.pro
 127.0.0.1	material-ssl.mediav.com
 0.0.0.0	material.jfdaily.adsame.com
 127.0.0.1	material.mediav.com
@@ -19353,6 +19407,7 @@
 0.0.0.0	metaadvertisingsupportsolution.com
 0.0.0.0	metabet.api.areyouwatchingthis.com
 0.0.0.0	metabet.static.api.areyouwatchingthis.com
+0.0.0.0	metacperic.pro
 0.0.0.0	metadsp.co.uk
 0.0.0.0	metaenonad.pro
 0.0.0.0	metafincip.pro
@@ -19485,6 +19540,7 @@
 0.0.0.0	minisproti.pro
 0.0.0.0	miniswine.pro
 127.0.0.1	minorshort.weixin.qq.com
+0.0.0.0	minudoe7.pro
 0.0.0.0	miodiinfel.pro
 127.0.0.1	mipcache.bdstatic.com
 0.0.0.0	mipengine.baidu.com
@@ -19858,6 +19914,7 @@
 127.0.0.1	mtt.eve.mdt.qq.com
 127.0.0.1	mtt.str.mdt.qq.com
 0.0.0.0	mu88ads.com
+0.0.0.0	mubunoe8.pro
 0.0.0.0	muccidiurn.pro
 0.0.0.0	mucopbarbi.pro
 0.0.0.0	mucorcount.pro
@@ -19931,6 +19988,7 @@
 0.0.0.0	myadvantify.com
 0.0.0.0	mybb.ero-advertising.com
 0.0.0.0	mybbc-analytics.files.bbci.co.uk
+0.0.0.0	mycoxoe3.pro
 0.0.0.0	mydas.mobi
 0.0.0.0	mydisplay.ctfile.com
 0.0.0.0	myelofallo.pro
@@ -19941,6 +19999,7 @@
 0.0.0.0	mymeadville.com
 0.0.0.0	mynet-pbs.theadx.com
 0.0.0.0	mypopads.com
+0.0.0.0	myremoa9.pro
 0.0.0.0	myrindiste.pro
 0.0.0.0	mysdkzzcl.com
 0.0.0.0	mysdkzzfl.com
@@ -20176,7 +20235,6 @@
 0.0.0.0	newads.bangbros.com
 0.0.0.0	newads.cmpnet.com
 0.0.0.0	newadserver.interfree.it
-0.0.0.0	newejao0.pro
 127.0.0.1	newlog.reader.qq.com
 127.0.0.1	newrta.umeng.com
 0.0.0.0	news-flash.net
@@ -20222,6 +20280,7 @@
 0.0.0.0	nickeclino.pro
 0.0.0.0	nickelbuffalo.pro
 0.0.0.0	nictaarmil.pro
+0.0.0.0	nidaweo8.pro
 0.0.0.0	nielldesta.pro
 0.0.0.0	nielsenadservices.com
 0.0.0.0	nieomutto.pro
@@ -20245,10 +20304,12 @@
 0.0.0.0	ninikau0.pro
 0.0.0.0	ninjakakapo.pro
 0.0.0.0	ninyxei4.pro
+0.0.0.0	nippyroadrunner.pro
 0.0.0.0	nippyrottweiler.pro
 0.0.0.0	nitanoa.pro
 0.0.0.0	nitragarbi.pro
 0.0.0.0	nitroknoll.pro
+0.0.0.0	niwidia8.pro
 0.0.0.0	nj-dsp-ads.lfstmedia.com
 127.0.0.1	nj.baichuan.baidu.com
 0.0.0.0	nl-gcp-ad-track-sdk-europe-west4-b.mtgglobals.com
@@ -20343,6 +20404,7 @@
 0.0.0.0	nonteaccor.pro
 0.0.0.0	nonvoruzze.pro
 0.0.0.0	nonwedecea.pro
+0.0.0.0	noqevoy3.pro
 0.0.0.0	norseuncha.pro
 0.0.0.0	northpeeak.pro
 0.0.0.0	nosewcoapp.pro
@@ -20416,6 +20478,7 @@
 0.0.0.0	nutgrtitol.pro
 0.0.0.0	nutritrapi.pro
 0.0.0.0	nutritromb.pro
+0.0.0.0	nutulyo0.pro
 0.0.0.0	nv-ad.24hstatic.com
 0.0.0.0	nv-sdk.jumio.com
 0.0.0.0	nvapi.feeldmc.com
@@ -20430,6 +20493,7 @@
 0.0.0.0	nym2-tr.adnxs.com
 0.0.0.0	nytadvertising.nytimes.com
 0.0.0.0	nytrgadsden.112.2o7.net
+0.0.0.0	nyvujya8.pro
 0.0.0.0	nz.adserver.yahoo.com
 127.0.0.1	nzapi.getui.com
 0.0.0.0	nzme-ads.co.nz
@@ -20540,6 +20604,7 @@
 0.0.0.0	olierentra.pro
 0.0.0.0	oligipurus.pro
 0.0.0.0	oligoimboz.pro
+0.0.0.0	olimanoshksk.pro
 0.0.0.0	olininicot.pro
 0.0.0.0	oliveappoliveinter.pro
 0.0.0.0	olivebotolivedata.pro
@@ -20762,8 +20827,6 @@
 0.0.0.0	origiredat.pro
 0.0.0.0	origlsuper.pro
 0.0.0.0	orion.iad.appboy.com
-0.0.0.0	orlen.royaladverts.info
-0.0.0.0	orlen.royaladverts.pro
 0.0.0.0	orlensystem.pro
 0.0.0.0	orleonsystempl.pro
 0.0.0.0	orliqsbara.pro
@@ -21814,6 +21877,7 @@
 127.0.0.1	pl.cp31.ott.cibntv.net
 0.0.0.0	pl.update-myinformations.info
 0.0.0.0	placedesleads.com
+0.0.0.0	placement-main-ads-id6100722555103.vercel.app
 0.0.0.0	placidbuffalo.pro
 0.0.0.0	plagesvuot.pro
 0.0.0.0	plagiprima.pro
@@ -21919,6 +21983,7 @@
 0.0.0.0	pocztex.pl-add.lat
 0.0.0.0	pocztex.pl-freight.pro
 0.0.0.0	pocztex.pl-trace.lat
+0.0.0.0	podeseo6.pro
 0.0.0.0	poephoffen.pro
 0.0.0.0	poeticcapybara.pro
 0.0.0.0	poeticorca.pro
@@ -22212,9 +22277,9 @@
 0.0.0.0	pro-insights.info
 0.0.0.0	pro-market.net
 0.0.0.0	pro-networks.us.intellitxt.com
+0.0.0.0	pro-rentify.com
 0.0.0.0	pro-tect.shop
 0.0.0.0	pro-trading24.com
-0.0.0.0	pro-worktools.com
 0.0.0.0	pro.baidu.com
 127.0.0.1	pro.bugly.qq.com
 0.0.0.0	pro.cachelronef.top
@@ -22523,6 +22588,7 @@
 0.0.0.0	pusztdartm.pro
 0.0.0.0	puteoplate.pro
 0.0.0.0	putridemod.pro
+0.0.0.0	puzepai5.pro
 127.0.0.1	pv.hd.sohu.com
 127.0.0.1	pv.mediav.com
 127.0.0.1	pv.sohu.com
@@ -22552,6 +22618,7 @@
 0.0.0.0	pyladsodis.com
 0.0.0.0	pylhwf.pro
 0.0.0.0	pylywio8.pro
+0.0.0.0	pypukuo0.pro
 0.0.0.0	pyqqx.dcbxnc.cn
 0.0.0.0	pyraminmil.pro
 0.0.0.0	pyrenindiv.pro
@@ -22586,13 +22653,12 @@
 127.0.0.1	qappcenterv6.3g.qq.com
 0.0.0.0	qateqyo.pro
 127.0.0.1	qautodl.qq.com
-0.0.0.0	qavalui9.pro
 0.0.0.0	qbdsp.html5.qq.com
 127.0.0.1	qbreport.html5.qq.com
 0.0.0.0	qc.789.mobi
 0.0.0.0	qc.smartadserver.com
 127.0.0.1	qd-update.qq.com
-0.0.0.0	qebegey9.pro
+0.0.0.0	qebekae9.pro
 0.0.0.0	qemuzii.pro
 0.0.0.0	qenogiu.pro
 0.0.0.0	qeqywui8.pro
@@ -22605,8 +22671,10 @@
 127.0.0.1	qianbao.baidu.com
 127.0.0.1	qianclick.baidu.com
 0.0.0.0	qianlong.adsame.com
+0.0.0.0	qicijiy9.pro
 0.0.0.0	qihoo.cn
 0.0.0.0	qikdownloads.com
+0.0.0.0	qinerie6.pro
 127.0.0.1	qingtingfm.ws.voiceads.cn
 127.0.0.1	qiniu-ad.super.cn
 0.0.0.0	qiuyva.pro
@@ -22618,9 +22686,11 @@
 127.0.0.1	qm-ab.wtzw.com
 0.0.0.0	qmsdk.shouji.sogou.com
 0.0.0.0	qn-cdnfile1pcdn.msstatic.com
+0.0.0.0	qoguhuo4.pro
 0.0.0.0	qohemoe7.pro
 0.0.0.0	qomilio9.pro
 0.0.0.0	qomubaa4.pro
+0.0.0.0	qorajui.pro
 127.0.0.1	qos.report.qq.com
 0.0.0.0	qovaluo3.pro
 127.0.0.1	qpb1.sohu.com
@@ -22685,6 +22755,8 @@
 0.0.0.0	questasseg.pro
 0.0.0.0	questsprout.pro
 0.0.0.0	queue.adspruce.com
+0.0.0.0	qufagui.pro
+0.0.0.0	qufogoa8.pro
 0.0.0.0	quick.offer-check.shop
 0.0.0.0	quickadsmedia.gotrackier.com
 0.0.0.0	quickfoxesjumphigh.pro
@@ -22716,6 +22788,7 @@
 0.0.0.0	qukemou.pro
 0.0.0.0	qulucyi.pro
 0.0.0.0	qunatuo.pro
+0.0.0.0	quomomasti.pro
 0.0.0.0	qupijao7.pro
 0.0.0.0	qurl.f.360.cn
 0.0.0.0	qutamai7.pro
@@ -22723,7 +22796,9 @@
 0.0.0.0	qwapi.com
 127.0.0.1	qy.qchannel03.cn
 0.0.0.0	qyhynuu1.pro
+0.0.0.0	qyrywea9.pro
 0.0.0.0	qyxizya0.pro
+0.0.0.0	qyzadyo3.pro
 0.0.0.0	qzkondibqd.pro
 127.0.0.1	qzpb.qq.com
 127.0.0.1	qzs.gdtimg.com
@@ -23318,6 +23393,7 @@
 0.0.0.0	retail-eu.productads.hlserve.com
 0.0.0.0	retailads.net
 0.0.0.0	retaiprore.pro
+0.0.0.0	retehyi.pro
 0.0.0.0	rethrdisab.pro
 0.0.0.0	retraassor.pro
 0.0.0.0	retraequid.pro
@@ -23325,6 +23401,7 @@
 0.0.0.0	retriprocr.pro
 0.0.0.0	retrogunni.pro
 0.0.0.0	retrorimpi.pro
+0.0.0.0	retticallo.pro
 0.0.0.0	retticonce.pro
 0.0.0.0	rettingle.pro
 0.0.0.0	return.adsame.com
@@ -23466,6 +23543,7 @@
 0.0.0.0	rienfelegg.pro
 0.0.0.0	rienfreper.pro
 0.0.0.0	rientbronz.pro
+0.0.0.0	rientfinal.pro
 0.0.0.0	riepiprecu.pro
 0.0.0.0	riespindef.pro
 0.0.0.0	riesplopin.pro
@@ -23516,6 +23594,7 @@
 0.0.0.0	rigrihorre.pro
 0.0.0.0	riguamenur.pro
 0.0.0.0	riguesenso.pro
+0.0.0.0	rijuqye0.pro
 0.0.0.0	rilacconce.pro
 0.0.0.0	rilacscapr.pro
 0.0.0.0	rilamluex.pro
@@ -23737,6 +23816,7 @@
 0.0.0.0	riutibalza.pro
 0.0.0.0	riutiindif.pro
 0.0.0.0	rivacsberc.pro
+0.0.0.0	rivajyu1.pro
 0.0.0.0	rivalfocal.pro
 0.0.0.0	rivalrifia.pro
 0.0.0.0	rivarhymen.pro
@@ -23946,6 +24026,7 @@
 0.0.0.0	rubydrift.pro
 0.0.0.0	rubyskua.pro
 0.0.0.0	rubytbacte.pro
+0.0.0.0	rudimey4.pro
 0.0.0.0	rudy.adsnative.com
 0.0.0.0	rudytoparke.pro
 0.0.0.0	ruemedia.adspirit.net
@@ -23976,9 +24057,13 @@
 127.0.0.1	rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com
 0.0.0.0	rxblxg.pro
 0.0.0.0	rxddsdpgljsl.pro
+0.0.0.0	ryduvou0.pro
 0.0.0.0	rygyvoe.pro
 0.0.0.0	ryjesii4.pro
 0.0.0.0	rylisay.pro
+0.0.0.0	ryqagii6.pro
+0.0.0.0	ryryhou6.pro
+0.0.0.0	rytehya9.pro
 0.0.0.0	ryvapi.fragrancenet.com
 0.0.0.0	rzqilqfais.pro
 127.0.0.1	s-adashx.ut.uc.cn
@@ -25010,6 +25095,7 @@
 0.0.0.0	segneleont.pro
 0.0.0.0	seguiengen.pro
 0.0.0.0	seguivolut.pro
+0.0.0.0	sehejii1.pro
 0.0.0.0	seismfullo.pro
 0.0.0.0	sejs.moatads.com
 0.0.0.0	seks-partner.com
@@ -25018,6 +25104,7 @@
 0.0.0.0	selfserve-crypto.buysellads.com
 0.0.0.0	sell.buysellads.com
 0.0.0.0	selvarotta.pro
+0.0.0.0	selyway.pro
 0.0.0.0	semadumbs.pro
 0.0.0.0	sembinonin.pro
 0.0.0.0	sememinsos.pro
@@ -25040,7 +25127,6 @@
 0.0.0.0	sempetergi.pro
 0.0.0.0	sempisolst.pro
 0.0.0.0	semplpredi.pro
-0.0.0.0	senacoo0.pro
 0.0.0.0	send.mad-infeed.jp
 0.0.0.0	senegovere.pro
 0.0.0.0	sensible-ads.com
@@ -25468,6 +25554,7 @@
 0.0.0.0	signup.advance.net
 127.0.0.1	signup.taboola.com
 0.0.0.0	sikisuu.pro
+0.0.0.0	sikynou2.pro
 0.0.0.0	silentadventure.pro
 0.0.0.0	silentcormorant.pro
 0.0.0.0	silentfirewhirl.pro
@@ -25739,6 +25826,7 @@
 0.0.0.0	soaringeaglesflyhigh.pro
 0.0.0.0	sobar.baidu.com
 0.0.0.0	sobismesse.pro
+0.0.0.0	sobyhiu9.pro
 0.0.0.0	socadvnet.com
 0.0.0.0	soci24.pro
 0.0.0.0	sociaalpin.pro
@@ -25796,6 +25884,7 @@
 0.0.0.0	sonanamica.pro
 0.0.0.0	sonar-ads.com
 0.0.0.0	sonar-iad.xx.fbcdn.net
+0.0.0.0	sonehoe1.pro
 127.0.0.1	song.fanxing.kugou.com
 0.0.0.0	sonic-us.supersonicads.com
 0.0.0.0	sonicorchid.pro
@@ -26119,6 +26208,7 @@
 0.0.0.0	srv.juiceadv.com
 0.0.0.0	srv8.marsads.com
 0.0.0.0	srvupads.com
+0.0.0.0	ss-rec-vntd.pro
 0.0.0.0	ss.ads.justpremium.com
 0.0.0.0	ssads.osdn.com
 0.0.0.0	ssb-apac1.smartadserver.com
@@ -26855,6 +26945,7 @@
 0.0.0.0	sussuscian.pro
 0.0.0.0	susurringr.pro
 0.0.0.0	suvuqua.pro
+0.0.0.0	suzanou.pro
 0.0.0.0	suzigi-hilazo.pro
 0.0.0.0	sv-api-event.headlines.pw
 0.0.0.0	sv-api-lottery.headlines.pw
@@ -26914,6 +27005,7 @@
 0.0.0.0	swayjoy.pro
 0.0.0.0	swayroses.pro
 0.0.0.0	swayspark.pro
+0.0.0.0	sweadsishclow.top
 0.0.0.0	sweetadventure.pro
 0.0.0.0	sweetcandytastesgood.pro
 0.0.0.0	sweetdeer.pro
@@ -27019,6 +27111,7 @@
 0.0.0.0	syriaricon.pro
 127.0.0.1	syrs.z74d.com
 127.0.0.1	sysdk.cl2009.com
+0.0.0.0	syxyhyy5.pro
 0.0.0.0	syzbh66.xyz
 127.0.0.1	sz.gafz.chanct.cn
 0.0.0.0	szbdyd.com
@@ -27362,7 +27455,6 @@
 127.0.0.1	test-pan.getui.com
 127.0.0.1	test.ad.xiaomi.com
 127.0.0.1	test.adsp.xunlei.com
-0.0.0.0	test.aionclassic.pro
 127.0.0.1	test.ark.letv.com
 0.0.0.0	test.bricks.e.qq.com
 127.0.0.1	test.cnzz.com
@@ -27548,6 +27640,7 @@
 0.0.0.0	titolhallu.pro
 0.0.0.0	titolillai.pro
 0.0.0.0	titolprote.pro
+0.0.0.0	titonui.pro
 0.0.0.0	titrachak.pro
 0.0.0.0	titubsgove.pro
 0.0.0.0	titubstudh.pro
@@ -28309,6 +28402,7 @@
 0.0.0.0	tybakoo5.pro
 0.0.0.0	tycajoi9.pro
 0.0.0.0	tycihua.pro
+0.0.0.0	tyciqai6.pro
 0.0.0.0	tyfefye.pro
 0.0.0.0	typicmorph.pro
 0.0.0.0	typo3.ero-advertising.com
@@ -28334,6 +28428,7 @@
 0.0.0.0	u1.extreme-dm.com
 127.0.0.1	u1.img.mobile.sina.cn
 127.0.0.1	u1.mob.com
+0.0.0.0	u1.vad6.ru
 0.0.0.0	ua-myfitnesspal.adsbynimbus.com
 127.0.0.1	ua.supersonicads.com
 0.0.0.0	ua.zenadservices.net
@@ -28716,8 +28811,8 @@
 0.0.0.0	update.spotlfy-48382.servernux.com
 0.0.0.0	update.stickyadstv.com
 0.0.0.0	update.tas.yieldmo.com
+0.0.0.0	update.vlnguba.com
 0.0.0.0	update.volam2005pk.com
-0.0.0.0	update.volamthientu.cc
 0.0.0.0	update.wo.gumgum.com
 0.0.0.0	update.wps.cn
 0.0.0.0	update.wtag.adaptv.advertising.com
@@ -29081,6 +29176,7 @@
 127.0.0.1	vali-ugc.cp31.ott.cibntv.net
 127.0.0.1	vali.cp31.ott.cibntv.net
 127.0.0.1	vali.cp31.ott.cibntv.net.302.myalicdn.com
+0.0.0.0	valiantworm.pro
 0.0.0.0	valiceracl.pro
 127.0.0.1	validate.appsflyer.com
 0.0.0.0	validconte.pro
@@ -29226,6 +29322,7 @@
 0.0.0.0	vettubarch.pro
 0.0.0.0	vettunonfu.pro
 0.0.0.0	vettutesta.pro
+0.0.0.0	vevulyi9.pro
 0.0.0.0	vf-corp.com
 0.0.0.0	vfs.admaster.com.cn
 0.0.0.0	vfw-eu.amazon-adsystem.com
@@ -29286,6 +29383,7 @@
 0.0.0.0	vicinwires.pro
 0.0.0.0	vicisabbra.pro
 0.0.0.0	victoriaadvocate.112.2o7.net
+0.0.0.0	victoriousbulldog.pro
 0.0.0.0	vid-cpm.xapads.com
 0.0.0.0	vid-io-iad.springserve.com
 0.0.0.0	vid-rtb.xapads.com
@@ -29799,6 +29897,7 @@
 0.0.0.0	vulneunref.pro
 0.0.0.0	vumoseo6.pro
 0.0.0.0	vungle.com
+0.0.0.0	vuqobue0.pro
 127.0.0.1	vv.play.aiseet.atianqi.com
 127.0.0.1	vv6.video.qq.com
 0.0.0.0	vv84.bj.bcebos.com
@@ -29808,6 +29907,8 @@
 0.0.0.0	vwinvn.pro
 0.0.0.0	vxyfkh.pro
 0.0.0.0	vyk.admaster.com.cn
+0.0.0.0	vykafau9.pro
+0.0.0.0	vyxijau2.pro
 0.0.0.0	vz-cdn.trafficjunky.net
 0.0.0.0	vz-cdn2.trafficjunky.net
 0.0.0.0	w.adsco.re
@@ -29868,6 +29969,7 @@
 0.0.0.0	wa1-enduser-k8s.gen.adsrvr.org
 0.0.0.0	wa2-bid.adsrvr.org
 0.0.0.0	waapi.netcoresmartech.com
+0.0.0.0	wafibuy5.pro
 0.0.0.0	wagbestrut.pro
 0.0.0.0	wager.dm
 0.0.0.0	wahacondrax.iad-03.braze.com
@@ -30016,6 +30118,7 @@
 0.0.0.0	webfile.adview.cn
 0.0.0.0	webfile.adview.com
 0.0.0.0	webid.ad.daum.net
+0.0.0.0	webihio4.pro
 127.0.0.1	weblb-wg.gslb.spotify.com
 0.0.0.0	webleads-tracker.com
 0.0.0.0	webleads-tracker.com.ssl.re.getclicky.com
@@ -30050,6 +30153,7 @@
 0.0.0.0	wenku-cms.bj.bcebos.com
 0.0.0.0	wer.qdwght.com
 0.0.0.0	wershichkij.pro
+0.0.0.0	weryvai4.pro
 127.0.0.1	wes.df.telemetry.microsoft.com
 0.0.0.0	weskofless.pro
 0.0.0.0	west.ads.simpli.fi
@@ -30154,6 +30258,7 @@
 0.0.0.0	wifocui2.pro
 0.0.0.0	wiggeesple.pro
 0.0.0.0	wigglyinnovation.pro
+0.0.0.0	wijafyy4.pro
 0.0.0.0	wiki.ero-advertising.com
 127.0.0.1	wiki.irs01.com
 127.0.0.1	wiki.mob.com
@@ -30224,6 +30329,7 @@
 0.0.0.0	wittyphrasenest.pro
 0.0.0.0	wittypuddle.pro
 0.0.0.0	wittyrandoms.pro
+0.0.0.0	wittyskua.pro
 0.0.0.0	wittysparkle.pro
 0.0.0.0	wittywhiskers.pro
 0.0.0.0	wittywhispers.pro
@@ -30273,6 +30379,7 @@
 127.0.0.1	wnsmusic.qq.com
 0.0.0.0	woavmhbb4tk19ic93ik8p4a9.funnyfoodadventures.com
 0.0.0.0	wobblumbel.pro
+0.0.0.0	wobuxao4.pro
 0.0.0.0	woftnepante.pro
 0.0.0.0	wogydoy2.pro
 0.0.0.0	wokapea.pro
@@ -30382,7 +30489,9 @@
 0.0.0.0	wtag.adaptv.advertising.com
 0.0.0.0	wtg-ads.com
 0.0.0.0	wtrwx.top
+0.0.0.0	wucokoi7.pro
 0.0.0.0	wurren.iad-03.braze.com
+0.0.0.0	wusuzee6.pro
 0.0.0.0	wuzenoo7.pro
 0.0.0.0	wv.inner-active.mobi
 0.0.0.0	wvuhvpjsev.pro
@@ -30689,7 +30798,9 @@
 0.0.0.0	www.adadvisor.net
 0.0.0.0	www.adaizceriu.pro
 0.0.0.0	www.adamaccountingservices.com
+0.0.0.0	www.adaptabledormouse.pro
 0.0.0.0	www.adaptablefulmar.pro
+0.0.0.0	www.adaydealbais.pro
 0.0.0.0	www.adclickservice.com
 0.0.0.0	www.add.bootsclub-biber.de
 0.0.0.0	www.addebcorni.pro
@@ -30796,6 +30907,7 @@
 0.0.0.0	www.adsinimages.com
 0.0.0.0	www.adskeeper.co.uk
 0.0.0.0	www.adskeeper.com
+0.0.0.0	www.adsmartgo.com
 0.0.0.0	www.adsmin.weebly.com
 0.0.0.0	www.adsmogo.com
 0.0.0.0	www.adsmogo.net
@@ -30837,6 +30949,7 @@
 0.0.0.0	www.adsupporttips.vercel.app
 0.0.0.0	www.adsurve.com
 0.0.0.0	www.adsvert.com
+0.0.0.0	www.adsy-system.com
 0.0.0.0	www.adsymptotic.com
 0.0.0.0	www.adszooks.com
 0.0.0.0	www.adt.com.vn
@@ -30868,6 +30981,7 @@
 0.0.0.0	www.adventuregamers.xyz
 0.0.0.0	www.adventureinnmoab.world
 0.0.0.0	www.adventures-from-home.com
+0.0.0.0	www.adventures-nacho-social.com
 0.0.0.0	www.adventurostravel.com
 0.0.0.0	www.adventuroussoul.pro
 0.0.0.0	www.adventurousspiritss.sbs
@@ -31239,9 +31353,8 @@
 0.0.0.0	www.api.nxpwebex2.com
 0.0.0.0	www.api.oli3.online
 0.0.0.0	www.api.pcloud.run
-0.0.0.0	www.api.rodebm.net
+0.0.0.0	www.api.slackplane.com
 0.0.0.0	www.api.taboola.com
-0.0.0.0	www.api.webhop.me
 0.0.0.0	www.apiphframm.pro
 0.0.0.0	www.apocametaf.pro
 0.0.0.0	www.apocrrappe.pro
@@ -31289,6 +31402,7 @@
 0.0.0.0	www.approzaqqu.pro
 127.0.0.1	www.appsflyer.com
 0.0.0.0	www.appunricon.pro
+0.0.0.0	www.apreyrubri.pro
 0.0.0.0	www.apricotpony.pro
 0.0.0.0	www.aprocrepon.pro
 0.0.0.0	www.apronescrueting.pro
@@ -31422,6 +31536,7 @@
 0.0.0.0	www.astriaffab.pro
 0.0.0.0	www.astribomir.pro
 0.0.0.0	www.astricontr.pro
+0.0.0.0	www.astriruffi.pro
 0.0.0.0	www.astutesheep.pro
 0.0.0.0	www.asyludisse.pro
 0.0.0.0	www.asystgutti.pro
@@ -31612,6 +31727,8 @@
 0.0.0.0	www.banners2.ero-advertising.com
 0.0.0.0	www.bannevs.ero-advertising.com
 0.0.0.0	www.bannibilke.pro
+0.0.0.0	www.banotia9.pro
+0.0.0.0	www.bapolue7.pro
 0.0.0.0	www.baratethna.pro
 0.0.0.0	www.barbaextra.pro
 0.0.0.0	www.barbaillat.pro
@@ -31648,6 +31765,7 @@
 0.0.0.0	www.battasvent.pro
 0.0.0.0	www.batterival.pro
 0.0.0.0	www.bavners2.ero-advertising.com
+0.0.0.0	www.baxetuy6.pro
 127.0.0.1	www.bayescom.com
 0.0.0.0	www.beamidiswe.pro
 0.0.0.0	www.bearastepf.pro
@@ -31717,6 +31835,7 @@
 0.0.0.0	www.bettertextads.com
 0.0.0.0	www.bettoshipk.pro
 0.0.0.0	www.bevanloung.pro
+0.0.0.0	www.bevicaa2.pro
 0.0.0.0	www.bewasunpen.pro
 0.0.0.0	www.bffymorta.pro
 0.0.0.0	www.biancinopu.pro
@@ -31770,6 +31889,7 @@
 0.0.0.0	www.biunihallo.pro
 0.0.0.0	www.bivacinter.pro
 0.0.0.0	www.bivavai3.pro
+0.0.0.0	www.biwatyy2.pro
 0.0.0.0	www.bizanspigr.pro
 0.0.0.0	www.bizarrejaguar.pro
 0.0.0.0	www.bk8.pro.vn
@@ -31945,6 +32065,7 @@
 0.0.0.0	www.bnf0ee1179ad8d8bb64f6b3065c975df62.ip-ddns.com
 0.0.0.0	www.boastihorrts.pro
 0.0.0.0	www.boastimpil.pro
+0.0.0.0	www.bobefay8.pro
 0.0.0.0	www.boccadecon.pro
 0.0.0.0	www.bodymnonan.pro
 0.0.0.0	www.bodysdisgr.pro
@@ -31956,6 +32077,7 @@
 0.0.0.0	www.boilonauja.pro
 0.0.0.0	www.boismometan.pro
 0.0.0.0	www.boisterouspeccary.pro
+0.0.0.0	www.bojabio9.pro
 0.0.0.0	www.boldballoons.pro
 0.0.0.0	www.boldbeverages.pro
 0.0.0.0	www.boldserene.pro
@@ -32296,6 +32418,7 @@
 0.0.0.0	www.bullorilec.pro
 0.0.0.0	www.bumblejoy.pro
 0.0.0.0	www.bunchoverc.pro
+0.0.0.0	www.buqezuu8.pro
 0.0.0.0	www.burblokane.pro
 0.0.0.0	www.burdkosolfa.pro
 0.0.0.0	www.bureasurmu.pro
@@ -32318,6 +32441,7 @@
 0.0.0.0	www.bustoclamm.pro
 0.0.0.0	www.busycricket.pro
 0.0.0.0	www.busytoopor.pro
+0.0.0.0	www.butemei3.pro
 0.0.0.0	www.butsuammod.pro
 0.0.0.0	www.buttemispr.pro
 0.0.0.0	www.butterflywingdancing.pro
@@ -32541,6 +32665,7 @@
 0.0.0.0	www.cedraargum.pro
 0.0.0.0	www.cedresciun.pro
 0.0.0.0	www.cefaldrupa.pro
+0.0.0.0	www.celabee6.pro
 0.0.0.0	www.celebritap.pro
 0.0.0.0	www.celerseine.pro
 0.0.0.0	www.celestialblazingwhirl.pro
@@ -32696,7 +32821,6 @@
 0.0.0.0	www.check-device-map.com
 0.0.0.0	www.check-dosz.shop
 0.0.0.0	www.check-info.xyz
-0.0.0.0	www.check-product-error-now.online
 0.0.0.0	www.check-zamov.shop
 0.0.0.0	www.check.cloud-too.online
 0.0.0.0	www.check.go19.online
@@ -32808,6 +32932,8 @@
 0.0.0.0	www.cifrarisve.pro
 0.0.0.0	www.cifsbacce.pro
 0.0.0.0	www.cignfilib.pro
+0.0.0.0	www.cigosoo8.pro
+0.0.0.0	www.cijaziu3.pro
 0.0.0.0	www.cimbojacco.pro
 0.0.0.0	www.cimena-betuho.pro
 0.0.0.0	www.cinchvergh.pro
@@ -32863,7 +32989,6 @@
 0.0.0.0	www.classscapu.pro
 0.0.0.0	www.classsupin.pro
 0.0.0.0	www.classysnail.pro
-0.0.0.0	www.cleaningaheadstone.com
 0.0.0.0	www.cleanlatif.pro
 0.0.0.0	www.clearvisionpro.pro
 0.0.0.0	www.clergverid.pro
@@ -32937,6 +33062,7 @@
 0.0.0.0	www.cointrade1000.net
 0.0.0.0	www.coitaessic.pro
 0.0.0.0	www.cojuxao6.pro
+0.0.0.0	www.cokizai8.pro
 0.0.0.0	www.cokovay1.pro
 0.0.0.0	www.coldcrystalwhisper.pro
 0.0.0.0	www.coldicefreezesall.pro
@@ -33292,6 +33418,7 @@
 0.0.0.0	www.crucipropl.pro
 0.0.0.0	www.crucisciac.pro
 0.0.0.0	www.crueldisco.pro
+0.0.0.0	www.cruseevalu.pro
 0.0.0.0	www.crystalbreeze.pro
 0.0.0.0	www.crystalclearwaters.pro
 0.0.0.0	www.crystalesrainying.pro
@@ -33379,6 +33506,7 @@
 0.0.0.0	www.daea.ero-advertising.com
 0.0.0.0	www.daffodildreams.pro
 0.0.0.0	www.daffytrout.pro
+0.0.0.0	www.daforye4.pro
 0.0.0.0	www.daftmalkoha.pro
 0.0.0.0	www.dagydiy6.pro
 0.0.0.0	www.daia.ero-advertising.com
@@ -33422,6 +33550,7 @@
 0.0.0.0	www.dartecho.pro
 0.0.0.0	www.darwefruit.pro
 0.0.0.0	www.darwieaugu.pro
+0.0.0.0	www.dasaboe4.pro
 0.0.0.0	www.dasesu-daboci.pro
 0.0.0.0	www.dashingglimpse.pro
 0.0.0.0	www.dat2.ero-advertising.com
@@ -33432,10 +33561,12 @@
 0.0.0.0	www.dats.ero-advertising.com
 0.0.0.0	www.datt.ero-advertising.com
 0.0.0.0	www.daturhugga.pro
+0.0.0.0	www.datypua0.pro
 0.0.0.0	www.daua.ero-advertising.com
 0.0.0.0	www.dava.ero-advertising.com
 0.0.0.0	www.dawa.ero-advertising.com
 0.0.0.0	www.daxigei8.pro
+0.0.0.0	www.daxivue8.pro
 0.0.0.0	www.daybeprese.pro
 0.0.0.0	www.dayboappen.pro
 0.0.0.0	www.daysskyfire.pro
@@ -33626,6 +33757,8 @@
 0.0.0.0	www.deumidistr.pro
 0.0.0.0	www.deuteciber.pro
 0.0.0.0	www.deutedevol.pro
+0.0.0.0	www.dev-e-urzadskarbovvy.pantheonsite.io
+0.0.0.0	www.dev-urzadskarbovvy-pl.pantheonsite.io
 0.0.0.0	www.devilrecon.pro
 0.0.0.0	www.dewinipoac.pro
 0.0.0.0	www.dexterousbullfrog.pro
@@ -33645,12 +33778,14 @@
 0.0.0.0	www.diazeattir.pro
 0.0.0.0	www.dibasvicin.pro
 0.0.0.0	www.dibatzavor.pro
+0.0.0.0	www.dibycee3.pro
 0.0.0.0	www.diciasubap.pro
 0.0.0.0	www.dicolconde.pro
 0.0.0.0	www.dicolexhib.pro
 0.0.0.0	www.dicoremigr.pro
 0.0.0.0	www.didaccitta.pro
 0.0.0.0	www.didacpapes.pro
+0.0.0.0	www.didactickestrel.pro
 0.0.0.0	www.didriabbac.pro
 0.0.0.0	www.didymunrep.pro
 0.0.0.0	www.dietepicci.pro
@@ -33681,6 +33816,7 @@
 0.0.0.0	www.dilitpolyp.pro
 0.0.0.0	www.dilivmiter.pro
 0.0.0.0	www.dilodiste.pro
+0.0.0.0	www.dilomsoffe.pro
 0.0.0.0	www.diluvabsol.pro
 0.0.0.0	www.dimagaceti.pro
 0.0.0.0	www.dimanseami.pro
@@ -33711,6 +33847,7 @@
 0.0.0.0	www.diramperno.pro
 0.0.0.0	www.directadvert.ru
 0.0.0.0	www.directnetadvertising.net
+0.0.0.0	www.director-main-ads-id10058322495.vercel.app
 0.0.0.0	www.diriminten.pro
 0.0.0.0	www.diromcalmi.pro
 0.0.0.0	www.dirugmomis.pro
@@ -33721,6 +33858,7 @@
 0.0.0.0	www.disagimpor.pro
 0.0.0.0	www.disagsquat.pro
 0.0.0.0	www.disagtopso.pro
+0.0.0.0	www.disakoo7.pro
 0.0.0.0	www.disaltste.pro
 0.0.0.0	www.disamdilet.pro
 0.0.0.0	www.disamforce.pro
@@ -34081,6 +34219,7 @@
 0.0.0.0	www.durerkill.pro
 0.0.0.0	www.durliconna.pro
 0.0.0.0	www.durriepisi.pro
+0.0.0.0	www.dutaciy0.pro
 127.0.0.1	www.dutils.com
 0.0.0.0	www.duvyleu6.pro
 127.0.0.1	www.dxmpay.com
@@ -34558,6 +34697,7 @@
 0.0.0.0	www.feltrpatro.pro
 0.0.0.0	www.femmimutte.pro
 0.0.0.0	www.femmioverl.pro
+0.0.0.0	www.fenafui6.pro
 0.0.0.0	www.fennenonco.pro
 0.0.0.0	www.fenomacrom.pro
 0.0.0.0	www.feriapeati.pro
@@ -34604,6 +34744,7 @@
 0.0.0.0	www.fiorericer.pro
 0.0.0.0	www.fiorisemol.pro
 0.0.0.0	www.fipplmodan.pro
+0.0.0.0	www.fipysoy4.pro
 0.0.0.0	www.fireads.online
 0.0.0.0	www.firedbrasa.pro
 0.0.0.0	www.fireliedays.pro
@@ -34863,7 +35004,6 @@
 0.0.0.0	www.fugheappla.pro
 0.0.0.0	www.fugitodont.pro
 0.0.0.0	www.fugumua.pro
-0.0.0.0	www.fullyingelderberryed.pro
 0.0.0.0	www.fumifottin.pro
 0.0.0.0	www.fungalocup.pro
 0.0.0.0	www.funghsopre.pro
@@ -34922,6 +35062,7 @@
 0.0.0.0	www.gameads.io
 0.0.0.0	www.gameleads.ru
 0.0.0.0	www.gametdiser.pro
+0.0.0.0	www.gamopue0.pro
 0.0.0.0	www.gamopyrth.pro
 0.0.0.0	www.ganglasset.pro
 0.0.0.0	www.gangrbedro.pro
@@ -34944,6 +35085,7 @@
 0.0.0.0	www.gebikua.pro
 0.0.0.0	www.gebinue3.pro
 0.0.0.0	www.gecchvezze.pro
+0.0.0.0	www.gecofya5.pro
 0.0.0.0	www.gekecai7.pro
 0.0.0.0	www.gelantravo.pro
 0.0.0.0	www.gelatnutri.pro
@@ -35022,6 +35164,7 @@
 0.0.0.0	www.giostwaken.pro
 0.0.0.0	www.giovisuppl.pro
 0.0.0.0	www.giravilliv.pro
+0.0.0.0	www.giravya.pro
 0.0.0.0	www.girelobes.pro
 0.0.0.0	www.girelwhett.pro
 0.0.0.0	www.gironjoyan.pro
@@ -35250,9 +35393,11 @@
 0.0.0.0	www.guaresuper.pro
 0.0.0.0	www.guatinundi.pro
 0.0.0.0	www.gubodyu.pro
+0.0.0.0	www.gucazaa.pro
 0.0.0.0	www.guerdgymno.pro
 0.0.0.0	www.guerrbairn.pro
 0.0.0.0	www.guessspuli.pro
+0.0.0.0	www.gufadau1.pro
 0.0.0.0	www.gufouamicr.pro
 0.0.0.0	www.guidaexpla.pro
 0.0.0.0	www.guinaderap.pro
@@ -35265,11 +35410,13 @@
 0.0.0.0	www.gummyglitter.pro
 0.0.0.0	www.gumuzae9.pro
 0.0.0.0	www.guruads.de
+0.0.0.0	www.guvoxoo6.pro
+0.0.0.0	www.guweqay.pro
 0.0.0.0	www.guyerdissa.pro
 0.0.0.0	www.gvhwnqma.pro
 0.0.0.0	www.gwedusparu.pro
-0.0.0.0	www.gybaway1.pro
 0.0.0.0	www.gygeboa0.pro
+0.0.0.0	www.gyjekei5.pro
 0.0.0.0	www.gymnoadvan.pro
 0.0.0.0	www.gynansubte.pro
 0.0.0.0	www.gypakau5.pro
@@ -35348,6 +35495,7 @@
 0.0.0.0	www.hathmoimpor.pro
 0.0.0.0	www.haulirefer.pro
 0.0.0.0	www.havcinvai.pro
+0.0.0.0	www.havusyy9.pro
 0.0.0.0	www.hawainootk.pro
 0.0.0.0	www.haxeni-kixayu.pro
 0.0.0.0	www.hazestride.pro
@@ -35388,12 +35536,12 @@
 0.0.0.0	www.heydevenen.pro
 0.0.0.0	www.heyheads.com
 0.0.0.0	www.hgsprpgi.pro
-0.0.0.0	www.hibaryu8.pro
 0.0.0.0	www.hiddenstarling.pro
 0.0.0.0	www.hiddenvalleydreams.pro
 0.0.0.0	www.hidewui3.pro
 0.0.0.0	www.hifymeo4.pro
 0.0.0.0	www.hightrafficads.com
+0.0.0.0	www.hihagiy4.pro
 0.0.0.0	www.hildedesta.pro
 0.0.0.0	www.hingeproch.pro
 0.0.0.0	www.hirslmicro.pro
@@ -35508,6 +35656,7 @@
 0.0.0.0	www.icyforeststorm.pro
 0.0.0.0	www.icytranquilglow.pro
 0.0.0.0	www.id545e247ad11.nes-srl.com
+0.0.0.0	www.id5bcdad881c9.nova-terra.cl
 0.0.0.0	www.id73a2eac123cadd6e458660dc0b8980da6.big-shop.ge
 0.0.0.0	www.iddederad.pro
 0.0.0.0	www.ideafrostfire.pro
@@ -35661,6 +35810,7 @@
 0.0.0.0	www.imporunrep.pro
 0.0.0.0	www.imposappig.pro
 0.0.0.0	www.impospurit.pro
+0.0.0.0	www.impossiblerat.pro
 0.0.0.0	www.impowpanca.pro
 0.0.0.0	www.impreemani.pro
 0.0.0.0	www.impreennea.pro
@@ -36149,12 +36299,12 @@
 0.0.0.0	www.jestelitho.pro
 0.0.0.0	www.jetuno-garase.pro
 0.0.0.0	www.jeunebaron.pro
+0.0.0.0	www.jezomoa8.pro
 0.0.0.0	www.jhelmerit.pro
 127.0.0.1	www.jiguang.cn
 0.0.0.0	www.jinelea.pro
 0.0.0.0	www.jinshcoinf.pro
 0.0.0.0	www.jinyzuu1.pro
-0.0.0.0	www.jipabee4.pro
 0.0.0.0	www.jirajei5.pro
 0.0.0.0	www.jiryqui.pro
 0.0.0.0	www.jiveglider.pro
@@ -36162,6 +36312,7 @@
 0.0.0.0	www.jizzads.com
 0.0.0.0	www.jjgkqv.pro
 0.0.0.0	www.jnliakoeoqaq.pro
+0.0.0.0	www.jogypei4.pro
 0.0.0.0	www.johoroe6.pro
 0.0.0.0	www.jollydrift.pro
 0.0.0.0	www.jollyflare.pro
@@ -36269,6 +36420,7 @@
 0.0.0.0	www.juttiriscu.pro
 0.0.0.0	www.juvocao9.pro
 0.0.0.0	www.jycosuy2.pro
+0.0.0.0	www.jysalai8.pro
 0.0.0.0	www.jyxocou.pro
 0.0.0.0	www.kagurmicro.pro
 0.0.0.0	www.kaleidopulse.pro
@@ -36293,6 +36445,7 @@
 0.0.0.0	www.keratfisezo.pro
 0.0.0.0	www.keratvitto.pro
 0.0.0.0	www.kerchtrich.pro
+0.0.0.0	www.keretoo3.pro
 0.0.0.0	www.ketchattos.pro
 0.0.0.0	www.ketemnotac.pro
 0.0.0.0	www.ketinfitta.pro
@@ -36321,10 +36474,12 @@
 0.0.0.0	www.kobutopic.pro
 0.0.0.0	www.kociwoy4.pro
 0.0.0.0	www.kojangrech.pro
+0.0.0.0	www.kolicie3.pro
 0.0.0.0	www.kolkamu.pro
 0.0.0.0	www.kolserne.pro
 0.0.0.0	www.komigye6.pro
 0.0.0.0	www.konarifal.pro
+0.0.0.0	www.konozuy4.pro
 0.0.0.0	www.kookycheer.pro
 0.0.0.0	www.kookykaleidoscope.pro
 0.0.0.0	www.kookykites.pro
@@ -36332,6 +36487,7 @@
 0.0.0.0	www.koreitaluh.pro
 0.0.0.0	www.korntdiroc.pro
 0.0.0.0	www.kospalyss.pro
+0.0.0.0	www.kowerzhick.pro
 0.0.0.0	www.krokiicoor.pro
 0.0.0.0	www.kryptplagi.pro
 0.0.0.0	www.ktqtyggmqgug.pro
@@ -36360,7 +36516,9 @@
 0.0.0.0	www.ladyhhartf.pro
 0.0.0.0	www.laevimanda.pro
 0.0.0.0	www.lagnedisce.pro
+0.0.0.0	www.lahudiauaday.pro
 0.0.0.0	www.laidpunta.pro
+0.0.0.0	www.lajupii6.pro
 0.0.0.0	www.lambedisko.pro
 0.0.0.0	www.lambrsampl.pro
 0.0.0.0	www.lamentrans.pro
@@ -36389,6 +36547,7 @@
 0.0.0.0	www.largielami.pro
 0.0.0.0	www.larinconvo.pro
 0.0.0.0	www.larlipreva.pro
+0.0.0.0	www.larttads.info
 0.0.0.0	www.lascapyoge.pro
 0.0.0.0	www.laserscomb.pro
 0.0.0.0	www.latinglads.pro
@@ -36416,6 +36575,7 @@
 0.0.0.0	www.leafyecho.pro
 0.0.0.0	www.lealiimbus.pro
 0.0.0.0	www.lecanincor.pro
+0.0.0.0	www.leconiy2.pro
 0.0.0.0	www.leefticono.pro
 0.0.0.0	www.leggiavvit.pro
 0.0.0.0	www.leghidefor.pro
@@ -36431,7 +36591,6 @@
 0.0.0.0	www.lenzuliber.pro
 0.0.0.0	www.leopardspotagility.pro
 0.0.0.0	www.lepadfugit.pro
-0.0.0.0	www.lepixae1.pro
 0.0.0.0	www.leptopiros.pro
 0.0.0.0	www.lerceunpre.pro
 0.0.0.0	www.lessidelin.pro
@@ -36441,8 +36600,6 @@
 0.0.0.0	www.levatnucle.pro
 0.0.0.0	www.levigrethr.pro
 0.0.0.0	www.levisriman.pro
-0.0.0.0	www.levitateleads.com
-0.0.0.0	www.lewetoy6.pro
 0.0.0.0	www.lewocui8.pro
 0.0.0.0	www.lexicdemod.pro
 0.0.0.0	www.libanbedia.pro
@@ -36464,9 +36621,12 @@
 0.0.0.0	www.lightmoth.pro
 0.0.0.0	www.lightningflashingpower.pro
 0.0.0.0	www.ligniresea.pro
+0.0.0.0	www.lihamyi3.pro
 0.0.0.0	www.lihugau.pro
+0.0.0.0	www.lijufoa5.pro
 0.0.0.0	www.likedyu.pro
 0.0.0.0	www.lilacsmilodon.pro
+0.0.0.0	www.lilufoa5.pro
 0.0.0.0	www.limaistalk.pro
 0.0.0.0	www.limicornit.pro
 0.0.0.0	www.linguantic.pro
@@ -36562,7 +36722,6 @@
 0.0.0.0	www.lottery.ie
 0.0.0.0	www.lottery.olg.ca
 0.0.0.0	www.lottery.tresdor.com
-0.0.0.0	www.lottos.store-google-play.com
 0.0.0.0	www.loudmusicplaysnight.pro
 0.0.0.0	www.loutishrattlesnake.pro
 0.0.0.0	www.loutishsheep.pro
@@ -36628,6 +36787,7 @@
 0.0.0.0	www.lyaeunjil.pro
 0.0.0.0	www.lycanfiamm.pro
 0.0.0.0	www.lyciarituo.pro
+0.0.0.0	www.lydajuu3.pro
 0.0.0.0	www.lyewfndsvvpq.pro
 0.0.0.0	www.lygaxei4.pro
 0.0.0.0	www.lyhonua.pro
@@ -36698,6 +36858,7 @@
 0.0.0.0	www.mammicowar.pro
 0.0.0.0	www.mamotrinci.pro
 0.0.0.0	www.manarasse.pro
+0.0.0.0	www.mandabarke.pro
 0.0.0.0	www.mandaimbit.pro
 0.0.0.0	www.mandeunrha.pro
 0.0.0.0	www.mandrancor.pro
@@ -36735,6 +36896,7 @@
 0.0.0.0	www.mariorimpa.pro
 0.0.0.0	www.mariosnoek.pro
 0.0.0.0	www.maritparal.pro
+0.0.0.0	www.maritprote.pro
 0.0.0.0	www.maritwoozi.pro
 0.0.0.0	www.markleafloop.pro
 0.0.0.0	www.markmosscue.pro
@@ -36774,6 +36936,7 @@
 0.0.0.0	www.mata.ero-advertising.com
 0.0.0.0	www.matchfioci.pro
 0.0.0.0	www.matchpassg.pro
+0.0.0.0	www.matecua0.pro
 0.0.0.0	www.matrolallte.pro
 0.0.0.0	www.maturprese.pro
 0.0.0.0	www.mawmiflust.pro
@@ -36874,6 +37037,7 @@
 0.0.0.0	www.meta-ads-manager-facebook-support-business-id100019655719.vercel.app
 0.0.0.0	www.meta-ads-manager-facebook-support-business-id200056679982.vercel.app
 0.0.0.0	www.metaadvertisingsupportsolution.com
+0.0.0.0	www.metacperic.pro
 0.0.0.0	www.metaenonad.pro
 0.0.0.0	www.metafincip.pro
 0.0.0.0	www.metafosteo.pro
@@ -36939,6 +37103,7 @@
 0.0.0.0	www.minisilkworm.pro
 0.0.0.0	www.minisproti.pro
 0.0.0.0	www.miniswine.pro
+0.0.0.0	www.minudoe7.pro
 0.0.0.0	www.miodiinfel.pro
 0.0.0.0	www.miqyfou.pro
 0.0.0.0	www.mirabaloge.pro
@@ -37048,6 +37213,7 @@
 0.0.0.0	www.mozzarista.pro
 0.0.0.0	www.mszene.pro
 0.0.0.0	www.mu88ads.com
+0.0.0.0	www.mubunoe8.pro
 0.0.0.0	www.muccidiurn.pro
 0.0.0.0	www.mucopbarbi.pro
 0.0.0.0	www.mucorcount.pro
@@ -37082,10 +37248,12 @@
 0.0.0.0	www.myadsystem.com
 0.0.0.0	www.myadvantify.com
 0.0.0.0	www.mybb.ero-advertising.com
+0.0.0.0	www.mycoxoe3.pro
 0.0.0.0	www.myelofallo.pro
 0.0.0.0	www.mylodprepa.pro
 0.0.0.0	www.mylottoadserv.com
 0.0.0.0	www.mymeadville.com
+0.0.0.0	www.myremoa9.pro
 0.0.0.0	www.myrindiste.pro
 0.0.0.0	www.mysdkzzcl.com
 0.0.0.0	www.mysdkzzfl.com
@@ -37199,7 +37367,6 @@
 0.0.0.0	www.neviclecit.pro
 0.0.0.0	www.nevraritoc.pro
 0.0.0.0	www.nevrofibri.pro
-0.0.0.0	www.newejao0.pro
 0.0.0.0	www.newsfeedchronicle.pro
 0.0.0.0	www.newsfeedheadline.pro
 0.0.0.0	www.newshuntads.com
@@ -37216,6 +37383,7 @@
 0.0.0.0	www.nickeclino.pro
 0.0.0.0	www.nickelbuffalo.pro
 0.0.0.0	www.nictaarmil.pro
+0.0.0.0	www.nidaweo8.pro
 0.0.0.0	www.nielldesta.pro
 0.0.0.0	www.nieomutto.pro
 0.0.0.0	www.niftynestyer.pro
@@ -37236,10 +37404,12 @@
 0.0.0.0	www.ninikau0.pro
 0.0.0.0	www.ninjakakapo.pro
 0.0.0.0	www.ninyxei4.pro
+0.0.0.0	www.nippyroadrunner.pro
 0.0.0.0	www.nippyrottweiler.pro
 0.0.0.0	www.nitanoa.pro
 0.0.0.0	www.nitragarbi.pro
 0.0.0.0	www.nitroknoll.pro
+0.0.0.0	www.niwidia8.pro
 0.0.0.0	www.nl1.ero-advertising.com
 0.0.0.0	www.nl2.ero-advertising.com
 0.0.0.0	www.nlkadogan.pro
@@ -37310,6 +37480,7 @@
 0.0.0.0	www.nonteaccor.pro
 0.0.0.0	www.nonvoruzze.pro
 0.0.0.0	www.nonwedecea.pro
+0.0.0.0	www.noqevoy3.pro
 0.0.0.0	www.norseuncha.pro
 0.0.0.0	www.northpeeak.pro
 0.0.0.0	www.nosewcoapp.pro
@@ -37343,6 +37514,8 @@
 0.0.0.0	www.nutgrtitol.pro
 0.0.0.0	www.nutritrapi.pro
 0.0.0.0	www.nutritromb.pro
+0.0.0.0	www.nutulyo0.pro
+0.0.0.0	www.nyvujya8.pro
 127.0.0.1	www.oadz.com
 0.0.0.0	www.oaktreestrongest.pro
 0.0.0.0	www.oata.ero-advertising.com
@@ -37395,6 +37568,7 @@
 0.0.0.0	www.olierentra.pro
 0.0.0.0	www.oligipurus.pro
 0.0.0.0	www.oligoimboz.pro
+0.0.0.0	www.olimanoshksk.pro
 0.0.0.0	www.olininicot.pro
 0.0.0.0	www.oliveappoliveinter.pro
 0.0.0.0	www.olivebotolivedata.pro
@@ -37496,8 +37670,6 @@
 0.0.0.0	www.origiredat.pro
 0.0.0.0	www.origlsuper.pro
 0.0.0.0	www.orion.iad.appboy.com
-0.0.0.0	www.orlen.royaladverts.info
-0.0.0.0	www.orlen.royaladverts.pro
 0.0.0.0	www.orlensystem.pro
 0.0.0.0	www.orleonsystempl.pro
 0.0.0.0	www.orliqsbara.pro
@@ -37939,6 +38111,7 @@
 0.0.0.0	www.pixiedreams.pro
 0.0.0.0	www.pixiefrost.pro
 0.0.0.0	www.pl-oferta-iphone-16-pro-max.sbs
+0.0.0.0	www.placement-main-ads-id6100722555103.vercel.app
 0.0.0.0	www.placidbuffalo.pro
 0.0.0.0	www.plagesvuot.pro
 0.0.0.0	www.plagiprima.pro
@@ -38006,6 +38179,7 @@
 0.0.0.0	www.pocztex.pl-add.lat
 0.0.0.0	www.pocztex.pl-freight.pro
 0.0.0.0	www.pocztex.pl-trace.lat
+0.0.0.0	www.podeseo6.pro
 0.0.0.0	www.poephoffen.pro
 0.0.0.0	www.poeticcapybara.pro
 0.0.0.0	www.poeticorca.pro
@@ -38202,9 +38376,9 @@
 0.0.0.0	www.pro-factory.com
 0.0.0.0	www.pro-insights.info
 0.0.0.0	www.pro-partners.nl
+0.0.0.0	www.pro-rentify.com
 0.0.0.0	www.pro-tect.shop
 0.0.0.0	www.pro-trading24.com
-0.0.0.0	www.pro-worktools.com
 0.0.0.0	www.pro.clanweb.cz
 0.0.0.0	www.pro.cloudmania.site
 0.0.0.0	www.pro.cn
@@ -38339,12 +38513,14 @@
 0.0.0.0	www.pusztdartm.pro
 0.0.0.0	www.puteoplate.pro
 0.0.0.0	www.putridemod.pro
+0.0.0.0	www.puzepai5.pro
 0.0.0.0	www.pwefrn.pro
 0.0.0.0	www.pygmyinchworm.pro
 0.0.0.0	www.pykasui.pro
 0.0.0.0	www.pyladsodis.com
 0.0.0.0	www.pylhwf.pro
 0.0.0.0	www.pylywio8.pro
+0.0.0.0	www.pypukuo0.pro
 0.0.0.0	www.pyraminmil.pro
 0.0.0.0	www.pyrenindiv.pro
 0.0.0.0	www.pyrosabond.pro
@@ -38352,22 +38528,25 @@
 0.0.0.0	www.pythoschid.pro
 0.0.0.0	www.pyvopiu7.pro
 0.0.0.0	www.qateqyo.pro
-0.0.0.0	www.qavalui9.pro
 0.0.0.0	www.qchannel01.cn
 127.0.0.1	www.qchannel03.cn
-0.0.0.0	www.qebegey9.pro
+0.0.0.0	www.qebekae9.pro
 0.0.0.0	www.qemuzii.pro
 0.0.0.0	www.qenogiu.pro
 0.0.0.0	www.qeqywui8.pro
 0.0.0.0	www.qewediu7.pro
+0.0.0.0	www.qicijiy9.pro
+0.0.0.0	www.qinerie6.pro
 0.0.0.0	www.qiuyva.pro
 0.0.0.0	www.qiwdjfniejuk.pro
 0.0.0.0	www.qiytximmzayf.pro
 0.0.0.0	www.qkjfdqqxnnkj.pro
 0.0.0.0	www.qkztpx.pro
+0.0.0.0	www.qoguhuo4.pro
 0.0.0.0	www.qohemoe7.pro
 0.0.0.0	www.qomilio9.pro
 0.0.0.0	www.qomubaa4.pro
+0.0.0.0	www.qorajui.pro
 0.0.0.0	www.qovaluo3.pro
 0.0.0.0	www.qqads.com
 0.0.0.0	www.quadraddor.pro
@@ -38398,6 +38577,8 @@
 0.0.0.0	www.queresdila.pro
 0.0.0.0	www.questasseg.pro
 0.0.0.0	www.questsprout.pro
+0.0.0.0	www.qufagui.pro
+0.0.0.0	www.qufogoa8.pro
 0.0.0.0	www.quick.offer-check.shop
 0.0.0.0	www.quickfoxesjumphigh.pro
 0.0.0.0	www.quickpopsmile.pro
@@ -38427,11 +38608,14 @@
 0.0.0.0	www.qukemou.pro
 0.0.0.0	www.qulucyi.pro
 0.0.0.0	www.qunatuo.pro
+0.0.0.0	www.quomomasti.pro
 0.0.0.0	www.qupijao7.pro
 0.0.0.0	www.qutamai7.pro
 0.0.0.0	www.qvhtts.pro
 0.0.0.0	www.qyhynuu1.pro
+0.0.0.0	www.qyrywea9.pro
 0.0.0.0	www.qyxizya0.pro
+0.0.0.0	www.qyzadyo3.pro
 0.0.0.0	www.qzkondibqd.pro
 0.0.0.0	www.rabblindor.pro
 0.0.0.0	www.rabbrrispo.pro
@@ -38796,6 +38980,7 @@
 0.0.0.0	www.resumbianc.pro
 0.0.0.0	www.resumtatizu.pro
 0.0.0.0	www.retaiprore.pro
+0.0.0.0	www.retehyi.pro
 0.0.0.0	www.rethrdisab.pro
 0.0.0.0	www.retraassor.pro
 0.0.0.0	www.retraequid.pro
@@ -38803,6 +38988,7 @@
 0.0.0.0	www.retriprocr.pro
 0.0.0.0	www.retrogunni.pro
 0.0.0.0	www.retrorimpi.pro
+0.0.0.0	www.retticallo.pro
 0.0.0.0	www.retticonce.pro
 0.0.0.0	www.rettingle.pro
 0.0.0.0	www.reusableperiodpads.com
@@ -38928,6 +39114,7 @@
 0.0.0.0	www.rienfelegg.pro
 0.0.0.0	www.rienfreper.pro
 0.0.0.0	www.rientbronz.pro
+0.0.0.0	www.rientfinal.pro
 0.0.0.0	www.riepiprecu.pro
 0.0.0.0	www.riespindef.pro
 0.0.0.0	www.riesplopin.pro
@@ -38977,6 +39164,7 @@
 0.0.0.0	www.rigrihorre.pro
 0.0.0.0	www.riguamenur.pro
 0.0.0.0	www.riguesenso.pro
+0.0.0.0	www.rijuqye0.pro
 0.0.0.0	www.rilacconce.pro
 0.0.0.0	www.rilacscapr.pro
 0.0.0.0	www.rilamluex.pro
@@ -39197,6 +39385,7 @@
 0.0.0.0	www.riutibalza.pro
 0.0.0.0	www.riutiindif.pro
 0.0.0.0	www.rivacsberc.pro
+0.0.0.0	www.rivajyu1.pro
 0.0.0.0	www.rivalfocal.pro
 0.0.0.0	www.rivalrifia.pro
 0.0.0.0	www.rivarhymen.pro
@@ -39257,6 +39446,7 @@
 0.0.0.0	www.rubydrift.pro
 0.0.0.0	www.rubyskua.pro
 0.0.0.0	www.rubytbacte.pro
+0.0.0.0	www.rudimey4.pro
 0.0.0.0	www.rudytoparke.pro
 0.0.0.0	www.rufficeler.pro
 0.0.0.0	www.ruffipolyt.pro
@@ -39279,9 +39469,13 @@
 0.0.0.0	www.ruzzeranto.pro
 0.0.0.0	www.rxblxg.pro
 0.0.0.0	www.rxddsdpgljsl.pro
+0.0.0.0	www.ryduvou0.pro
 0.0.0.0	www.rygyvoe.pro
 0.0.0.0	www.ryjesii4.pro
 0.0.0.0	www.rylisay.pro
+0.0.0.0	www.ryqagii6.pro
+0.0.0.0	www.ryryhou6.pro
+0.0.0.0	www.rytehya9.pro
 0.0.0.0	www.rzqilqfais.pro
 0.0.0.0	www.s.ero-advertising.com
 0.0.0.0	www.s10.hiadspaces.ero-advertising.com
@@ -39639,10 +39833,12 @@
 0.0.0.0	www.segneleont.pro
 0.0.0.0	www.seguiengen.pro
 0.0.0.0	www.seguivolut.pro
+0.0.0.0	www.sehejii1.pro
 0.0.0.0	www.seismfullo.pro
 0.0.0.0	www.selciobvol.pro
 0.0.0.0	www.selectigro.pro
 0.0.0.0	www.selvarotta.pro
+0.0.0.0	www.selyway.pro
 0.0.0.0	www.semadumbs.pro
 0.0.0.0	www.sembinonin.pro
 0.0.0.0	www.sememinsos.pro
@@ -39665,7 +39861,6 @@
 0.0.0.0	www.sempetergi.pro
 0.0.0.0	www.sempisolst.pro
 0.0.0.0	www.semplpredi.pro
-0.0.0.0	www.senacoo0.pro
 0.0.0.0	www.senegovere.pro
 0.0.0.0	www.sensiconfi.pro
 0.0.0.0	www.sensiligus.pro
@@ -39892,6 +40087,7 @@
 0.0.0.0	www.signacunge.pro
 0.0.0.0	www.signirisfa.pro
 0.0.0.0	www.sikisuu.pro
+0.0.0.0	www.sikynou2.pro
 0.0.0.0	www.silentadventure.pro
 0.0.0.0	www.silentcormorant.pro
 0.0.0.0	www.silentfirewhirl.pro
@@ -40048,6 +40244,7 @@
 0.0.0.0	www.snzihelle.pro
 0.0.0.0	www.soaringeaglesflyhigh.pro
 0.0.0.0	www.sobismesse.pro
+0.0.0.0	www.sobyhiu9.pro
 0.0.0.0	www.soci24.pro
 0.0.0.0	www.sociaalpin.pro
 0.0.0.0	www.sociablealpaca.pro
@@ -40086,6 +40283,7 @@
 0.0.0.0	www.sompnenlin.pro
 0.0.0.0	www.sonagapper.pro
 0.0.0.0	www.sonanamica.pro
+0.0.0.0	www.sonehoe1.pro
 0.0.0.0	www.sonicorchid.pro
 0.0.0.0	www.sonictuber.pro
 0.0.0.0	www.sonicwavetree.pro
@@ -40346,6 +40544,7 @@
 0.0.0.0	www.sragiconge.pro
 0.0.0.0	www.sraipheno.pro
 0.0.0.0	www.sruggmesur.pro
+0.0.0.0	www.ss-rec-vntd.pro
 0.0.0.0	www.ssqalpoxsvid.pro
 0.0.0.0	www.staccriasf.pro
 0.0.0.0	www.stackempen.pro
@@ -40670,6 +40869,7 @@
 0.0.0.0	www.sussuscian.pro
 0.0.0.0	www.susurringr.pro
 0.0.0.0	www.suvuqua.pro
+0.0.0.0	www.suzanou.pro
 0.0.0.0	www.suzigi-hilazo.pro
 0.0.0.0	www.svagaincap.pro
 0.0.0.0	www.svagipomst.pro
@@ -40740,6 +40940,7 @@
 0.0.0.0	www.synonbilbo.pro
 0.0.0.0	www.synopnapea.pro
 0.0.0.0	www.syriaricon.pro
+0.0.0.0	www.syxyhyy5.pro
 0.0.0.0	www.t-analytics.com
 0.0.0.0	www.tabacgigi.pro
 0.0.0.0	www.tabelmetan.pro
@@ -40956,6 +41157,7 @@
 0.0.0.0	www.titolhallu.pro
 0.0.0.0	www.titolillai.pro
 0.0.0.0	www.titolprote.pro
+0.0.0.0	www.titonui.pro
 0.0.0.0	www.titrachak.pro
 0.0.0.0	www.titubsgove.pro
 0.0.0.0	www.titubstudh.pro
@@ -41260,6 +41462,7 @@
 0.0.0.0	www.tybakoo5.pro
 0.0.0.0	www.tycajoi9.pro
 0.0.0.0	www.tycihua.pro
+0.0.0.0	www.tyciqai6.pro
 0.0.0.0	www.tyfefye.pro
 0.0.0.0	www.typicmorph.pro
 0.0.0.0	www.typo3.ero-advertising.com
@@ -41553,6 +41756,7 @@
 0.0.0.0	www.vaguesnail.pro
 0.0.0.0	www.valenciaadschool.com
 0.0.0.0	www.valenstral.pro
+0.0.0.0	www.valiantworm.pro
 0.0.0.0	www.valiceracl.pro
 0.0.0.0	www.validconte.pro
 0.0.0.0	www.valigdiscl.pro
@@ -41649,6 +41853,7 @@
 0.0.0.0	www.vettubarch.pro
 0.0.0.0	www.vettunonfu.pro
 0.0.0.0	www.vettutesta.pro
+0.0.0.0	www.vevulyi9.pro
 0.0.0.0	www.vf-corp.com
 0.0.0.0	www.vgnatitil.pro
 0.0.0.0	www.vibequest.pro
@@ -41683,6 +41888,7 @@
 0.0.0.0	www.vicigyy3.pro
 0.0.0.0	www.vicinwires.pro
 0.0.0.0	www.vicisabbra.pro
+0.0.0.0	www.victoriousbulldog.pro
 0.0.0.0	www.vidads.gr
 0.0.0.0	www.videoadschallenge.com
 0.0.0.0	www.videotetta.pro
@@ -41837,8 +42043,12 @@
 0.0.0.0	www.vulcarabbo.pro
 0.0.0.0	www.vulneunref.pro
 0.0.0.0	www.vumoseo6.pro
+0.0.0.0	www.vuqobue0.pro
 0.0.0.0	www.vxyfkh.pro
 0.0.0.0	www.vyk.admaster.com.cn
+0.0.0.0	www.vykafau9.pro
+0.0.0.0	www.vyxijau2.pro
+0.0.0.0	www.wafibuy5.pro
 0.0.0.0	www.wagbestrut.pro
 0.0.0.0	www.wager.dm
 0.0.0.0	www.wailtofolgo.pro
@@ -41895,6 +42105,7 @@
 0.0.0.0	www.weatvanda.pro
 0.0.0.0	www.weaveglow.pro
 0.0.0.0	www.web.cellfun.mobi
+0.0.0.0	www.webihio4.pro
 0.0.0.0	www.wedgejaspe.pro
 0.0.0.0	www.weekndiver.pro
 0.0.0.0	www.wejuvxtjnpg.pro
@@ -41904,6 +42115,7 @@
 0.0.0.0	www.wellcefelc.pro
 0.0.0.0	www.weltiunchi.pro
 0.0.0.0	www.wershichkij.pro
+0.0.0.0	www.weryvai4.pro
 0.0.0.0	www.weskofless.pro
 0.0.0.0	www.westreclameadvies.nl
 0.0.0.0	www.wetnenevic.pro
@@ -41995,6 +42207,7 @@
 0.0.0.0	www.wifocui2.pro
 0.0.0.0	www.wiggeesple.pro
 0.0.0.0	www.wigglyinnovation.pro
+0.0.0.0	www.wijafyy4.pro
 0.0.0.0	www.wiki.ero-advertising.com
 0.0.0.0	www.wildflowerdreaming.pro
 0.0.0.0	www.wildflowerfields.pro
@@ -42036,6 +42249,7 @@
 0.0.0.0	www.wittyphrasenest.pro
 0.0.0.0	www.wittypuddle.pro
 0.0.0.0	www.wittyrandoms.pro
+0.0.0.0	www.wittyskua.pro
 0.0.0.0	www.wittysparkle.pro
 0.0.0.0	www.wittywhiskers.pro
 0.0.0.0	www.wittywhispers.pro
@@ -42044,6 +42258,7 @@
 0.0.0.0	www.wks.ero-advertising.com
 0.0.0.0	www.woavmhbb4tk19ic93ik8p4a9.funnyfoodadventures.com
 0.0.0.0	www.wobblumbel.pro
+0.0.0.0	www.wobuxao4.pro
 0.0.0.0	www.woftnepante.pro
 0.0.0.0	www.wogydoy2.pro
 0.0.0.0	www.wokapea.pro
@@ -42087,6 +42302,8 @@
 0.0.0.0	www.wslzgoody.pro
 0.0.0.0	www.wsw.ero-advertising.com
 0.0.0.0	www.wta.ero-advertising.com
+0.0.0.0	www.wucokoi7.pro
+0.0.0.0	www.wusuzee6.pro
 0.0.0.0	www.wuzenoo7.pro
 0.0.0.0	www.wvuhvpjsev.pro
 0.0.0.0	www.ww2.ero-advertising.com
@@ -42116,6 +42333,7 @@
 0.0.0.0	www.xedihyu9.pro
 0.0.0.0	www.xenofconcu.pro
 0.0.0.0	www.xerocdisgr.pro
+0.0.0.0	www.xifaraa3.pro
 0.0.0.0	www.xiloldisan.pro
 0.0.0.0	www.ximovuo.pro
 0.0.0.0	www.xiporye.pro
@@ -42129,6 +42347,7 @@
 0.0.0.0	www.xqjyofqhbo.pro
 0.0.0.0	www.xujamye3.pro
 0.0.0.0	www.xuporea4.pro
+0.0.0.0	www.xuwofue8.pro
 0.0.0.0	www.xybihoa.pro
 0.0.0.0	www.xycusua2.pro
 0.0.0.0	www.xystecuoci.pro
@@ -42168,6 +42387,7 @@
 0.0.0.0	www.zampisospi.pro
 0.0.0.0	www.zangorrispa.pro
 0.0.0.0	www.zannacratc.pro
+0.0.0.0	www.zappegastr.pro
 0.0.0.0	www.zappylux.pro
 0.0.0.0	www.zappytwiddle.pro
 0.0.0.0	www.zarnoklex.pro
@@ -42193,6 +42413,7 @@
 0.0.0.0	www.zephyrpine.pro
 0.0.0.0	www.zephyrwonderland.pro
 0.0.0.0	www.zeraxea6.pro
+0.0.0.0	www.zesojio3.pro
 0.0.0.0	www.zestfuldora.pro
 0.0.0.0	www.zestfulecho.pro
 0.0.0.0	www.zestfultide.pro
@@ -42245,6 +42466,7 @@
 0.0.0.0	www.zoopaposti.pro
 0.0.0.0	www.zopiwoo.pro
 0.0.0.0	www.zostealasc.pro
+0.0.0.0	www.zovucau6.pro
 0.0.0.0	www.zowux.pro
 0.0.0.0	www.ztjtbnrhkc.pro
 0.0.0.0	www.ztsvjmvpyi.pro
@@ -42252,10 +42474,12 @@
 0.0.0.0	www.zucchscacc.pro
 0.0.0.0	www.zucunyy1.pro
 0.0.0.0	www.zudepoi.pro
+0.0.0.0	www.zufarea6.pro
 0.0.0.0	www.zufolmazzo.pro
 0.0.0.0	www.zulkasobbi.pro
 0.0.0.0	www.zulunuincam.pro
 0.0.0.0	www.zuppadisin.pro
+0.0.0.0	www.zupywii5.pro
 0.0.0.0	www.zwittdiste.pro
 0.0.0.0	www.zww.ero-advertising.com
 0.0.0.0	www.zydubeo5.pro
@@ -42370,6 +42594,7 @@
 127.0.0.1	xiaomi.ws.voiceads.cn
 127.0.0.1	xiaoshuo.wtzw.com
 127.0.0.1	xiaozhi.ai.voiceads.cn
+0.0.0.0	xifaraa3.pro
 0.0.0.0	xiloldisan.pro
 127.0.0.1	ximad.com
 0.0.0.0	ximovuo.pro
@@ -42478,6 +42703,7 @@
 0.0.0.0	xunlei.adx.admaster.com.cn
 127.0.0.1	xunlei.ipdx.cn.miaozhen.com
 0.0.0.0	xuporea4.pro
+0.0.0.0	xuwofue8.pro
 127.0.0.1	xy.phone.igexin.com
 0.0.0.0	xybihoa.pro
 0.0.0.0	xycdn.com
@@ -42645,6 +42871,7 @@
 0.0.0.0	zannacratc.pro
 0.0.0.0	zapads.zapak.com
 0.0.0.0	zapadserver1.com
+0.0.0.0	zappegastr.pro
 0.0.0.0	zappylux.pro
 0.0.0.0	zappytwiddle.pro
 0.0.0.0	zarnoklex.pro
@@ -42676,6 +42903,7 @@
 0.0.0.0	zephyrwonderland.pro
 0.0.0.0	zerads.com
 0.0.0.0	zeraxea6.pro
+0.0.0.0	zesojio3.pro
 0.0.0.0	zestfuldora.pro
 0.0.0.0	zestfulecho.pro
 0.0.0.0	zestfultide.pro
@@ -42753,6 +42981,7 @@
 0.0.0.0	zoopaposti.pro
 0.0.0.0	zopiwoo.pro
 0.0.0.0	zostealasc.pro
+0.0.0.0	zovucau6.pro
 0.0.0.0	zowux.pro
 0.0.0.0	zs1.cnzz.com
 127.0.0.1	zs10.cnzz.com
@@ -42780,10 +43009,12 @@
 0.0.0.0	zucchscacc.pro
 0.0.0.0	zucunyy1.pro
 0.0.0.0	zudepoi.pro
+0.0.0.0	zufarea6.pro
 0.0.0.0	zufolmazzo.pro
 0.0.0.0	zulkasobbi.pro
 0.0.0.0	zulunuincam.pro
 0.0.0.0	zuppadisin.pro
+0.0.0.0	zupywii5.pro
 0.0.0.0	zuwnq.cn
 127.0.0.1	zvs1.cnzz.com
 127.0.0.1	zvs2.cnzz.com
