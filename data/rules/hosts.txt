@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-05-14 12:24:59
-# 规则总数: 43431
+# 最后更新时间: 2025-05-15 00:26:26
+# 规则总数: 43434
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -2535,6 +2535,7 @@
 0.0.0.0	ads-pd.nbcuni.com
 0.0.0.0	ads-pd.universalsports.com
 0.0.0.0	ads-pebblemedia.adhese.com
+0.0.0.0	ads-pit-nfl.yinzcam.com
 0.0.0.0	ads-pixiv.net
 0.0.0.0	ads-platform.zalo.me
 0.0.0.0	ads-portal.net
@@ -5665,6 +5666,7 @@
 0.0.0.0	adspirit.de
 0.0.0.0	adspirit.info
 0.0.0.0	adspirit.net
+0.0.0.0	adspixel.network
 0.0.0.0	adspixle.com
 0.0.0.0	adsplay.in
 0.0.0.0	adsplay.net
@@ -8028,7 +8030,6 @@
 0.0.0.0	api.emma.io
 0.0.0.0	api.empower.net
 0.0.0.0	api.engage-conversations.meltwater.io
-0.0.0.0	api.engager.ecbsn.com
 0.0.0.0	api.enginemob.me
 0.0.0.0	api.enjoyadsplatform.com
 0.0.0.0	api.ent.mobileanjian.com
@@ -8166,7 +8167,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.113.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -10950,7 +10951,7 @@
 0.0.0.0	cambldelec.pro
 0.0.0.0	camelmasch.pro
 0.0.0.0	camicsciac.pro
-185.199.109.133	camo.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
 0.0.0.0	camosclubl.pro
 0.0.0.0	camosmarin.pro
 0.0.0.0	camouflagedpoodle.pro
@@ -11475,7 +11476,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.114.22	central.github.com
+140.82.112.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -15061,7 +15062,7 @@
 0.0.0.0	faunaaugme.pro
 0.0.0.0	fauxgosigil.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.109.133	favicons.githubusercontent.com
+185.199.110.133	favicons.githubusercontent.com
 0.0.0.0	favilriapp.pro
 0.0.0.0	favorgraci.pro
 0.0.0.0	favorrisvo.pro
@@ -15947,11 +15948,11 @@
 0.0.0.0	girelwhett.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-3.5.22.67	github-cloud.s3.amazonaws.com
-54.231.160.41	github-com.s3.amazonaws.com
-52.216.112.211	github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.203.9	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.162.249	github-production-user-asset-6210df.s3.amazonaws.com
+54.231.204.217	github-cloud.s3.amazonaws.com
+16.182.70.145	github-com.s3.amazonaws.com
+16.15.177.90	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.216.129	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.173.233	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -15959,7 +15960,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.109.133	github.map.fastly.net
+185.199.110.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	giubbautoa.pro
 0.0.0.0	giuchelaid.pro
@@ -18653,6 +18654,7 @@
 0.0.0.0	leadsmonitor.io
 0.0.0.0	leadspace.com
 0.0.0.0	leadsrx.com
+0.0.0.0	leadsy.ai
 0.0.0.0	leadsynaptic.go2jump.org
 0.0.0.0	leafyecho.pro
 0.0.0.0	lealiimbus.pro
@@ -22599,7 +22601,7 @@
 0.0.0.0	privacy.yieldlove-ad-serving.net
 0.0.0.0	privaferma.pro
 0.0.0.0	privaregol.pro
-185.199.109.133	private-user-images.githubusercontent.com
+185.199.110.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-bonded.com
@@ -23154,6 +23156,7 @@
 0.0.0.0	r.wallstrads.com
 0.0.0.0	r0.mradx.net
 0.0.0.0	r2.adwo.com
+0.0.0.0	r2.leadsy.ai
 0.0.0.0	r3.adwo.com
 127.0.0.1	ra.gtimg.com
 0.0.0.0	rabbit.tg.meitu.com
