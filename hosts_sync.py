@@ -159,16 +159,16 @@ def main():
         print("警告: 未下载到任何白名单文件")
     else:
         comment_lines, merged_whitelist = merge_white_list(whitelist_files)
-        writelist_path = os.path.join(RULE_DIR, "writelist.txt")
-        ensure_directory(writelist_path)
-        with open(writelist_path, 'w', encoding='utf-8') as f:
+        whitelist_path = os.path.join(RULE_DIR, "whitelist.txt")
+        ensure_directory(whitelist_path)
+        with open(whitelist_path, 'w', encoding='utf-8') as f:
             f.write(f"# 最后更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
             f.write(f"# 白名单总数: {len(merged_whitelist)}\n")
             for line in comment_lines:
                 f.write(line + '\n')
             for domain in sorted(merged_whitelist):
                 f.write(f"{domain}\n")
-        print(f"[白名单生成完成] {writelist_path} (总数: {len(merged_whitelist)})")
+        print(f"[白名单生成完成] {whitelist_path} (总数: {len(merged_whitelist)})")
 
 if __name__ == "__main__":
     main()
