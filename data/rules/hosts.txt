@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-05-23 00:26:44
-# 规则总数: 43368
+# 最后更新时间: 2025-05-23 12:00:13
+# 规则总数: 43364
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -8076,7 +8076,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -10785,7 +10785,7 @@
 0.0.0.0	cambldelec.pro
 0.0.0.0	camelmasch.pro
 0.0.0.0	camicsciac.pro
-185.199.109.133	camo.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
 0.0.0.0	camosclubl.pro
 0.0.0.0	camosmarin.pro
 0.0.0.0	camouflagedpoodle.pro
@@ -11310,7 +11310,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.112.22	central.github.com
+140.82.113.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -14211,7 +14211,6 @@
 127.0.0.1	e.domob.cn
 127.0.0.1	e.domob.com.cn
 127.0.0.1	e.hpg.cn.miaozhen.com
-0.0.0.0	e.kuaishou.com
 0.0.0.0	e.mail.ru.consumer.id6589.com
 127.0.0.1	e.qq.com
 127.0.0.1	e.tf.360.cn
@@ -14329,7 +14328,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.113.22	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	edunaremtesu.pro
 0.0.0.0	eedclicks.ero-advertising.com
@@ -14927,7 +14926,7 @@
 0.0.0.0	faunaaugme.pro
 0.0.0.0	fauxgosigil.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.109.133	favicons.githubusercontent.com
+185.199.110.133	favicons.githubusercontent.com
 0.0.0.0	favilriapp.pro
 0.0.0.0	favorgraci.pro
 0.0.0.0	favorrisvo.pro
@@ -15813,11 +15812,11 @@
 0.0.0.0	girelwhett.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-3.5.28.181	github-cloud.s3.amazonaws.com
-3.5.22.90	github-com.s3.amazonaws.com
-54.231.160.41	github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.138.227	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.203.1	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.22.90	github-cloud.s3.amazonaws.com
+54.231.236.137	github-com.s3.amazonaws.com
+52.216.59.1	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.22.215	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.25.109	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -15825,7 +15824,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.109.133	github.map.fastly.net
+185.199.110.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	giubbautoa.pro
 0.0.0.0	giuchelaid.pro
@@ -16229,7 +16228,6 @@
 0.0.0.0	gw-iad-ym.yeahmobi.com
 0.0.0.0	gw-is.iads.unity3d.com
 0.0.0.0	gw-rv.iads.unity3d.com
-0.0.0.0	gw.365you.com
 127.0.0.1	gw.csdn.net
 0.0.0.0	gw.flurry.com
 127.0.0.1	gw.mmstat.com
@@ -16264,7 +16262,6 @@
 0.0.0.0	h250p-y3urn.ads.tremorhub.com
 127.0.0.1	h5-oneid.gepush.com
 0.0.0.0	h5.analytics.126.net
-0.0.0.0	h5.gdt.qq.com
 0.0.0.0	h5.hpplay.com.cn
 127.0.0.1	h5.isnssdk.com
 127.0.0.1	h5.verification.jiguang.cn
@@ -20242,7 +20239,6 @@
 0.0.0.0	nados-lb-iad.moatads.com
 0.0.0.0	nados-lb-phx.moatads.com
 0.0.0.0	nads.io
-0.0.0.0	nadvideo.baidu.com
 127.0.0.1	nadvideo2.baidu.com
 0.0.0.0	nafteteser.pro
 0.0.0.0	naiadmedia.naiadsystems.com
@@ -22448,7 +22444,7 @@
 0.0.0.0	privacy.yieldlove-ad-serving.net
 0.0.0.0	privaferma.pro
 0.0.0.0	privaregol.pro
-185.199.109.133	private-user-images.githubusercontent.com
+185.199.110.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-bonded.com
