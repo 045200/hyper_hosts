@@ -11,9 +11,9 @@ RULE_DIR = os.path.join(DATA_DIR, "rules")
 
 # 下载源配置
 HOSTS_SOURCES = [
-    "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all",
-    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt",
-    "https://raw.hellogithub.com/hosts"
+    "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/10007.rule",
+"https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward",    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt",
+"https://raw.hellogithub.com/hosts"
 ]
 
 # 白名单源配置，与HOSTS_SOURCES一致
