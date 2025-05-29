@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-05-29 12:26:59
-# 规则总数: 53327
+# 最后更新时间: 2025-05-30 00:26:19
+# 规则总数: 53330
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -813,7 +813,6 @@
 127.0.0.1	ad-channel.diwodiwo.xyz
 0.0.0.0	ad-channel.wikawika.xyz
 0.0.0.0	ad-cheers.com
-0.0.0.0	ad-clcount.com
 0.0.0.0	ad-clicks.com
 127.0.0.1	ad-clientlog.cn-shanghai.log.aliyuncs.com
 0.0.0.0	ad-cloud.jp
@@ -2037,6 +2036,7 @@
 0.0.0.0	ad39.checkm8.com
 0.0.0.0	ad39digital.checkm8.com
 0.0.0.0	ad3digital.checkm8.com
+0.0.0.0	ad3g.com
 0.0.0.0	ad4.ad-srv.net
 0.0.0.0	ad4.adfarm1.adition.com
 0.0.0.0	ad4.api.ero-advertising.com
@@ -5931,6 +5931,7 @@
 0.0.0.0	adtima-media.zascdn.me
 0.0.0.0	adtima-static.zascdn.me
 0.0.0.0	adtima-video.zascdn.me
+0.0.0.0	adtm.spreadshirts.net
 0.0.0.0	adtrack.adleadevent.com
 0.0.0.0	adtrack.appcpi.net
 0.0.0.0	adtrack.cimedia.net
@@ -6883,7 +6884,6 @@
 0.0.0.0	all.cnzz.com.danuoyi.tbcache.com
 0.0.0.0	all.orfr.adgtw.orangeads.fr
 0.0.0.0	alladvantage.de
-0.0.0.0	alladvertisingdomclub.club
 0.0.0.0	allamplosi.pro
 0.0.0.0	allegro.pl-oferta-iphone-16-pro-max.sbs
 0.0.0.0	allegrolokalnie.6832543.pro
@@ -8251,7 +8251,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.112.22	api.individual.githubcopilot.com
+140.82.113.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -10922,7 +10922,6 @@
 0.0.0.0	bypass.ad-stir.com
 0.0.0.0	byrramphi.pro
 0.0.0.0	byteadverts.com
-0.0.0.0	bytegsdk.com
 0.0.0.0	byxihiu1.pro
 0.0.0.0	byzumie.pro
 0.0.0.0	bzyjuqla.pro
@@ -11144,7 +11143,7 @@
 0.0.0.0	cambldelec.pro
 0.0.0.0	camelmasch.pro
 0.0.0.0	camicsciac.pro
-185.199.108.133	camo.githubusercontent.com
+185.199.109.133	camo.githubusercontent.com
 0.0.0.0	camosclubl.pro
 0.0.0.0	camosmarin.pro
 0.0.0.0	camouflagedlimpet.pro
@@ -11690,7 +11689,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.112.21	central.github.com
+140.82.112.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -13746,6 +13745,7 @@
 0.0.0.0	dashingdog.pro
 0.0.0.0	dashingglimpse.pro
 0.0.0.0	dat2.ero-advertising.com
+0.0.0.0	data-0331877d53.radsport-news.com
 0.0.0.0	data-canary.flurry.com
 0.0.0.0	data-cl-f.ads.oppomobile.com
 0.0.0.0	data-cl-id.ads.oppomobile.com
@@ -15521,7 +15521,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.112.21	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	edunaremtesu.pro
 0.0.0.0	eedclicks.ero-advertising.com
@@ -16313,7 +16313,7 @@
 0.0.0.0	faunaaugme.pro
 0.0.0.0	fauxgosigil.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.108.133	favicons.githubusercontent.com
+185.199.109.133	favicons.githubusercontent.com
 0.0.0.0	favilriapp.pro
 0.0.0.0	favlrudeno.pro
 0.0.0.0	favorgraci.pro
@@ -17498,11 +17498,11 @@
 0.0.0.0	girelwhett.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-52.217.68.204	github-cloud.s3.amazonaws.com
-3.5.30.177	github-com.s3.amazonaws.com
-52.217.169.113	github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.192.241	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.130.249	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.207.219	github-cloud.s3.amazonaws.com
+52.217.133.217	github-com.s3.amazonaws.com
+16.182.104.217	github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.68.145	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.29.197	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -17510,7 +17510,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.108.133	github.map.fastly.net
+185.199.109.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	gitlab-dev-pages.adsrvr.org
 0.0.0.0	giubbautoa.pro
@@ -17987,7 +17987,6 @@
 0.0.0.0	groupoilis.pro
 0.0.0.0	groutindra.pro
 0.0.0.0	growadvertising.com
-0.0.0.0	growebads.com
 0.0.0.0	growingjunglevinesclimb.pro
 0.0.0.0	growlr.adsbynimbus.com
 127.0.0.1	growth-support.applovin.com
@@ -22553,6 +22552,9 @@
 0.0.0.0	mobi.dibongda777.com
 0.0.0.0	mobi.oleviet777.com
 0.0.0.0	mobiadvert.livesportmedia.eu
+0.0.0.0	mobile-ads.fetish-matters.net
+0.0.0.0	mobile-ads.gaygalls.net
+0.0.0.0	mobile-ads.wycc.porn
 0.0.0.0	mobile-browser.me
 0.0.0.0	mobile-sdk-config.gservice.emarsys.net
 0.0.0.0	mobile-sdk-resources.jumio.com
@@ -24285,6 +24287,7 @@
 0.0.0.0	p15-ad.byteimg.com
 0.0.0.0	p15-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0	p15-orange.byteorge.com
+0.0.0.0	p16-ad-sg.ibyteimg.com
 0.0.0.0	p16-ad-sign.byteimg.com
 0.0.0.0	p16-ad.adbkwai.com
 0.0.0.0	p16-ad.adkwai.com
@@ -25739,7 +25742,7 @@
 0.0.0.0	privacy.yieldlove-ad-serving.net
 0.0.0.0	privaferma.pro
 0.0.0.0	privaregol.pro
-185.199.108.133	private-user-images.githubusercontent.com
+185.199.109.133	private-user-images.githubusercontent.com
 0.0.0.0	privateasp.pro
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
@@ -29002,8 +29005,10 @@
 127.0.0.1	sdk.mobads.adwangmai.com
 0.0.0.0	sdk.moneyoyo.com
 0.0.0.0	sdk.mpianalytics.com
+0.0.0.0	sdk.mrf.io
 0.0.0.0	sdk.n-analytics.io
 0.0.0.0	sdk.native123.com
+0.0.0.0	sdk.navnow.xyz
 0.0.0.0	sdk.ocmhood.com
 127.0.0.1	sdk.open.amp.igexin.com
 0.0.0.0	sdk.open.extension.getui.com
@@ -29897,7 +29902,6 @@
 0.0.0.0	sinkldisco.pro
 0.0.0.0	sintoumoro.pro
 0.0.0.0	sinupfacia.pro
-0.0.0.0	sinwebads.com
 0.0.0.0	siouaequic.pro
 0.0.0.0	sirect.pro
 0.0.0.0	sirius.iad-03.braze.com
@@ -30325,6 +30329,7 @@
 0.0.0.0	sorreunbli.pro
 0.0.0.0	sorroobliq.pro
 0.0.0.0	sorrorasse.pro
+0.0.0.0	sorteptoadsalr.com
 0.0.0.0	sorticonsp.pro
 0.0.0.0	sorvolathy.pro
 0.0.0.0	sospemarin.pro
@@ -33397,7 +33402,6 @@
 0.0.0.0	ua.zenadservices.net
 0.0.0.0	uac.advertising.com
 0.0.0.0	uads.cc
-0.0.0.0	uads.guru
 0.0.0.0	uapi-ads.vivo.com.cn
 127.0.0.1	uapi.ads.heytapmobi.com
 0.0.0.0	uapi.ads.oppomobile.com
@@ -53000,7 +53004,6 @@
 0.0.0.0	yellowcaracal.pro
 0.0.0.0	yellowmongrel.pro
 0.0.0.0	yellowsloth.pro
-0.0.0.0	yeloads.com
 0.0.0.0	yepads.com
 0.0.0.0	yepdigital.adk2x.com
 0.0.0.0	yesads.com
