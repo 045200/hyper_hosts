@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-06-03 12:27:29
-# 规则总数: 53964
+# 最后更新时间: 2025-06-04 00:28:33
+# 规则总数: 53980
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -5695,9 +5695,9 @@
 0.0.0.0	adskp.org
 0.0.0.0	adskpak.com
 0.0.0.0	adslidango.com
+0.0.0.0	adslivemedia.matomo.cloud
 0.0.0.0	adsload.co
 0.0.0.0	adsloading.com
-0.0.0.0	adsloboclick.com
 0.0.0.0	adslog.apexinnotech.com
 0.0.0.0	adslop.com
 0.0.0.0	adslop.link
@@ -7012,6 +7012,7 @@
 0.0.0.0	alphas.adxvip.com
 0.0.0.0	alresidtlly.pro
 127.0.0.1	als.baidu.com
+0.0.0.0	alsterspree.adspirit.de
 64.233.189.188	alt1-mtalk.google.com
 108.177.97.188	alt2-mtalk.google.com
 74.125.204.188	alt3-mtalk.google.com
@@ -8362,7 +8363,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -8671,6 +8672,8 @@
 0.0.0.0	api.revenuads.com
 0.0.0.0	api.richlifeads.ru
 0.0.0.0	api.ril.com
+0.0.0.0	api.ringlead.com
+0.0.0.0	api.rjmetrics.com
 0.0.0.0	api.rlcdn.com
 0.0.0.0	api.rnet.plus
 0.0.0.0	api.rollbar.com
@@ -8716,6 +8719,7 @@
 0.0.0.0	api.siftscience.com
 0.0.0.0	api.signifyd.com
 0.0.0.0	api.simpleanalytics.io
+0.0.0.0	api.siteimprove.com
 0.0.0.0	api.sjpf.io
 0.0.0.0	api.skipperx.net
 0.0.0.0	api.sky88.com
@@ -8751,6 +8755,7 @@
 0.0.0.0	api.ssp.zxrtb.com
 0.0.0.0	api.st666.win
 0.0.0.0	api.stack-sonar.com
+0.0.0.0	api.staging.signifyd.com
 0.0.0.0	api.statcounter.visitor-analytics.io
 0.0.0.0	api.stathat.com
 0.0.0.0	api.stats.appa.pe
@@ -12100,7 +12105,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.112.21	central.github.com
+140.82.113.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -15859,6 +15864,7 @@
 0.0.0.0	ebayadvertising.com
 0.0.0.0	ebayadvertising.triadretail.net
 0.0.0.0	ebiads.ebiuniverse.com
+0.0.0.0	ebiquity.eu.adverity.com
 0.0.0.0	ebonycarp.pro
 0.0.0.0	ebonyroadrunner.pro
 0.0.0.0	ebook-res.meizu.com
@@ -16453,6 +16459,7 @@
 0.0.0.0	eu-west.ono.axp.amazon-adsystem.com
 0.0.0.0	eu.ads.audio.thisisdax.com
 0.0.0.0	eu.adventori.com
+0.0.0.0	eu.adverity.com
 0.0.0.0	eu.event.cmp.advertising.com
 0.0.0.0	eu.hsdkeer.com
 0.0.0.0	eu.track.digitaladsystems.com
@@ -17942,11 +17949,11 @@
 0.0.0.0	girelwhett.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-3.5.11.147	github-cloud.s3.amazonaws.com
-3.5.17.37	github-com.s3.amazonaws.com
-52.216.154.148	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.115.1	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.159.1	github-production-user-asset-6210df.s3.amazonaws.com
+52.217.168.81	github-cloud.s3.amazonaws.com
+52.217.196.225	github-com.s3.amazonaws.com
+52.216.214.209	github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.34.41	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.201.141	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -21014,6 +21021,7 @@
 0.0.0.0	jurattonne.pro
 0.0.0.0	jusomuu6.pro
 0.0.0.0	justbettong.pro
+0.0.0.0	justfab-3.leadsmonitor.io
 0.0.0.0	justinymph.pro
 0.0.0.0	justjackdaw.pro
 0.0.0.0	justkakapo.pro
@@ -21104,7 +21112,6 @@
 0.0.0.0	kineticharmony.pro
 0.0.0.0	kinetphlyc.pro
 0.0.0.0	king999.pro
-0.0.0.0	kingads.mobi
 0.0.0.0	kingads2.org
 0.0.0.0	kinkadservercdn.com
 0.0.0.0	kippumistu.pro
@@ -21330,6 +21337,7 @@
 0.0.0.0	lb-adsdis.mng-ads.com
 0.0.0.0	lb-adsmob.mng-ads.com
 0.0.0.0	lb.aaxads.com
+0.0.0.0	lb.analytics.advalo.com
 127.0.0.1	lb.gtimg.com
 127.0.0.1	lb.l.qq.com
 0.0.0.0	lb1.jh.adsmogo.net
@@ -22443,6 +22451,7 @@
 0.0.0.0	masteimpaz.pro
 0.0.0.0	mastemastr.pro
 0.0.0.0	master-adserv-fra1.snigelweb.com
+0.0.0.0	master-adserv.snigelweb.com
 0.0.0.0	master-auction-banner.unityads.unity3d.com
 127.0.0.1	master.wap.dphub.sandai.net
 127.0.0.1	masterconn.qq.com
@@ -25656,6 +25665,7 @@
 0.0.0.0	pittaascia.pro
 0.0.0.0	pittadisap.pro
 0.0.0.0	pittodisme.pro
+0.0.0.0	piwik.advantic.de
 0.0.0.0	piwik.ero-advertising.com
 0.0.0.0	piwik.unoadsrv.com
 0.0.0.0	pixel-dsp.pubadx.one
@@ -26634,6 +26644,7 @@
 127.0.0.1	pw.cnzz.com
 0.0.0.0	pwefrn.pro
 127.0.0.1	pwoem.cnzz.com
+0.0.0.0	pwr-ads.com
 0.0.0.0	px.ad-tech.ru
 0.0.0.0	px.ads.linkedin.cn
 127.0.0.1	px.ads.linkedin.com
@@ -32107,6 +32118,7 @@
 0.0.0.0	suppldelim.pro
 0.0.0.0	supplsgatt.pro
 0.0.0.0	suppltarta.pro
+0.0.0.0	supply-api.smartadserver.com
 0.0.0.0	supply.advangelists.com
 0.0.0.0	supply.inmobicdn.net
 0.0.0.0	supply.xapads.com
@@ -32557,6 +32569,7 @@
 0.0.0.0	taparchieadvantages.com
 0.0.0.0	tapdhomeo.pro
 0.0.0.0	tapepredesn.pro
+0.0.0.0	tapirappsgmbh-acalendarcalendartasks.adsbynimbus.com
 0.0.0.0	tapixesa.pro
 127.0.0.1	tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0	tapjoyads.com
@@ -33457,6 +33470,7 @@
 0.0.0.0	trade75avita.com
 0.0.0.0	trade81lidex.com
 0.0.0.0	tradearabia.advertserve.com
+0.0.0.0	tradearabia2.advertserve.com
 0.0.0.0	tradehouse.advertserve.com
 0.0.0.0	tradeleads.su
 0.0.0.0	trader-pro-ai.com
@@ -34595,6 +34609,7 @@
 0.0.0.0	usw1.smartadserver.com
 0.0.0.0	usw2-ads-alb.yieldmo.com
 0.0.0.0	usw2-ads-proxy-temp-general-v2.yieldmo.com
+0.0.0.0	usw2-ads-proxy-temp-general-v4.yieldmo.com
 0.0.0.0	usw2.smartadserver.com
 0.0.0.0	usw3.smartadserver.com
 0.0.0.0	uswdirect.adsrvr.org
@@ -53531,6 +53546,7 @@
 0.0.0.0	xml1-v4.admeridianads.com
 0.0.0.0	xml1.adsimilate.com
 0.0.0.0	xmlclick.flairadscpc.com
+0.0.0.0	xmlclick.hueadsxml.com
 0.0.0.0	xmlheads.com
 0.0.0.0	xn--adspace-kvg.ero-advertising.com
 0.0.0.0	xn--pan-ei0e.xn--baidu-jm6h.com
