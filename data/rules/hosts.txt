@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-06-05 12:28:24
-# 规则总数: 54055
+# 最后更新时间: 2025-06-06 00:27:12
+# 规则总数: 54061
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -2710,6 +2710,7 @@
 0.0.0.0	ads-trk.vidible.tv
 0.0.0.0	ads-twitter.com
 0.0.0.0	ads-uk.jiwire.com
+0.0.0.0	ads-unibet.adhese.com
 127.0.0.1	ads-union.jd.com
 0.0.0.0	ads-us.amillionads.com
 0.0.0.0	ads-us.loopaautomate.com
@@ -3490,6 +3491,7 @@
 0.0.0.0	ads.iwangmedia.com
 0.0.0.0	ads.iwannawatch.to
 0.0.0.0	ads.iwon.com
+0.0.0.0	ads.jackcolton.com
 0.0.0.0	ads.jacksonsun.com
 0.0.0.0	ads.jeded.com
 0.0.0.0	ads.jetpackdigital.com
@@ -3564,7 +3566,6 @@
 0.0.0.0	ads.livetv794.me
 0.0.0.0	ads.livetv806.me
 0.0.0.0	ads.livetv852.me
-0.0.0.0	ads.livetv853.me
 0.0.0.0	ads.lmmob.com
 0.0.0.0	ads.localnow.api.cms.amdvids.com
 0.0.0.0	ads.localyokelmedia.com
@@ -5190,6 +5191,7 @@
 0.0.0.0	adserver.chickclick.com
 0.0.0.0	adserver.click4cash.de
 0.0.0.0	adserver.clundressed.com
+0.0.0.0	adserver.cnczone.com
 0.0.0.0	adserver.co.il
 0.0.0.0	adserver.colleges.com
 0.0.0.0	adserver.com
@@ -5480,7 +5482,6 @@
 0.0.0.0	adservice.google.com.cu
 0.0.0.0	adservice.google.com.cy
 0.0.0.0	adservice.google.com.do
-0.0.0.0	adservice.google.com.ec
 0.0.0.0	adservice.google.com.eg
 0.0.0.0	adservice.google.com.et
 0.0.0.0	adservice.google.com.gh
@@ -6760,6 +6761,7 @@
 0.0.0.0	aerospaceengineeringdesign.pro
 0.0.0.0	aerotvisua.pro
 0.0.0.0	aes.ap-southeast.3px.axp.amazon-adsystem.com
+0.0.0.0	aes.eu-south.ono.axp.amazon-adsystem.com
 0.0.0.0	aes.eu-west.3px.axp.amazon-adsystem.com
 0.0.0.0	aes.eu-west.ono.axp.amazon-adsystem.com
 0.0.0.0	aes.fe.ono.axp.amazon-adsystem.com
@@ -7496,6 +7498,7 @@
 0.0.0.0	analytics.ziftsolutions.com
 0.0.0.0	analytics.zim.vn
 0.0.0.0	analyticsengine.s3.amazonaws.com
+0.0.0.0	analyticsmilitaryadv.everestengagement.com
 0.0.0.0	analyze.lemurbrowser.com
 0.0.0.0	anamnsbrin.pro
 0.0.0.0	anamodinie.pro
@@ -8036,6 +8039,7 @@
 0.0.0.0	api.appodeal.com
 0.0.0.0	api.appodealx.com
 0.0.0.0	api.appprodeu.platform.navify.com
+0.0.0.0	api.appprodjp.platform.navify.com
 0.0.0.0	api.appproduk.platform.navify.com
 0.0.0.0	api.appprodus.platform.navify.com
 0.0.0.0	api.appsee.com
@@ -8148,6 +8152,7 @@
 0.0.0.0	api.clickaine.com
 0.0.0.0	api.clickcease.com
 0.0.0.0	api.clicktripz.com
+0.0.0.0	api.clinch.co
 0.0.0.0	api.cloud.247-inc.net
 0.0.0.0	api.cloudconverse.net
 0.0.0.0	api.cloudmobi.net
@@ -8363,7 +8368,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.114.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -8457,7 +8462,6 @@
 0.0.0.0	api.mcwbiz.com
 0.0.0.0	api.mediaad.org
 0.0.0.0	api.mediacategory.com
-0.0.0.0	api.mediaforge.com
 0.0.0.0	api.mediarithmics.com
 0.0.0.0	api.mediation.adxcorp.kr
 0.0.0.0	api.mediation.amberweather.com
@@ -8685,6 +8689,7 @@
 0.0.0.0	api.rustdesk.io
 0.0.0.0	api.rvere.com
 0.0.0.0	api.sa.looker.com
+0.0.0.0	api.sa.programmatica.com
 0.0.0.0	api.saambaa.com
 0.0.0.0	api.sabavision.com
 0.0.0.0	api.sae.systems
@@ -8785,6 +8790,7 @@
 0.0.0.0	api.taps.io
 0.0.0.0	api.tapsell.ir
 0.0.0.0	api.tapstream.com
+0.0.0.0	api.tapulsads.ru
 0.0.0.0	api.target2sell.com
 0.0.0.0	api.tatagou.com.cn
 0.0.0.0	api.tdp.u7u9.com
@@ -10567,6 +10573,7 @@
 127.0.0.1	bookmark.cnzz.com
 0.0.0.0	bookminvis.pro
 0.0.0.0	booknexus.pro
+0.0.0.0	bookpage.advertserve.com
 0.0.0.0	books-analytics-events.apple.com
 0.0.0.0	boomads.com
 0.0.0.0	boombit-api.exponea.com
@@ -12105,7 +12112,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.113.22	central.github.com
+140.82.114.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -14340,7 +14347,6 @@
 0.0.0.0	dcp-970.ads-dev.sportradar.com
 0.0.0.0	dcp.ads.sportradar.com
 0.0.0.0	dcrfnt-us.adsmoloco.com
-0.0.0.0	dcsdk.100ulife.com
 127.0.0.1	dd.browser.360.cn
 127.0.0.1	dd.iaskgo.com
 127.0.0.1	dd.toponad.com
@@ -15970,7 +15976,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.114.21	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	edunaremtesu.pro
 0.0.0.0	eedclicks.ero-advertising.com
@@ -17957,11 +17963,11 @@
 0.0.0.0	girelwhett.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-52.217.195.241	github-cloud.s3.amazonaws.com
-52.216.61.89	github-com.s3.amazonaws.com
-52.216.221.57	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.121.57	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.0.3	github-production-user-asset-6210df.s3.amazonaws.com
+52.217.133.209	github-cloud.s3.amazonaws.com
+54.231.161.161	github-com.s3.amazonaws.com
+3.5.1.213	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.57.97	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.176.248	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -21575,7 +21581,6 @@
 0.0.0.0	limitlessvista.pro
 0.0.0.0	limonads.net
 0.0.0.0	limossette.pro
-0.0.0.0	linear-ad-segments.frequency.stream
 0.0.0.0	linfocicat.pro
 0.0.0.0	linguantic.pro
 0.0.0.0	linimpirss.pro
@@ -23027,9 +23032,7 @@
 0.0.0.0	mng-ads.com
 0.0.0.0	mnqlog.ldmnq.com
 127.0.0.1	mo.kugou.com
-0.0.0.0	moa-upload-in.allawnos.com
 0.0.0.0	moa-upload-online.coloros.com
-0.0.0.0	moa-upload-sg.allawnos.com
 0.0.0.0	moat.adsrvr.org
 0.0.0.0	moatads.com
 0.0.0.0	moatads.com.edgekey.net
@@ -23600,7 +23603,9 @@
 0.0.0.0	native.djaxadserver.com
 0.0.0.0	native.ladsp.jp
 0.0.0.0	native.propellerads.com
+0.0.0.0	nativead-ash11.g.flashtalking.com
 0.0.0.0	nativead-dub11.g.flashtalking.com
+0.0.0.0	nativead-sjc11.g.flashtalking.com
 127.0.0.1	nativead.s3.amazonaws.com
 0.0.0.0	nativeads.cacafly.com
 0.0.0.0	nativeads.com
@@ -29557,7 +29562,6 @@
 0.0.0.0	sdk.mrf.io
 0.0.0.0	sdk.n-analytics.io
 0.0.0.0	sdk.native123.com
-0.0.0.0	sdk.navnow.xyz
 0.0.0.0	sdk.ocmhood.com
 127.0.0.1	sdk.open.amp.igexin.com
 0.0.0.0	sdk.open.extension.getui.com
@@ -30607,7 +30611,6 @@
 127.0.0.1	smartad.10010.com
 0.0.0.0	smartads.statsperform.com
 0.0.0.0	smartadserver.com
-0.0.0.0	smartadsflow.top
 0.0.0.0	smartb.tubeadvertising.eu
 0.0.0.0	smartcyberadvancedshield.autos
 0.0.0.0	smartinit.webads.nl
@@ -30696,6 +30699,7 @@
 127.0.0.1	smtp.jiguang.cn
 0.0.0.0	smzecamer.pro
 0.0.0.0	snackymuffin.pro
+0.0.0.0	snap.broadstreetads.com
 127.0.0.1	snapads.com
 0.0.0.0	snappyquark.pro
 0.0.0.0	snappyquique.pro
@@ -33771,6 +33775,7 @@
 0.0.0.0	trslm.tubeadvertising.eu
 0.0.0.0	truanmicro.pro
 0.0.0.0	trucimalas.pro
+0.0.0.0	truckline.advertserve.com
 0.0.0.0	trudgincen.pro
 0.0.0.0	true-click.pro
 0.0.0.0	trueadvantage.pro
@@ -35457,6 +35462,7 @@
 127.0.0.1	vpptv.admaster.com.cn
 127.0.0.1	vqq.admaster.com.cn
 127.0.0.1	vr.gdt.qq.com
+0.0.0.0	vrc9kq.skadsdk.appsflyersdk.com
 0.0.0.0	vrc9kq.skadsdkless.appsflyersdk.com
 0.0.0.0	vrtzads.com
 0.0.0.0	vryndolar.pro
