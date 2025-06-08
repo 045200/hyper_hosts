@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-06-08 12:30:44
-# 规则总数: 54208
+# 最后更新时间: 2025-06-09 00:23:40
+# 规则总数: 54215
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -1147,6 +1147,7 @@
 0.0.0.0	ad.api.attribuly.com
 0.0.0.0	ad.api.fello.net
 0.0.0.0	ad.api.kaffnet.com
+0.0.0.0	ad.api.looker.com
 127.0.0.1	ad.api.mobile.youku.com
 0.0.0.0	ad.api.moji.com
 0.0.0.0	ad.api.stax.kr
@@ -1258,6 +1259,7 @@
 0.0.0.0	ad.dedicatedmedia.com
 0.0.0.0	ad.deepthought.industries
 0.0.0.0	ad.depositfiles.com
+0.0.0.0	ad.dev-cloud2.starleaf.com
 127.0.0.1	ad.dev.360.cn
 0.0.0.0	ad.dev.smartnews.net
 0.0.0.0	ad.deviantart.com
@@ -1932,7 +1934,6 @@
 0.0.0.0	ad19digital.checkm8.com
 0.0.0.0	ad1digital.checkm8.com
 0.0.0.0	ad1game.ru
-0.0.0.0	ad1x7.mea5ms.com
 0.0.0.0	ad2.360yield.com
 0.0.0.0	ad2.ad-srv.net
 0.0.0.0	ad2.adecn.com
@@ -2575,6 +2576,7 @@
 0.0.0.0	ads-bilek.com
 0.0.0.0	ads-bitcoin.com
 0.0.0.0	ads-brand-postback.unityads.unity3d.com
+0.0.0.0	ads-buf-nfl.yinzcam.com
 0.0.0.0	ads-by.madadsmedia.com
 0.0.0.0	ads-by.yieldselect.com
 127.0.0.1	ads-c-1854119718.us-west-1.elb.amazonaws.com
@@ -2582,6 +2584,7 @@
 0.0.0.0	ads-cdn.fptplay.net
 0.0.0.0	ads-cdn.loopaautomate.com
 0.0.0.0	ads-cdn.tenmax.io
+0.0.0.0	ads-chi-nfl.yinzcam.com
 0.0.0.0	ads-cloud.rovio.com
 0.0.0.0	ads-collector.luizalabs.com
 0.0.0.0	ads-colruytgroup.adhese.com
@@ -4222,6 +4225,7 @@
 0.0.0.0	ads.videoadvertising.com
 0.0.0.0	ads.videofen.com
 0.0.0.0	ads.videohub.tv
+0.0.0.0	ads.videomaker.com
 0.0.0.0	ads.videosz.com
 0.0.0.0	ads.videy.co
 0.0.0.0	ads.vidoomy.com
@@ -5416,7 +5420,6 @@
 0.0.0.0	adserverxxl.de
 0.0.0.0	adservetx.media.net
 0.0.0.0	adservex.media.net
-0.0.0.0	adservf.com
 0.0.0.0	adservfnt-asia.adsmoloco.com
 0.0.0.0	adservg.com
 0.0.0.0	adservice.aiyouaiyou.cn
@@ -5875,6 +5878,7 @@
 127.0.0.1	adstat.izuiyou.com
 0.0.0.0	adstat.moyu88.xyz
 0.0.0.0	adstat.ziyemy.shop
+0.0.0.0	adstat2.ziyemy.shop
 0.0.0.0	adstatic.b-cdn.net
 127.0.0.1	adstatic.peopleapp.com
 0.0.0.0	adstatic.zhihu.com
@@ -5905,6 +5909,7 @@
 0.0.0.0	adstore-1252524079.file.myqcloud.com
 0.0.0.0	adstore-index-1252524079.file.myqcloud.com
 0.0.0.0	adstore.jp
+0.0.0.0	adstorebluebird.cy
 0.0.0.0	adstory.gotrackier.com
 0.0.0.0	adstosearch.com
 0.0.0.0	adstrack-meta-id29217.vercel.app
@@ -7913,7 +7918,6 @@
 127.0.0.1	api.ad.yipinread.com
 0.0.0.0	api.ad4game.com
 0.0.0.0	api.adaether.com
-0.0.0.0	api.adalytics.adastra.digital
 0.0.0.0	api.adapty.io
 0.0.0.0	api.adbana.com
 0.0.0.0	api.adblockfast.com
@@ -8126,7 +8130,6 @@
 0.0.0.0	api.ca.looker.com
 0.0.0.0	api.cactusglobal.io
 0.0.0.0	api.callget.cn
-0.0.0.0	api.campaigns.notino.com
 0.0.0.0	api.caroda.io
 0.0.0.0	api.cartsee.cartx.cloud
 0.0.0.0	api.cazamba.com
@@ -8203,6 +8206,7 @@
 0.0.0.0	api.deep.bi
 0.0.0.0	api.demand.supply
 0.0.0.0	api.demandbase.com
+0.0.0.0	api.dev-cloud2.starleaf.com
 0.0.0.0	api.dev.acxsparkpost.acxiom.com
 0.0.0.0	api.dev.looker.com
 0.0.0.0	api.devatics.io
@@ -8233,7 +8237,6 @@
 0.0.0.0	api.dtk.abtasty.com
 0.0.0.0	api.dttrk.com
 0.0.0.0	api.duapp.com
-0.0.0.0	api.e-pfg.ca
 127.0.0.1	api.e.kuaishou.com
 0.0.0.0	api.e.mi.com
 0.0.0.0	api.eaglem.net
@@ -10471,6 +10474,7 @@
 0.0.0.0	blotcmelam.pro
 0.0.0.0	blowcbrogl.pro
 0.0.0.0	blowlsagri.pro
+0.0.0.0	blpciu.skadsdkless.appsflyersdk.com
 0.0.0.0	blu.mobileads.msn.com
 0.0.0.0	blucher.iad-03.braze.com
 0.0.0.0	blue-ad.ad-stir.com
@@ -12103,7 +12107,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.112.22	central.github.com
+140.82.114.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -15977,7 +15981,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.112.22	education.github.com
+140.82.113.21	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	edunaremtesu.pro
 0.0.0.0	eedclicks.ero-advertising.com
@@ -17972,11 +17976,11 @@
 0.0.0.0	girelwhett.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-54.231.194.105	github-cloud.s3.amazonaws.com
-3.5.29.63	github-com.s3.amazonaws.com
-16.15.179.34	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.230.9	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.21.172	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.28.170	github-cloud.s3.amazonaws.com
+3.5.0.34	github-com.s3.amazonaws.com
+16.182.99.113	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.176.24	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.25.96	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -28947,6 +28951,7 @@
 0.0.0.0	sacraperse.pro
 0.0.0.0	sacrishebe.pro
 0.0.0.0	sad-g.com
+0.0.0.0	sad-sandwich.pro
 0.0.0.0	sad.adsgram.ai
 0.0.0.0	sadc1.outbrain.org
 0.0.0.0	sadn48dsam.cc
@@ -34622,6 +34627,7 @@
 0.0.0.0	us-geo.cityads.com
 0.0.0.0	us-mad-king.cell.us.nr-data.net
 0.0.0.0	us-notify.bidagent.xad.com
+0.0.0.0	us-sad-sandwich.cell.us.nr-data.net
 0.0.0.0	us-sad-trombone.cell.us.nr-data.net
 0.0.0.0	us-vast.unoadsrv.com
 0.0.0.0	us-west-2.ads.digital.disneyadvertising.com
@@ -37041,6 +37047,7 @@
 0.0.0.0	www.adstaces.ero-advertising.com
 0.0.0.0	www.adstargetx.com
 0.0.0.0	www.adstogo.com
+0.0.0.0	www.adstorebluebird.cy
 0.0.0.0	www.adstosearch.com
 0.0.0.0	www.adstrack-meta-id29217.vercel.app
 0.0.0.0	www.adstract.adk2x.com
