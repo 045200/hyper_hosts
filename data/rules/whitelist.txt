@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-06-08 00:24:00
-# 白名单总数: 341
+# 最后更新时间: 2025-06-08 12:30:44
+# 白名单总数: 343
 #########
 #Adaway专用白名单
 #禁止用在拦截黑名单或者Adguard订阅
@@ -36,6 +36,7 @@ adnet.qq.com
 adnxs.com
 adobedtm.com
 ads.com
+ads.cup.com.cn
 ads.lingxing.com
 ads.privacy.qq.com
 ads.tiktok.com
@@ -51,6 +52,7 @@ alimama.com
 alissl.ucdl.pp.uc.cn
 als.baidu.com
 amdc.m.taobao.com
+analytics.95516.com
 android.push.126.net
 ap6.ssl.msdk.qq.com
 api-cn.store.heytapmobi.com
