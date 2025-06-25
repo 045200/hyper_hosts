@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-06-25 12:31:14
-# 规则总数: 54836
+# 最后更新时间: 2025-06-26 00:28:24
+# 规则总数: 54847
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -226,6 +226,7 @@
 0.0.0.0	31gtest.bj2cu.u3.ucweb.com
 127.0.0.1	33.autohome.com.cn
 0.0.0.0	35.adsina.allyes.com
+0.0.0.0	35y9sib5azfou7f6eyxygbr34r3x7konx32wadsabb36c4fcc8a4d183sac.d.aa.online-metrix.net
 0.0.0.0	36.adsina.allyes.com
 0.0.0.0	360-g.cn
 0.0.0.0	360.anatic.net
@@ -640,6 +641,7 @@
 127.0.0.1	abtest5-misc-lq.zijieapi.com
 127.0.0.1	abtest5-misc.zijieapi.com
 0.0.0.0	abuijx.skadsdk.appsflyersdk.com
+0.0.0.0	abuijx.skadsdkless.appsflyersdk.com
 0.0.0.0	abygzwpljt.pro
 127.0.0.1	ac.mmstat.com
 127.0.0.1	ac.o2.qq.com
@@ -1280,6 +1282,7 @@
 0.0.0.0	ad.directrev.com
 0.0.0.0	ad.dk.doubleclick.net
 0.0.0.0	ad.dl.mainpost.de
+0.0.0.0	ad.dl.mz.de
 0.0.0.0	ad.dl.volksstimme.de
 0.0.0.0	ad.dlbooks.to
 0.0.0.0	ad.dlrwebservice.com
@@ -2543,6 +2546,8 @@
 0.0.0.0	ads-2479t.iionads.com
 0.0.0.0	ads-247bg.iionads.com
 0.0.0.0	ads-247cr.iionads.com
+0.0.0.0	ads-247cu.iionads.com
+0.0.0.0	ads-247cv.iionads.com
 0.0.0.0	ads-58hnjs.rtb.admanmedia.com
 127.0.0.1	ads-816899299.ap-southeast-1.elb.amazonaws.com
 0.0.0.0	ads-87rvqi.bidder-embi.media
@@ -3023,6 +3028,7 @@
 0.0.0.0	ads.bridgebase.com
 0.0.0.0	ads.bridgetrack.com
 0.0.0.0	ads.bridgetrack.com.edgesuite.net
+0.0.0.0	ads.brzchecagem.com
 0.0.0.0	ads.bsplayer.com
 127.0.0.1	ads.bssdl.kugou.com
 0.0.0.0	ads.bstlnk.com
@@ -3179,6 +3185,7 @@
 0.0.0.0	ads.digital.disneyadvertising.com
 0.0.0.0	ads.digitalacre.com
 0.0.0.0	ads.digitalalchemy.tv
+0.0.0.0	ads.digitalbee.al
 0.0.0.0	ads.digitalcaramel.com
 0.0.0.0	ads.digitalfirstmedia.com
 0.0.0.0	ads.digitalmedianet.com
@@ -5467,7 +5474,6 @@
 0.0.0.0	adservice.google.com.cu
 0.0.0.0	adservice.google.com.cy
 0.0.0.0	adservice.google.com.do
-0.0.0.0	adservice.google.com.ec
 0.0.0.0	adservice.google.com.eg
 0.0.0.0	adservice.google.com.et
 0.0.0.0	adservice.google.com.gh
@@ -7677,6 +7683,7 @@
 0.0.0.0	ap.read.mediation.pns.ap.orangeads.fr
 0.0.0.0	apa-sin.adsrvr.org
 0.0.0.0	apac-ads.flurry.com
+0.0.0.0	apac-bid-openpath.adsrvr.org
 0.0.0.0	apac-hk-ads.aralego.net
 0.0.0.0	apac-sg-ad-track.aralego.com
 0.0.0.0	apac-tw-ad-track.aralego.com
@@ -8375,7 +8382,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.114.22	api.individual.githubcopilot.com
+140.82.114.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -11330,7 +11337,7 @@
 0.0.0.0	cambldelec.pro
 0.0.0.0	camelmasch.pro
 0.0.0.0	camicsciac.pro
-185.199.109.133	camo.githubusercontent.com
+185.199.111.133	camo.githubusercontent.com
 0.0.0.0	camosclubl.pro
 0.0.0.0	camosmarin.pro
 0.0.0.0	camouflagedlimpet.pro
@@ -11886,7 +11893,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.112.21	central.github.com
+140.82.113.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -14129,6 +14136,8 @@
 127.0.0.1	dcc2.shuzilm.cn
 0.0.0.0	dcci.adsame.com
 0.0.0.0	dcdn.adnxs.com
+0.0.0.0	dcm-gql.digital.disneyadvertising.com
+0.0.0.0	dcm.disneyadvertising.com
 0.0.0.0	dcntr-ads.com
 0.0.0.0	dco-assets.everestads.net
 127.0.0.1	dco-jads-727222375.us-west-2.elb.amazonaws.com
@@ -15700,7 +15709,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.112.21	education.github.com
+140.82.113.22	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
@@ -16233,6 +16242,7 @@
 0.0.0.0	euphoricspace.pro
 0.0.0.0	euploadatt.pro
 0.0.0.0	eur-bid-hubvisor.adsrvr.org
+0.0.0.0	eur-bid-openpath.adsrvr.org
 0.0.0.0	eur-ukp.adsrvr.org
 0.0.0.0	eurads.simpli.fi
 0.0.0.0	eurascariu.pro
@@ -16508,7 +16518,7 @@
 0.0.0.0	fauxgosigil.pro
 0.0.0.0	fav.simba.taobao.com
 0.0.0.0	favagoo3.pro
-185.199.109.133	favicons.githubusercontent.com
+185.199.111.133	favicons.githubusercontent.com
 0.0.0.0	favilriapp.pro
 0.0.0.0	favlrudeno.pro
 0.0.0.0	favorgraci.pro
@@ -17741,11 +17751,11 @@
 0.0.0.0	girinrazia.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-3.5.3.11	github-cloud.s3.amazonaws.com
-52.216.221.33	github-com.s3.amazonaws.com
-3.5.25.233	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.86.148	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.203.185	github-production-user-asset-6210df.s3.amazonaws.com
+54.231.163.41	github-cloud.s3.amazonaws.com
+3.5.27.199	github-com.s3.amazonaws.com
+52.217.206.249	github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.99.81	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.174.153	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -17753,7 +17763,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.109.133	github.map.fastly.net
+185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	gitlab-dev-pages.adsrvr.org
 0.0.0.0	giubbautoa.pro
@@ -26208,7 +26218,7 @@
 0.0.0.0	privacy.yieldlove-ad-serving.net
 0.0.0.0	privaferma.pro
 0.0.0.0	privaregol.pro
-185.199.109.133	private-user-images.githubusercontent.com
+185.199.111.133	private-user-images.githubusercontent.com
 0.0.0.0	privateasp.pro
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
@@ -34908,7 +34918,6 @@
 0.0.0.0	vads.net.vn
 0.0.0.0	vads.vn
 0.0.0.0	vae-bid.adsrvr.org
-0.0.0.0	vaes.amazon-adsystem.com
 0.0.0.0	vafw.adsafeprotected.com
 0.0.0.0	vagabondhorse.pro
 0.0.0.0	vagarumfaa.pro
@@ -35365,6 +35374,7 @@
 0.0.0.0	viridianrad.pro
 0.0.0.0	viridianraven.pro
 0.0.0.0	virusinfo-cloudscan-cn.heytapmobi.com
+0.0.0.0	visableleads.com
 0.0.0.0	visagnonpr.pro
 0.0.0.0	viscitimpa.pro
 0.0.0.0	viscomonod.pro
@@ -53308,6 +53318,7 @@
 0.0.0.0	www.viridianlabradoodle.pro
 0.0.0.0	www.viridianrad.pro
 0.0.0.0	www.viridianraven.pro
+0.0.0.0	www.visableleads.com
 0.0.0.0	www.visagnonpr.pro
 0.0.0.0	www.viscitimpa.pro
 0.0.0.0	www.viscomonod.pro
