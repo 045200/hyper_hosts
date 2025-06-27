@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-06-27 12:29:45
-# 规则总数: 58376
+# 最后更新时间: 2025-06-28 00:26:59
+# 规则总数: 58397
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -227,6 +227,7 @@
 127.0.0.1	33.autohome.com.cn
 0.0.0.0	35.adsina.allyes.com
 0.0.0.0	35y9sib5azfou7f6eyxygbr34r3x7konx32wadsabb36c4fcc8a4d183sac.d.aa.online-metrix.net
+0.0.0.0	35y9sib5hf23pgfvvvd4hdcmpvokxq5bsjbqjzif67c3259f12214eadsac.d.aa.online-metrix.net
 0.0.0.0	35y9sib5sbadxczxg3ligmwemu4qzcdnte6bt5ni0761cfbe219878ddsac.d.aa.online-metrix.net
 0.0.0.0	36.adsina.allyes.com
 0.0.0.0	360-g.cn
@@ -517,8 +518,10 @@
 0.0.0.0	aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0	aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 0.0.0.0	aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
+0.0.0.0	aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
 0.0.0.0	aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0	aax-events-cell02.eu-central.3px.axp.amazon-adsystem.com
+0.0.0.0	aax-events-wt.us-west.ono.axp.amazon-adsystem.com
 127.0.0.1	aax-fe-pek.amazon-adsystem.com
 127.0.0.1	aax-fe-sin.amazon-adsystem.com
 127.0.0.1	aax-fe.amazon-adsystem.com
@@ -2722,6 +2725,7 @@
 127.0.0.1	ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0	ads-privacy.gadsme.com
 0.0.0.0	ads-query.luizalabs.com
+0.0.0.0	ads-r9cddc.ortb.vdo.ai
 0.0.0.0	ads-r9cddd.ortb.vdo.ai
 0.0.0.0	ads-r9cdde.ortb.vdo.ai
 0.0.0.0	ads-r9cdds.ortb.vdo.ai
@@ -4682,6 +4686,7 @@
 0.0.0.0	ads215.adtelligent.com
 0.0.0.0	ads216.adtelligent.com
 0.0.0.0	ads217.adtelligent.com
+0.0.0.0	ads217.unoadsrv.com
 0.0.0.0	ads218.adtelligent.com
 0.0.0.0	ads219.adtelligent.com
 0.0.0.0	ads22-normal-hl.zijieapi.com
@@ -5207,6 +5212,7 @@
 0.0.0.0	adserver.asiafriendfinder.com
 0.0.0.0	adserver.asnetworks.de
 0.0.0.0	adserver.assistads.net
+0.0.0.0	adserver.associationheadquarters.com
 0.0.0.0	adserver.atdnetwork.com
 0.0.0.0	adserver.b2c.com
 0.0.0.0	adserver.bafrahaber.com
@@ -6411,6 +6417,7 @@
 0.0.0.0	advertisingbox.com
 0.0.0.0	advertisingcentral.yahoosearchmarketingin.com
 0.0.0.0	advertisingcom.122.2o7.net
+0.0.0.0	advertisinglanding3.com
 0.0.0.0	advertisinglanding4.com
 0.0.0.0	advertizmenttoyou.com
 0.0.0.0	advertlink.ru
@@ -8484,7 +8491,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.112.22	api.individual.githubcopilot.com
+140.82.112.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -12120,7 +12127,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.113.22	central.github.com
+140.82.114.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -12720,6 +12727,7 @@
 0.0.0.0	clevercoyote.pro
 0.0.0.0	cleverharbor.pro
 0.0.0.0	click-2.eu
+0.0.0.0	click-adshustle.appanalytics.in
 0.0.0.0	click-haproxy.supersonicads.com
 0.0.0.0	click-klient.go-domain.shop
 0.0.0.0	click-money-app.com
@@ -15053,6 +15061,7 @@
 0.0.0.0	diramperno.pro
 0.0.0.0	dirampyrid.pro
 0.0.0.0	diramstell.pro
+0.0.0.0	direct-ads.adtelligent.com
 0.0.0.0	direct-ads.vertamedia.com
 0.0.0.0	direct.ad-core-lb-v3.lf.bytelb.net
 0.0.0.0	direct.adsrvr.org
@@ -16416,6 +16425,7 @@
 0.0.0.0	entroinnam.pro
 127.0.0.1	entry.baidu.com
 127.0.0.1	entry.ubixioe.com
+0.0.0.0	entry.video-ads.a2z.com
 0.0.0.0	entwismaga.pro
 0.0.0.0	enuclrecir.pro
 0.0.0.0	enumeavvin.pro
@@ -18343,11 +18353,11 @@
 0.0.0.0	girinrazia.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-54.231.161.17	github-cloud.s3.amazonaws.com
-16.182.71.145	github-com.s3.amazonaws.com
-52.217.172.161	github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.172.217	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.49.145	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.36.217	github-cloud.s3.amazonaws.com
+52.216.107.140	github-com.s3.amazonaws.com
+52.217.112.129	github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.164.225	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.136.249	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -21094,6 +21104,7 @@
 0.0.0.0	ipotilumin.pro
 0.0.0.0	ippobesang.pro
 127.0.0.1	ipt.qchannel03.cn
+0.0.0.0	iptil.richadslead.top
 127.0.0.1	ipv4.gdt.qq.com
 0.0.0.0	ipv4.kkmh.com
 127.0.0.1	ipv4.music.163.com
@@ -22756,6 +22767,7 @@
 0.0.0.0	lunefizz.pro
 0.0.0.0	lungfproti.pro
 0.0.0.0	luniggarib.pro
+0.0.0.0	luoqdtopebadx.store
 127.0.0.1	lupic.cdn.bcebos.com
 0.0.0.0	luridinsev.pro
 0.0.0.0	lurkingaardwolf.pro
@@ -26060,6 +26072,7 @@
 0.0.0.0	padsdel.com
 0.0.0.0	padsims.com
 0.0.0.0	padv.co.il
+0.0.0.0	padvuraqsru.com
 0.0.0.0	pafiri-banase.pro
 0.0.0.0	pagandotas.pro
 0.0.0.0	paganidiol.pro
@@ -27383,6 +27396,7 @@
 0.0.0.0	primareinv.pro
 0.0.0.0	primariech.pro
 0.0.0.0	primavera-p6-pro.online
+0.0.0.0	primeadslink.top
 0.0.0.0	primedadvisors.com
 0.0.0.0	primescate.pro
 0.0.0.0	primetime.ad.primetime.net
@@ -29141,6 +29155,7 @@
 0.0.0.0	rich-media.v3.awesomeads.superawesome.tv
 127.0.0.1	rich.qq.com
 0.0.0.0	richads.com
+0.0.0.0	richadslead.top
 0.0.0.0	richemater.pro
 0.0.0.0	richibis.pro
 0.0.0.0	richiscalp.pro
@@ -29785,6 +29800,7 @@
 0.0.0.0	rtb-useast.rtbflairads.com
 0.0.0.0	rtb-usw.mfadsrvr.com
 0.0.0.0	rtb-uswest.adsolut.in
+0.0.0.0	rtb-uswest.hueadsortb.com
 0.0.0.0	rtb.ad-stir.com
 127.0.0.1	rtb.adentifi.com
 0.0.0.0	rtb.admaster.com.cn
@@ -29798,6 +29814,7 @@
 0.0.0.0	rtb.adview.cn
 0.0.0.0	rtb.adx1.com
 0.0.0.0	rtb.adxpremium.services
+0.0.0.0	rtb.avads.net
 0.0.0.0	rtb.beesads.com
 0.0.0.0	rtb.djaxadserver.com
 0.0.0.0	rtb.ero-advertising.com
@@ -35130,6 +35147,7 @@
 127.0.0.1	trackingprd.hwwt8.com
 127.0.0.1	tracklog.58.com
 0.0.0.0	trackproads.com
+0.0.0.0	trackster.avads.net
 0.0.0.0	tracodisgr.pro
 0.0.0.0	tracogreis.pro
 0.0.0.0	tractusuri.pro
@@ -36341,6 +36359,7 @@
 0.0.0.0	us-west-2.v3.awesomeads.superawesome.tv
 0.0.0.0	us-west.3px.axp.amazon-adsystem.com
 0.0.0.0	us-west.aps.axp.amazon-adsystem.com
+0.0.0.0	us-west.ono.axp.amazon-adsystem.com
 0.0.0.0	us.ads.justpremium.com
 127.0.0.1	us.adserver.yahoo.com
 0.0.0.0	us.adzmediadsp.com
@@ -57873,6 +57892,7 @@
 0.0.0.0	xml-v4.bidderads.com
 0.0.0.0	xml-v4.boffoadsfeeds.com
 0.0.0.0	xml-v4.kunvertads.com
+0.0.0.0	xml-v4.optumads.com
 0.0.0.0	xml-v4.pwr-ads.com
 0.0.0.0	xml-v4.staradsmedia.com
 0.0.0.0	xml-v4.winkleads.com
@@ -58064,6 +58084,7 @@
 0.0.0.0	yoyadsdom.com
 0.0.0.0	yoyi-cm.admaster.com.cn
 0.0.0.0	ypzoiqds.pro
+0.0.0.0	yrl7yj.skadsdkless.appsflyersdk.com
 127.0.0.1	ys.da.mgtv.com
 127.0.0.1	ysdk.qq.com
 0.0.0.0	yt-adp.nosdn.127.net
