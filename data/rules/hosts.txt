@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-07-02 12:30:40
-# 规则总数: 60898
+# 最后更新时间: 2025-07-03 00:26:59
+# 规则总数: 60905
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -2006,7 +2006,6 @@
 0.0.0.0	ad1digital.checkm8.com
 0.0.0.0	ad1game.ru
 0.0.0.0	ad1ular.pics
-0.0.0.0	ad1x7.mea5ms.com
 0.0.0.0	ad2.360yield.com
 0.0.0.0	ad2.ad-srv.net
 0.0.0.0	ad2.adecn.com
@@ -4183,6 +4182,7 @@
 0.0.0.0	ads.tarrobads.com
 0.0.0.0	ads.tbs.com
 0.0.0.0	ads.tcsemotion.com
+0.0.0.0	ads.teads.tv
 0.0.0.0	ads.technoratimedia.com
 0.0.0.0	ads.techvibes.com
 0.0.0.0	ads.techweb.com
@@ -5226,6 +5226,7 @@
 0.0.0.0	adserver-espnet.sportszone.net
 0.0.0.0	adserver-eu.adtech.advertising.com
 0.0.0.0	adserver-images.adikteev.com
+0.0.0.0	adserver-prod.tronads.io
 0.0.0.0	adserver-toy.adtechjp.com
 0.0.0.0	adserver-us.adtech.advertising.com
 0.0.0.0	adserver-voice-online.co.uk
@@ -6279,6 +6280,7 @@
 0.0.0.0	advanceinvader.com
 127.0.0.1	advancelocal-adapter-image-uploads.s3.amazonaws.com
 0.0.0.0	advancelocal.blueconic.net
+0.0.0.0	advancelocalmediallc-lehighvalleylivecom.adsbynimbus.com
 0.0.0.0	advancelocalmediallc-mlivecom.adsbynimbus.com
 0.0.0.0	advancelocalmediallc-njcom.adsbynimbus.com
 0.0.0.0	advancelocalmediallc-oregonlivecom.adsbynimbus.com
@@ -8360,6 +8362,7 @@
 0.0.0.0	api.ca.looker.com
 0.0.0.0	api.cactusglobal.io
 0.0.0.0	api.callget.cn
+0.0.0.0	api.callrail.com
 0.0.0.0	api.calltrackingmetrics.com
 0.0.0.0	api.campaigns.notino.com
 0.0.0.0	api.caroda.io
@@ -8588,7 +8591,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.112.22	api.individual.githubcopilot.com
+140.82.113.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -12330,7 +12333,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.113.21	central.github.com
+140.82.112.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -12400,6 +12403,7 @@
 0.0.0.0	cf.insurads.com
 0.0.0.0	cf.xad.com
 0.0.0.0	cf04.kanade-ad.net
+0.0.0.0	cfapi.upstackdata.io
 0.0.0.0	cfd.analytics-iceberg.ltd
 0.0.0.0	cfd.blackrockadvisorsltd.bcpl9m7tbz955en94bnn.com
 0.0.0.0	cfd.blackrockadvisorsltd.com
@@ -16509,7 +16513,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.114.21	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
@@ -17449,6 +17453,7 @@
 127.0.0.1	fclog.baidu.com
 0.0.0.0	fcs23-1.naiadsystems.com
 0.0.0.0	fcvutavuonar.pro
+0.0.0.0	fcwx3i.skadsdkless.appsflyersdk.com
 127.0.0.1	fd.qchannel03.cn
 127.0.0.1	fd2.qchannel03.cn
 0.0.0.0	fdads.sv.publicus.com
@@ -18809,11 +18814,11 @@
 0.0.0.0	girinrazia.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-16.15.178.17	github-cloud.s3.amazonaws.com
-3.5.21.138	github-com.s3.amazonaws.com
-3.5.28.88	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.118.249	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.185.153	github-production-user-asset-6210df.s3.amazonaws.com
+16.182.107.73	github-cloud.s3.amazonaws.com
+52.217.81.220	github-com.s3.amazonaws.com
+3.5.10.109	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.176.187	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.204.105	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -24324,6 +24329,7 @@
 127.0.0.1	mgpay-api.kltb.com.cn
 127.0.0.1	mgwkbrs.tingyun.com
 127.0.0.1	mgwkm.tingyun.com
+0.0.0.0	mi-sentry.broadviewindustries.com
 0.0.0.0	mi-songs.com
 0.0.0.0	mi.5.p2l.info
 0.0.0.0	mi.adinterax.com
@@ -27943,6 +27949,7 @@
 0.0.0.0	post.xapads.com
 127.0.0.1	post1.voiceads.cn
 0.0.0.0	postback.adsmoloco.com
+0.0.0.0	postback.hilltopads.com
 0.0.0.0	postesfrig.pro
 0.0.0.0	postfproge.pro
 0.0.0.0	postibalon.pro
