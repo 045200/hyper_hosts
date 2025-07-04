@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-07-04 12:31:00
-# 规则总数: 61900
+# 最后更新时间: 2025-07-05 00:26:10
+# 规则总数: 61920
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -1070,6 +1070,7 @@
 0.0.0.0	ad-server.proboards.com
 0.0.0.0	ad-server.unlimapps.com
 0.0.0.0	ad-serverparc.nl
+0.0.0.0	ad-serving.d-o-ads.com
 0.0.0.0	ad-serving.de
 0.0.0.0	ad-sfo.pubmatic.com
 0.0.0.0	ad-sh-sz-zb.wagbridge.tanx.alimama.com
@@ -2834,6 +2835,7 @@
 0.0.0.0	ads-trk.vidible.tv
 0.0.0.0	ads-twitter.com
 0.0.0.0	ads-uk.jiwire.com
+0.0.0.0	ads-unibet.adhese.com
 127.0.0.1	ads-union.jd.com
 0.0.0.0	ads-us.amillionads.com
 0.0.0.0	ads-us.loopaautomate.com
@@ -4587,6 +4589,7 @@
 0.0.0.0	ads12.vertamedia.com
 0.0.0.0	ads120.adtelligent.com
 0.0.0.0	ads121.adtelligent.com
+0.0.0.0	ads124.adtelligent.com
 0.0.0.0	ads13-normal-hl.zijieapi.com
 0.0.0.0	ads13-normal-lf.zijieapi.com
 0.0.0.0	ads13-normal-lq.zijieapi.com
@@ -6249,6 +6252,7 @@
 0.0.0.0	adv2.expres.ua
 0.0.0.0	adv2.rcspubblicita.it
 0.0.0.0	adv3.clickadu.net
+0.0.0.0	adv6.grupopreferente.com
 0.0.0.0	advack.net
 0.0.0.0	advaction.ru
 0.0.0.0	advally-baseballamerica-tagan.adlightning.com
@@ -6525,7 +6529,6 @@
 0.0.0.0	adverum.lt
 0.0.0.0	advg.agency
 0.0.0.0	advgalaxy.com
-0.0.0.0	advgame.org
 0.0.0.0	adviad.com
 0.0.0.0	adviap.goforandroid.com
 0.0.0.0	advice-ads-cdn.vice.com
@@ -8399,6 +8402,7 @@
 0.0.0.0	api.calltrackingmetrics.com
 0.0.0.0	api.campaigns.notino.com
 0.0.0.0	api.caroda.io
+0.0.0.0	api.cartbooster.io
 0.0.0.0	api.cartsee.cartx.cloud
 0.0.0.0	api.cashback.co.uk
 0.0.0.0	api.cazamba.com
@@ -8622,10 +8626,11 @@
 0.0.0.0	api.img-static.tech
 0.0.0.0	api.immomo.com
 0.0.0.0	api.impactradius.com
+0.0.0.0	api.impressions.vupulse.com
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.112.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -8783,6 +8788,7 @@
 0.0.0.0	api.mu9.com
 0.0.0.0	api.mumuglobal.com
 0.0.0.0	api.mutinyhq.io
+0.0.0.0	api.mw-ads.com
 0.0.0.0	api.mxvietnam.com
 0.0.0.0	api.myads.telkomsel.com
 127.0.0.1	api.myadsget.com
@@ -12413,7 +12419,7 @@
 0.0.0.0	centecrapo.pro
 0.0.0.0	centequart.pro
 0.0.0.0	centinanop.pro
-140.82.113.22	central.github.com
+140.82.112.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -14502,6 +14508,7 @@
 0.0.0.0	cyberprotection.pro
 0.0.0.0	cyberquoll.pro
 0.0.0.0	cyberserval.pro
+0.0.0.0	cybertronads.com
 0.0.0.0	cyberweasel.pro
 0.0.0.0	cyborricon.pro
 0.0.0.0	cycadprove.pro
@@ -16644,6 +16651,7 @@
 0.0.0.0	ecom-app.rakutenadvertising.io
 127.0.0.1	ecom.pangolin-sdk-toutiao.com
 0.0.0.0	ecomadserver.com
+0.0.0.0	ecommerce-events.adscale.com
 0.0.0.0	economicara.pro
 0.0.0.0	econosopru.pro
 0.0.0.0	ecoutrimpr.pro
@@ -19017,11 +19025,11 @@
 0.0.0.0	girinrazia.pro
 0.0.0.0	gironjoyan.pro
 20.205.243.166	gist.github.com
-52.216.48.217	github-cloud.s3.amazonaws.com
-54.231.193.145	github-com.s3.amazonaws.com
-52.217.75.164	github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.227.177	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.161.25	github-production-user-asset-6210df.s3.amazonaws.com
+54.231.229.9	github-cloud.s3.amazonaws.com
+52.216.10.75	github-com.s3.amazonaws.com
+52.217.80.68	github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.98.81	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.193.168	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -20906,6 +20914,7 @@
 127.0.0.1	img.applovin.com
 0.0.0.0	img.blogads.com
 127.0.0.1	img.da.mgtv.com
+0.0.0.0	img.flipp-ads.com
 127.0.0.1	img.jiguang.cn
 0.0.0.0	img.jizzads.com
 0.0.0.0	img.layer-ads.de
@@ -20927,6 +20936,7 @@
 127.0.0.1	img1.g.pptv.com
 0.0.0.0	img1.mini.cache.wps.cn
 127.0.0.1	img1.sj.qq.com
+0.0.0.0	img1.tronads.io
 127.0.0.1	img2.126.net
 127.0.0.1	img2.360buyimg.com
 0.0.0.0	img2.ad.agrantsem.com
@@ -22735,6 +22745,7 @@
 0.0.0.0	ks.pull.yximgs.com
 127.0.0.1	kstj.baidu.com
 0.0.0.0	kt88.pro
+0.0.0.0	ktk7k-1eakg.ads.tremorhub.com
 0.0.0.0	ktokto.mobi
 0.0.0.0	ktqtyggmqgug.pro
 0.0.0.0	ku11.pro
@@ -27888,6 +27899,7 @@
 0.0.0.0	pittabrule.pro
 0.0.0.0	pittadisap.pro
 0.0.0.0	pittodisme.pro
+0.0.0.0	piwik.advantic.de
 0.0.0.0	piwik.ero-advertising.com
 0.0.0.0	piwik.unoadsrv.com
 0.0.0.0	pix.ahs.prod-na.turntable.sonic.advertising.amazon.dev
@@ -32580,6 +32592,7 @@
 0.0.0.0	seguivolut.pro
 0.0.0.0	sehejii1.pro
 0.0.0.0	seismfullo.pro
+0.0.0.0	sej3y5.skadsdkless.appsflyersdk.com
 0.0.0.0	sejs.moatads.com
 0.0.0.0	sejujeo9.pro
 0.0.0.0	seks-partner.com
@@ -34618,6 +34631,7 @@
 0.0.0.0	static.4chan-ads.org
 127.0.0.1	static.66mobi.com
 0.0.0.0	static.a-ads.com
+0.0.0.0	static.ad-adserver.com
 0.0.0.0	static.ad-lancers.jp
 0.0.0.0	static.ad-maven.com
 0.0.0.0	static.ad-tech.ru
@@ -37114,6 +37128,7 @@
 0.0.0.0	trifosuici.pro
 0.0.0.0	triggdival.pro
 0.0.0.0	trincbever.pro
+0.0.0.0	trinidadexpress-tto-ads.sitenm.com
 0.0.0.0	trinielixa.pro
 0.0.0.0	trinoscier.pro
 0.0.0.0	trinuimper.pro
@@ -38209,6 +38224,7 @@
 0.0.0.0	uuidapi.yunos.com
 0.0.0.0	uusee.adsame.com
 0.0.0.0	uvnbrvbmsvtg.pro
+0.0.0.0	uw2-n.adv.lijit.com
 127.0.0.1	uweb.umeng.com
 0.0.0.0	uwxcwa.pro
 0.0.0.0	ux13.juicyads.com
@@ -38642,6 +38658,7 @@
 0.0.0.0	vfw-us.amazon-adsystem.com
 0.0.0.0	vfw.amazon-adsystem.com
 0.0.0.0	vfw.prod.skywave.jetstream.advertising.a2z.com
+0.0.0.0	vfwm-us.amazon-adsystem.com
 0.0.0.0	vfwm.amazon-adsystem.com
 0.0.0.0	vfwm.prod.skywave.jetstream.advertising.a2z.com
 0.0.0.0	vfws.amazon-adsystem.com
@@ -40004,6 +40021,7 @@
 0.0.0.0	wixlabs-adsense-v3.uc.r.appspot.com
 127.0.0.1	wj.jpush.cn
 127.0.0.1	wj.mzvpn.miaozhen.com
+0.0.0.0	wjj3n-h193w.ads.tremorhub.com
 0.0.0.0	wjj3n-vjpmh.ads.tremorhub.com
 0.0.0.0	wjj3n-yx4rt.ads.tremorhub.com
 127.0.0.1	wkbrs1.tingyun.com
@@ -60390,6 +60408,7 @@
 0.0.0.0	www.vryndolar.pro
 0.0.0.0	www.vsiogladko.pro
 0.0.0.0	www.vtqvkf.pro
+0.0.0.0	www.vtyfzokadxi.com
 0.0.0.0	www.vubogoy6.pro
 0.0.0.0	www.vulcarabbo.pro
 0.0.0.0	www.vulgasorbe.pro
@@ -61223,6 +61242,7 @@
 0.0.0.0	www13.smartadserver.com
 0.0.0.0	www14.smartadserver.com
 0.0.0.0	www15.smartadserver.com
+0.0.0.0	www17.smartadserver.com
 0.0.0.0	www18.smartadserver.com
 0.0.0.0	www2.ad-server.online
 0.0.0.0	www2.adserverpub.com
