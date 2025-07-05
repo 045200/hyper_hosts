@@ -17,6 +17,7 @@ hyper_hosts 是一个基于 Python 的 hosts 管理工具，支持黑名单与�
 
 ## Hosts/白名单订阅
 
-Hosts订阅地址：https://raw.githubusercontent.com/045200/hyper_hosts/main/data/rules/hosts.txt
+Hosts订阅地址：
+(https://raw.githubusercontent.com/045200/hyper_hosts/main/data/rules/hosts.txt)
 
-白名单订阅地址:https://raw.githubusercontent.com/045200/hyper_hosts/main/data/rules/whitelist.txt
+白名单订阅地址:(https://raw.githubusercontent.com/045200/hyper_hosts/main/data/rules/whitelist.txt)
