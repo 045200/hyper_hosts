@@ -3,7 +3,9 @@
 hyper_hosts 是一个基于 Python 的 hosts 管理工具，支持黑名单与白名单订阅功能，方便用户灵活管理和自动更新网络访问规则。适用于需要屏蔽特定域名或加速常用网站访问的用户和场景。
 
 上游规则:
+
 10007:[项目地址](https://github.com/lingeringsound/10007)
+
 AWAvenue-Ads-Rule:[官网地址](https://doc.awads.cc/)
 ## 主要功能
 
