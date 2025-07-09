@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-07-09 12:35:06
-# 规则总数: 72173
+# 最后更新时间: 2025-07-10 00:26:44
+# 规则总数: 72172
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -8911,7 +8911,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.114.22	api.individual.githubcopilot.com
+140.82.114.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -12473,7 +12473,7 @@
 0.0.0.0	camelmasch.pro
 0.0.0.0	camerdisor.pro
 0.0.0.0	camicsciac.pro
-185.199.110.133	camo.githubusercontent.com
+185.199.108.133	camo.githubusercontent.com
 0.0.0.0	camosclubl.pro
 0.0.0.0	camosmarin.pro
 0.0.0.0	camouflagedlimpet.pro
@@ -18027,7 +18027,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.112.21	education.github.com
+140.82.113.21	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
@@ -19158,7 +19158,7 @@
 0.0.0.0	fauxgosigil.pro
 0.0.0.0	fav.simba.taobao.com
 0.0.0.0	favagoo3.pro
-185.199.110.133	favicons.githubusercontent.com
+185.199.108.133	favicons.githubusercontent.com
 0.0.0.0	favilriapp.pro
 0.0.0.0	favlrudeno.pro
 0.0.0.0	favorgraci.pro
@@ -20789,11 +20789,11 @@
 0.0.0.0	gironjoyan.pro
 0.0.0.0	gironrispa.pro
 20.205.243.166	gist.github.com
-52.217.139.233	github-cloud.s3.amazonaws.com
-52.216.24.212	github-com.s3.amazonaws.com
-52.217.114.241	github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.68.65	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.129.81	github-production-user-asset-6210df.s3.amazonaws.com
+52.217.89.236	github-cloud.s3.amazonaws.com
+52.217.66.116	github-com.s3.amazonaws.com
+52.217.231.145	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.21.195	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.56.169	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -20801,7 +20801,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.110.133	github.map.fastly.net
+185.199.108.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	gitlab-dev-pages.adsrvr.org
 0.0.0.0	giubbautoa.pro
@@ -31916,7 +31916,7 @@
 0.0.0.0	privacy.yieldlove-ad-serving.net
 0.0.0.0	privaferma.pro
 0.0.0.0	privaregol.pro
-185.199.110.133	private-user-images.githubusercontent.com
+185.199.108.133	private-user-images.githubusercontent.com
 0.0.0.0	privateaardwolf.pro
 0.0.0.0	privateasp.pro
 0.0.0.0	privatebuffalo.pro
@@ -40648,7 +40648,6 @@
 0.0.0.0	termosalva.pro
 0.0.0.0	termosnamo.pro
 0.0.0.0	termounibr.pro
-0.0.0.0	terms-drcn.platform.dbankcloud.cn
 0.0.0.0	ternanonnu.pro
 0.0.0.0	ternariqua.pro
 0.0.0.0	terrafolkm.pro
