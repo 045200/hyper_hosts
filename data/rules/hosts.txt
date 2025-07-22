@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-07-22 12:40:08
-# 规则总数: 73671
+# 最后更新时间: 2025-07-23 00:29:38
+# 规则总数: 73661
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -1144,7 +1144,6 @@
 127.0.0.1	ad-sdk-config.youdao.com
 0.0.0.0	ad-sdk.aiclk.com
 0.0.0.0	ad-sdk.altamob.xiaoying.co
-0.0.0.0	ad-sdk.huxiu.com
 127.0.0.1	ad-sdk.lenovomm.com
 0.0.0.0	ad-seek.jp
 0.0.0.0	ad-sell.com
@@ -3907,7 +3906,6 @@
 0.0.0.0	ads.mtv.uol.com.br
 0.0.0.0	ads.multimania.lycos.fr
 0.0.0.0	ads.museum.or.jp
-0.0.0.0	ads.music.126.net
 0.0.0.0	ads.muslimehelfen.org
 0.0.0.0	ads.mustangworks.com
 0.0.0.0	ads.mvscoelho.com
@@ -8947,7 +8945,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.112.22	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -9714,7 +9712,6 @@
 127.0.0.1	applog.zijieapi.com
 127.0.0.1	applogios.uc.cn
 127.0.0.1	applovin.com
-0.0.0.0	applvn.com
 0.0.0.0	appmarket.api.gsxnj.cn
 0.0.0.0	appogverdu.pro
 0.0.0.0	appolperfe.pro
@@ -13237,7 +13234,7 @@
 0.0.0.0	centequart.pro
 0.0.0.0	centeshepp.pro
 0.0.0.0	centinanop.pro
-140.82.113.21	central.github.com
+140.82.113.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -18209,7 +18206,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.114.22	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
@@ -21037,11 +21034,11 @@
 0.0.0.0	gironjoyan.pro
 0.0.0.0	gironrispa.pro
 20.205.243.166	gist.github.com
-3.5.10.168	github-cloud.s3.amazonaws.com
-52.217.50.28	github-com.s3.amazonaws.com
-52.216.77.124	github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.37.201	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.12.48	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.207.43	github-cloud.s3.amazonaws.com
+16.15.201.110	github-com.s3.amazonaws.com
+3.5.10.109	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.176.226	github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.137.185	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -23081,8 +23078,6 @@
 0.0.0.0	imads.ero-advertising.com
 0.0.0.0	imads.integral-marketing.com
 0.0.0.0	imads.rediff.com
-0.0.0.0	imag8.pubmatic.com
-0.0.0.0	imag86.pubmatic.com
 0.0.0.0	imagazine.advertserve.com
 127.0.0.1	image-ad.sm.cn
 127.0.0.1	image.9xsecndns.cn
@@ -23217,7 +23212,6 @@
 0.0.0.0	img.ad2.maho.jp
 127.0.0.1	img.adbox.sina.com.cn
 127.0.0.1	img.admobile.top
-0.0.0.0	img.adnyg.com
 0.0.0.0	img.adnyg.com.w.kunlungr.com
 127.0.0.1	img.adprod.cn
 0.0.0.0	img.ads.csdn.net
@@ -26227,7 +26221,6 @@
 0.0.0.0	log.amemv.com
 0.0.0.0	log.appstore3.huan.tv
 0.0.0.0	log.avlyun.com
-0.0.0.0	log.avlyun.sec.intl.miui.com
 0.0.0.0	log.byteoversea.com
 127.0.0.1	log.cs.pp.cn
 0.0.0.0	log.fc.yahoo.com
@@ -26245,7 +26238,6 @@
 127.0.0.1	log.qchannel03.cn
 127.0.0.1	log.sina.cn
 127.0.0.1	log.sms.mob.com
-0.0.0.0	log.snssdk.com
 127.0.0.1	log.snssdk.com.bytedns.net
 127.0.0.1	log.spotify.com
 127.0.0.1	log.stat.kugou.com
@@ -26658,7 +26650,6 @@
 127.0.0.1	m.jd.watbc.top
 127.0.0.1	m.jd.watbe.top
 127.0.0.1	m.jiguang.cn
-0.0.0.0	m.kubiqq.com
 127.0.0.1	m.l.qq.com
 127.0.0.1	m.lu.sogou.com
 127.0.0.1	m.mediav.com
@@ -27753,7 +27744,6 @@
 0.0.0.0	milycoy2.pro
 0.0.0.0	milyscagl.pro
 0.0.0.0	mimasparci.pro
-0.0.0.0	mime.baidu.com
 127.0.0.1	mimg.126.net
 0.0.0.0	miminaggra.pro
 0.0.0.0	mimogfalsu.pro
@@ -27775,7 +27765,6 @@
 0.0.0.0	mindfulwapiti.pro
 0.0.0.0	mindreadingpower.pro
 0.0.0.0	mindsparkadvertising.com
-0.0.0.0	mine.baidu.com
 127.0.0.1	mine.z74d.com
 0.0.0.0	mingemetal.pro
 127.0.0.1	mingkuaian.cn.miaozhen.com
@@ -41207,6 +41196,7 @@
 0.0.0.0	telarspiat.pro
 0.0.0.0	teleccopia.pro
 127.0.0.1	telecom.shuzilm.cn
+0.0.0.0	telecome.cn
 127.0.0.1	telecommand.telemetry.microsoft.com
 127.0.0.1	telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0	telegnonep.pro
@@ -41727,6 +41717,7 @@
 0.0.0.0	tmk.smartadserver.com
 0.0.0.0	tn.ads.justpremium.com
 127.0.0.1	tnc0-aliec2.zijieapi.com
+0.0.0.0	tnc0-alisc1.zijieapi.com
 127.0.0.1	tnc0-bjlgy.zijieapi.com
 127.0.0.1	tnc1-bjlgy.zijieapi.com
 127.0.0.1	tnc11-aliec2.zijieapi.com
@@ -41744,6 +41735,7 @@
 127.0.0.1	tnc3-aliec2.zijieapi.com
 127.0.0.1	tnc3-alisc1.bytedance.com
 127.0.0.1	tnc3-alisc1.snssdk.com
+0.0.0.0	tnc3-alisc1.toutiaoapi.com
 127.0.0.1	tnc3-alisc1.zijieapi.com
 0.0.0.0	tnc3-alisc2.bytedance.com
 0.0.0.0	tnc3-alisc2.snssdk.com
@@ -72960,7 +72952,6 @@
 0.0.0.0	www3.hot-mob.com
 0.0.0.0	www3.smartadserver.com
 0.0.0.0	www4.smartadserver.com
-0.0.0.0	www42.zskwai.com
 0.0.0.0	www5.smartadserver.com
 0.0.0.0	www6.click-fr.com
 0.0.0.0	www6.smartadserver.com
@@ -73044,7 +73035,6 @@
 0.0.0.0	xbusinessads.com
 127.0.0.1	xc.gdt.qq.com
 0.0.0.0	xcelsiusadserver.com
-0.0.0.0	xcultur.com
 127.0.0.1	xd-q.mediav.com
 0.0.0.0	xd.mediav.com
 127.0.0.1	xdcs-collector.ximalaya.com

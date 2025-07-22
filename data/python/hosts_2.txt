@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1680
+!Total lines: 1666
 !Version: 1.6.7-release
-!Update time: 2025-07-14 02:48:08 UTC+8
-!Update content: 拦截一些 Huichuan、zhuoxin 等不良广告
+!Update time: 2025-07-22 17:37:34 UTC+8
+!Update content: 清理失效域名完毕，暂时告一段落
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -37,8 +37,6 @@
 :: ad-scope.com.cn
 0.0.0.0 ad-sdk-config.youdao.com
 :: ad-sdk-config.youdao.com
-0.0.0.0 ad-sdk.huxiu.com
-:: ad-sdk.huxiu.com
 0.0.0.0 ad-splash-tracking.hktvmall.com
 :: ad-splash-tracking.hktvmall.com
 0.0.0.0 ad-splash.hktvmall.com
@@ -81,8 +79,6 @@
 :: ad.ximalaya.com
 0.0.0.0 ad.zijieapi.com
 :: ad.zijieapi.com
-0.0.0.0 ad2.ettoday.net
-:: ad2.ettoday.net
 0.0.0.0 adapi.izuiyou.com
 :: adapi.izuiyou.com
 0.0.0.0 adapi.yynetwk.com
@@ -113,8 +109,6 @@
 :: adexpo.tencentmusic.com
 0.0.0.0 adfilter.imtt.qq.com
 :: adfilter.imtt.qq.com
-0.0.0.0 adfstat.yandex.ru
-:: adfstat.yandex.ru
 0.0.0.0 adguanggao.eee114.com
 :: adguanggao.eee114.com
 0.0.0.0 adjust.cn
@@ -151,8 +145,6 @@
 :: ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
 :: ads.95516.com
-0.0.0.0 ads.flurry.com
-:: ads.flurry.com
 0.0.0.0 ads.google.cn
 :: ads.google.cn
 0.0.0.0 ads.huan.tv
@@ -165,8 +157,6 @@
 :: ads.inmobi.com
 0.0.0.0 ads.linkedin.com
 :: ads.linkedin.com
-0.0.0.0 ads.music.126.net
-:: ads.music.126.net
 0.0.0.0 ads.pinterest.com
 :: ads.pinterest.com
 0.0.0.0 ads.pubmatic.com
@@ -263,8 +253,6 @@
 :: adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
 :: adtrack.quark.cn
-0.0.0.0 adv.fjtv.net
-:: adv.fjtv.net
 0.0.0.0 adv.sec.intl.miui.com
 :: adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
@@ -287,6 +275,8 @@
 :: adview.cn
 0.0.0.0 adx-ad.smart-tv.cn
 :: adx-ad.smart-tv.cn
+0.0.0.0 adx-bj-req.anythinktech.com
+:: adx-bj-req.anythinktech.com
 0.0.0.0 adx-bj.anythinktech.com
 :: adx-bj.anythinktech.com
 0.0.0.0 adx-cn.anythinktech.com
@@ -433,8 +423,6 @@
 :: applog.zijieapi.com
 0.0.0.0 applovin.com
 :: applovin.com
-0.0.0.0 applvn.com
-:: applvn.com
 0.0.0.0 appversion.115.com
 :: appversion.115.com
 0.0.0.0 aspect-upush.umeng.com
@@ -523,8 +511,6 @@
 :: cdn-f.adsmoloco.com
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 :: cdn-plugin-sync-upgrade-juui.hismarttv.com
-0.0.0.0 cdn.ad.xiaomi.com
-:: cdn.ad.xiaomi.com
 0.0.0.0 cdn.aiclk.com
 :: cdn.aiclk.com
 0.0.0.0 cdn.chinaliftoff-creatives.io
@@ -813,16 +799,10 @@
 :: ifs.tanx.com
 0.0.0.0 ii.gdt.qq.com
 :: ii.gdt.qq.com
-0.0.0.0 imag8.pubmatic.com
-:: imag8.pubmatic.com
-0.0.0.0 imag86.pubmatic.com
-:: imag86.pubmatic.com
 0.0.0.0 image-ad.sm.cn
 :: image-ad.sm.cn
 0.0.0.0 image.hpplay.cn
 :: image.hpplay.cn
-0.0.0.0 imageplus.baidu.com
-:: imageplus.baidu.com
 0.0.0.0 images.outbrainimg.com
 :: images.outbrainimg.com
 0.0.0.0 images.pinduoduo.com
@@ -833,8 +813,6 @@
 :: img-c.heytapimage.com
 0.0.0.0 img-x.jd.com
 :: img-x.jd.com
-0.0.0.0 img.adnyg.com
-:: img.adnyg.com
 0.0.0.0 img.adnyg.com.w.kunlungr.com
 :: img.adnyg.com.w.kunlungr.com
 0.0.0.0 impression-asia.chinaliftoff.io
@@ -951,8 +929,6 @@
 :: log.appstore3.huan.tv
 0.0.0.0 log.avlyun.com
 :: log.avlyun.com
-0.0.0.0 log.avlyun.sec.intl.miui.com
-:: log.avlyun.sec.intl.miui.com
 0.0.0.0 log.byteoversea.com
 :: log.byteoversea.com
 0.0.0.0 log.fc.yahoo.com
@@ -965,8 +941,6 @@
 :: log.pinterest.com
 0.0.0.0 log.popin.cc
 :: log.popin.cc
-0.0.0.0 log.snssdk.com
-:: log.snssdk.com
 0.0.0.0 log.stat.kugou.com
 :: log.stat.kugou.com
 0.0.0.0 log.tagtic.cn
@@ -1003,8 +977,6 @@
 :: m.ad.zhangyue.com
 0.0.0.0 m.atm.youku.com
 :: m.atm.youku.com
-0.0.0.0 m.kubiqq.com
-:: m.kubiqq.com
 0.0.0.0 m1.ad.10010.com
 :: m1.ad.10010.com
 0.0.0.0 mapi.m.jd.com
@@ -1015,6 +987,8 @@
 :: mazu.m.qq.com
 0.0.0.0 mbdlog.iqiyi.com
 :: mbdlog.iqiyi.com
+0.0.0.0 mcs.zijieapi.com
+:: mcs.zijieapi.com
 0.0.0.0 metrics.data.hicloud.com
 :: metrics.data.hicloud.com
 0.0.0.0 metrics.icloud.com
@@ -1031,10 +1005,6 @@
 :: miav-cse.avlyun.com
 0.0.0.0 micro-xdb.com
 :: micro-xdb.com
-0.0.0.0 mime.baidu.com
-:: mime.baidu.com
-0.0.0.0 mine.baidu.com
-:: mine.baidu.com
 0.0.0.0 mini-prog-drm.vodplayvideo.net
 :: mini-prog-drm.vodplayvideo.net
 0.0.0.0 mission-pub.smart-tv.cn
@@ -1207,6 +1177,8 @@
 :: pos.baidu.com
 0.0.0.0 prod-mediate-events.applovin.com
 :: prod-mediate-events.applovin.com
+0.0.0.0 promotion-partner.kuaishou.com
+:: promotion-partner.kuaishou.com
 0.0.0.0 proxy.advp.apple.com
 :: proxy.advp.apple.com
 0.0.0.0 public.gdtimg.com
@@ -1425,6 +1397,8 @@
 :: tdsdk.cpatrk.net
 0.0.0.0 tdsdk.xdrig.com
 :: tdsdk.xdrig.com
+0.0.0.0 telecome.cn
+:: telecome.cn
 0.0.0.0 telemetry.sdk.inmobi.com
 :: telemetry.sdk.inmobi.com
 0.0.0.0 tencent-dtv.m.cn.miaozhen.com
@@ -1451,20 +1425,36 @@
 :: tmfsdk.m.qq.com
 0.0.0.0 tmfsdktcpv4.m.qq.com
 :: tmfsdktcpv4.m.qq.com
+0.0.0.0 tnc0-aliec2.zijieapi.com
+:: tnc0-aliec2.zijieapi.com
+0.0.0.0 tnc0-alisc1.zijieapi.com
+:: tnc0-alisc1.zijieapi.com
+0.0.0.0 tnc0-bjlgy.zijieapi.com
+:: tnc0-bjlgy.zijieapi.com
 0.0.0.0 tnc3-aliec1.toutiaoapi.com
 :: tnc3-aliec1.toutiaoapi.com
 0.0.0.0 tnc3-aliec2.bytedance.com
 :: tnc3-aliec2.bytedance.com
+0.0.0.0 tnc3-aliec2.snssdk.com
+:: tnc3-aliec2.snssdk.com
 0.0.0.0 tnc3-aliec2.toutiaoapi.com
 :: tnc3-aliec2.toutiaoapi.com
+0.0.0.0 tnc3-aliec2.zijieapi.com
+:: tnc3-aliec2.zijieapi.com
 0.0.0.0 tnc3-alisc1.bytedance.com
 :: tnc3-alisc1.bytedance.com
+0.0.0.0 tnc3-alisc1.snssdk.com
+:: tnc3-alisc1.snssdk.com
+0.0.0.0 tnc3-alisc1.toutiaoapi.com
+:: tnc3-alisc1.toutiaoapi.com
 0.0.0.0 tnc3-alisc1.zijieapi.com
 :: tnc3-alisc1.zijieapi.com
 0.0.0.0 tnc3-alisc2.zijieapi.com
 :: tnc3-alisc2.zijieapi.com
 0.0.0.0 tnc3-bjlgy.bytedance.com
 :: tnc3-bjlgy.bytedance.com
+0.0.0.0 tnc3-bjlgy.snssdk.com
+:: tnc3-bjlgy.snssdk.com
 0.0.0.0 tnc3-bjlgy.toutiaoapi.com
 :: tnc3-bjlgy.toutiaoapi.com
 0.0.0.0 tnc3-bjlgy.zijieapi.com
@@ -1641,8 +1631,6 @@
 :: wv.inner-active.mobi
 0.0.0.0 wwads.cn
 :: wwads.cn
-0.0.0.0 www42.zskwai.com
-:: www42.zskwai.com
 0.0.0.0 wxa.wxs.qq.com
 :: wxa.wxs.qq.com
 0.0.0.0 wxaintpcos.wxqcloud.qq.com.cn
@@ -1661,8 +1649,6 @@
 :: wxsnsdythumb.wxs.qq.com
 0.0.0.0 xc.gdt.qq.com
 :: xc.gdt.qq.com
-0.0.0.0 xcultur.com
-:: xcultur.com
 0.0.0.0 xiaomi-dtv.m.cn.miaozhen.com
 :: xiaomi-dtv.m.cn.miaozhen.com
 0.0.0.0 xlog.jd.com
