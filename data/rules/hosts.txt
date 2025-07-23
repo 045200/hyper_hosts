@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-07-23 12:42:05
-# 规则总数: 73661
+# 最后更新时间: 2025-07-24 00:29:35
+# 规则总数: 73666
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -7309,6 +7309,8 @@
 127.0.0.1	alibaba.cnzz.com
 0.0.0.0	alicdn.bayimob.com
 0.0.0.0	alicdnv2.sitemonitor.cn.miaozhen.com
+0.0.0.0	alicoccdncnc-xn.inter.71edge.com
+0.0.0.0	alicoccdnct-xn.inter.71edge.com
 0.0.0.0	alictcarno.pro
 0.0.0.0	aliendivan.pro
 0.0.0.0	alienrigri.pro
@@ -8945,7 +8947,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -10967,6 +10969,7 @@
 0.0.0.0	bdapi-in.ads.oppomobile.com
 0.0.0.0	bdapi.ads.heytapmobi.com
 127.0.0.1	bdapi.ads.oppomobile.com
+0.0.0.0	bdcdncnc.inter.71edge.com
 0.0.0.0	bdcode.2345.com
 0.0.0.0	bdgadv.ru
 127.0.0.1	bdimg.share.baidu.com
@@ -13234,7 +13237,7 @@
 0.0.0.0	centequart.pro
 0.0.0.0	centeshepp.pro
 0.0.0.0	centinanop.pro
-140.82.113.21	central.github.com
+140.82.114.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -21034,11 +21037,11 @@
 0.0.0.0	gironjoyan.pro
 0.0.0.0	gironrispa.pro
 20.205.243.166	gist.github.com
-52.216.206.211	github-cloud.s3.amazonaws.com
-3.5.12.113	github-com.s3.amazonaws.com
-52.217.143.33	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.207.1	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.162.249	github-production-user-asset-6210df.s3.amazonaws.com
+16.182.34.193	github-cloud.s3.amazonaws.com
+3.5.22.29	github-com.s3.amazonaws.com
+52.216.62.41	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.53.145	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.234.89	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -26646,6 +26649,7 @@
 127.0.0.1	m.game.weibo.cn
 127.0.0.1	m.gdt.qq.com
 0.0.0.0	m.hot-mob.com
+0.0.0.0	m.iqiyipic.com
 127.0.0.1	m.irs01.com
 127.0.0.1	m.jd.watbc.top
 127.0.0.1	m.jd.watbe.top
@@ -73271,6 +73275,7 @@
 0.0.0.0	yk-ssp-ad.cp12.wasu.tv
 0.0.0.0	yk-ssp-ad.cp31.ott.cibntv.net
 127.0.0.1	yk-ssp.ad.youku.com
+0.0.0.0	ykad-data.cp31.ott.cibntv.net
 127.0.0.1	ykad-data.youku.com
 0.0.0.0	ykad-gateway.youku.com
 127.0.0.1	ykatr.youku.com
