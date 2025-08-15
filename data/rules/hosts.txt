@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-08-15 00:28:51
-# 规则总数: 74890
+# 最后更新时间: 2025-08-15 12:31:51
+# 规则总数: 74963
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -972,10 +972,12 @@
 0.0.0.0	activate.adobe.com
 0.0.0.0	activeadventure.com
 0.0.0.0	activeagama.pro
+0.0.0.0	activebuzzreport.pro
 0.0.0.0	activedegu.pro
 0.0.0.0	activeleopard.pro
 0.0.0.0	activemingle.pro
 0.0.0.0	activemongoose.pro
+0.0.0.0	activenewsfocus.pro
 0.0.0.0	activenewshub.pro
 127.0.0.1	activeqq.3g.qq.com
 127.0.0.1	actives.youku.com
@@ -6680,6 +6682,7 @@
 0.0.0.0	advice-ads.s3.amazonaws.com
 0.0.0.0	advice.api.useinsider.com
 0.0.0.0	advice.pgs.io
+0.0.0.0	advicedebt.org
 0.0.0.0	adviceforemost.com
 0.0.0.0	adviceglossaryeminence.com
 0.0.0.0	adviceth.api.useinsider.com
@@ -6766,6 +6769,7 @@
 0.0.0.0	advt0nber9259.top
 0.0.0.0	advtechspros.com
 0.0.0.0	advtise.net
+0.0.0.0	advtonber5836.top
 0.0.0.0	advtrack.yicha.jp
 0.0.0.0	advustech.com
 0.0.0.0	advwebtracking-cloud.advantech.com
@@ -7326,6 +7330,7 @@
 0.0.0.0	alenatheoc.pro
 0.0.0.0	alencquiet.pro
 0.0.0.0	alertnewsdigest.pro
+0.0.0.0	alertnewspulse.pro
 0.0.0.0	alesedisos.pro
 0.0.0.0	alettrinch.pro
 0.0.0.0	alfabdisgo.pro
@@ -7746,6 +7751,7 @@
 0.0.0.0	analytics.anvato.net
 0.0.0.0	analytics.app-adforce.jp
 0.0.0.0	analytics.archive.org
+0.0.0.0	analytics.arz.at
 0.0.0.0	analytics.asml.com
 0.0.0.0	analytics.atdmt.com
 0.0.0.0	analytics.atlauncher.com
@@ -8630,7 +8636,6 @@
 0.0.0.0	api.affilizz.com
 0.0.0.0	api.affinesystems.com
 0.0.0.0	api.affmates.com
-0.0.0.0	api.agoda.com.edgekey.net
 0.0.0.0	api.agrantsem.com
 127.0.0.1	api.aiclk.com
 0.0.0.0	api.aimtell.com
@@ -8796,6 +8801,7 @@
 0.0.0.0	api.cloudmobi.net
 0.0.0.0	api.cludo.com
 127.0.0.1	api.cn.miaozhen.com
+0.0.0.0	api.co-operativefinance.com
 0.0.0.0	api.coinerra.com
 0.0.0.0	api.collect.data.intl.miui.com
 0.0.0.0	api.compado.com
@@ -10335,6 +10341,7 @@
 0.0.0.0	attuasapra.pro
 0.0.0.0	attuaspiff.pro
 0.0.0.0	attufcymli.pro
+0.0.0.0	atun.pro
 0.0.0.0	atweecrby.pro
 0.0.0.0	au.ads.link4ads.com
 0.0.0.0	au.adserver.yahoo.com
@@ -10434,10 +10441,12 @@
 0.0.0.0	authenticcoucal.pro
 0.0.0.0	authenticfossa.pro
 0.0.0.0	authenticmalkoha.pro
+0.0.0.0	authenticnewsflow.pro
 0.0.0.0	authenticsidewinder.pro
 0.0.0.0	autholatit.pro
 0.0.0.0	author.bloggerads.net
 0.0.0.0	authoritativereport.pro
+0.0.0.0	authoritynewswire.pro
 0.0.0.0	auto-load-balancer.advividnetwork.com
 0.0.0.0	auto-satellite.advividnetwork.com
 0.0.0.0	autoads.asia
@@ -11075,6 +11084,7 @@
 127.0.0.1	beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 127.0.0.1	beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 0.0.0.0	bead-ad.com
+0.0.0.0	beads-braids.com
 0.0.0.0	beads.sx.atl.publicus.com
 0.0.0.0	beamidiswe.pro
 0.0.0.0	beaneranno.pro
@@ -12646,7 +12656,7 @@
 0.0.0.0	camelmasch.pro
 0.0.0.0	camerdisor.pro
 0.0.0.0	camicsciac.pro
-185.199.109.133	camo.githubusercontent.com
+185.199.111.133	camo.githubusercontent.com
 0.0.0.0	camosclubl.pro
 0.0.0.0	camosmarin.pro
 0.0.0.0	camouflagedbandicoot.pro
@@ -13328,7 +13338,7 @@
 0.0.0.0	centeshepp.pro
 0.0.0.0	centinanop.pro
 0.0.0.0	centohiggl.pro
-140.82.113.21	central.github.com
+140.82.112.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -14062,6 +14072,7 @@
 0.0.0.0	clearfeedhub.pro
 0.0.0.0	clearinfonow.pro
 0.0.0.0	clearstrategies.pro
+0.0.0.0	clearviewnews.pro
 0.0.0.0	clearvisionpro.pro
 0.0.0.0	clemediran.pro
 0.0.0.0	clergverid.pro
@@ -17796,11 +17807,11 @@
 0.0.0.0	download.filmfanatic.com
 0.0.0.0	download.fuyuncc.com
 0.0.0.0	download.fyxm.net
-0.0.0.0	download.glzip.cn
 0.0.0.0	download.grandcloud.cn
 0.0.0.0	download.haozip.com
 0.0.0.0	download.hitbox.com
 0.0.0.0	download.inboxace.com
+0.0.0.0	download.innovare.no
 0.0.0.0	download.kaobeitu.com
 0.0.0.0	download.mackeeper.com
 0.0.0.0	download.mclick.mobi
@@ -17856,7 +17867,6 @@
 0.0.0.0	dpd-pl.check-buy112.shop
 0.0.0.0	dpd-pl.check-buy1120.shop
 0.0.0.0	dpd-pl.check-buy1124.shop
-0.0.0.0	dpd-pl.check-buy1608.shop
 0.0.0.0	dpd-pl.check-buy1620.shop
 0.0.0.0	dpd-pl.check-buy1722.shop
 0.0.0.0	dpd-pl.check-buy178.shop
@@ -18370,7 +18380,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.112.21	education.github.com
+140.82.112.22	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
@@ -18480,6 +18490,7 @@
 0.0.0.0	eliogferru.pro
 0.0.0.0	elitearmadillo.pro
 0.0.0.0	elitechamois.pro
+0.0.0.0	eliteheadlinehub.pro
 0.0.0.0	elitepanther.pro
 0.0.0.0	elitepigeon.pro
 0.0.0.0	eliteseagull.pro
@@ -19004,6 +19015,7 @@
 0.0.0.0	essenarred.pro
 0.0.0.0	essenstamb.pro
 0.0.0.0	essentialglobalbrief.pro
+0.0.0.0	essentialnewsburst.pro
 0.0.0.0	essentialnewsfeed.pro
 0.0.0.0	essentialtools.pro
 0.0.0.0	essiccotar.pro
@@ -19319,6 +19331,7 @@
 0.0.0.0	expertinsightter.pro
 0.0.0.0	expertjellyfish.pro
 0.0.0.0	expertmastiff.pro
+0.0.0.0	expertnewsexpress.pro
 0.0.0.0	expertpigeon.pro
 0.0.0.0	expertpoodle.pro
 0.0.0.0	expertstrategy.pro
@@ -19561,7 +19574,7 @@
 0.0.0.0	fauxgosigil.pro
 0.0.0.0	fav.simba.taobao.com
 0.0.0.0	favagoo3.pro
-185.199.109.133	favicons.githubusercontent.com
+185.199.111.133	favicons.githubusercontent.com
 0.0.0.0	favildisag.pro
 0.0.0.0	favilriapp.pro
 0.0.0.0	favlrudeno.pro
@@ -21242,11 +21255,11 @@
 0.0.0.0	gironjoyan.pro
 0.0.0.0	gironrispa.pro
 20.205.243.166	gist.github.com
-16.15.184.25	github-cloud.s3.amazonaws.com
-16.15.176.168	github-com.s3.amazonaws.com
-16.15.177.66	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.196.124	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.177.145	github-production-user-asset-6210df.s3.amazonaws.com
+16.182.104.201	github-cloud.s3.amazonaws.com
+3.5.2.206	github-com.s3.amazonaws.com
+16.15.179.28	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.187.187	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.25.242	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -21254,7 +21267,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.109.133	github.map.fastly.net
+185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	gitlab-dev-pages.adsrvr.org
 0.0.0.0	giubbautoa.pro
@@ -21337,7 +21350,6 @@
 0.0.0.0	gleefulquirk.pro
 0.0.0.0	gleefulsprout.pro
 0.0.0.0	gleefulstream.pro
-0.0.0.0	gleefulvista.pro
 0.0.0.0	gleefulvortex.pro
 0.0.0.0	gleefulzone.pro
 0.0.0.0	gleemghind.pro
@@ -21569,7 +21581,6 @@
 127.0.0.1	goblin.hupu.com
 0.0.0.0	gocciammut.pro
 0.0.0.0	goccigioga.pro
-0.0.0.0	goccirecla.pro
 0.0.0.0	goditbruci.pro
 0.0.0.0	godlikecuttlefish.pro
 0.0.0.0	godlikeheron.pro
@@ -23109,6 +23120,7 @@
 0.0.0.0	ibernconce.pro
 0.0.0.0	ibernimper.pro
 0.0.0.0	ibernspere.pro
+0.0.0.0	ibgrmoreulac.pro
 0.0.0.0	ibilisk.iad-01.braze.com
 0.0.0.0	ibis.iad-03.braze.com
 0.0.0.0	iborngiand.pro
@@ -24194,7 +24206,9 @@
 0.0.0.0	inforlight.pro
 0.0.0.0	information-update.dynamic-dns.net
 0.0.0.0	informativesidetop.pro
+0.0.0.0	informeddailyflash.pro
 0.0.0.0	informedheadlinenow.pro
+0.0.0.0	informedpulsewire.pro
 0.0.0.0	informedreporter.pro
 0.0.0.0	informer.yandex.ru
 0.0.0.0	infornotto.pro
@@ -24418,6 +24432,7 @@
 0.0.0.0	insightflashupdate.pro
 0.0.0.0	insightfuldailynews.pro
 0.0.0.0	insightfulhelp.pro
+0.0.0.0	insightnewspulse.pro
 127.0.0.1	insights.samsung.com
 0.0.0.0	insightspark.pro
 0.0.0.0	insightwebloop.pro
@@ -24469,6 +24484,7 @@
 0.0.0.0	installintenselyadvancedthe-file.top
 0.0.0.0	installoverlyadvancedthe-file.top
 0.0.0.0	instant-amrix-x5.com
+0.0.0.0	instantnewsfocus.pro
 0.0.0.0	instantreporting.pro
 0.0.0.0	instantworldreport.pro
 0.0.0.0	instinctiveads.com
@@ -24494,6 +24510,7 @@
 0.0.0.0	intelligentbadger.pro
 0.0.0.0	intelligentgiraffe.pro
 0.0.0.0	intelligentkakapo.pro
+0.0.0.0	intelligentreportnow.pro
 0.0.0.0	intelligentspoonbill.pro
 0.0.0.0	intelplagi.pro
 0.0.0.0	intenailer.pro
@@ -24877,6 +24894,7 @@
 0.0.0.0	ironeairma.pro
 0.0.0.0	ironfiststrong.pro
 0.0.0.0	ironwillpowers.pro
+0.0.0.0	irozoxasquefy.pro
 127.0.0.1	irpmt.mail.163.com
 0.0.0.0	irradborgi.pro
 0.0.0.0	irraduntir.pro
@@ -24975,6 +24993,7 @@
 0.0.0.0	itchrboico.pro
 0.0.0.0	item.mediav.com
 0.0.0.0	itinetata.pro
+0.0.0.0	itrvgreen.pro
 0.0.0.0	itv2-up.openspeech.cn
 0.0.0.0	itx4-secure.smartadserver.com
 0.0.0.0	itx4.smartadserver.com
@@ -27012,6 +27031,7 @@
 0.0.0.0	machoskylark.pro
 0.0.0.0	machoswallow.pro
 0.0.0.0	machoswift.pro
+0.0.0.0	macible.pro
 0.0.0.0	macilpanif.pro
 0.0.0.0	macinciocc.pro
 0.0.0.0	maciuticta.pro
@@ -27048,6 +27068,7 @@
 0.0.0.0	madserver.net
 0.0.0.0	madstickets.com
 0.0.0.0	madstoamore.pro
+0.0.0.0	madvera.com
 0.0.0.0	madvertise.de
 0.0.0.0	madx.flyme.cn
 0.0.0.0	maestbavet.pro
@@ -27764,7 +27785,6 @@
 0.0.0.0	menzisotta.pro
 0.0.0.0	meowadvertising.com
 0.0.0.0	mepaxyy4.pro
-0.0.0.0	mequdoy4.pro
 0.0.0.0	meravltea.pro
 0.0.0.0	mercaricon.pro
 0.0.0.0	merceoverl.pro
@@ -27967,6 +27987,7 @@
 0.0.0.0	microanary.pro
 0.0.0.0	microara.pro
 0.0.0.0	microdress.pro
+0.0.0.0	microecaysome.pro
 0.0.0.0	microeupne.pro
 0.0.0.0	microfulmar.pro
 0.0.0.0	microgamet.pro
@@ -29199,6 +29220,7 @@
 0.0.0.0	newsadst.com
 0.0.0.0	newsaroundyou.pro
 0.0.0.0	newscriticalfeed.pro
+0.0.0.0	newsessentialburst.pro
 0.0.0.0	newsfeed-drcn.cloud.dbankcloud.cn
 0.0.0.0	newsfeed-drcn.cloud.dbankcloud.com
 0.0.0.0	newsfeed-drcn.cloud.hihonorcloud.cn
@@ -30513,6 +30535,7 @@
 0.0.0.0	overebirra.pro
 0.0.0.0	overeinsca.pro
 0.0.0.0	overeossed.pro
+0.0.0.0	overepum.pro
 0.0.0.0	overfcalda.pro
 0.0.0.0	overflow.adsoftware.com
 0.0.0.0	overfpuerp.pro
@@ -31888,7 +31911,7 @@
 0.0.0.0	piovebrada.pro
 0.0.0.0	pipedbelta.pro
 0.0.0.0	pipefachat.pro
-13.107.42.16	pipelines.actions.githubusercontent.com
+13.107.43.16	pipelines.actions.githubusercontent.com
 0.0.0.0	pipercross.pro
 0.0.0.0	pipergingi.pro
 0.0.0.0	pipilcoste.pro
@@ -32114,6 +32137,8 @@
 0.0.0.0	pleontriun.pro
 0.0.0.0	pleurinuti.pro
 0.0.0.0	pleurmacel.pro
+0.0.0.0	pllaay-google.com
+0.0.0.0	pllay-google.com
 0.0.0.0	ploreintro.pro
 0.0.0.0	plougfilip.pro
 127.0.0.1	plough.babytree.com
@@ -32461,6 +32486,7 @@
 127.0.0.1	pp.xdplt.com
 0.0.0.0	ppcbuzz.rtb.adx1.com
 0.0.0.0	ppiedipan.pro
+0.0.0.0	pplay-google.com
 0.0.0.0	pptv.adx.admaster.com.cn
 127.0.0.1	pptv.m.cn.miaozhen.com
 127.0.0.1	ppvabs.pplive.com
@@ -32772,7 +32798,7 @@
 0.0.0.0	privacy.yieldlove-ad-serving.net
 0.0.0.0	privaferma.pro
 0.0.0.0	privaregol.pro
-185.199.109.133	private-user-images.githubusercontent.com
+185.199.111.133	private-user-images.githubusercontent.com
 0.0.0.0	privateaardwolf.pro
 0.0.0.0	privateasp.pro
 0.0.0.0	privatebloodhound.pro
@@ -33635,6 +33661,7 @@
 127.0.0.1	quicksilver.scdn.co
 0.0.0.0	quicksilverquest.pro
 0.0.0.0	quickskua.pro
+0.0.0.0	quickwriist.pro
 0.0.0.0	quietabsin.pro
 0.0.0.0	quietant.pro
 0.0.0.0	quietcombi.pro
@@ -34176,6 +34203,7 @@
 0.0.0.0	rapidhyena.pro
 0.0.0.0	rapidkestrel.pro
 0.0.0.0	rapidmediabreak.pro
+0.0.0.0	rapidmediainsight.pro
 0.0.0.0	rapidnewscoverage.pro
 0.0.0.0	rapidnewsinsight.pro
 0.0.0.0	rapidnewsservice.pro
@@ -34385,6 +34413,7 @@
 0.0.0.0	realtime-leak-advanced-issue.top
 0.0.0.0	realtime-metrics.flurry.com
 0.0.0.0	realtimeads.com
+0.0.0.0	realtimeinfohub.pro
 0.0.0.0	realtimeinsightnews.pro
 0.0.0.0	realtimeleakadvancedissue.top
 0.0.0.0	realtimenews.pro
@@ -34658,6 +34687,7 @@
 0.0.0.0	relazramma.pro
 127.0.0.1	release.baidu.com
 0.0.0.0	relegplnk.pro
+0.0.0.0	relentlessnewswire.pro
 0.0.0.0	relevantfeed.pro
 0.0.0.0	relevantnewsnow.pro
 0.0.0.0	relevinsuf.pro
@@ -34672,6 +34702,7 @@
 0.0.0.0	reliableinsights.pro
 0.0.0.0	reliablenewsfeed.pro
 0.0.0.0	reliableplant.advertserve.com
+0.0.0.0	reliablestorysource.pro
 0.0.0.0	reliableupdates.pro
 0.0.0.0	reliasgamb.pro
 0.0.0.0	relieoverg.pro
@@ -40356,6 +40387,7 @@
 0.0.0.0	stg-data-vn.ads.heytapmobile.com
 127.0.0.1	stg-data.ads.heytapmobi.com
 0.0.0.0	stgowan.com
+0.0.0.0	sthifeqmini.pro
 0.0.0.0	stiatdecid.pro
 0.0.0.0	stiavannun.pro
 0.0.0.0	stibmabiogr.pro
@@ -40575,6 +40607,7 @@
 0.0.0.0	stream-4-2.loadshare.org
 127.0.0.1	stream.shuzilm.cn
 127.0.0.1	stream.snssdk.com
+0.0.0.0	streambike.pro
 0.0.0.0	streaming-cdn.ad-balancer.at
 0.0.0.0	streamlinecodestore.pro
 0.0.0.0	streghumme.pro
@@ -41059,7 +41092,6 @@
 0.0.0.0	sv-static1-lottery.headlines.pw
 127.0.0.1	sv-video.play.aiseet.atianqi.com
 127.0.0.1	sv.adintl.cn
-0.0.0.0	sv.nexoads.com
 0.0.0.0	sv388.mobi
 0.0.0.0	svagaaddes.pro
 0.0.0.0	svagaincap.pro
@@ -41730,6 +41762,7 @@
 0.0.0.0	teetoscana.pro
 0.0.0.0	teflobolsc.pro
 0.0.0.0	teflofatig.pro
+0.0.0.0	tefood.pro
 0.0.0.0	tegamdesol.pro
 0.0.0.0	tegavie3.pro
 0.0.0.0	tegolfigur.pro
@@ -42387,6 +42420,7 @@
 0.0.0.0	topadsservices.com
 0.0.0.0	topadvert.ru
 0.0.0.0	topapi.cp12.ott.cibntv.net
+0.0.0.0	toparticlesread.pro
 0.0.0.0	topavea7.pro
 0.0.0.0	topazcaracal.pro
 0.0.0.0	topazdonkey.pro
@@ -43315,6 +43349,7 @@
 127.0.0.1	tv.weixin.pandora.xiaomi.com
 0.0.0.0	tvads.alphonso.tv
 0.0.0.0	tvadsync.com
+0.0.0.0	tvahils.pro
 127.0.0.1	tvapi.kuyun.com
 0.0.0.0	tvapp.hpplay.cn
 127.0.0.1	tvmanager.pandora.xiaomi.com
@@ -43425,7 +43460,6 @@
 0.0.0.0	ty.viqiyi.admaster.com.cn
 0.0.0.0	ty.vletv.admaster.com.cn
 127.0.0.1	tyaqy.m.cn.miaozhen.com
-0.0.0.0	tybakoo5.pro
 0.0.0.0	tycihua.pro
 0.0.0.0	tycipuy1.pro
 0.0.0.0	tyciqai6.pro
@@ -43542,6 +43576,7 @@
 0.0.0.0	ugnateinfra.pro
 0.0.0.0	uguagglico.pro
 0.0.0.0	uhabo.com
+0.0.0.0	uhehsite.pro
 0.0.0.0	uhpzie.skadsdkless.appsflyersdk.com
 0.0.0.0	ui.adsupply.com
 0.0.0.0	ui.labs.adsupply.com
@@ -43785,6 +43820,7 @@
 0.0.0.0	unfienarra.pro
 0.0.0.0	unfitstecc.pro
 0.0.0.0	unfolinter.pro
+0.0.0.0	unfosafter.pro
 0.0.0.0	unfousemic.pro
 0.0.0.0	unfreammac.pro
 0.0.0.0	unfreberce.pro
@@ -44393,6 +44429,7 @@
 0.0.0.0	uuid.adsplay.net
 0.0.0.0	uuidapi.yunos.com
 0.0.0.0	uusee.adsame.com
+0.0.0.0	uvuschofi.pro
 0.0.0.0	uw2-n.adv.lijit.com
 127.0.0.1	uweb.umeng.com
 0.0.0.0	ux13.juicyads.com
@@ -47095,10 +47132,12 @@
 0.0.0.0	www.actionnewsreport.pro
 0.0.0.0	www.activeadventure.com
 0.0.0.0	www.activeagama.pro
+0.0.0.0	www.activebuzzreport.pro
 0.0.0.0	www.activedegu.pro
 0.0.0.0	www.activeleopard.pro
 0.0.0.0	www.activemingle.pro
 0.0.0.0	www.activemongoose.pro
+0.0.0.0	www.activenewsfocus.pro
 0.0.0.0	www.activenewshub.pro
 0.0.0.0	www.activesidewinder.pro
 0.0.0.0	www.activesparrow.pro
@@ -47459,6 +47498,7 @@
 0.0.0.0	www.adverts.dcthomson.co.uk
 0.0.0.0	www.advertserve.com
 0.0.0.0	www.advertyz.com
+0.0.0.0	www.advicedebt.org
 127.0.0.1	www.adview.cn
 0.0.0.0	www.adviews.de
 0.0.0.0	www.advisers4u.com
@@ -47683,6 +47723,7 @@
 0.0.0.0	www.alenatheoc.pro
 0.0.0.0	www.alencquiet.pro
 0.0.0.0	www.alertnewsdigest.pro
+0.0.0.0	www.alertnewspulse.pro
 0.0.0.0	www.alesedisos.pro
 0.0.0.0	www.alettrinch.pro
 0.0.0.0	www.alfabdisgo.pro
@@ -48676,6 +48717,7 @@
 0.0.0.0	www.attuasapra.pro
 0.0.0.0	www.attuaspiff.pro
 0.0.0.0	www.attufcymli.pro
+0.0.0.0	www.atun.pro
 0.0.0.0	www.atweecrby.pro
 0.0.0.0	www.auburnmole.pro
 0.0.0.0	www.auburnokapi.pro
@@ -48730,9 +48772,11 @@
 0.0.0.0	www.authenticcoucal.pro
 0.0.0.0	www.authenticfossa.pro
 0.0.0.0	www.authenticmalkoha.pro
+0.0.0.0	www.authenticnewsflow.pro
 0.0.0.0	www.authenticsidewinder.pro
 0.0.0.0	www.autholatit.pro
 0.0.0.0	www.authoritativereport.pro
+0.0.0.0	www.authoritynewswire.pro
 0.0.0.0	www.autoads.asia
 0.0.0.0	www.autoamidra.pro
 0.0.0.0	www.autoaorgan.pro
@@ -49049,6 +49093,7 @@
 127.0.0.1	www.bayescom.com
 0.0.0.0	www.bcftutrave.pro
 0.0.0.0	www.bdweb3legaladvisors.com
+0.0.0.0	www.beads-braids.com
 0.0.0.0	www.beamidiswe.pro
 0.0.0.0	www.beaneranno.pro
 0.0.0.0	www.bearastepf.pro
@@ -51195,6 +51240,7 @@
 0.0.0.0	www.clearfeedhub.pro
 0.0.0.0	www.clearinfonow.pro
 0.0.0.0	www.clearstrategies.pro
+0.0.0.0	www.clearviewnews.pro
 0.0.0.0	www.clearvisionpro.pro
 0.0.0.0	www.clemediran.pro
 0.0.0.0	www.clergverid.pro
@@ -53865,7 +53911,6 @@
 0.0.0.0	www.dpd-pl.check-buy112.shop
 0.0.0.0	www.dpd-pl.check-buy1120.shop
 0.0.0.0	www.dpd-pl.check-buy1124.shop
-0.0.0.0	www.dpd-pl.check-buy1608.shop
 0.0.0.0	www.dpd-pl.check-buy1620.shop
 0.0.0.0	www.dpd-pl.check-buy1722.shop
 0.0.0.0	www.dpd-pl.check-buy178.shop
@@ -54293,6 +54338,7 @@
 0.0.0.0	www.eliogferru.pro
 0.0.0.0	www.elitearmadillo.pro
 0.0.0.0	www.elitechamois.pro
+0.0.0.0	www.eliteheadlinehub.pro
 0.0.0.0	www.elitepanther.pro
 0.0.0.0	www.elitepigeon.pro
 0.0.0.0	www.eliteseagull.pro
@@ -54758,6 +54804,7 @@
 0.0.0.0	www.essenarred.pro
 0.0.0.0	www.essenstamb.pro
 0.0.0.0	www.essentialglobalbrief.pro
+0.0.0.0	www.essentialnewsburst.pro
 0.0.0.0	www.essentialnewsfeed.pro
 0.0.0.0	www.essentialtools.pro
 0.0.0.0	www.essiccotar.pro
@@ -54939,6 +54986,7 @@
 0.0.0.0	www.expertinsightter.pro
 0.0.0.0	www.expertjellyfish.pro
 0.0.0.0	www.expertmastiff.pro
+0.0.0.0	www.expertnewsexpress.pro
 0.0.0.0	www.expertpigeon.pro
 0.0.0.0	www.expertpoodle.pro
 0.0.0.0	www.expertstrategy.pro
@@ -56483,7 +56531,6 @@
 0.0.0.0	www.gleefulquirk.pro
 0.0.0.0	www.gleefulsprout.pro
 0.0.0.0	www.gleefulstream.pro
-0.0.0.0	www.gleefulvista.pro
 0.0.0.0	www.gleefulvortex.pro
 0.0.0.0	www.gleefulzone.pro
 0.0.0.0	www.gleemghind.pro
@@ -56662,7 +56709,6 @@
 0.0.0.0	www.gobbliridi.pro
 0.0.0.0	www.gocciammut.pro
 0.0.0.0	www.goccigioga.pro
-0.0.0.0	www.goccirecla.pro
 0.0.0.0	www.goditbruci.pro
 0.0.0.0	www.godlikecuttlefish.pro
 0.0.0.0	www.godlikeheron.pro
@@ -57690,6 +57736,7 @@
 0.0.0.0	www.ibernconce.pro
 0.0.0.0	www.ibernimper.pro
 0.0.0.0	www.ibernspere.pro
+0.0.0.0	www.ibgrmoreulac.pro
 0.0.0.0	www.iborngiand.pro
 0.0.0.0	www.ibridsaliv.pro
 0.0.0.0	www.icastnanog.pro
@@ -58516,7 +58563,9 @@
 0.0.0.0	www.inforlight.pro
 0.0.0.0	www.information-update.dynamic-dns.net
 0.0.0.0	www.informativesidetop.pro
+0.0.0.0	www.informeddailyflash.pro
 0.0.0.0	www.informedheadlinenow.pro
+0.0.0.0	www.informedpulsewire.pro
 0.0.0.0	www.informedreporter.pro
 0.0.0.0	www.infornotto.pro
 0.0.0.0	www.inforpiant.pro
@@ -58714,6 +58763,7 @@
 0.0.0.0	www.insightflashupdate.pro
 0.0.0.0	www.insightfuldailynews.pro
 0.0.0.0	www.insightfulhelp.pro
+0.0.0.0	www.insightnewspulse.pro
 0.0.0.0	www.insightspark.pro
 0.0.0.0	www.insightwebloop.pro
 0.0.0.0	www.insigoutsa.pro
@@ -58747,6 +58797,7 @@
 0.0.0.0	www.instakilli.pro
 0.0.0.0	www.installads.net
 0.0.0.0	www.instant-amrix-x5.com
+0.0.0.0	www.instantnewsfocus.pro
 0.0.0.0	www.instantreporting.pro
 0.0.0.0	www.instantworldreport.pro
 0.0.0.0	www.insuddubon.pro
@@ -58766,6 +58817,7 @@
 0.0.0.0	www.intelligentbadger.pro
 0.0.0.0	www.intelligentgiraffe.pro
 0.0.0.0	www.intelligentkakapo.pro
+0.0.0.0	www.intelligentreportnow.pro
 0.0.0.0	www.intelligentspoonbill.pro
 0.0.0.0	www.intelplagi.pro
 0.0.0.0	www.intenailer.pro
@@ -59058,6 +59110,7 @@
 0.0.0.0	www.ironeairma.pro
 0.0.0.0	www.ironfiststrong.pro
 0.0.0.0	www.ironwillpowers.pro
+0.0.0.0	www.irozoxasquefy.pro
 0.0.0.0	www.irradborgi.pro
 0.0.0.0	www.irraduntir.pro
 0.0.0.0	www.irranriacc.pro
@@ -59132,6 +59185,7 @@
 0.0.0.0	www.italitronc.pro
 0.0.0.0	www.itchrboico.pro
 0.0.0.0	www.itinetata.pro
+0.0.0.0	www.itrvgreen.pro
 0.0.0.0	www.itunesdownloadstore.com
 0.0.0.0	www.iubilligul.pro
 0.0.0.0	www.iudisfoss.pro
@@ -60445,6 +60499,7 @@
 0.0.0.0	www.machoskylark.pro
 0.0.0.0	www.machoswallow.pro
 0.0.0.0	www.machoswift.pro
+0.0.0.0	www.macible.pro
 0.0.0.0	www.macilpanif.pro
 0.0.0.0	www.macinciocc.pro
 0.0.0.0	www.maciuticta.pro
@@ -60466,6 +60521,7 @@
 0.0.0.0	www.madrescard.pro
 0.0.0.0	www.madstickets.com
 0.0.0.0	www.madstoamore.pro
+0.0.0.0	www.madvera.com
 0.0.0.0	www.maestbavet.pro
 0.0.0.0	www.maeststrom.pro
 0.0.0.0	www.mafaze-janado.pro
@@ -60996,7 +61052,6 @@
 0.0.0.0	www.menziallis.pro
 0.0.0.0	www.menzisotta.pro
 0.0.0.0	www.mepaxyy4.pro
-0.0.0.0	www.mequdoy4.pro
 0.0.0.0	www.meravltea.pro
 0.0.0.0	www.mercaricon.pro
 0.0.0.0	www.merceoverl.pro
@@ -61146,6 +61201,7 @@
 0.0.0.0	www.microanary.pro
 0.0.0.0	www.microara.pro
 0.0.0.0	www.microdress.pro
+0.0.0.0	www.microecaysome.pro
 0.0.0.0	www.microeupne.pro
 0.0.0.0	www.microfulmar.pro
 0.0.0.0	www.microgamet.pro
@@ -61896,6 +61952,7 @@
 0.0.0.0	www.newmatruci.pro
 0.0.0.0	www.newsaroundyou.pro
 0.0.0.0	www.newscriticalfeed.pro
+0.0.0.0	www.newsessentialburst.pro
 0.0.0.0	www.newsfeedchronicle.pro
 0.0.0.0	www.newsfeedheadline.pro
 0.0.0.0	www.newsflashtoday.pro
@@ -62877,6 +62934,7 @@
 0.0.0.0	www.overebirra.pro
 0.0.0.0	www.overeinsca.pro
 0.0.0.0	www.overeossed.pro
+0.0.0.0	www.overepum.pro
 0.0.0.0	www.overfcalda.pro
 0.0.0.0	www.overfpuerp.pro
 0.0.0.0	www.overfscote.pro
@@ -63857,6 +63915,8 @@
 0.0.0.0	www.pleontriun.pro
 0.0.0.0	www.pleurinuti.pro
 0.0.0.0	www.pleurmacel.pro
+0.0.0.0	www.pllaay-google.com
+0.0.0.0	www.pllay-google.com
 0.0.0.0	www.ploreintro.pro
 0.0.0.0	www.plougfilip.pro
 0.0.0.0	www.plovixand.pro
@@ -64141,6 +64201,7 @@
 0.0.0.0	www.pownisinte.pro
 0.0.0.0	www.poxewiy0.pro
 0.0.0.0	www.ppiedipan.pro
+0.0.0.0	www.pplay-google.com
 0.0.0.0	www.practicalbittern.pro
 0.0.0.0	www.practicalbuffalo.pro
 0.0.0.0	www.practicalbull.pro
@@ -64963,6 +65024,7 @@
 0.0.0.0	www.quickpuma.pro
 0.0.0.0	www.quicksilverquest.pro
 0.0.0.0	www.quickskua.pro
+0.0.0.0	www.quickwriist.pro
 0.0.0.0	www.quietabsin.pro
 0.0.0.0	www.quietant.pro
 0.0.0.0	www.quietcombi.pro
@@ -65450,6 +65512,7 @@
 0.0.0.0	www.rapidhyena.pro
 0.0.0.0	www.rapidkestrel.pro
 0.0.0.0	www.rapidmediabreak.pro
+0.0.0.0	www.rapidmediainsight.pro
 0.0.0.0	www.rapidnewscoverage.pro
 0.0.0.0	www.rapidnewsinsight.pro
 0.0.0.0	www.rapidnewsservice.pro
@@ -65605,6 +65668,7 @@
 0.0.0.0	www.realnewsupdate.pro
 0.0.0.0	www.realsawfly.pro
 0.0.0.0	www.realtextads.com
+0.0.0.0	www.realtimeinfohub.pro
 0.0.0.0	www.realtimeinsightnews.pro
 0.0.0.0	www.realtimenews.pro
 0.0.0.0	www.realtimenewsfeed.pro
@@ -65831,6 +65895,7 @@
 0.0.0.0	www.relazprese.pro
 0.0.0.0	www.relazramma.pro
 0.0.0.0	www.relegplnk.pro
+0.0.0.0	www.relentlessnewswire.pro
 0.0.0.0	www.relevantfeed.pro
 0.0.0.0	www.relevantnewsnow.pro
 0.0.0.0	www.relevinsuf.pro
@@ -65844,6 +65909,7 @@
 0.0.0.0	www.reliableguide.pro
 0.0.0.0	www.reliableinsights.pro
 0.0.0.0	www.reliablenewsfeed.pro
+0.0.0.0	www.reliablestorysource.pro
 0.0.0.0	www.reliableupdates.pro
 0.0.0.0	www.reliasgamb.pro
 0.0.0.0	www.relieoverg.pro
@@ -69769,6 +69835,7 @@
 0.0.0.0	www.sterpsuben.pro
 0.0.0.0	www.sterrloads.pro
 0.0.0.0	www.stewappmgi.pro
+0.0.0.0	www.sthifeqmini.pro
 0.0.0.0	www.stiatdecid.pro
 0.0.0.0	www.stiavannun.pro
 0.0.0.0	www.stibmabiogr.pro
@@ -69955,6 +70022,7 @@
 0.0.0.0	www.stravgunst.pro
 0.0.0.0	www.stravscrut.pro
 0.0.0.0	www.strawelusi.pro
+0.0.0.0	www.streambike.pro
 0.0.0.0	www.streamlinecodestore.pro
 0.0.0.0	www.streghumme.pro
 0.0.0.0	www.stremconfi.pro
@@ -70761,6 +70829,7 @@
 0.0.0.0	www.teetoscana.pro
 0.0.0.0	www.teflobolsc.pro
 0.0.0.0	www.teflofatig.pro
+0.0.0.0	www.tefood.pro
 0.0.0.0	www.tegamdesol.pro
 0.0.0.0	www.tegavie3.pro
 0.0.0.0	www.tegolfigur.pro
@@ -71158,6 +71227,7 @@
 0.0.0.0	www.tonsuconde.pro
 0.0.0.0	www.tonyhsucce.pro
 0.0.0.0	www.topads.ero-advertising.com
+0.0.0.0	www.toparticlesread.pro
 0.0.0.0	www.topavea7.pro
 0.0.0.0	www.topazcaracal.pro
 0.0.0.0	www.topazdonkey.pro
@@ -71783,6 +71853,7 @@
 0.0.0.0	www.tutuniscros.pro
 0.0.0.0	www.tuviku-wobeto.pro
 0.0.0.0	www.tuvusuy7.pro
+0.0.0.0	www.tvahils.pro
 0.0.0.0	www.tweemaripre.pro
 0.0.0.0	www.twelvaccom.pro
 0.0.0.0	www.twilightbreeze.pro
@@ -71858,7 +71929,6 @@
 0.0.0.0	www.twistunact.pro
 0.0.0.0	www.twistvoyage.pro
 0.0.0.0	www.twistwhirl.pro
-0.0.0.0	www.tybakoo5.pro
 0.0.0.0	www.tycihua.pro
 0.0.0.0	www.tycipuy1.pro
 0.0.0.0	www.tyciqai6.pro
@@ -71903,6 +71973,7 @@
 0.0.0.0	www.ugandaggar.pro
 0.0.0.0	www.ugnateinfra.pro
 0.0.0.0	www.uguagglico.pro
+0.0.0.0	www.uhehsite.pro
 0.0.0.0	www.uintaspert.pro
 0.0.0.0	www.uitottipst.pro
 0.0.0.0	www.ulanehiem.pro
@@ -72108,6 +72179,7 @@
 0.0.0.0	www.unfienarra.pro
 0.0.0.0	www.unfitstecc.pro
 0.0.0.0	www.unfolinter.pro
+0.0.0.0	www.unfosafter.pro
 0.0.0.0	www.unfousemic.pro
 0.0.0.0	www.unfreammac.pro
 0.0.0.0	www.unfreberce.pro
@@ -72492,6 +72564,7 @@
 0.0.0.0	www.utopianrabbit.pro
 0.0.0.0	www.utopiansaluki.pro
 0.0.0.0	www.uttaanthr.pro
+0.0.0.0	www.uvuschofi.pro
 0.0.0.0	www.uxothe.pro
 0.0.0.0	www.uzbecpseud.pro
 0.0.0.0	www.vabejao1.pro
