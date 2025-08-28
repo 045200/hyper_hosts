@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-08-28 12:24:12
+# 最后更新时间: 2025-08-29 00:26:08
 # 规则总数: 75174
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -9014,7 +9014,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.114.21	api.individual.githubcopilot.com
+140.82.113.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -12680,7 +12680,7 @@
 0.0.0.0	camelmasch.pro
 0.0.0.0	camerdisor.pro
 0.0.0.0	camicsciac.pro
-185.199.108.133	camo.githubusercontent.com
+185.199.111.133	camo.githubusercontent.com
 0.0.0.0	camosclubl.pro
 0.0.0.0	camosmarin.pro
 0.0.0.0	camouflagedbandicoot.pro
@@ -13362,7 +13362,7 @@
 0.0.0.0	centeshepp.pro
 0.0.0.0	centinanop.pro
 0.0.0.0	centohiggl.pro
-140.82.113.21	central.github.com
+140.82.114.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -18414,7 +18414,7 @@
 0.0.0.0	educadisag.pro
 0.0.0.0	educafisch.pro
 127.0.0.1	education.data.cnzz.com
-140.82.114.22	education.github.com
+140.82.113.21	education.github.com
 0.0.0.0	educhunfas.pro
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
@@ -19617,7 +19617,7 @@
 0.0.0.0	fauxgosigil.pro
 0.0.0.0	fav.simba.taobao.com
 0.0.0.0	favagoo3.pro
-185.199.108.133	favicons.githubusercontent.com
+185.199.111.133	favicons.githubusercontent.com
 0.0.0.0	favildisag.pro
 0.0.0.0	favilriapp.pro
 0.0.0.0	favlrudeno.pro
@@ -21302,19 +21302,19 @@
 0.0.0.0	gironjoyan.pro
 0.0.0.0	gironrispa.pro
 20.205.243.166	gist.github.com
-52.217.137.65	github-cloud.s3.amazonaws.com
-3.5.25.181	github-com.s3.amazonaws.com
-3.5.10.150	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.233.129	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.6.143	github-production-user-asset-6210df.s3.amazonaws.com
+16.182.69.33	github-cloud.s3.amazonaws.com
+54.231.161.65	github-com.s3.amazonaws.com
+54.231.194.129	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.2.216	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.0.123	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-151.101.65.194	github.global.ssl.fastly.net
+151.101.1.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.108.133	github.map.fastly.net
+185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	gitlab-dev-pages.adsrvr.org
 0.0.0.0	giubbautoa.pro
@@ -32874,7 +32874,7 @@
 0.0.0.0	privacy.yieldlove-ad-serving.net
 0.0.0.0	privaferma.pro
 0.0.0.0	privaregol.pro
-185.199.108.133	private-user-images.githubusercontent.com
+185.199.111.133	private-user-images.githubusercontent.com
 0.0.0.0	privateaardwolf.pro
 0.0.0.0	privateasp.pro
 0.0.0.0	privatebloodhound.pro
