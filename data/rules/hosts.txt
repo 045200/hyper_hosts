@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-08-29 12:25:06
+# 最后更新时间: 2025-08-30 00:25:08
 # 规则总数: 75174
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -13362,7 +13362,7 @@
 0.0.0.0	centeshepp.pro
 0.0.0.0	centinanop.pro
 0.0.0.0	centohiggl.pro
-140.82.113.22	central.github.com
+140.82.112.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centravviz.pro
 0.0.0.0	centrciarl.pro
@@ -21302,17 +21302,17 @@
 0.0.0.0	gironjoyan.pro
 0.0.0.0	gironrispa.pro
 20.205.243.166	gist.github.com
-54.231.161.113	github-cloud.s3.amazonaws.com
-3.5.30.51	github-com.s3.amazonaws.com
-52.216.33.9	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.114.25	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.41.9	github-production-user-asset-6210df.s3.amazonaws.com
+16.182.40.1	github-cloud.s3.amazonaws.com
+3.5.17.120	github-com.s3.amazonaws.com
+54.231.232.57	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.22.121	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.64.180	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-151.101.1.194	github.global.ssl.fastly.net
+151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
 185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
