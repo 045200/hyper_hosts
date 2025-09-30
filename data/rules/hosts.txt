@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-09-30 12:24:29
+# 最后更新时间: 2025-10-01 00:26:14
 # 规则总数: 23657
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -9937,7 +9937,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	cemnet.advertserve.com
 0.0.0.0	cengineapi.contextads.live
-140.82.112.21	central.github.com
+140.82.113.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centratter.pro
 0.0.0.0	centro.pixel.ad
@@ -12361,11 +12361,11 @@
 127.0.0.1	gini.snssdk.com
 0.0.0.0	gioioproch.pro
 20.205.243.166	gist.github.com
-52.216.211.9	github-cloud.s3.amazonaws.com
-52.217.67.236	github-com.s3.amazonaws.com
-52.217.192.73	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.119.17	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.43.33	github-production-user-asset-6210df.s3.amazonaws.com
+16.15.187.148	github-cloud.s3.amazonaws.com
+16.15.189.164	github-com.s3.amazonaws.com
+16.15.202.28	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.163.185	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.125.193	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -16100,7 +16100,7 @@
 72.247.96.248	pinterest.com
 0.0.0.0	pioggimpan.pro
 0.0.0.0	pioneunthi.pro
-13.107.43.16	pipelines.actions.githubusercontent.com
+13.107.42.16	pipelines.actions.githubusercontent.com
 0.0.0.0	piperdisse.pro
 0.0.0.0	pirateidrom.pro
 0.0.0.0	pisciinfio.pro
