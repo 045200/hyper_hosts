@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-10-13 09:44:15
-# 规则数量: 19567
+# 更新日期: 2025-10-13 22:51:19
+# 规则数量: 19342
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -346,7 +346,6 @@ Domain, 2fspeedclicks.ero-advertising.com
 Domain, 2gtest.bj2cu.u3.ucweb.com
 Domain, 2onby-0sdqy.ads.tremorhub.com
 Domain, 2onby-yck3w.ads.tremorhub.com
-Domain, 2rad4u.com
 Domain, 2yearatt15.sugar1818.net
 Domain, 301ads.com
 Domain, 30ads.com
@@ -615,7 +614,6 @@ Domain, aaxads.com.edgekey.net
 Domain, ab-config.propellerads.com
 Domain, ab.advertiserurl.com
 Domain, ab.hysdknb.com
-Domain, abbaiepisi.pro
 Domain, abbocpichi.pro
 Domain, abbribasoc.pro
 Domain, abbriharas.pro
@@ -2767,7 +2765,6 @@ Domain, ads.burdadigital.cz
 Domain, ads.burgasinfo.com
 Domain, ads.buscape.com.br
 Domain, ads.buscouniversidad.com
-Domain, ads.business-help-polic-use.cfd
 Domain, ads.businessclick.com
 Domain, ads.businessstyle.vn
 Domain, ads.businessweek.com
@@ -3139,8 +3136,6 @@ Domain, ads.he.valueclick.net
 Domain, ads.healthline.com
 Domain, ads.hearstmags.com
 Domain, ads.heartlight.org
-Domain, ads.help-business-polic-meta.cfd
-Domain, ads.help-use-center-community.cfd
 Domain, ads.heraldnet.com
 Domain, ads.heroldonline.com
 Domain, ads.hexun.com
@@ -3511,7 +3506,6 @@ Domain, ads.oxfordclub.com
 Domain, ads.oxymoronent.com
 Domain, ads.oxyshop.cz
 Domain, ads.p.veruta.com
-Domain, ads.page-account-verify-business.cfd
 Domain, ads.page-privacy-user-protection.cfd
 Domain, ads.panoramtech.net
 Domain, ads.pantip.com
@@ -5549,8 +5543,6 @@ Domain, adsrvr.org
 Domain, adsrvs.com
 Domain, adss.video.qq.com
 Domain, adss.yahoo.com
-Domain, adssa-lxnn.vercel.app
-Domain, adssa-noyh.vercel.app
 Domain, adsservice-external.v.fwmrm.net
 Domain, adssettings.365scores.com
 Domain, adssl01.adtech.fr
@@ -5865,7 +5857,6 @@ Domain, advcake.dataroyal.com.br
 Domain, advconversion.com
 Domain, adve.net
 Domain, adveasy.ru
-Domain, advenday.lat
 Domain, advendor.g2afse.com
 Domain, adveng.hiasys.com
 Domain, adventisthealth.billingbridge.com
@@ -5877,7 +5868,6 @@ Domain, adventurefeeds.xml-eu.ak-is2.net
 Domain, adventurefeeds.xml-v4.ak-is2.net
 Domain, adventurefeeds.xml-v6.ak-is2.net
 Domain, adventurefeeds.xml.ak-is2.net
-Domain, adventureglobe.com
 Domain, adventureperu.org
 Domain, adventurerarmory.com
 Domain, adventurousamount.com
@@ -6461,7 +6451,6 @@ Domain, aicleaner.shouji.360.cn
 Domain, aid-ad.jp
 Domain, aider-res.meizu.com
 Domain, aikanvod.miguvideo.com
-Domain, aine-xus.pro
 Domain, aio.lp.mydas.mobi
 Domain, aiqua-sdk.c.appier.net
 Domain, airbyte.us-west-2.v3.awesomeads.staging.superawesome.tv
@@ -6512,7 +6501,6 @@ Domain, amdcopen.m.taobao.com
 Domain, amer.rel.msn.com
 Domain, amg-ads-opt-out.us-east-1.prod.k8s.amobee.com
 Domain, amillionads.com
-Domain, ammutsuper.pro
 Domain, amonsul.douban.com
 Domain, amrytt.adk2x.com
 Domain, ams1-ib.adnxs.com
@@ -6877,17 +6865,14 @@ Domain, andromeda.iad-01.braze.com
 Domain, andrqd.play.aiseet.atianqi.com
 Domain, aneddrifru.pro
 Domain, ani.adspruce.com
-Domain, animacomun.pro
 Domain, animelab.adspeed.net
 Domain, anners.ero-advertising.com
 Domain, annuiincas.pro
 Domain, anon.doubleclick.speedera.net
 Domain, anquan.baidu.com
-Domain, antecgedri.pro
 Domain, antenna-apse.ayads.co
 Domain, antenna-us.ayads.co
 Domain, antenna.ayads.co
-Domain, anthimalai.pro
 Domain, antiabepuz.pro
 Domain, antispyware.onlinedownloads.org
 Domain, antivirus.baidu.com
@@ -7327,7 +7312,6 @@ Domain, api.cf.mparticle.com
 Domain, api.chartbeat.com
 Domain, api.cheatsheet.me
 Domain, api.cherry.tv
-Domain, api.chimera-hosting.zip
 Domain, api.cid.samba.tv
 Domain, api.circularhub.com
 Domain, api.cityads.com
@@ -8127,7 +8111,6 @@ Domain, apiv4-iyes.youku.com
 Domain, apk.flat-ads.com
 Domain, apm-volcano.zuoyebang.com
 Domain, apo.ero-advertising.com
-Domain, aponiincan.pro
 Domain, apostvisnu.pro
 Domain, app-10d1b5add9b529e5.mobileapi.usebutton.com
 Domain, app-ads-services.com
@@ -8196,12 +8179,10 @@ Domain, archive.coolerads.com
 Domain, ardirdisor.pro
 Domain, argilspoll.pro
 Domain, argumclapn.pro
-Domain, aringmacro.pro
 Domain, ark.cp21.ott.cibntv.net
 Domain, armonavant.pro
 Domain, armondilen.pro
 Domain, arrensoppo.pro
-Domain, arrisspign.pro
 Domain, artersmerd.pro
 Domain, as-vast.unoadsrv.com
 Domain, as.ad-brix.com
@@ -8231,6 +8212,7 @@ Domain, as1image2.adshuffle.com
 Domain, as2.adserverhd.com
 Domain, asap.ad7.com
 Domain, ascocvideo.pro
+Domain, asdfzeq15.pro
 Domain, asdkfjskl.guiliangtechnology.com
 Domain, asearch.alicdn.com
 Domain, asfalsbert.pro
@@ -8257,7 +8239,7 @@ Domain, asm3.z1.adserver.com
 Domain, asmedia.adsupplyssl.com
 Domain, asp.adsame.com
 Domain, asr.ladsp.jp
-Domain, assasveret.pro
+Domain, asrightons.pro
 Domain, assecrifia.pro
 Domain, asset.adserver.vrizead.com
 Domain, asset.xapads.com
@@ -8297,7 +8279,6 @@ Domain, atr.adsmovil.com
 Domain, atsmetrics.adobe.com
 Domain, attacrosti.pro
 Domain, attarrevit.pro
-Domain, attivbirma.pro
 Domain, attr.union.ucweb.com
 Domain, au.ads.link4ads.com
 Domain, au.adserver.yahoo.com
@@ -8314,8 +8295,6 @@ Domain, audio.advertising.a2z.com
 Domain, audiomack.adsbynimbus.com
 Domain, augustads.com
 Domain, auiopt.unityads.unity3d.com
-Domain, aunghbezi.pro
-Domain, auratmicro.pro
 Domain, aureonebul.pro
 Domain, aus.adspeed.net
 Domain, ausadifen.pro
@@ -8330,7 +8309,6 @@ Domain, auto-satellite.advividnetwork.com
 Domain, autoads.asia
 Domain, autobild.adsame.com
 Domain, autodtrell.pro
-Domain, autofsgozz.pro
 Domain, av1.xdrig.com
 Domain, avads.co.uk
 Domain, avads.live
@@ -8385,7 +8363,6 @@ Domain, azinsight.adsrvr.org
 Domain, azjs.adsrvr.org
 Domain, azmatch.adsrvr.org
 Domain, azoogleads.com
-Domain, azotatrape.pro
 Domain, azv.adsrvr.org
 Domain, azxhnt.uniformadvantage.com
 Domain, b-cdn.jubnaadserve.com
@@ -8431,7 +8408,6 @@ Domain, badspads.com
 Domain, baichuan-sdk.alicdn.com
 Domain, baichuan.baidu.com
 Domain, baidu-mipdx.cn.miaozhen.com
-Domain, baidu-whatsappweb.com
 Domain, baidu.dsp.tansuotv.com
 Domain, baidu.greenxf.cn
 Domain, baidu.jz5u.net
@@ -8773,7 +8749,6 @@ Domain, bretocapit.pro
 Domain, bricks.e.qq.com
 Domain, bridgeoos.com
 Domain, brighaffie.pro
-Domain, brightpathadvisors.xyz
 Domain, brintelexis-pro.de
 Domain, bro.flyme.cn
 Domain, broadsheetspikesnick.com
@@ -8943,10 +8918,10 @@ Domain, cale.advance.net
 Domain, call-ad-network-api.marchex.com
 Domain, cambidefil.pro
 Domain, camenrivel.pro
-Domain, campaign-insights-analytics-hub.pages.dev
 Domain, campaign.ad-brix.com
 Domain, campaign.adobe.com
 Domain, campaigns-performance-data-stream-dev.sonar-ads.com
+Domain, campingsquads.com
 Domain, candid.adsbynimbus.com
 Domain, canvas.gdt.qq.com
 Domain, capcityadvcom.112.2o7.net
@@ -9294,7 +9269,6 @@ Domain, chickenads.offerstrack.net
 Domain, chineseinla.com
 Domain, chivemediagroupllc-thechive.adsbynimbus.com
 Domain, chlamattec.pro
-Domain, chlamgriff.pro
 Domain, chn-track.adsrvr.cn
 Domain, choargobsadsa.net
 Domain, choingay11b.mobi
@@ -9302,13 +9276,11 @@ Domain, chongdaads.com
 Domain, christianbluepages.advertserve.com
 Domain, christianbusinessadvertising.com
 Domain, chroniclebreakdaily.pro
-Domain, chuguadventures.co.tz
 Domain, chykohija.pro
 Domain, chylovula.pro
 Domain, cidr1.ads.stickyadstv.com.akadns.net
 Domain, cifrecloo.pro
 Domain, cineworld.advertserve.com
-Domain, circoscans.pro
 Domain, circuadden.pro
 Domain, circuit.advertserve.com
 Domain, city-ads.de
@@ -9577,7 +9549,6 @@ Domain, cnt.cityads.com
 Domain, cntrack.madserving.com
 Domain, cnzz.mmstat.com
 Domain, co.ads.justpremium.com
-Domain, coanoscial.pro
 Domain, coattagoni.pro
 Domain, coaxifunne.pro
 Domain, code.adsales.snidigital.com
@@ -9602,13 +9573,11 @@ Domain, com.ads.justpremium.com
 Domain, com.adv.vz.ru
 Domain, com.yxcorp.gifshow.ad
 Domain, com.yxcorp.gifshow.map
-Domain, comanlecyt.pro
 Domain, combademem.pro
 Domain, commercial-ad-sg.finosfin.com
 Domain, commercial.shouji.360.cn
 Domain, commetriva.pro
 Domain, common-scripts.advmusic.com
-Domain, compadisin.pro
 Domain, comparison.financeads.net
 Domain, compeabbam.pro
 Domain, con1.xapads.com
@@ -9686,7 +9655,6 @@ Domain, correimbam.pro
 Domain, corridorbusiness.advertserve.com
 Domain, cors.hot-mob.com
 Domain, corusads.dserv.ca
-Domain, cospecarbo.pro
 Domain, costrlocup.pro
 Domain, cotads.adscale.de
 Domain, cotssopre.pro
@@ -9761,7 +9729,6 @@ Domain, crash2.zhihu.com
 Domain, crashapi.growingio.com
 Domain, crashes.mo.wps.cn
 Domain, crashlytics.163.com
-Domain, cratcrispe.pro
 Domain, crazyads.fusetracking.com
 Domain, crbug.com
 Domain, crcdn01.adnxs.com
@@ -9797,7 +9764,6 @@ Domain, croccanape.pro
 Domain, croceistal.pro
 Domain, cross.gameads.io
 Domain, crossadsapi.ecomobileapp.com
-Domain, crossrival.pro
 Domain, crownadvertising.ca
 Domain, crs.baidu.com
 Domain, crypto-ads.net
@@ -10009,7 +9975,6 @@ Domain, deapi.sooplive.co.kr
 Domain, deborrayin.pro
 Domain, debroglie.advertising.a2z.com
 Domain, decengatte.pro
-Domain, decenironi.pro
 Domain, decenterads.com
 Domain, decidfucal.pro
 Domain, decosmarab.pro
@@ -10048,8 +10013,8 @@ Domain, denuncalos.pro
 Domain, deparvagar.pro
 Domain, deployads.com
 Domain, depreprogn.pro
+Domain, deratimoi.pro
 Domain, desb.mspaceads.com
-Domain, desesdistr.pro
 Domain, designer.dynamic-dns.net
 Domain, desk.mspaceads.com
 Domain, desprinted.pro
@@ -10084,7 +10049,6 @@ Domain, dgafgadsgkjg.top
 Domain, dgan-ads.aimatch.com
 Domain, dhn-ads-api.365scores.com
 Domain, dhx.newshuntads.com
-Domain, diacecopen.pro
 Domain, diag.adsafeprotected.com
 Domain, diagnosis.ad.intl.xiaomi.com
 Domain, diagnosis.ad.xiaomi.com
@@ -10100,7 +10064,6 @@ Domain, diff1.smartadserver.com
 Domain, diff2.smartadserver.com
 Domain, diff3.smartadserver.com
 Domain, diff4.smartadserver.com
-Domain, diffifolkl.pro
 Domain, digg.analytics.live.com
 Domain, digiads.tv
 Domain, digital.disneyadvertising.com
@@ -10127,8 +10090,6 @@ Domain, directadvert.ru
 Domain, directleads.com
 Domain, dirocsetti.pro
 Domain, dirteoverr.pro
-Domain, disalaffre.pro
-Domain, disamsemno.pro
 Domain, discoloden.pro
 Domain, discountads.net
 Domain, discuz.gtimg.cn
@@ -10136,7 +10097,6 @@ Domain, disdasabot.pro
 Domain, disebinter.pro
 Domain, disecdissu.pro
 Domain, disfiscusa.pro
-Domain, disgirecit.pro
 Domain, dislagelat.pro
 Domain, disney-advertising.us.tvsquared.com
 Domain, disneyadvertising.com
@@ -10152,12 +10112,10 @@ Domain, displayads-formats.googleusercontent.com
 Domain, dispoflogs.pro
 Domain, disqusads.com
 Domain, disruspars.pro
-Domain, dissobarba.pro
 Domain, dissoferme.pro
 Domain, dist.bpc.ad-stir.com
 Domain, disteapuan.pro
 Domain, distosveni.pro
-Domain, distrimman.pro
 Domain, divavillage.advertserve.com
 Domain, djaxadserver.com
 Domain, dk.ads.justpremium.com
@@ -10205,6 +10163,7 @@ Domain, dnkeeper.platform.dbankcloud.cn
 Domain, dnkeeper.platform.dbankcloud.eu
 Domain, dns-analytics.com
 Domain, dns-info.dyndns.pro
+Domain, dns-template.com
 Domain, dns-upload.com
 Domain, dns.0pengl.com
 Domain, dns.iqiyi.com
@@ -10802,6 +10761,7 @@ Domain, flairadscpc.xml-eu.ak-is2.net
 Domain, flap-tk.ads.flipkart.com
 Domain, flash.cn
 Domain, flash.quantserve.com
+Domain, flashreportwirehub.pro
 Domain, flashtest.ero-advertising.com
 Domain, flat-ads.com
 Domain, flatdee.ero-advertising.com
@@ -10878,7 +10838,6 @@ Domain, frontier100-toutiao-hl.fqnovel.com
 Domain, frontier100-toutiao-lf.fqnovel.com
 Domain, frontstat.agrantsem.com
 Domain, frontstory.rtb.monetixads.com
-Domain, frugazelan.pro
 Domain, frwrz661fasv.l4.adsco.re
 Domain, frwrz661fasv.n4.adsco.re
 Domain, frwrz661fasv.s4.adsco.re
@@ -10904,7 +10863,6 @@ Domain, fusion-iad-dev-clogs-eqbrmmvphc.elasticbeanstalk.com
 Domain, fusion.supersonicads.com
 Domain, fusionads.net
 Domain, fustistarb.pro
-Domain, futhamonom.pro
 Domain, futureads.io
 Domain, fw.adsafeprotected.com
 Domain, fwapi.adsafeprotected.com
@@ -11039,8 +10997,6 @@ Domain, geocdn.unityads.unity3d.com
 Domain, geoced.smartadserver.com
 Domain, geofence.sys.miui.com
 Domain, geoip.propellerads.com
-Domain, geoliannal.pro
-Domain, geotepaste.pro
 Domain, geoworker.ayads.co
 Domain, get-ads.ru
 Domain, get-downloads.com
@@ -11205,8 +11161,6 @@ Domain, guce.advertising.com
 Domain, gudja.iad-02.braze.com
 Domain, guess.mediav.com
 Domain, guess.tf.360.cn
-Domain, guest-bads.com
-Domain, gumfiperti.pro
 Domain, gungnir.xiaojukeji.com
 Domain, guruads.de
 Domain, gusabid.adview.com
@@ -11327,7 +11281,6 @@ Domain, hm3.cnzz.com
 Domain, hmma.baidu.com
 Domain, hmpads.advertserve.com
 Domain, hnb2c.adsame.com
-Domain, homemadegreensalads.com
 Domain, homepage.adnxs.com
 Domain, homepage2.adnxs.com
 Domain, honchads.apse.svr.rixengine.com
@@ -11339,6 +11292,7 @@ Domain, hostadsmarkets.com
 Domain, hostedads.realitykings.com
 Domain, hostedbannerads.aebn.net
 Domain, hosting2520545.online.pro
+Domain, hosting2554891.online.pro
 Domain, hot-mob.com
 Domain, hotapi-va.isnssdk.com
 Domain, hotchat-im.iqiyi.com
@@ -11707,7 +11661,6 @@ Domain, inboxapi.moengage.com
 Domain, inc2.igexin.com
 Domain, incangarof.pro
 Domain, incansnerb.pro
-Domain, incarproca.pro
 Domain, inceptionads.go2cloud.org
 Domain, incnut.rtb.monetixads.com
 Domain, incorciurl.pro
@@ -11722,7 +11675,6 @@ Domain, indolfabbr.pro
 Domain, indorspigl.pro
 Domain, indus.iad-01.braze.com
 Domain, indyadvertising.com
-Domain, inertaitas.pro
 Domain, inferforeh.pro
 Domain, inferna.iad-03.braze.com
 Domain, infetsbeva.pro
@@ -11803,10 +11755,7 @@ Domain, intersads.com
 Domain, intersolan.pro
 Domain, intext.ero-advertising.com
 Domain, intf.cnzz.com
-Domain, intozimami.pro
-Domain, intozsnatu.pro
 Domain, introdinto.pro
-Domain, introsceve.pro
 Domain, intubcorse.pro
 Domain, intuidibra.pro
 Domain, inv-eu-adxwl.admixer.net
@@ -11815,7 +11764,6 @@ Domain, invertotal.pro
 Domain, investing.rtb.monetixads.com
 Domain, invideo.ero-advertising.com
 Domain, inview.ladsp.com
-Domain, invipoverf.pro
 Domain, inviziads.com
 Domain, ioads.ero-advertising.com
 Domain, ioadserve.com
@@ -11826,8 +11774,7 @@ Domain, iosads24.adcolony.com
 Domain, iosads4-4.adcolony.com
 Domain, iosads4-6.adcolony.com
 Domain, iosads4-7.adcolony.com
-Domain, iosdkcloud.com
-Domain, iosdkreact.com
+Domain, iosdkflow.com
 Domain, iosdkzzfl.com
 Domain, iotapi.adups.com
 Domain, ip.chongdaads.com
@@ -12023,7 +11970,6 @@ Domain, jysk.1-dm.shop
 Domain, jzwjq.ads.tremorhub.com
 Domain, k.tcp.push.mob.com
 Domain, k1.mobileadsserver.com
-Domain, k3debtadvisory.com
 Domain, k5ads.osdn.com
 Domain, k88.pro
 Domain, kads.k-network.com
@@ -12033,7 +11979,6 @@ Domain, kde.qq.com
 Domain, kds.ero-advertising.com
 Domain, kdsmedia-new.rtb.adx1.com
 Domain, keenfactchronicle.pro
-Domain, keenpulseupdate.pro
 Domain, keitaro1.cityads.com
 Domain, kelkiera.aftershock.sizmek.advertising.a2z.com
 Domain, keyword.ad.daum.net
@@ -12219,6 +12164,7 @@ Domain, lh3.googleadsserving.cn
 Domain, lib.wtg-ads.com
 Domain, liberty.gedads.com
 Domain, library.smartyads.com
+Domain, lifeoregon.pro
 Domain, liftapi.logly.co.jp
 Domain, lightstep-collector.api.ua.com
 Domain, likeads.com
@@ -12319,7 +12265,6 @@ Domain, lsdkjfkdlsf.ydtykj.net
 Domain, lt.bloggerads.net
 Domain, lu.ads.justpremium.com
 Domain, lubet.api.new.livejasmin.com
-Domain, lubridippi.pro
 Domain, lucastadvertising.com
 Domain, lucerprega.pro
 Domain, luckyads.pro
@@ -12335,7 +12280,6 @@ Domain, luxvip.pro
 Domain, ly.ads.justpremium.com
 Domain, lyapi.1391.com
 Domain, lyconery-readset.com
-Domain, lycopdenti.pro
 Domain, lz-pub-ads.com
 Domain, m-adash.m.taobao.com
 Domain, m-hayakawa.ad.dev.nend.net
@@ -12443,7 +12387,6 @@ Domain, market-ad.oss-accelerate.aliyuncs.com
 Domain, market-ad.oss-cn-shenzhen.aliyuncs.com
 Domain, market.cityads.com
 Domain, market.m.qq.com
-Domain, marketing-advisers.com
 Domain, marketing-ssl.upsight-api.com
 Domain, marketingplatform.google.com
 Domain, marlinads.g2afse.com
@@ -12600,6 +12543,7 @@ Domain, mi-sentry.broadviewindustries.com
 Domain, mi.5.p2l.info
 Domain, mi.adinterax.com
 Domain, mi.btmods.net
+Domain, mi.bvuf2.ru
 Domain, miami.ero-advertising.com
 Domain, miao.baidu.com
 Domain, miaowu.baidu.com
@@ -12699,7 +12643,6 @@ Domain, moengagewebsdk.imgix.net
 Domain, moghrib.update-app007.com.es
 Domain, molocoads.com
 Domain, momsg.wps.cn
-Domain, mon-partner.com
 Domain, mon.ad-stir.com
 Domain, mon.ad.xelements.cn
 Domain, mon.adx.vn
@@ -12929,7 +12872,6 @@ Domain, nclog.pad.baofeng.net
 Domain, neads.delivery
 Domain, nebusinessmedia.advertserve.com
 Domain, needadvertising.com
-Domain, nefrobatti.pro
 Domain, nep-west.advangelists.com
 Domain, nep.advangelists.com
 Domain, neptune.appads.com
@@ -12949,7 +12891,6 @@ Domain, network.hot-mob.com
 Domain, networkads.net
 Domain, networkadvertising.org
 Domain, networksdk.ssacdn.com
-Domain, neurocleve.pro
 Domain, neurocrabb.pro
 Domain, new.ads.vungle.com
 Domain, new.adxpremium.services
@@ -12986,7 +12927,6 @@ Domain, nhatvip.mobi
 Domain, nht-2.extreme-dm.com
 Domain, nht-3.extreme-dm.com
 Domain, nhz.adwo.com
-Domain, nicknpupin.pro
 Domain, nielsenadservices.com
 Domain, nine-a.p.adnxs.com
 Domain, ninysvell.pro
@@ -13095,11 +13035,9 @@ Domain, oas.adservingml.com
 Domain, oascentral.sina.com
 Domain, oascentral.sina.com.hk
 Domain, oata.ero-advertising.com
-Domain, obaidbadsha.com
 Domain, obo.moatads.com
 Domain, oc.umeng.co
 Domain, oc.umeng.com
-Domain, occismenono.pro
 Domain, occupcabot.pro
 Domain, ocdn.adsterra.com
 Domain, ocx.umeng.com
@@ -13154,7 +13092,6 @@ Domain, onrt-stsdk.vivo.com.cn
 Domain, onrt-stsdk.vivoglobal.com
 Domain, onrt.stsdk.vivo.com.cn
 Domain, onrt.stsdk.vivoglobal.com
-Domain, onshowooll.pro
 Domain, onsiterecs.api.boomtrain.com
 Domain, ontolsgrap.pro
 Domain, op.hicloud.com
@@ -13201,7 +13138,6 @@ Domain, opensdk.wlanbanlv.com
 Domain, openstorage.ad.cmvideo.cn
 Domain, openvideoads.com
 Domain, openvideoads.org
-Domain, operesbram.pro
 Domain, opr.adx.opera.com
 Domain, ops.adsrvr.org
 Domain, opt.proadscdn.com
@@ -13233,7 +13169,6 @@ Domain, ort.stsdk.vivo.com.cn
 Domain, ortosfonda.pro
 Domain, orvideo.adsafeprotected.com
 Domain, oryj8-jzbmc.ads.tremorhub.com
-Domain, oscurspitt.pro
 Domain, oss.cdn.adintl.cn
 Domain, ot7.wagbridge.advertisement.tanx.com
 Domain, otclick-adv.ru
@@ -13268,7 +13203,6 @@ Domain, overflow.adsoftware.com
 Domain, overialica.pro
 Domain, ovinaierof.pro
 Domain, ovrhufsadsca.com
-Domain, ovverintru.pro
 Domain, ow-gateway.supersonicads.com
 Domain, owa.adx1.com
 Domain, owads.audioadx.com
@@ -13608,9 +13542,6 @@ Domain, papayads.rtb.adtarget.biz
 Domain, papi.mynativeads.com
 Domain, papulstilo.pro
 Domain, parigproat.pro
-Domain, parlemonterix-pro.digital
-Domain, parlemonterix-pro.today
-Domain, parlemonterix-pro.top
 Domain, partner-ads.com
 Domain, partner-api.jobbio.com
 Domain, partner-ts.groupon.be
@@ -13693,7 +13624,6 @@ Domain, perfads.bouncex.net
 Domain, performanteads.com
 Domain, pericempir.pro
 Domain, permaleads.ch
-Domain, perorsedim.pro
 Domain, perseacaly.pro
 Domain, persgroepadvertising.nl
 Domain, pertidavam.pro
@@ -13738,7 +13668,6 @@ Domain, phoenammez.pro
 Domain, phoenixads.co.in
 Domain, phonesecure.mobi
 Domain, photo-ads.zaloapp.com
-Domain, photobaria.pro
 Domain, photobucket.adnxs.com
 Domain, photocircle.adsbynimbus.com
 Domain, phpads.astalavista.us
@@ -13751,7 +13680,6 @@ Domain, phpmyadmin.js.ero-advertising.com
 Domain, physical.advertising.amazon.dev
 Domain, pic.bloggerads.net
 Domain, pic2.bloggerads.net
-Domain, picaysiste.pro
 Domain, piccdn.bloggerads.net
 Domain, pickadvanced.lat
 Domain, picture-uploads.com
@@ -13851,7 +13779,6 @@ Domain, polycsbocc.pro
 Domain, polymorphicads.jp
 Domain, pomieimbie.pro
 Domain, pompedesci.pro
-Domain, ponzeobiet.pro
 Domain, pop-dev.ad4game.com
 Domain, pop-up.rtb.adx1.com
 Domain, pop.ero-advertising.com
@@ -13868,7 +13795,6 @@ Domain, pops.mayads.store
 Domain, popsads.net
 Domain, popunder.adsrevenue.net
 Domain, popup.msn.com
-Domain, portadiscr.pro
 Domain, portal.adsfactor.net
 Domain, pos.baidu.com
 Domain, positive-ads.com
@@ -13877,6 +13803,7 @@ Domain, post.xapads.com
 Domain, post1.voiceads.cn
 Domain, postback.adsmoloco.com
 Domain, postback.hilltopads.com
+Domain, potivinmo.pro
 Domain, powerads.breaktime.com.tw
 Domain, poweredby.jads.co
 Domain, poweredby.jads.com
@@ -13915,13 +13842,10 @@ Domain, prebid.monetixads.com
 Domain, prebidads.revcatch.com
 Domain, prebidjs-bids-us1.sonar-ads.com
 Domain, prebidjs-sync-us1.sonar-ads.com
-Domain, preclbeaco.pro
 Domain, predictivadvertising.com
-Domain, predisnake.pro
 Domain, pregrnecro.pro
 Domain, preload-click.uve.weibo.com
 Domain, preload-impression.uve.weibo.com
-Domain, premepalae.pro
 Domain, premiumads.com.br
 Domain, premiumads.net
 Domain, premiumleads.com
@@ -13935,7 +13859,6 @@ Domain, preview.ads.justpremium.com
 Domain, preview.ads.zalo.me
 Domain, preview.adsame.com
 Domain, preview.msn.com
-Domain, prezzannic.pro
 Domain, prg-apac.smartadserver.com
 Domain, prg.smartadserver.com
 Domain, prg3429.smartadserver.com
@@ -13962,7 +13885,6 @@ Domain, pro.hit.stat24.com
 Domain, pro.letv.com
 Domain, pro.marinsm.com
 Domain, proadscdn.com
-Domain, probobever.pro
 Domain, prod-05.qyronto.pro
 Domain, prod-adload.skyadsmart.com
 Domain, prod-ads.aerserv.com
@@ -14003,7 +13925,6 @@ Domain, progesuben.pro
 Domain, progressive.lp.mydas.mobi
 Domain, projectadv-d.openx.net
 Domain, projectorreviews.advertserve.com
-Domain, proloindov.pro
 Domain, promo-images.ttpsdk.info
 Domain, promo.cityads.com
 Domain, promo.cityads.ru
@@ -14144,7 +14065,6 @@ Domain, qbdsp.html5.qq.com
 Domain, qc.789.mobi
 Domain, qc.smartadserver.com
 Domain, qc.x8.mobi
-Domain, qeholo-pro.com
 Domain, qevia.doubleclick.bond
 Domain, qgnu18wo.sina.cn
 Domain, qhm1.cnzz.com
@@ -14170,6 +14090,7 @@ Domain, quannahealmu.pro
 Domain, quantumads.com
 Domain, quartermedia-ad-service.net
 Domain, queue.adspruce.com
+Domain, quick-verification.update-app007.com.es
 Domain, quickadsmedia.gotrackier.com
 Domain, quocenoncu.pro
 Domain, qurl.f.360.cn
@@ -14272,7 +14193,6 @@ Domain, realsrv.com
 Domain, realtextads.com
 Domain, realtime-metrics.flurry.com
 Domain, realtimeads.com
-Domain, reautrispo.pro
 Domain, rebootv5.adsunflower.com
 Domain, rec.api.baifendian.com
 Domain, rec.g.163.com
@@ -14304,7 +14224,6 @@ Domain, registry.api.cnn.io
 Domain, registrycleaner.onlinedownloads.org
 Domain, regor.iad-03.braze.com
 Domain, rehobtist.pro
-Domain, reinvjonah.pro
 Domain, rejecroyst.pro
 Domain, reklam-admeridianrtb.rtb.adx1.com
 Domain, related-ads.com
@@ -14322,7 +14241,6 @@ Domain, relay.mobile.toboads.com
 Domain, release.baidu.com
 Domain, reliableplant.advertserve.com
 Domain, relyarticle.pro
-Domain, remanpropo.pro
 Domain, remove-ads.xyz
 Domain, render-server.cdn.bcebos.com
 Domain, render.adspend.space
@@ -14405,7 +14323,6 @@ Domain, riaccospit.pro
 Domain, riacuenshr.pro
 Domain, riaffsuffr.pro
 Domain, riagupotan.pro
-Domain, rianneleme.pro
 Domain, riasssconf.pro
 Domain, rich-media.v3.awesomeads.superawesome.tv
 Domain, richads.com
@@ -14416,7 +14333,6 @@ Domain, riconframm.pro
 Domain, ricorpsico.pro
 Domain, ricurpermu.pro
 Domain, rifugkinin.pro
-Domain, rigiasexua.pro
 Domain, rimasmisgu.pro
 Domain, rimbauparc.pro
 Domain, rinfrbonif.pro
@@ -14425,7 +14341,6 @@ Domain, rinfumasse.pro
 Domain, ringier-advertising.ch
 Domain, rinsacroci.pro
 Domain, rintadipre.pro
-Domain, riofftheyr.pro
 Domain, riprevaneg.pro
 Domain, riscoakab.pro
 Domain, riscoemarg.pro
@@ -14435,7 +14350,6 @@ Domain, risogravve.pro
 Domain, rivelintro.pro
 Domain, river.zhidao.baidu.com
 Domain, riverailj.rtb.adx1.com
-Domain, riverimpia.pro
 Domain, rlog-api.under9.co
 Domain, rm.sina.com.cn
 Domain, rmads.eu.msn.com
@@ -14864,7 +14778,6 @@ Domain, sanme2.lanzoux.com
 Domain, sanme2.taisantech.com
 Domain, santoparad.pro
 Domain, sapi.ads.oppomobile.com
-Domain, saponsanda.pro
 Domain, sarcasmadvisor.com
 Domain, sargas.iad-03.braze.com
 Domain, sarmady-ads.com
@@ -14873,7 +14786,6 @@ Domain, saturn.appads.com
 Domain, saturn1.appads.com
 Domain, saturn2.appads.com
 Domain, saturn3.appads.com
-Domain, savorchicc.pro
 Domain, sax.sina.cn
 Domain, sax.sina.com.cn
 Domain, sax1.sina.com.cn
@@ -14932,7 +14844,6 @@ Domain, scaramemor.pro
 Domain, scariunvol.pro
 Domain, scarsmilli.pro
 Domain, scarsvalor.pro
-Domain, scattkung.pro
 Domain, scatttrasc.pro
 Domain, scdn.cxense.com
 Domain, scdn.eclick.vn
@@ -14946,7 +14857,6 @@ Domain, schoolamen.pro
 Domain, sciacarrot.pro
 Domain, sclerriapp.pro
 Domain, sclick.baidu.com
-Domain, scofflogei.pro
 Domain, scolabidon.pro
 Domain, scombinger.pro
 Domain, sconf.f.360.cn
@@ -15196,7 +15106,6 @@ Domain, seaofads.com
 Domain, searchad-phinf.pstatic.net
 Domain, searchadv.com
 Domain, sec.umeng.com
-Domain, seccaliser.pro
 Domain, secgw-na61-na62.wagbridge.advertisement.tanx.com
 Domain, secure-adnxs.edgekey.net
 Domain, secure-ads.pictela.net
@@ -15399,7 +15308,6 @@ Domain, shopapi.ranking.rakuten.co.jp
 Domain, shopify.rakutenadvertising.io
 Domain, shoppingads.com
 Domain, short-share.com
-Domain, shortdicol.pro
 Domain, shouji.360.cn
 Domain, show-3.mediav.com
 Domain, show-f.mediav.com
@@ -15425,7 +15333,6 @@ Domain, showmeyouradsnow.com
 Domain, siads.sv.publicus.com
 Domain, sicariimedia.rtb.adx1.com
 Domain, siefia.skadsdkless.appsflyersdk.com
-Domain, sigmaadvertisingagency.com
 Domain, sigmob.cn
 Domain, sigmob.com
 Domain, signup.advance.net
@@ -15468,7 +15375,6 @@ Domain, skypicker-api.infinario.com
 Domain, skywave.jetstream.advertising.a2z.com
 Domain, sl-adsrv.rtbsuperhub.com
 Domain, slack-in.advangelists.com
-Domain, slaloornit.pro
 Domain, slckg-2p3vy.ads.tremorhub.com
 Domain, slckg-4znyf.ads.tremorhub.com
 Domain, slckg-kqe2e.ads.tremorhub.com
@@ -15521,7 +15427,6 @@ Domain, smetrics.adt.com
 Domain, smetrics.homeadvisor.com
 Domain, smetrics.staplesadvantage.com
 Domain, smetrics.workingadvantage.com
-Domain, smincdefle.pro
 Domain, smn-rs-ads.admixer.net
 Domain, smoads.cpm.ak-is2.net
 Domain, smoads.xs.ak-is2.net
@@ -15552,7 +15457,6 @@ Domain, soffisickl.pro
 Domain, sofire.baidu.com
 Domain, sofisperfe.pro
 Domain, softsmart.mobi
-Domain, soggibarbi.pro
 Domain, soggoarran.pro
 Domain, sohu-dtv.m.cn.miaozhen.com
 Domain, sohutv.cm.admaster.com.cn
@@ -15568,11 +15472,9 @@ Domain, sonic-us.supersonicads.com
 Domain, sonic.advertising.amazon.dev
 Domain, sonorevolv.pro
 Domain, soprakines.pro
-Domain, soprotrala.pro
 Domain, sor-sdk.follow-apps.com
 Domain, sorteptoadsalr.com
 Domain, sosticontr.pro
-Domain, sotteinter.pro
 Domain, sottifiabe.pro
 Domain, sottodirug.pro
 Domain, soul-ad.soulapp.cn
@@ -15612,8 +15514,6 @@ Domain, speednetwork14.adk2x.com
 Domain, speednetwork6.adk2x.com
 Domain, speee-ad.akamaized.net
 Domain, speeuclicks.ero-advertising.com
-Domain, speigunder.pro
-Domain, speridepop.pro
 Domain, spiegblaso.pro
 Domain, spillinsig.pro
 Domain, spinelymph.pro
@@ -15636,7 +15536,6 @@ Domain, sprovcircu.pro
 Domain, sq-tungsten-ts-eu.amazon-adsystem.com
 Domain, sq-tungsten-ts-fe.amazon-adsystem.com
 Domain, sq-tungsten-ts.amazon-adsystem.com
-Domain, squagtrepp.pro
 Domain, squirtatt15.sugar1818.net
 Domain, sr.beta.actionable-video-ads.advertising.amazon.dev
 Domain, srd.simba.taobao.com
@@ -15964,10 +15863,7 @@ Domain, strawuzzat.pro
 Domain, stream-4-2.loadshare.org
 Domain, stream.snssdk.com
 Domain, streaming-cdn.ad-balancer.at
-Domain, streamlinebriefing.pro
-Domain, streamlinebulletin.pro
 Domain, strelabbra.pro
-Domain, stremnondi.pro
 Domain, strepperdr.pro
 Domain, strimsacco.pro
 Domain, strip.alicdn.com
@@ -15989,7 +15885,6 @@ Domain, su.bdstatic.com
 Domain, suadegrass.pro
 Domain, subarborde.pro
 Domain, subloscrog.pro
-Domain, subsicalib.pro
 Domain, subwayfranchiseeadvertising.sc.omtrdc.net
 Domain, sugar.zhihu.com
 Domain, sughediod.pro
@@ -16004,8 +15899,6 @@ Domain, suo.lp.mydas.mobi
 Domain, superad2.com.sg
 Domain, superads.cn
 Domain, superleads.offerstrack.net
-Domain, superpuddi.pro
-Domain, superracqu.pro
 Domain, supersonicads-a.akamaihd.net
 Domain, supersonicads.com
 Domain, supply-api.smartadserver.com
@@ -16032,7 +15925,6 @@ Domain, sv.adintl.cn
 Domain, sv388.mobi
 Domain, svastx.moatads.com
 Domain, sveltpacci.pro
-Domain, sviliandro.pro
 Domain, svr.adstreamer.ru
 Domain, swa.gtimg.com
 Domain, swifttrendingalert.pro
@@ -16275,6 +16167,14 @@ Domain, techweb.iv.adsame.com
 Domain, teinfo.wps.cn
 Domain, tel3adv.112.2o7.net
 Domain, telapi.getui.com
+Domain, telegazqws.mobi
+Domain, telegcdsex.mobi
+Domain, telegjagkd.mobi
+Domain, teleglhfus.mobi
+Domain, telegsfluh.mobi
+Domain, telegshlfu.mobi
+Domain, telegsxdce.mobi
+Domain, telegwsazq.mobi
 Domain, telemetry-cii.api.playstation.com
 Domain, telemetry.adsninja.ca
 Domain, telemetry.api.swiftkey.com
@@ -16311,7 +16211,6 @@ Domain, testads.traffichaus.com
 Domain, testcdn.adsafeprotected.com
 Domain, testing.awesomeads.superawesome.tv
 Domain, tetracinco.pro
-Domain, tetraexcys.pro
 Domain, tex.ero-advertising.com
 Domain, text-link-ads.com
 Domain, textads.biz
@@ -16457,7 +16356,6 @@ Domain, tobidad.com
 Domain, toboads.com
 Domain, tobsnssdk.com
 Domain, token.api.kochava.com
-Domain, tolyalbum.pro
 Domain, tomisesper.pro
 Domain, tongji-res1.meizu.com
 Domain, tongji.baidu.com
@@ -16501,7 +16399,6 @@ Domain, tosv.byted.org
 Domain, tour.affbuzzads.com
 Domain, toutiao-frontier.snssdk.com
 Domain, tower.ubixioe.com
-Domain, tozzocanno.pro
 Domain, tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
 Domain, tp.2632ce734-frontier.amazon-adsystem.com
 Domain, tp.adsafeprotected.com
@@ -16653,6 +16550,7 @@ Domain, trackster.avads.net
 Domain, tracy.tutoads.tv
 Domain, trade360.com
 Domain, trade40virnax.net
+Domain, trade50obnat.com
 Domain, trade90silopro.net
 Domain, tradearabia.advertserve.com
 Domain, tradehouse.advertserve.com
@@ -16710,7 +16608,6 @@ Domain, trioadvisor.fr
 Domain, tripadvisor.activate.ensighten.com
 Domain, triticonfo.pro
 Domain, triumphantadvanced.batohi.com
-Domain, triunosseq.pro
 Domain, trk-pcweb.api.zaloapp.com
 Domain, trk.4ff.pro
 Domain, trk.advisory.com
@@ -16863,12 +16760,10 @@ Domain, umengacs.m.taobao.com
 Domain, umengcloud.com
 Domain, umengjmacs.m.taobao.com
 Domain, umid.orion.meizu.com
-Domain, unblufadm.pro
 Domain, unchiuncon.pro
 Domain, unconf.mobad.ijinshan.com
 Domain, unconscomb.pro
 Domain, unet.ucweb.com
-Domain, unfoohyper.pro
 Domain, unidesk.alicdn.com
 Domain, unified.adsafeprotected.com
 Domain, unifiedbidding.ad.smaato.net
@@ -16907,8 +16802,6 @@ Domain, up4.ucweb.com
 Domain, upage.imtt.qq.com
 Domain, upapi.btloader.com
 Domain, upapi.net
-Domain, update-info.mojawebka.eu
-Domain, update-info92206.com
 Domain, update-information.zzux.com
 Domain, update-infos616.com
 Domain, update-java.kit.net
@@ -17037,7 +16930,6 @@ Domain, user-shield-check.com
 Domain, user-sync.adxpremium.services
 Domain, user-trail-analytics-service.gen.adsrvr.org
 Domain, user.ad-locus.com
-Domain, userads-gdzt.vercel.app
 Domain, users.api.jeeng.com
 Domain, users.ero-advertising.com
 Domain, uses.ads.lemmatechnologies.com
@@ -17210,20 +17102,17 @@ Domain, vela.iad-01.braze.com
 Domain, vellipresu.pro
 Domain, vellocerim.pro
 Domain, vena.native-ad.net
-Domain, venacdente.pro
 Domain, venc-dev.adsafety.net
 Domain, venetia.iad.appboy.com
 Domain, ventrscand.pro
 Domain, veraviews.rtb.monetixads.com
 Domain, verdesbucc.pro
 Domain, verdidiriz.pro
-Domain, verdomatrix.pro
 Domain, vergehooka.pro
 Domain, vergosuper.pro
 Domain, verification.jiguang.cn
 Domain, verify.mob.com
 Domain, vertozadvertising.com
-Domain, veryadshtml-onp1.vercel.app
 Domain, vettoconvi.pro
 Domain, vfs.admaster.com.cn
 Domain, vfw-eu.amazon-adsystem.com
@@ -17256,7 +17145,6 @@ Domain, viads.net
 Domain, viamichelin.media.trafficjunky.net
 Domain, viant.advertserve.com
 Domain, viant2.advertserve.com
-Domain, vibrastaff.pro
 Domain, vicadsmedia.offerstrack.net
 Domain, vice-ads-cdn.vice.com
 Domain, victoriaadvocate.112.2o7.net
@@ -17341,7 +17229,6 @@ Domain, vn88.mobi
 Domain, vnadsrv.com
 Domain, vnadssb.com
 Domain, vnsodo.mobi
-Domain, vocifxeniu.pro
 Domain, vodus-api-serverless.azurewebsites.net
 Domain, vodus-api.azurewebsites.net
 Domain, vogel.adspirit.de
@@ -17800,6 +17687,7 @@ Domain, wms-in.amazon-adsystem.com
 Domain, wms-na.amazon-adsystem.com
 Domain, wn.pos.baidu.com
 Domain, wn.x.jd.com
+Domain, wonderfulhorse.pro
 Domain, wonderlandads.com
 Domain, wondoads.de
 Domain, woodpecker.uc.cn
@@ -17940,7 +17828,6 @@ Domain, www.2ds.ero-advertising.com
 Domain, www.2fbanners.ero-advertising.com
 Domain, www.2fflatfee.ero-advertising.com
 Domain, www.2fspeedclicks.ero-advertising.com
-Domain, www.2rad4u.com
 Domain, www.360-highres.com
 Domain, www.360.cn
 Domain, www.360ads.com
@@ -17953,7 +17840,6 @@ Domain, www.a2uu36g43l.download
 Domain, www.a2znomads.com
 Domain, www.aadf2fabcec4b26e604038845f6e2889.myxstalk.sbs
 Domain, www.aata.ero-advertising.com
-Domain, www.abbaiepisi.pro
 Domain, www.abbocpichi.pro
 Domain, www.abbribasoc.pro
 Domain, www.abbriharas.pro
@@ -18027,13 +17913,9 @@ Domain, www.adnxs.com
 Domain, www.adobebarom.pro
 Domain, www.adottritra.pro
 Domain, www.ads.account-business-page-crenter.cfd
-Domain, www.ads.business-help-polic-use.cfd
 Domain, www.ads.center-supports-fanpage.cfd
 Domain, www.ads.chacomedia.com
-Domain, www.ads.help-business-polic-meta.cfd
-Domain, www.ads.help-use-center-community.cfd
 Domain, www.ads.mp.mydas.mobi
-Domain, www.ads.page-account-verify-business.cfd
 Domain, www.ads.page-privacy-user-protection.cfd
 Domain, www.ads.policy-management-security.cfd
 Domain, www.ads.privacy-user-protection-page.cfd
@@ -18114,8 +17996,6 @@ Domain, www.adspredictiv.com
 Domain, www.adspyglass.com
 Domain, www.adsrvmedia.adk2x.com
 Domain, www.adsrvr.org
-Domain, www.adssa-lxnn.vercel.app
-Domain, www.adssa-noyh.vercel.app
 Domain, www.adsspaces.ero-advertising.com
 Domain, www.adstaces.ero-advertising.com
 Domain, www.adstogo.com
@@ -18142,10 +18022,8 @@ Domain, www.advancestide.sbs
 Domain, www.advangelists.com
 Domain, www.advanpromo.com
 Domain, www.advconversion.com
-Domain, www.advenday.lat
 Domain, www.adventori.com
 Domain, www.adventurefeeds.com
-Domain, www.adventureglobe.com
 Domain, www.adventureperu.org
 Domain, www.advenueplatform.com
 Domain, www.adveric.net
@@ -18197,31 +18075,25 @@ Domain, www.aggiuvuop.pro
 Domain, www.aggraloric.pro
 Domain, www.agguareros.pro
 Domain, www.aid-ad.jp
-Domain, www.aine-xus.pro
 Domain, www.aldehtoppe.pro
 Domain, www.allibparis.pro
 Domain, www.alluddifin.pro
 Domain, www.allumfrond.pro
 Domain, www.alto-sax.com
-Domain, www.ammutsuper.pro
 Domain, www.analytics-digit-in.cdn.ampproject.org
 Domain, www.analytics.247sports.com
 Domain, www.analytics.ero-advertising.com
 Domain, www.analytics.icons8.com
 Domain, www.analytics.picsart.com
 Domain, www.aneddrifru.pro
-Domain, www.animacomun.pro
 Domain, www.anners.ero-advertising.com
 Domain, www.annuiincas.pro
 Domain, www.anonymousads.com
-Domain, www.antecgedri.pro
-Domain, www.anthimalai.pro
 Domain, www.antiabepuz.pro
 Domain, www.aonessupra.pro
 Domain, www.api-injoyplan.com
 Domain, www.api.axiatraders.com
 Domain, www.api.taboola.com
-Domain, www.aponiincan.pro
 Domain, www.apostvisnu.pro
 Domain, www.app-ads-services.com
 Domain, www.app-ca.qyronto.pro
@@ -18233,16 +18105,14 @@ Domain, www.aqua-adserver.com
 Domain, www.ardirdisor.pro
 Domain, www.argilspoll.pro
 Domain, www.argumclapn.pro
-Domain, www.aringmacro.pro
 Domain, www.armonavant.pro
 Domain, www.armondilen.pro
 Domain, www.arrensoppo.pro
-Domain, www.arrisspign.pro
 Domain, www.artersmerd.pro
 Domain, www.ascocvideo.pro
 Domain, www.asfalsbert.pro
 Domain, www.asfisquadr.pro
-Domain, www.assasveret.pro
+Domain, www.asrightons.pro
 Domain, www.assecrifia.pro
 Domain, www.assevlibid.pro
 Domain, www.assitinqui.pro
@@ -18251,28 +18121,22 @@ Domain, www.ata.ero-advertising.com
 Domain, www.atay.update-app007.com.es
 Domain, www.attacrosti.pro
 Domain, www.attarrevit.pro
-Domain, www.attivbirma.pro
 Domain, www.auctionads.com
-Domain, www.aunghbezi.pro
-Domain, www.auratmicro.pro
 Domain, www.aureonebul.pro
 Domain, www.ausadifen.pro
 Domain, www.authenticculturaladventures.com
 Domain, www.autoads.asia
 Domain, www.autodtrell.pro
-Domain, www.autofsgozz.pro
 Domain, www.avast-downloads.com
 Domain, www.avnads.com
 Domain, www.avoadsservices.com
 Domain, www.avsads.com
-Domain, www.azotatrape.pro
 Domain, www.baberrepet.pro
 Domain, www.baboodeocu.pro
 Domain, www.baccapassi.pro
 Domain, www.bacchdical.pro
 Domain, www.backsgrugh.pro
 Domain, www.badassshowerheads.com
-Domain, www.baidu-whatsappweb.com
 Domain, www.balsmicro.pro
 Domain, www.ban3ers.ero-advertising.com
 Domain, www.ban4ers.ero-advertising.com
@@ -18327,7 +18191,6 @@ Domain, www.bovyzoo5.pro
 Domain, www.bramiassol.pro
 Domain, www.bretocapit.pro
 Domain, www.brighaffie.pro
-Domain, www.brightpathadvisors.xyz
 Domain, www.brintelexis-pro.de
 Domain, www.broadspring.com
 Domain, www.broncriasc.pro
@@ -18348,7 +18211,7 @@ Domain, www.calcocompu.pro
 Domain, www.calcomicel.pro
 Domain, www.cambidefil.pro
 Domain, www.camenrivel.pro
-Domain, www.campaign-insights-analytics-hub.pages.dev
+Domain, www.campingsquads.com
 Domain, www.capriunans.pro
 Domain, www.caraiestim.pro
 Domain, www.carniabbac.pro
@@ -18372,12 +18235,10 @@ Domain, www.chat.ero-advertising.com
 Domain, www.chengzijianzhan.com
 Domain, www.chiarimpas.pro
 Domain, www.chlamattec.pro
-Domain, www.chlamgriff.pro
 Domain, www.christianbusinessadvertising.com
 Domain, www.chroniclebreakdaily.pro
 Domain, www.chylovula.pro
 Domain, www.cifrecloo.pro
-Domain, www.circoscans.pro
 Domain, www.circuadden.pro
 Domain, www.cityads.com
 Domain, www.cityads.com.br
@@ -18387,7 +18248,6 @@ Domain, www.cleverads.vn
 Domain, www.click.axiatraders.com
 Domain, www.clickngo.pro
 Domain, www.cnzz.com
-Domain, www.coanoscial.pro
 Domain, www.coattagoni.pro
 Domain, www.coaxifunne.pro
 Domain, www.codeads.com
@@ -18395,10 +18255,8 @@ Domain, www.coin-ad.com
 Domain, www.coinsstruc.pro
 Domain, www.colfoveico.pro
 Domain, www.collophyto.pro
-Domain, www.comanlecyt.pro
 Domain, www.combademem.pro
 Domain, www.commetriva.pro
-Domain, www.compadisin.pro
 Domain, www.compeabbam.pro
 Domain, www.conclpisca.pro
 Domain, www.concrnonil.pro
@@ -18414,7 +18272,6 @@ Domain, www.copririgge.pro
 Domain, www.corpapenal.pro
 Domain, www.correambia.pro
 Domain, www.correimbam.pro
-Domain, www.cospecarbo.pro
 Domain, www.costrlocup.pro
 Domain, www.cotssopre.pro
 Domain, www.countslips.pro
@@ -18422,14 +18279,12 @@ Domain, www.countsovra.pro
 Domain, www.coverconsi.pro
 Domain, www.cpmadvisors.com
 Domain, www.cpro.baidu.com
-Domain, www.cratcrispe.pro
 Domain, www.crepuauscu.pro
 Domain, www.crescimmat.pro
 Domain, www.crispads.com
 Domain, www.crispnewswirehub.pro
 Domain, www.croccanape.pro
 Domain, www.croceistal.pro
-Domain, www.crossrival.pro
 Domain, www.crownadvertising.ca
 Domain, www.crystunext.pro
 Domain, www.cubeplum.advocatemintukumarmondal.com
@@ -18460,7 +18315,6 @@ Domain, www.dawa.ero-advertising.com
 Domain, www.dbta.ero-advertising.com
 Domain, www.deborrayin.pro
 Domain, www.decengatte.pro
-Domain, www.decenironi.pro
 Domain, www.decidfucal.pro
 Domain, www.decosmarab.pro
 Domain, www.decosmassa.pro
@@ -18469,20 +18323,18 @@ Domain, www.delocsusci.pro
 Domain, www.denuncalos.pro
 Domain, www.deparvagar.pro
 Domain, www.depreprogn.pro
-Domain, www.desesdistr.pro
+Domain, www.deratimoi.pro
 Domain, www.desprinted.pro
 Domain, www.destaacque.pro
 Domain, www.deta.ero-advertising.com
 Domain, www.dfnb-ads.com
 Domain, www.dia-traffic.com
-Domain, www.diacecopen.pro
 Domain, www.dialoalcan.pro
 Domain, www.diantsopra.pro
 Domain, www.dicadmosle.pro
 Domain, www.dichlabbia.pro
 Domain, www.dichlsopra.pro
 Domain, www.diciomyron.pro
-Domain, www.diffifolkl.pro
 Domain, www.diguimonoc.pro
 Domain, www.dikegports.pro
 Domain, www.dilacsangu.pro
@@ -18498,25 +18350,21 @@ Domain, www.directadvert.ru
 Domain, www.directnetadvertising.net
 Domain, www.dirocsetti.pro
 Domain, www.dirteoverr.pro
-Domain, www.disalaffre.pro
-Domain, www.disamsemno.pro
 Domain, www.discoloden.pro
 Domain, www.disdasabot.pro
 Domain, www.disebinter.pro
 Domain, www.disecdissu.pro
 Domain, www.disfiscusa.pro
-Domain, www.disgirecit.pro
 Domain, www.dislagelat.pro
 Domain, www.dispacarto.pro
 Domain, www.dispoflogs.pro
 Domain, www.disqusads.com
 Domain, www.disruspars.pro
-Domain, www.dissobarba.pro
 Domain, www.dissoferme.pro
 Domain, www.disteapuan.pro
 Domain, www.distosveni.pro
-Domain, www.distrimman.pro
 Domain, www.djaxadserver.com
+Domain, www.dns-template.com
 Domain, www.dobreprogramy.pro
 Domain, www.dogmaistau.pro
 Domain, www.dolanadserver.com
@@ -18616,6 +18464,7 @@ Domain, www.firebbezzi.pro
 Domain, www.firstclick.pro
 Domain, www.flagads.net
 Domain, www.flash.cn
+Domain, www.flashreportwirehub.pro
 Domain, www.flashtest.ero-advertising.com
 Domain, www.flatdee.ero-advertising.com
 Domain, www.flatfae.ero-advertising.com
@@ -18639,11 +18488,9 @@ Domain, www.fragmblith.pro
 Domain, www.freakads.com
 Domain, www.frenaslowh.pro
 Domain, www.friggvedic.pro
-Domain, www.frugazelan.pro
 Domain, www.fumagcaten.pro
 Domain, www.fuorvvafa.pro
 Domain, www.fustistarb.pro
-Domain, www.futhamonom.pro
 Domain, www.fx-pro-trade.com
 Domain, www.fxadviceformeandyou.com
 Domain, www.gabbalatta.pro
@@ -18656,8 +18503,6 @@ Domain, www.garroblack.pro
 Domain, www.gata.ero-advertising.com
 Domain, www.gatoradvertisinginformationnetwork.com
 Domain, www.gcmadvertising.com
-Domain, www.geoliannal.pro
-Domain, www.geotepaste.pro
 Domain, www.getmyads24.com
 Domain, www.giganzonin.pro
 Domain, www.gigsmturba.pro
@@ -18680,8 +18525,6 @@ Domain, www.gpt-xplis-pro.net
 Domain, www.griglinton.pro
 Domain, www.grillmecon.pro
 Domain, www.guantrisor.pro
-Domain, www.guest-bads.com
-Domain, www.gumfiperti.pro
 Domain, www.guruads.de
 Domain, www.hahabro.pro
 Domain, www.haiapungo.pro
@@ -18694,9 +18537,9 @@ Domain, www.highres-360.com
 Domain, www.hightrafficads.com
 Domain, www.hilarmassi.pro
 Domain, www.hit-counter-download.com
-Domain, www.homemadegreensalads.com
 Domain, www.hostadserver.com
 Domain, www.hosting2520545.online.pro
+Domain, www.hosting2554891.online.pro
 Domain, www.hot-mob.com
 Domain, www.hotdogsandads.com
 Domain, www.hu.newseu.pro
@@ -18724,7 +18567,6 @@ Domain, www.inabidefla.pro
 Domain, www.inanealpeg.pro
 Domain, www.incangarof.pro
 Domain, www.incansnerb.pro
-Domain, www.incarproca.pro
 Domain, www.incorciurl.pro
 Domain, www.incrupinhe.pro
 Domain, www.incunbiass.pro
@@ -18734,7 +18576,6 @@ Domain, www.indisdicol.pro
 Domain, www.indoleads.com
 Domain, www.indolfabbr.pro
 Domain, www.indorspigl.pro
-Domain, www.inertaitas.pro
 Domain, www.inferforeh.pro
 Domain, www.infetsbeva.pro
 Domain, www.infigsubre.pro
@@ -18756,17 +18597,12 @@ Domain, www.insurads.com
 Domain, www.intelligenceadx.com
 Domain, www.intersolan.pro
 Domain, www.intext.ero-advertising.com
-Domain, www.intozimami.pro
-Domain, www.intozsnatu.pro
 Domain, www.introdinto.pro
-Domain, www.introsceve.pro
 Domain, www.intubcorse.pro
 Domain, www.intuidibra.pro
 Domain, www.invertotal.pro
-Domain, www.invipoverf.pro
 Domain, www.ioads.ero-advertising.com
-Domain, www.iosdkcloud.com
-Domain, www.iosdkreact.com
+Domain, www.iosdkflow.com
 Domain, www.iosdkzzfl.com
 Domain, www.ipinyou.com
 Domain, www.ipinyou.com.cn
@@ -18783,11 +18619,9 @@ Domain, www.jowrsingh.pro
 Domain, www.juiceadv.com
 Domain, www.juicyads.com
 Domain, www.jysk.1-dm.shop
-Domain, www.k3debtadvisory.com
 Domain, www.kafodea9.pro
 Domain, www.kds.ero-advertising.com
 Domain, www.keenfactchronicle.pro
-Domain, www.keenpulseupdate.pro
 Domain, www.knacads.com
 Domain, www.ladrelivel.pro
 Domain, www.ladsblue.com
@@ -18804,6 +18638,7 @@ Domain, www.lavorvolva.pro
 Domain, www.layers.ero-advertising.com
 Domain, www.lazarnorma.pro
 Domain, www.lead-123.com
+Domain, www.lifeoregon.pro
 Domain, www.likenestur.pro
 Domain, www.linguparaf.pro
 Domain, www.linklensadvisors.com
@@ -18817,14 +18652,11 @@ Domain, www.lottery.ie
 Domain, www.lottery.olg.ca
 Domain, www.lowafio9.pro
 Domain, www.lp.trade360.com
-Domain, www.lubridippi.pro
 Domain, www.lucerprega.pro
 Domain, www.lurkingpetrel.pro
-Domain, www.lycopdenti.pro
 Domain, www.magento-analytics.com
 Domain, www.mainadv.com
 Domain, www.maralgel.pro
-Domain, www.marketing-advisers.com
 Domain, www.mata.ero-advertising.com
 Domain, www.matildesadvocacia.com
 Domain, www.maxiadv.com
@@ -18847,7 +18679,6 @@ Domain, www.mobgames.mobi
 Domain, www.mobileads.ero-advertising.com
 Domain, www.mobileandinternetadvertising.com
 Domain, www.moghrib.update-app007.com.es
-Domain, www.mon-partner.com
 Domain, www.motorcomm.adsdrover.com
 Domain, www.movieads.ero-advertising.com
 Domain, www.mu88ads.com
@@ -18862,18 +18693,15 @@ Domain, www.nata.ero-advertising.com
 Domain, www.national-lottery.co.uk
 Domain, www.naughty-traffic.com
 Domain, www.needadvertising.com
-Domain, www.nefrobatti.pro
 Domain, www.neptuneads.com
 Domain, www.nerveriapp.pro
 Domain, www.netbrquadr.pro
 Domain, www.networkadvertising.org
-Domain, www.neurocleve.pro
 Domain, www.neurocrabb.pro
 Domain, www.newshuntads.com
 Domain, www.newsyoucanread24.com
 Domain, www.nexipesso.pro
 Domain, www.ngads.com
-Domain, www.nicknpupin.pro
 Domain, www.ninysvell.pro
 Domain, www.nl1.ero-advertising.com
 Domain, www.nl2.ero-advertising.com
@@ -18888,8 +18716,6 @@ Domain, www.novelunfee.pro
 Domain, www.ns.qyronto.pro
 Domain, www.nyrenoe3.pro
 Domain, www.oata.ero-advertising.com
-Domain, www.obaidbadsha.com
-Domain, www.occismenono.pro
 Domain, www.occupcabot.pro
 Domain, www.odakointro.pro
 Domain, www.ogaipenet.pro
@@ -18899,17 +18725,14 @@ Domain, www.olx.241926.pro
 Domain, www.onclickads.net
 Domain, www.ondurexecu.pro
 Domain, www.onlinedownloads.org
-Domain, www.onshowooll.pro
 Domain, www.ontolsgrap.pro
 Domain, www.opads.ero-advertising.com
 Domain, www.openadserving.com
-Domain, www.operesbram.pro
 Domain, www.optad360.com
 Domain, www.org-upgrade.com
 Domain, www.orion.iad.appboy.com
 Domain, www.ortosfonda.pro
 Domain, www.os-downloads.com
-Domain, www.oscurspitt.pro
 Domain, www.otclick-adv.ru
 Domain, www.otocococoo.pro
 Domain, www.ourlads.com
@@ -18917,15 +18740,12 @@ Domain, www.outbediste.pro
 Domain, www.outtadisse.pro
 Domain, www.overialica.pro
 Domain, www.ovinaierof.pro
-Domain, www.ovverintru.pro
 Domain, www.padisincad.pro
 Domain, www.pagepeel.ero-advertising.com
 Domain, www.pangolin-dsp-toutiao.com
 Domain, www.papayads.net
 Domain, www.papulstilo.pro
 Domain, www.parigproat.pro
-Domain, www.parlemonterix-pro.digital
-Domain, www.parlemonterix-pro.today
 Domain, www.parsads.com
 Domain, www.partner-ads.com
 Domain, www.pata.ero-advertising.com
@@ -18935,7 +18755,6 @@ Domain, www.pcads.ru
 Domain, www.penalancho.pro
 Domain, www.perdescial.pro
 Domain, www.pericempir.pro
-Domain, www.perorsedim.pro
 Domain, www.perseacaly.pro
 Domain, www.persgroepadvertising.nl
 Domain, www.pertidavam.pro
@@ -18945,10 +18764,8 @@ Domain, www.phoenammez.pro
 Domain, www.phoenixads.co.in
 Domain, www.phonesecure.mobi
 Domain, www.photo-ads.co.uk
-Domain, www.photobaria.pro
 Domain, www.phpmyadmin.ero-advertising.com
 Domain, www.phpmyadmin.js.ero-advertising.com
-Domain, www.picaysiste.pro
 Domain, www.pickadvanced.lat
 Domain, www.picture-uploads.com
 Domain, www.pigment-adv.co.il
@@ -18972,30 +18789,25 @@ Domain, www.polycsbocc.pro
 Domain, www.polymorphicads.jp
 Domain, www.pomieimbie.pro
 Domain, www.pompedesci.pro
-Domain, www.ponzeobiet.pro
 Domain, www.popacs.ero-advertising.com
 Domain, www.popads.ero-advertising.com
 Domain, www.popads.net
 Domain, www.popadvert.com
 Domain, www.popmyads.com
-Domain, www.portadiscr.pro
 Domain, www.postads24.com
 Domain, www.postnewsads.com
+Domain, www.potivinmo.pro
 Domain, www.poweredbyliquidfire.mobi
 Domain, www.pratielich.pro
 Domain, www.preavscrim.pro
 Domain, www.prebid.adnxs.com
-Domain, www.preclbeaco.pro
 Domain, www.predictivadvertising.com
-Domain, www.predisnake.pro
 Domain, www.pregrnecro.pro
-Domain, www.premepalae.pro
 Domain, www.premiumads.com.br
 Domain, www.preorimpar.pro
 Domain, www.preseretro.pro
 Domain, www.presutight.pro
 Domain, www.prevepalpa.pro
-Domain, www.prezzannic.pro
 Domain, www.priyequit.pro
 Domain, www.prizefestival.mobi
 Domain, www.pro-factory.com
@@ -19005,11 +18817,9 @@ Domain, www.pro-wrkz.xyz
 Domain, www.pro.clanweb.cz
 Domain, www.pro.cn
 Domain, www.proadscdn.com
-Domain, www.probobever.pro
 Domain, www.prod-05.qyronto.pro
 Domain, www.prod-de.qyronto.pro
 Domain, www.progesuben.pro
-Domain, www.proloindov.pro
 Domain, www.propetowhe.pro
 Domain, www.provadiobo.pro
 Domain, www.psephzappo.pro
@@ -19019,13 +18829,13 @@ Domain, www.purledisti.pro
 Domain, www.purpleads.io
 Domain, www.pyrexsquar.pro
 Domain, www.qchannel01.cn
-Domain, www.qeholo-pro.com
 Domain, www.qibikyo7.pro
 Domain, www.qomihei3.pro
 Domain, www.qqads.com
 Domain, www.quadeinfra.pro
 Domain, www.quadvskinny.space
 Domain, www.quannahealmu.pro
+Domain, www.quick-verification.update-app007.com.es
 Domain, www.quocenoncu.pro
 Domain, www.quzapuo6.pro
 Domain, www.qyronto.pro
@@ -19043,7 +18853,6 @@ Domain, www.raziotozzo.pro
 Domain, www.rcheminor27.pro
 Domain, www.reactads.com
 Domain, www.realtextads.com
-Domain, www.reautrispo.pro
 Domain, www.recidspvs.pro
 Domain, www.rectangledownloads.com
 Domain, www.redirect.ero-advertising.com
@@ -19052,10 +18861,8 @@ Domain, www.redrection.pro
 Domain, www.referuscoc.pro
 Domain, www.registrarads.com
 Domain, www.rehobtist.pro
-Domain, www.reinvjonah.pro
 Domain, www.rejecroyst.pro
 Domain, www.relyarticle.pro
-Domain, www.remanpropo.pro
 Domain, www.renovvexed.pro
 Domain, www.resintravo.pro
 Domain, www.reticpelle.pro
@@ -19065,7 +18872,6 @@ Domain, www.riaccospit.pro
 Domain, www.riacuenshr.pro
 Domain, www.riaffsuffr.pro
 Domain, www.riagupotan.pro
-Domain, www.rianneleme.pro
 Domain, www.riasssconf.pro
 Domain, www.richmediaads.com
 Domain, www.riconblous.pro
@@ -19073,7 +18879,6 @@ Domain, www.riconframm.pro
 Domain, www.ricorpsico.pro
 Domain, www.ricurpermu.pro
 Domain, www.rifugkinin.pro
-Domain, www.rigiasexua.pro
 Domain, www.rimasmisgu.pro
 Domain, www.rimbauparc.pro
 Domain, www.rinfrbonif.pro
@@ -19081,7 +18886,6 @@ Domain, www.rinfrcoron.pro
 Domain, www.rinfumasse.pro
 Domain, www.rinsacroci.pro
 Domain, www.rintadipre.pro
-Domain, www.riofftheyr.pro
 Domain, www.riprevaneg.pro
 Domain, www.riscoakab.pro
 Domain, www.riscoemarg.pro
@@ -19089,7 +18893,6 @@ Domain, www.risencapin.pro
 Domain, www.risimscoro.pro
 Domain, www.risogravve.pro
 Domain, www.rivelintro.pro
-Domain, www.riverimpia.pro
 Domain, www.roadslime.cyou
 Domain, www.rogulea8.pro
 Domain, www.romananten.pro
@@ -19117,9 +18920,7 @@ Domain, www.sagomtrifo.pro
 Domain, www.sanavcapit.pro
 Domain, www.sangaredde.pro
 Domain, www.santoparad.pro
-Domain, www.saponsanda.pro
 Domain, www.satirskipp.pro
-Domain, www.savorchicc.pro
 Domain, www.sballsandl.pro
 Domain, www.sbaragonio.pro
 Domain, www.sbigotente.pro
@@ -19131,7 +18932,6 @@ Domain, www.scaramemor.pro
 Domain, www.scariunvol.pro
 Domain, www.scarsmilli.pro
 Domain, www.scarsvalor.pro
-Domain, www.scattkung.pro
 Domain, www.scatttrasc.pro
 Domain, www.scechazzim.pro
 Domain, www.scentboloe.pro
@@ -19141,7 +18941,6 @@ Domain, www.schooepidi.pro
 Domain, www.schoolamen.pro
 Domain, www.sciacarrot.pro
 Domain, www.sclerriapp.pro
-Domain, www.scofflogei.pro
 Domain, www.scolabidon.pro
 Domain, www.scombinger.pro
 Domain, www.sconfmelan.pro
@@ -19154,7 +18953,6 @@ Domain, www.sculteviti.pro
 Domain, www.scultterge.pro
 Domain, www.sdiredashw.pro
 Domain, www.searchadv.com
-Domain, www.seccaliser.pro
 Domain, www.secure-verify-update.ddns.info
 Domain, www.security-update.ddns.info
 Domain, www.security-update.ocry.com
@@ -19174,20 +18972,16 @@ Domain, www.sgroprinqu.pro
 Domain, www.share-server.com
 Domain, www.sharprinto.pro
 Domain, www.shenmotonkgo.pro
-Domain, www.shortdicol.pro
-Domain, www.sigmaadvertisingagency.com
 Domain, www.sillyassio.pro
 Domain, www.sin.ero-advertising.com
 Domain, www.singaporedesk.pro
 Domain, www.skipdquart.pro
 Domain, www.skyadsmart.com
-Domain, www.slaloornit.pro
 Domain, www.sleeptotip.pro
 Domain, www.slimads.vn
 Domain, www.smangvolge.pro
 Domain, www.smartadserver.com
 Domain, www.smeriarred.pro
-Domain, www.smincdefle.pro
 Domain, www.smtp.ero-advertising.com
 Domain, www.smyfinancial.com
 Domain, www.sniggmacro.pro
@@ -19196,15 +18990,12 @@ Domain, www.snowsphena.pro
 Domain, www.soffisickl.pro
 Domain, www.sofisperfe.pro
 Domain, www.softsmart.mobi
-Domain, www.soggibarbi.pro
 Domain, www.soggoarran.pro
 Domain, www.solidnews.pro
 Domain, www.solvititmm.pro
 Domain, www.sonorevolv.pro
 Domain, www.soprakines.pro
-Domain, www.soprotrala.pro
 Domain, www.sosticontr.pro
-Domain, www.sotteinter.pro
 Domain, www.sottifiabe.pro
 Domain, www.sottodirug.pro
 Domain, www.sovrarinca.pro
@@ -19221,8 +19012,6 @@ Domain, www.speedclicks.ero-advertising.com
 Domain, www.speedclics.ero-advertising.com
 Domain, www.speedlicks.ero-advertising.com
 Domain, www.speeuclicks.ero-advertising.com
-Domain, www.speigunder.pro
-Domain, www.speridepop.pro
 Domain, www.spiegblaso.pro
 Domain, www.spillinsig.pro
 Domain, www.spinelymph.pro
@@ -19232,7 +19021,6 @@ Domain, www.sponsorads.de
 Domain, www.sportplus.pro
 Domain, www.sprizepicl.pro
 Domain, www.sprovcircu.pro
-Domain, www.squagtrepp.pro
 Domain, www.staosoffo.pro
 Domain, www.star-advertising.com
 Domain, www.stats.data2.ero-advertising.com
@@ -19249,10 +19037,7 @@ Domain, www.stipofanta.pro
 Domain, www.storischie.pro
 Domain, www.straspol.pro
 Domain, www.strawuzzat.pro
-Domain, www.streamlinebriefing.pro
-Domain, www.streamlinebulletin.pro
 Domain, www.strelabbra.pro
-Domain, www.stremnondi.pro
 Domain, www.strepperdr.pro
 Domain, www.strimsacco.pro
 Domain, www.strizinfit.pro
@@ -19262,18 +19047,14 @@ Domain, www.studyadvance.life
 Domain, www.suadegrass.pro
 Domain, www.subarborde.pro
 Domain, www.subloscrog.pro
-Domain, www.subsicalib.pro
 Domain, www.subsitesadserver.co.uk
 Domain, www.sughediod.pro
 Domain, www.sullepersi.pro
-Domain, www.superpuddi.pro
-Domain, www.superracqu.pro
 Domain, www.supersonicads.com
 Domain, www.surrisvite.pro
 Domain, www.surrocomme.pro
 Domain, www.susansthreads.com
 Domain, www.sveltpacci.pro
-Domain, www.sviliandro.pro
 Domain, www.swifttrendingalert.pro
 Domain, www.swiftwatchalert.pro
 Domain, www.sygjx.com
@@ -19285,10 +19066,17 @@ Domain, www.taralunmol.pro
 Domain, www.tavolzollo.pro
 Domain, www.tcm.optica.ero-advertising.com
 Domain, www.teargrevul.pro
+Domain, www.telegazqws.mobi
+Domain, www.telegcdsex.mobi
+Domain, www.telegjagkd.mobi
+Domain, www.teleglhfus.mobi
+Domain, www.telegsfluh.mobi
+Domain, www.telegshlfu.mobi
+Domain, www.telegsxdce.mobi
+Domain, www.telegwsazq.mobi
 Domain, www.tentehippa.pro
 Domain, www.terziaguzz.pro
 Domain, www.tetracinco.pro
-Domain, www.tetraexcys.pro
 Domain, www.tex.ero-advertising.com
 Domain, www.text-link-ads.com
 Domain, www.textadvertising.com
@@ -19309,14 +19097,12 @@ Domain, www.titanmediainsight.pro
 Domain, www.titanreportdaily.pro
 Domain, www.titolsvagh.pro
 Domain, www.tiumbs.ero-advertising.com
-Domain, www.tolyalbum.pro
 Domain, www.tomisesper.pro
 Domain, www.topads.ero-advertising.com
 Domain, www.topicalpulseupdate.pro
 Domain, www.toponadss.com
 Domain, www.toppeakleads.com
 Domain, www.toroadvertisingmedia.com
-Domain, www.tozzocanno.pro
 Domain, www.tr.newseu.pro
 Domain, www.track.adsfast.com
 Domain, www.trackadsb1.com
@@ -19324,6 +19110,7 @@ Domain, www.tracking.beginads.com
 Domain, www.tracking.ero-advertising.com
 Domain, www.trade360.com
 Domain, www.trade40virnax.net
+Domain, www.trade50obnat.com
 Domain, www.trade90silopro.net
 Domain, www.trads.cabtml.com
 Domain, www.traffic-c.com
@@ -19337,7 +19124,6 @@ Domain, www.traveladvertising.com
 Domain, www.tremoimbau.pro
 Domain, www.triticonfo.pro
 Domain, www.triumphantadvanced.batohi.com
-Domain, www.triunosseq.pro
 Domain, www.trourted.pro
 Domain, www.true-click.pro
 Domain, www.ttnet.yandex.com.tr
@@ -19350,10 +19136,8 @@ Domain, www.tyrantripl.pro
 Domain, www.ubbidnonfe.pro
 Domain, www.umbs.ero-advertising.com
 Domain, www.umeng.com
-Domain, www.unblufadm.pro
 Domain, www.unchiuncon.pro
 Domain, www.unconscomb.pro
-Domain, www.unfoohyper.pro
 Domain, www.universal-traffic.com
 Domain, www.unmuflerci.pro
 Domain, www.unprezenoc.pro
@@ -19363,8 +19147,6 @@ Domain, www.unrepesorn.pro
 Domain, www.unreschlor.pro
 Domain, www.unresimpov.pro
 Domain, www.untambucen.pro
-Domain, www.update-info.mojawebka.eu
-Domain, www.update-info92206.com
 Domain, www.update-information.zzux.com
 Domain, www.update-infos616.com
 Domain, www.update-java.kit.net
@@ -19373,7 +19155,6 @@ Domain, www.update-security.qhigh.com
 Domain, www.upturfosfo.pro
 Domain, www.urshefts.pro
 Domain, www.usadserver.com
-Domain, www.userads-gdzt.vercel.app
 Domain, www.users.ero-advertising.com
 Domain, www.usufrdisac.pro
 Domain, www.usufrmovim.pro
@@ -19385,16 +19166,12 @@ Domain, www.vangemisgu.pro
 Domain, www.vantagemarketads.com
 Domain, www.vellipresu.pro
 Domain, www.vellocerim.pro
-Domain, www.venacdente.pro
 Domain, www.ventrscand.pro
 Domain, www.verdesbucc.pro
 Domain, www.verdidiriz.pro
-Domain, www.verdomatrix.pro
 Domain, www.vergehooka.pro
 Domain, www.vergosuper.pro
-Domain, www.veryadshtml-onp1.vercel.app
 Domain, www.vettoconvi.pro
-Domain, www.vibrastaff.pro
 Domain, www.vidads.gr
 Domain, www.vifckufo-pro.today
 Domain, www.vinted.241926.pro
@@ -19406,7 +19183,6 @@ Domain, www.vipads.cc
 Domain, www.vipads.live
 Domain, www.visableleads.com
 Domain, www.vllirampi.pro
-Domain, www.vocifxeniu.pro
 Domain, www.voiceads.cn
 Domain, www.volatforfa.pro
 Domain, www.vtyfzokadxi.com
@@ -19423,6 +19199,7 @@ Domain, www.wilniproco.pro
 Domain, www.winads.cn
 Domain, www.wiperloofi.pro
 Domain, www.wks.ero-advertising.com
+Domain, www.wonderfulhorse.pro
 Domain, www.worldnomads.com
 Domain, www.wow.ero-advertising.com
 Domain, www.wsw.ero-advertising.com
@@ -19435,7 +19212,6 @@ Domain, www.www-google.nl
 Domain, www.wypanao8.pro
 Domain, www.xadsmart.com
 Domain, www.xapads.com
-Domain, www.xilverdraxon.pro
 Domain, www.xn--adspace-kvg.ero-advertising.com
 Domain, www.yandex-games.com
 Domain, www.yellowdotadvantage.com
@@ -19520,7 +19296,6 @@ Domain, xiangchaokankan.m.cn.miaozhen.com
 Domain, xiaomi-dtv.m.cn.miaozhen.com
 Domain, xiaomi-mipdx.cn.miaozhen.com
 Domain, xiaomi.m.cn.miaozhen.com
-Domain, xilverdraxon.pro
 Domain, xinhuanet.adsame.com
 Domain, xl-ads.com
 Domain, xmadsapi.codon.vn
