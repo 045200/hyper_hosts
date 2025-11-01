@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-11-01 00:26:47
+# 最后更新时间: 2025-11-01 12:22:20
 # 规则总数: 23055
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -7793,7 +7793,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.113.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -9921,7 +9921,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	cemnet.advertserve.com
 0.0.0.0	cengineapi.contextads.live
-140.82.113.22	central.github.com
+140.82.113.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -10369,7 +10369,7 @@
 0.0.0.0	code.native-ad.net
 127.0.0.1	code.sms.mob.com
 0.0.0.0	codeads.com
-20.205.243.165	codeload.github.com
+140.82.114.9	codeload.github.com
 0.0.0.0	coin-ad.com
 0.0.0.0	coin-edex-pro.com
 0.0.0.0	coinads.io
@@ -11479,7 +11479,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.112.21	education.github.com
+140.82.113.22	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -12244,11 +12244,11 @@
 127.0.0.1	gini.snssdk.com
 0.0.0.0	giocarinto.pro
 20.205.243.166	gist.github.com
-3.5.17.125	github-cloud.s3.amazonaws.com
-3.5.16.13	github-com.s3.amazonaws.com
-52.217.82.28	github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.100.177	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.6.179	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.114.203	github-cloud.s3.amazonaws.com
+16.15.194.28	github-com.s3.amazonaws.com
+3.5.0.10	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.9.158	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.192.142	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
