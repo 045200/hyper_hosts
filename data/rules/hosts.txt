@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-11-04 00:24:52
-# 规则总数: 22941
+# 最后更新时间: 2025-11-04 12:24:17
+# 规则总数: 22918
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -562,7 +562,6 @@
 0.0.0.0	abrts.pro
 127.0.0.1	abtest-ch.snssdk.com
 127.0.0.1	abtest.alibaba.com
-0.0.0.0	abtest.mistat.xiaomi.com
 127.0.0.1	abtest3-misc-hl.zijieapi.com
 127.0.0.1	abtest3-misc-lf.zijieapi.com
 127.0.0.1	abtest3-misc-lq.zijieapi.com
@@ -586,7 +585,6 @@
 0.0.0.0	acceptancecrowdadvertising.com
 127.0.0.1	access.inmobi.com
 127.0.0.1	access.pangolin-sdk-toutiao-b.com
-0.0.0.0	access1.tpns.tencent.com
 127.0.0.1	accessrequest.taboola.com
 0.0.0.0	accidentadvicehelpline.co.uk
 0.0.0.0	accivdisve.pro
@@ -2243,7 +2241,6 @@
 0.0.0.0	adnetwork-adserver.aiactiv.io
 0.0.0.0	adnewnc.app.autohome.com.cn
 0.0.0.0	adnxs-simple.com
-0.0.0.0	adnxs.com
 0.0.0.0	adnxs.revsci.net
 0.0.0.0	ado.pro-market.net
 0.0.0.0	adobe-dns.adobe.com
@@ -6582,9 +6579,7 @@
 0.0.0.0	aicleaner.shouji.360.cn
 0.0.0.0	aid-ad.jp
 127.0.0.1	aid.video.qq.com
-0.0.0.0	aider-res.meizu.com
 0.0.0.0	aigleinsightstream.pro
-0.0.0.0	aikanvod.miguvideo.com
 127.0.0.1	aim.yoyi.com.cn
 0.0.0.0	aio.lp.mydas.mobi
 127.0.0.1	aip.aiclk.com
@@ -6667,7 +6662,6 @@
 0.0.0.0	amazon-adsystem.amazon.com
 127.0.0.1	amazon-adsystem.com
 0.0.0.0	ambassadors.propellerads.com
-0.0.0.0	amdc.m.taobao.com
 127.0.0.1	amdc.m.youku.com
 127.0.0.1	amdcopen.m.taobao.com
 127.0.0.1	amdcopen.m.umeng.com
@@ -7274,7 +7268,6 @@
 0.0.0.0	api-pixels.easyadsapp.com
 0.0.0.0	api-proxy.bee7.com
 0.0.0.0	api-public.addthis.com
-0.0.0.0	api-push.meizu.com
 0.0.0.0	api-resource.youzicheng.net
 0.0.0.0	api-rewarded-video.fyber.com
 0.0.0.0	api-rssocks.youzicheng.net
@@ -7431,7 +7424,6 @@
 0.0.0.0	api.aimtell.com
 0.0.0.0	api.aio.media
 0.0.0.0	api.airbrake.io
-0.0.0.0	api.airpush.com
 0.0.0.0	api.aixifan.com
 0.0.0.0	api.aklamio.com
 0.0.0.0	api.allnews.uodoo.com
@@ -7788,7 +7780,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.112.22	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -9912,7 +9904,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	cemnet.advertserve.com
 0.0.0.0	cengineapi.contextads.live
-140.82.112.22	central.github.com
+140.82.114.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -10697,7 +10689,6 @@
 0.0.0.0	d0.sinaimg.cn
 127.0.0.1	d00.sina.com.cn
 0.0.0.0	d1.adsplay.net
-0.0.0.0	d1.music.126.net
 127.0.0.1	d1.sina.com.cn
 0.0.0.0	d1.sinaimg.cn
 127.0.0.1	d13828.d2api.shuzilm.cn
@@ -11258,7 +11249,6 @@
 0.0.0.0	dpush-api.domob.cn
 0.0.0.0	dqapp.cdn.bcebos.com
 0.0.0.0	dra.amazon-adsystem.com
-0.0.0.0	dragate-cn.dc.heytapmobi.com
 0.0.0.0	dravexoly-pro.com
 0.0.0.0	drcn-weather.cloud.huawei.com
 0.0.0.0	drive-new.qyronto.pro
@@ -11328,7 +11318,6 @@
 0.0.0.0	dtscout.rtb.adx1.com
 0.0.0.0	dtta.ero-advertising.com
 0.0.0.0	dtvc.adsafeprotected.com
-0.0.0.0	du.163.com
 127.0.0.1	du.jd.com
 0.0.0.0	dualstack-logs.amap.com
 0.0.0.0	dub.mobileads.msn.com
@@ -11456,7 +11445,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.112.21	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -11522,7 +11511,6 @@
 0.0.0.0	eqx-secure.smartadserver.com
 0.0.0.0	eqx.smartadserver.com
 127.0.0.1	erebor.douban.com
-0.0.0.0	ereg.adobe.com
 0.0.0.0	erexol24.pro
 0.0.0.0	erf4d-apmlm.ads.tremorhub.com
 0.0.0.0	erf4d-mpbzg.ads.tremorhub.com
@@ -11680,7 +11668,6 @@
 0.0.0.0	evex-pro.net
 0.0.0.0	evofinvex-union-app.com
 0.0.0.0	evolutionadv.it
-0.0.0.0	evtubescms.phncdn.com
 0.0.0.0	ex-traffic.com
 127.0.0.1	ex.as.pptv.com
 127.0.0.1	ex.mobmore.com
@@ -11771,6 +11758,7 @@
 127.0.0.1	fd.qchannel03.cn
 127.0.0.1	fd2.qchannel03.cn
 0.0.0.0	fdads.sv.publicus.com
+0.0.0.0	fdkss.sbs
 0.0.0.0	fds.api.moji.com
 0.0.0.0	fe.ono.axp.amazon-adsystem.com
 0.0.0.0	federated.ui.ssa.advertising.amazon.dev
@@ -12052,11 +12040,9 @@
 0.0.0.0	gam.adnxs.com
 0.0.0.0	game-advertising-online.com
 127.0.0.1	game-motivatead.aiclk.com
-0.0.0.0	game-res.meizu.com
 0.0.0.0	game.adwo.com
 127.0.0.1	game.html5.qq.com
 0.0.0.0	game.loveota.com
-0.0.0.0	game.res.meizu.com
 127.0.0.1	game.weibo.cn
 0.0.0.0	game.weibo.com
 0.0.0.0	game88.pro
@@ -12213,11 +12199,11 @@
 0.0.0.0	ginads.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-16.15.207.224	github-cloud.s3.amazonaws.com
-52.216.89.148	github-com.s3.amazonaws.com
-52.217.66.156	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.163.241	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.216.137	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.44.41	github-cloud.s3.amazonaws.com
+3.5.21.203	github-com.s3.amazonaws.com
+52.217.138.105	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.232.233	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.73.241	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -12629,7 +12615,6 @@
 0.0.0.0	httpdns.platform.dbankcloud.cn
 0.0.0.0	httpdns.platform.dbankcloud.com
 127.0.0.1	httpdns.pro
-0.0.0.0	httpdns.push.oppomobile.com
 0.0.0.0	httpdns.qq.com
 0.0.0.0	httpdns.qqcdn.com
 0.0.0.0	httpdns.volcengineapi.com
@@ -12958,7 +12943,6 @@
 127.0.0.1	imap.getui.com
 127.0.0.1	imap.tingyun.com
 0.0.0.0	imapi-sg.isnssdk.com
-0.0.0.0	imasdk.googleapis.com
 127.0.0.1	imc.l.qq.com
 0.0.0.0	imdb.amazon-adsystem.com
 0.0.0.0	imdb.eu-west-1.prod.paets.advertising.amazon.dev
@@ -13887,7 +13871,6 @@
 0.0.0.0	live-api.immomo.com
 0.0.0.0	live-api.oncustomer.asia
 127.0.0.1	live-s3m.mediav.com
-0.0.0.0	live-trace.bilibili.com
 140.82.112.25	live.github.com
 0.0.0.0	live.pave-ads.com
 0.0.0.0	live.rads.msn.com
@@ -16707,7 +16690,6 @@
 0.0.0.0	reseller.sexyads.com
 0.0.0.0	reselling-corp.com
 127.0.0.1	resolve.umeng.com
-0.0.0.0	resolver.msg.xiaomi.net
 0.0.0.0	resource.ad-scope.com.cn
 127.0.0.1	resources.taboola.com
 0.0.0.0	responsiveads.com
@@ -17563,10 +17545,8 @@
 127.0.0.1	sdkcfg.adintl.cn
 127.0.0.1	sdkclick.mobile.sina.cn
 0.0.0.0	sdkconf.avlyun.com
-0.0.0.0	sdkconfig.ad.global.xiaomi.com
 127.0.0.1	sdkconfig.ad.india.xiaomi.com
 127.0.0.1	sdkconfig.ad.intl.xiaomi.com
-0.0.0.0	sdkconfig.ad.rus.xiaomi.com
 127.0.0.1	sdkconfig.ad.xiaomi.com
 127.0.0.1	sdkconfig.play.aiseet.atianqi.com
 127.0.0.1	sdkconfig.video.qq.com
@@ -18386,7 +18366,6 @@
 127.0.0.1	static.pay.baidu.com
 0.0.0.0	static.popads.net
 0.0.0.0	static.premiumads.com.br
-0.0.0.0	static.res.qq.com
 0.0.0.0	static.sf-ads.io
 0.0.0.0	static.share-videos.se
 0.0.0.0	static.smoads.com
@@ -18413,7 +18392,6 @@
 0.0.0.0	staticjs.adsafeprotected.com
 0.0.0.0	statics.adanxing.com
 0.0.0.0	statics.woozooo.com
-0.0.0.0	staticsns.cdn.bcebos.com
 0.0.0.0	staticupload-eu.oct8ne.com
 127.0.0.1	staticxx.facebook.com
 0.0.0.0	statika.mpsuadv.ru
@@ -22872,7 +22850,6 @@
 0.0.0.0	zapadserver1.com
 0.0.0.0	zawayaai.pro
 0.0.0.0	zazerygu.pro
-0.0.0.0	zconfig.alibabausercontent.com
 0.0.0.0	zdads.e-media.com
 0.0.0.0	zelvasparkai.pro
 0.0.0.0	zenadservices.net
