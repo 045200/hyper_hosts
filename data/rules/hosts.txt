@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-11-05 12:25:05
-# 规则总数: 22918
+# 最后更新时间: 2025-11-06 00:28:34
+# 规则总数: 22935
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -2097,7 +2097,6 @@
 127.0.0.1	adcs-ap.myappsget.com
 127.0.0.1	adcs-ue.myappsget.com
 127.0.0.1	adctl.admobile.top
-0.0.0.0	add-secure.vercel.app
 0.0.0.0	add.f5haber.com
 0.0.0.0	add.newmedia.cz
 0.0.0.0	addata.jd.com
@@ -3844,7 +3843,6 @@
 0.0.0.0	ads.support-account-use-center.cfd
 0.0.0.0	ads.support-business-page-contact.cfd
 0.0.0.0	ads.support-page-account-manage.cfd
-0.0.0.0	ads.supportpage-business.cfd
 0.0.0.0	ads.svnt.com
 0.0.0.0	ads.swiftnews.com
 0.0.0.0	ads.sxx.com
@@ -5644,6 +5642,7 @@
 0.0.0.0	adstanding.com
 0.0.0.0	adstargeting.com
 0.0.0.0	adstargets.com
+0.0.0.0	adstargetx.com
 0.0.0.0	adstartmedia.g2afse.com
 0.0.0.0	adstat.ad3g.com
 127.0.0.1	adstat.izuiyou.com
@@ -7780,7 +7779,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.114.21	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -8080,6 +8079,7 @@
 0.0.0.0	api.realtimely.io
 0.0.0.0	api.realytics.io
 0.0.0.0	api.receptivity.io
+0.0.0.0	api.red88.club
 0.0.0.0	api.red88.com
 0.0.0.0	api.red88.us
 0.0.0.0	api.red88.vin
@@ -8133,6 +8133,7 @@
 0.0.0.0	api.seg.analytics.fieldguide.io
 127.0.0.1	api.segment.io
 0.0.0.0	api.segmentapis.com
+0.0.0.0	api.sejourne.ae
 0.0.0.0	api.sentiance.com
 0.0.0.0	api.setting.intl.miui.com
 127.0.0.1	api.share.baidu.com
@@ -8440,7 +8441,6 @@
 0.0.0.0	app-analytics-v2.snapchat.com
 0.0.0.0	app-analytics.snapchat.com
 127.0.0.1	app-api.smzdm.com
-0.0.0.0	app-ca.qyronto.pro
 0.0.0.0	app-fra04-origin.spectrum.hsadspixel.net
 0.0.0.0	app-measurement.com
 127.0.0.1	app-monitor.ele.me
@@ -9549,6 +9549,7 @@
 0.0.0.0	capfundai.pro
 0.0.0.0	capritempo.pro
 0.0.0.0	capstone-ai.pro
+0.0.0.0	car-solutiongr.pro
 127.0.0.1	carb.inmobi.cn
 0.0.0.0	carbonads.com
 0.0.0.0	carbonads.net
@@ -9904,7 +9905,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	cemnet.advertserve.com
 0.0.0.0	cengineapi.contextads.live
-140.82.114.22	central.github.com
+140.82.112.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -10351,7 +10352,7 @@
 0.0.0.0	code.native-ad.net
 127.0.0.1	code.sms.mob.com
 0.0.0.0	codeads.com
-20.205.243.165	codeload.github.com
+140.82.113.10	codeload.github.com
 0.0.0.0	coin-ad.com
 0.0.0.0	coin-edex-pro.com
 0.0.0.0	coinads.io
@@ -10628,7 +10629,6 @@
 127.0.0.1	ctr.hd.sohu.com
 0.0.0.0	ctrack.trafficjunky.net
 0.0.0.0	ctx.adsafety.net
-0.0.0.0	cubeplum.advocatemintukumarmondal.com
 0.0.0.0	cucexn.skadsdkless.appsflyersdk.com
 127.0.0.1	cupid.iqiyi.com
 0.0.0.0	curiositymedia-dictionarycom.adsbynimbus.com
@@ -10693,7 +10693,6 @@
 0.0.0.0	d1.sinaimg.cn
 127.0.0.1	d13828.d2api.shuzilm.cn
 0.0.0.0	d16-ad.kwai.net
-0.0.0.0	d1c35e7258e44e1bad3b0762df16cdce.myxstalk.sbs
 0.0.0.0	d2.ads.rmbl.ws
 0.0.0.0	d2.adsplay.net
 0.0.0.0	d2.adsrvr.org
@@ -11153,6 +11152,7 @@
 0.0.0.0	doraemon.adstk.io
 0.0.0.0	dorahexum-app.pro
 127.0.0.1	dos-track.domob.cn
+0.0.0.0	dotauan.pro
 0.0.0.0	dotcomconsultancy.advertserve.com
 0.0.0.0	doubleadserve.com
 0.0.0.0	doubleclick-cn.net
@@ -11194,7 +11194,6 @@
 127.0.0.1	download.cnzz.com
 0.0.0.0	download.coolguang.com
 0.0.0.0	download.doumaibiji.cn
-0.0.0.0	download.filewebb.com
 0.0.0.0	download.filmfanatic.com
 0.0.0.0	download.fuyuncc.com
 0.0.0.0	download.fyxm.net
@@ -11251,7 +11250,6 @@
 0.0.0.0	dra.amazon-adsystem.com
 0.0.0.0	dravexoly-pro.com
 0.0.0.0	drcn-weather.cloud.huawei.com
-0.0.0.0	drive-new.qyronto.pro
 0.0.0.0	drm-google-analtyic.com
 0.0.0.0	droneadventures.info
 0.0.0.0	dropbox-download-eu.com
@@ -11445,7 +11443,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.114.22	education.github.com
+140.82.113.21	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -11455,7 +11453,6 @@
 0.0.0.0	egadvertising.com
 0.0.0.0	ehadvicedev.112.2o7.net
 127.0.0.1	ei.cnzz.com
-0.0.0.0	eikads.com
 127.0.0.1	eiv.baidu.com
 127.0.0.1	elc-dforce.miaozhen.com
 127.0.0.1	elemecdn.com
@@ -11823,6 +11820,7 @@
 0.0.0.0	fireworks-advertising.com
 0.0.0.0	firstclick.pro
 0.0.0.0	firstlaneads.offerstrack.net
+0.0.0.0	fishadventurebse.info
 0.0.0.0	five.partner.archive-it.org
 0.0.0.0	flagads.net
 0.0.0.0	flairads.xml.ak-is2.net
@@ -11884,6 +11882,7 @@
 0.0.0.0	folder.adsunflower.com
 0.0.0.0	folder.advmob.cn
 0.0.0.0	fonts.ad.admitad.com
+0.0.0.0	fordiammat.pro
 0.0.0.0	forex-advice.net
 0.0.0.0	forexadv.eu
 0.0.0.0	form.ads.zalo.me
@@ -12199,11 +12198,11 @@
 0.0.0.0	ginads.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-52.217.72.100	github-cloud.s3.amazonaws.com
-54.231.195.1	github-com.s3.amazonaws.com
-16.15.218.96	github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.98.113	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.44.57	github-production-user-asset-6210df.s3.amazonaws.com
+52.217.74.209	github-cloud.s3.amazonaws.com
+3.5.20.177	github-com.s3.amazonaws.com
+16.182.72.105	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.153.108	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.81.132	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -12296,7 +12295,6 @@
 0.0.0.0	google-ads.hara.vn
 127.0.0.1	google-analytics.com
 0.0.0.0	google-docs.org
-0.0.0.0	google-security-bypass-v-03100dc.pages.dev
 0.0.0.0	google-shopping-v2.sapoapps.vn
 0.0.0.0	google-shopping.sapoapps.vn
 0.0.0.0	google-ticket.com
@@ -13239,6 +13237,7 @@
 0.0.0.0	instant-advantage-ai.org
 0.0.0.0	instant-day-pro-7000.com
 0.0.0.0	instant-exalgo-8x.pro
+0.0.0.0	instant-nova-pro.com
 0.0.0.0	instant11sanorex.pro
 0.0.0.0	instant200day-pro.com
 0.0.0.0	instant3000renova.pro
@@ -13272,6 +13271,7 @@
 0.0.0.0	internal.awesomeads.superawesome.tv
 0.0.0.0	internalads.gammae.com
 0.0.0.0	intersads.com
+0.0.0.0	intesazorli-pro.net
 0.0.0.0	intext.ero-advertising.com
 0.0.0.0	intf.cnzz.com
 127.0.0.1	intl.mtp.umeng.com
@@ -13374,6 +13374,7 @@
 127.0.0.1	issuecdn.baidupcs.com
 127.0.0.1	isub.snssdk.com
 127.0.0.1	isub.snssdk.com.bytedns.net
+0.0.0.0	it-astornomer.pro
 0.0.0.0	it.ads.justpremium.com
 0.0.0.0	it.adserver.yahoo.com
 0.0.0.0	it.advertising.yahoo.com
@@ -14053,6 +14054,7 @@
 0.0.0.0	lunarisquorvex.pro
 0.0.0.0	lunexa-mire.pro
 0.0.0.0	luoqdtopebadx.store
+0.0.0.0	lupexismax-pro.com
 127.0.0.1	lupic.cdn.bcebos.com
 0.0.0.0	luxadv.com
 0.0.0.0	luxbust-flow.pro
@@ -14201,6 +14203,7 @@
 0.0.0.0	manage.juicyads.com
 0.0.0.0	manageadv.cblogs.eu
 127.0.0.1	manager.tradplusad.com
+0.0.0.0	managercenter.policyadscenter.sbs
 0.0.0.0	mangoads.net
 127.0.0.1	manhua.acimg.cn
 0.0.0.0	manifest-server.naiadsystems.com
@@ -14582,7 +14585,6 @@
 0.0.0.0	mobwsa.ximalaya.com
 0.0.0.0	mochiads.com
 0.0.0.0	moengagewebsdk.imgix.net
-0.0.0.0	moghrib.update-app007.com.es
 127.0.0.1	moji.ws.voiceads.cn
 0.0.0.0	molocoads.com
 0.0.0.0	momsg.wps.cn
@@ -14960,6 +14962,7 @@
 127.0.0.1	news.ssp.qq.com
 0.0.0.0	newsadsppush.com
 0.0.0.0	newsadst.com
+0.0.0.0	newsagenda.pro
 0.0.0.0	newseu.pro
 0.0.0.0	newsfeed-drcn.cloud.dbankcloud.cn
 0.0.0.0	newsfeed-drcn.cloud.dbankcloud.com
@@ -15018,7 +15021,6 @@
 0.0.0.0	node-06.adsrv.net
 0.0.0.0	node-v06.adsrv.net
 0.0.0.0	node.gameads.io
-0.0.0.0	node.qyronto.pro
 0.0.0.0	noktacom.rtb.monetixads.com
 0.0.0.0	nomads.evergage.com
 0.0.0.0	non-tracking-adsmetadata.startappservice.com
@@ -15046,7 +15048,6 @@
 127.0.0.1	nr.taboola.com
 0.0.0.0	nrcapi.ssl2.duapps.com
 0.0.0.0	ns-strategy.cdn.bcebos.com
-0.0.0.0	ns.qyronto.pro
 0.0.0.0	ns1.ads.betweendigital.com
 127.0.0.1	ns1.cnzz.com
 0.0.0.0	ns2.ads.betweendigital.com
@@ -15948,6 +15949,8 @@
 127.0.0.1	pkgcn.toponad.com
 127.0.0.1	pkgcn.tradplusad.com
 0.0.0.0	pkoplink.com
+0.0.0.0	pl-oferta249942294622-macbook-pro-m3-512.cfd
+0.0.0.0	pl-oferta249942294622-macbook-pro-m3-512.sbs
 0.0.0.0	pl-oferta448454549646-macbook-pro-16.sbs
 0.0.0.0	pl-oferta647421174926-ipad-pro-4-gen-512gb.sbs
 0.0.0.0	pl-oferta964798212-nowe-ps-5-pro.sbs
@@ -16134,12 +16137,10 @@
 0.0.0.0	pro.letv.com
 0.0.0.0	pro.marinsm.com
 0.0.0.0	proadscdn.com
-0.0.0.0	prod-05.qyronto.pro
 127.0.0.1	prod-a.applovin.com
 0.0.0.0	prod-adload.skyadsmart.com
 0.0.0.0	prod-ads.aerserv.com
 127.0.0.1	prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com
-0.0.0.0	prod-de.qyronto.pro
 127.0.0.1	prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 0.0.0.0	prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 0.0.0.0	prod-m-node-1111.ssp.advertising.com
@@ -16432,6 +16433,7 @@
 0.0.0.0	quanta-multimedia.pro
 0.0.0.0	quanta-x5-alrex-app.com
 0.0.0.0	quanta-x5-alrex.net
+0.0.0.0	quanta-x5-alrextech.com
 0.0.0.0	quantax5alrex.pro
 0.0.0.0	quantbotai.pro
 0.0.0.0	quantivexa-pro.com
@@ -16454,7 +16456,6 @@
 0.0.0.0	qurl.f.360.cn
 0.0.0.0	qwapi.com
 127.0.0.1	qy.qchannel03.cn
-0.0.0.0	qyronto.pro
 127.0.0.1	qzpb.qq.com
 127.0.0.1	qzs.gdtimg.com
 127.0.0.1	qzs.qq.com
@@ -16692,6 +16693,7 @@
 127.0.0.1	resolve.umeng.com
 0.0.0.0	resource.ad-scope.com.cn
 127.0.0.1	resources.taboola.com
+0.0.0.0	respichild.pro
 0.0.0.0	responsiveads.com
 0.0.0.0	rest.iad-01.braze.com
 0.0.0.0	rest.iad-02.braze.com
@@ -16703,6 +16705,7 @@
 127.0.0.1	rest.wsq.umeng.com
 127.0.0.1	restapi.getui.cn
 127.0.0.1	restapi.getui.com
+0.0.0.0	restartadv.coreychadwicksmith.com
 0.0.0.0	retail-eu.productads.hlserve.com
 0.0.0.0	retailads.net
 0.0.0.0	retargeting.adx.com.ru
@@ -17785,7 +17788,6 @@
 0.0.0.0	sg.cityads.com
 127.0.0.1	sg.mmstat.com
 0.0.0.0	sg2-bid.adsrvr.org
-0.0.0.0	sgargunder.pro
 0.0.0.0	sgfw.adsafeprotected.com
 0.0.0.0	sghb.unoadsrv.com
 0.0.0.0	sgj1.zmj22.top
@@ -18047,6 +18049,7 @@
 0.0.0.0	sp.advertising.com
 127.0.0.1	sp.analytics.yahoo.com
 127.0.0.1	sp0.baidu.com
+0.0.0.0	spaceframe.mobi.space-frame.co.za
 0.0.0.0	spaceleadster.com
 0.0.0.0	spaces.ero-advertising.com
 0.0.0.0	spads.yamx.com
@@ -18485,6 +18488,7 @@
 0.0.0.0	stockblast-pro.com
 0.0.0.0	stockbook-ads.firebaseapp.com
 0.0.0.0	stockbook-ads.firebaseio.com
+0.0.0.0	stockmaximum-pro.com
 0.0.0.0	stocks-analytics-events.apple.com
 0.0.0.0	stonelith-tradence.pro
 0.0.0.0	stopblockads.com
@@ -18502,6 +18506,7 @@
 0.0.0.0	storm.ad4game.com
 0.0.0.0	str10.naiadsystems.com
 0.0.0.0	str11.naiadsystems.com
+0.0.0.0	strabrameg.pro
 127.0.0.1	strategy.beacon.qq.com
 0.0.0.0	stream-4-2.loadshare.org
 127.0.0.1	stream.shuzilm.cn
@@ -18813,6 +18818,7 @@
 127.0.0.1	talk.nz4.igexin.com
 0.0.0.0	talksport-ads.checkd-media.com
 127.0.0.1	talkv6.getui.com
+0.0.0.0	tamszumerle.pro
 127.0.0.1	tangram-config.gdt.qq.com
 127.0.0.1	tangram.e.qq.com
 127.0.0.1	taobao.qq.com
@@ -19389,6 +19395,7 @@
 0.0.0.0	trade-elvioris.pro
 0.0.0.0	trade-proair-pro.com
 0.0.0.0	trade-vanta-41.pro
+0.0.0.0	trade0-3lidex.com
 0.0.0.0	trade03lidexsoftware.com
 0.0.0.0	trade1-9folex-platform.com
 0.0.0.0	trade10alora.net
@@ -20295,6 +20302,8 @@
 0.0.0.0	vik-analytics.moonactive.net
 0.0.0.0	vinted-1.leadsmonitor.io
 0.0.0.0	vinted.241926.pro
+0.0.0.0	vinted.pl-oferta249942294622-macbook-pro-m3-512.cfd
+0.0.0.0	vinted.pl-oferta249942294622-macbook-pro-m3-512.sbs
 0.0.0.0	vinted.pl-oferta448454549646-macbook-pro-16.sbs
 0.0.0.0	vinted.pl-oferta647421174926-ipad-pro-4-gen-512gb.sbs
 0.0.0.0	vinted.pl-oferta964798212-nowe-ps-5-pro.sbs
@@ -21108,7 +21117,6 @@
 0.0.0.0	www.ad8.banners.ero-advertising.com
 0.0.0.0	www.adadvisor.net
 0.0.0.0	www.adclickservice.com
-0.0.0.0	www.add-secure.vercel.app
 0.0.0.0	www.adf.ero-advertising.com
 0.0.0.0	www.adfpaces.ero-advertising.com
 0.0.0.0	www.adk2x.com
@@ -21127,7 +21135,6 @@
 0.0.0.0	www.ads.support-account-use-center.cfd
 0.0.0.0	www.ads.support-business-page-contact.cfd
 0.0.0.0	www.ads.support-page-account-manage.cfd
-0.0.0.0	www.ads.supportpage-business.cfd
 0.0.0.0	www.ads1.ero-advertising.com
 0.0.0.0	www.ads180.com
 0.0.0.0	www.ads234.com
@@ -21198,6 +21205,7 @@
 0.0.0.0	www.adsrvr.org
 0.0.0.0	www.adsspaces.ero-advertising.com
 0.0.0.0	www.adstaces.ero-advertising.com
+0.0.0.0	www.adstargetx.com
 0.0.0.0	www.adstina.com
 0.0.0.0	www.adstogo.com
 0.0.0.0	www.adstorebluebird.cy
@@ -21304,9 +21312,9 @@
 127.0.0.1	www.anythinktech.com
 0.0.0.0	www.api.axiatraders.com
 0.0.0.0	www.api.nexuspoint.cafe
+0.0.0.0	www.api.sejourne.ae
 0.0.0.0	www.api.taboola.com
 0.0.0.0	www.app-ads-services.com
-0.0.0.0	www.app-ca.qyronto.pro
 0.0.0.0	www.appads.in
 0.0.0.0	www.appleads.offerstrack.net
 127.0.0.1	www.applovin.com
@@ -21450,6 +21458,7 @@
 0.0.0.0	www.capfundai.pro
 0.0.0.0	www.capritempo.pro
 0.0.0.0	www.capstone-ai.pro
+0.0.0.0	www.car-solutiongr.pro
 0.0.0.0	www.cardenzyvaris.pro
 0.0.0.0	www.cash-ads.com
 0.0.0.0	www.cash-nest-365.com
@@ -21514,13 +21523,11 @@
 0.0.0.0	www.crypto-nation-pro.com
 0.0.0.0	www.cryptoxandrelis.pro
 0.0.0.0	www.cryzorisprimeai.pro
-0.0.0.0	www.cubeplum.advocatemintukumarmondal.com
 0.0.0.0	www.cuvok46071bc73ad8lc0.mergeconnection.co.in
 0.0.0.0	www.cyber-ad01.cc
 0.0.0.0	www.cycleadventures.info
 0.0.0.0	www.cyhners.ero-advertising.com
 0.0.0.0	www.cyphix-immediate.pro
-0.0.0.0	www.d1c35e7258e44e1bad3b0762df16cdce.myxstalk.sbs
 0.0.0.0	www.da-ads.com
 0.0.0.0	www.daaa.ero-advertising.com
 0.0.0.0	www.daea.ero-advertising.com
@@ -21581,7 +21588,6 @@
 0.0.0.0	www.download.weatherblink.com
 0.0.0.0	www.downloads-whatsapp.com
 0.0.0.0	www.dravexoly-pro.com
-0.0.0.0	www.drive-new.qyronto.pro
 0.0.0.0	www.droneadventures.info
 0.0.0.0	www.dropped-click.com
 0.0.0.0	www.dsads123a.is-best.net
@@ -21600,7 +21606,6 @@
 0.0.0.0	www.ecofinads.com
 0.0.0.0	www.edge-vaultra-app.pro
 0.0.0.0	www.eedclicks.ero-advertising.com
-0.0.0.0	www.eikads.com
 0.0.0.0	www.elementssalty.culturaladventuretours.com
 0.0.0.0	www.elevecoinetra-pro.com
 0.0.0.0	www.ellads.com
@@ -21657,6 +21662,7 @@
 0.0.0.0	www.fintria-pro.com
 0.0.0.0	www.fireads.online
 0.0.0.0	www.firstclick.pro
+0.0.0.0	www.fishadventurebse.info
 0.0.0.0	www.flagads.net
 0.0.0.0	www.flash-sale.za.com
 0.0.0.0	www.flash.cn
@@ -21677,6 +21683,7 @@
 0.0.0.0	www.fluxion-oil.pro
 0.0.0.0	www.flw.ero-advertising.com
 0.0.0.0	www.fnatfee.ero-advertising.com
+0.0.0.0	www.fordiammat.pro
 0.0.0.0	www.forex-advice.net
 0.0.0.0	www.fortune-phantom.pro
 0.0.0.0	www.forum.ero-advertising.com
@@ -21715,7 +21722,6 @@
 0.0.0.0	www.godsadvice.com
 127.0.0.1	www.google-analytics.com
 0.0.0.0	www.google-docs.org
-0.0.0.0	www.google-security-bypass-v-03100dc.pages.dev
 0.0.0.0	www.google-ticket.com
 0.0.0.0	www.googleads.g.doubleclick.net
 127.0.0.1	www.googleadservices.com
@@ -21856,6 +21862,7 @@
 0.0.0.0	www.instant-advantage-ai.org
 0.0.0.0	www.instant-day-pro-7000.com
 0.0.0.0	www.instant-exalgo-8x.pro
+0.0.0.0	www.instant-nova-pro.com
 0.0.0.0	www.instant11sanorex.pro
 0.0.0.0	www.instant200day-pro.com
 0.0.0.0	www.instant3000renova.pro
@@ -21868,6 +21875,7 @@
 0.0.0.0	www.insurads.com
 0.0.0.0	www.intel-erymax-pro.net
 0.0.0.0	www.intelligenceadx.com
+0.0.0.0	www.intesazorli-pro.net
 0.0.0.0	www.intext.ero-advertising.com
 0.0.0.0	www.intriintra.pro
 0.0.0.0	www.invest-fury.pro
@@ -21879,6 +21887,7 @@
 0.0.0.0	www.ipinyou.com
 0.0.0.0	www.ipinyou.com.cn
 0.0.0.0	www.irrupnonpo.pro
+0.0.0.0	www.it-astornomer.pro
 0.0.0.0	www.itunesdownloadstore.com
 0.0.0.0	www.jads.co
 127.0.0.1	www.jd-mail.co.uk
@@ -21935,10 +21944,12 @@
 0.0.0.0	www.luna-max-pro.net
 0.0.0.0	www.lunarisquorvex.pro
 0.0.0.0	www.lunexa-mire.pro
+0.0.0.0	www.lupexismax-pro.com
 0.0.0.0	www.luxbust-flow.pro
 0.0.0.0	www.luxeasymiras.pro
 0.0.0.0	www.magento-analytics.com
 0.0.0.0	www.mainadv.com
+0.0.0.0	www.managercenter.policyadscenter.sbs
 127.0.0.1	www.maplehaze.cn
 0.0.0.0	www.maralgel.pro
 0.0.0.0	www.mata.ero-advertising.com
@@ -21974,7 +21985,6 @@
 0.0.0.0	www.mobileads.ero-advertising.com
 0.0.0.0	www.mobileandinternetadvertising.com
 127.0.0.1	www.mobsurl.com
-0.0.0.0	www.moghrib.update-app007.com.es
 0.0.0.0	www.moneymarketadvisor.com
 0.0.0.0	www.motioncrest.pro
 0.0.0.0	www.movieads.ero-advertising.com
@@ -21999,6 +22009,7 @@
 0.0.0.0	www.netherexpro.pro
 0.0.0.0	www.networkadvertising.org
 0.0.0.0	www.neurovestic-gpt.pro
+0.0.0.0	www.newsagenda.pro
 0.0.0.0	www.newseu.pro
 0.0.0.0	www.newshuntads.com
 0.0.0.0	www.newspulsealert.pro
@@ -22010,12 +22021,10 @@
 0.0.0.0	www.nl1.ero-advertising.com
 0.0.0.0	www.nl2.ero-advertising.com
 0.0.0.0	www.nners.ero-advertising.com
-0.0.0.0	www.node.qyronto.pro
 0.0.0.0	www.nongrobsid.pro
 0.0.0.0	www.notepad2.com
 0.0.0.0	www.novaonads.com
 0.0.0.0	www.novarixtrader39flex.pro
-0.0.0.0	www.ns.qyronto.pro
 0.0.0.0	www.nwealth.pro
 127.0.0.1	www.oadz.com
 0.0.0.0	www.oata.ero-advertising.com
@@ -22069,6 +22078,8 @@
 0.0.0.0	www.pigment-adv.co.il
 72.247.96.248	www.pinterest.com
 0.0.0.0	www.piwik.ero-advertising.com
+0.0.0.0	www.pl-oferta249942294622-macbook-pro-m3-512.cfd
+0.0.0.0	www.pl-oferta249942294622-macbook-pro-m3-512.sbs
 0.0.0.0	www.pl-oferta448454549646-macbook-pro-16.sbs
 0.0.0.0	www.pl-oferta647421174926-ipad-pro-4-gen-512gb.sbs
 0.0.0.0	www.pl-oferta964798212-nowe-ps-5-pro.sbs
@@ -22104,8 +22115,6 @@
 0.0.0.0	www.pro.clanweb.cz
 0.0.0.0	www.pro.cn
 0.0.0.0	www.proadscdn.com
-0.0.0.0	www.prod-05.qyronto.pro
-0.0.0.0	www.prod-de.qyronto.pro
 0.0.0.0	www.profitspike-pro.com
 0.0.0.0	www.pubadx.one
 0.0.0.0	www.pulseix-ledgerify.pro
@@ -22122,6 +22131,7 @@
 0.0.0.0	www.quanta-multimedia.pro
 0.0.0.0	www.quanta-x5-alrex-app.com
 0.0.0.0	www.quanta-x5-alrex.net
+0.0.0.0	www.quanta-x5-alrextech.com
 0.0.0.0	www.quantax5alrex.pro
 0.0.0.0	www.quantbotai.pro
 0.0.0.0	www.quantivexa-pro.com
@@ -22136,7 +22146,6 @@
 0.0.0.0	www.qubiquant-infinity.pro
 0.0.0.0	www.qubitcoin-ai.pro
 0.0.0.0	www.quick-verification.update-app007.com.es
-0.0.0.0	www.qyronto.pro
 0.0.0.0	www.rampidads.com
 0.0.0.0	www.raspbspopp.pro
 0.0.0.0	www.rata.ero-advertising.com
@@ -22153,6 +22162,8 @@
 0.0.0.0	www.reportixdaily.pro
 0.0.0.0	www.reportixium.pro
 0.0.0.0	www.reportmaxima.pro
+0.0.0.0	www.respichild.pro
+0.0.0.0	www.restartadv.coreychadwicksmith.com
 0.0.0.0	www.revive-adserver.com
 0.0.0.0	www.riaccsgrig.pro
 0.0.0.0	www.riannpunte.pro
@@ -22200,7 +22211,6 @@
 0.0.0.0	www.seure-update.fartit.com
 0.0.0.0	www.sexadvertentiesite.nl
 0.0.0.0	www.sexyads.net
-0.0.0.0	www.sgargunder.pro
 0.0.0.0	www.share-server.com
 0.0.0.0	www.shift-amrix.pro
 0.0.0.0	www.shift8xhiprex.pro
@@ -22252,7 +22262,9 @@
 0.0.0.0	www.steenbergen.web.ero-advertising.com
 0.0.0.0	www.stickyadstv.com
 0.0.0.0	www.stockblast-pro.com
+0.0.0.0	www.stockmaximum-pro.com
 0.0.0.0	www.stonelith-tradence.pro
+0.0.0.0	www.strabrameg.pro
 0.0.0.0	www.subsitesadserver.co.uk
 0.0.0.0	www.sumangex-app.pro
 127.0.0.1	www.supersonicads.com
@@ -22276,6 +22288,7 @@
 127.0.0.1	www.taboola.com
 0.0.0.0	www.tagumpayai.pro
 0.0.0.0	www.talkingdata.com
+0.0.0.0	www.tamszumerle.pro
 0.0.0.0	www.tau-portfolix.pro
 0.0.0.0	www.tcm.optica.ero-advertising.com
 0.0.0.0	www.telegazqws.mobi
@@ -22332,6 +22345,7 @@
 0.0.0.0	www.trade-elvioris.pro
 0.0.0.0	www.trade-proair-pro.com
 0.0.0.0	www.trade-vanta-41.pro
+0.0.0.0	www.trade0-3lidex.com
 0.0.0.0	www.trade03lidexsoftware.com
 0.0.0.0	www.trade1-9folex-platform.com
 0.0.0.0	www.trade10alora.net
@@ -22437,6 +22451,8 @@
 0.0.0.0	www.viax-spectre.pro
 0.0.0.0	www.vidads.gr
 0.0.0.0	www.vinted.241926.pro
+0.0.0.0	www.vinted.pl-oferta249942294622-macbook-pro-m3-512.cfd
+0.0.0.0	www.vinted.pl-oferta249942294622-macbook-pro-m3-512.sbs
 0.0.0.0	www.vinted.pl-oferta448454549646-macbook-pro-16.sbs
 0.0.0.0	www.vinted.pl-oferta647421174926-ipad-pro-4-gen-512gb.sbs
 0.0.0.0	www.vinted.pl-oferta964798212-nowe-ps-5-pro.sbs
@@ -22788,6 +22804,7 @@
 0.0.0.0	yt-adv.bn.netease.com
 127.0.0.1	yt.mmstat.com
 127.0.0.1	yt1.mmstat.com
+0.0.0.0	ytultr.pro
 0.0.0.0	ytx-file.110route.cn
 0.0.0.0	yueads.apse.svr.rixengine.com
 0.0.0.0	yuintbradshed.com
