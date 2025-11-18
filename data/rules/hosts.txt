@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-11-18 12:26:20
-# 规则总数: 23425
+# 最后更新时间: 2025-11-19 00:29:47
+# 规则总数: 23431
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -6247,6 +6247,7 @@
 0.0.0.0	adx-ad.smart-tv.cn
 0.0.0.0	adx-apac.adnxs.com
 0.0.0.0	adx-api.bobbleapp.me
+0.0.0.0	adx-api.jinmo.tech
 0.0.0.0	adx-asia-imp.aarki.net
 0.0.0.0	adx-asia.aarki.net
 0.0.0.0	adx-bid.tianzhuobj.com
@@ -7791,7 +7792,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.112.22	api.individual.githubcopilot.com
+140.82.113.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -9551,7 +9552,7 @@
 0.0.0.0	cale.advance.net
 0.0.0.0	call-ad-network-api.marchex.com
 127.0.0.1	callback.tradplusad.com
-185.199.111.133	camo.githubusercontent.com
+185.199.108.133	camo.githubusercontent.com
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
 0.0.0.0	campaigns-performance-data-stream-dev.sonar-ads.com
@@ -11485,7 +11486,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.114.22	education.github.com
+152.32.215.247	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -11790,7 +11791,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.111.133	favicons.githubusercontent.com
+185.199.108.133	favicons.githubusercontent.com
 0.0.0.0	fb.adsrvr.org
 127.0.0.1	fb.umeng.com
 127.0.0.1	fc-feed.cdn.bcebos.com
@@ -12262,11 +12263,11 @@
 0.0.0.0	ginads.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-52.216.42.1	github-cloud.s3.amazonaws.com
-16.15.189.240	github-com.s3.amazonaws.com
-16.15.191.135	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.200.48	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.177.81	github-production-user-asset-6210df.s3.amazonaws.com
+16.15.177.235	github-cloud.s3.amazonaws.com
+3.5.27.82	github-com.s3.amazonaws.com
+52.217.71.204	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.124.201	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.19.145	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -12274,7 +12275,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.111.133	github.map.fastly.net
+185.199.108.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	gitlab-dev-pages.adsrvr.org
 127.0.0.1	gj.applog.uc.cn
@@ -14737,6 +14738,7 @@
 127.0.0.1	monitor-uu.play.aiseet.atianqi.com
 0.0.0.0	monitor.ad4game.com
 127.0.0.1	monitor.ads.8le8le.com
+0.0.0.0	monitor.adxsenmeng.com
 127.0.0.1	monitor.dsp.mob.com
 0.0.0.0	monitor.hot-mob.com
 127.0.0.1	monitor.music.qq.com
@@ -16057,7 +16059,7 @@
 127.0.0.1	pingtcss.qq.com
 0.0.0.0	pinterest.adsymptotic.com
 72.247.96.248	pinterest.com
-13.107.42.16	pipelines.actions.githubusercontent.com
+152.32.215.247	pipelines.actions.githubusercontent.com
 0.0.0.0	pirroprefe.pro
 127.0.0.1	pitaya.bytedance.com
 0.0.0.0	pitk.birdgesdk.com
@@ -16281,7 +16283,7 @@
 0.0.0.0	prismledger.pro
 127.0.0.1	privacy.api.intl.miui.com
 0.0.0.0	privacy.yieldlove-ad-serving.net
-185.199.111.133	private-user-images.githubusercontent.com
+152.32.215.247	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-aiapp-pl.com
@@ -16562,6 +16564,7 @@
 127.0.0.1	qiye11.ejunshi.net
 0.0.0.0	qlj12-njv3l.ads.tremorhub.com
 127.0.0.1	qm-ab.wtzw.com
+0.0.0.0	qmlog.baertt.com
 0.0.0.0	qmsdk.shouji.sogou.com
 0.0.0.0	qn-cdnfile1pcdn.msstatic.com
 127.0.0.1	qos.report.qq.com
@@ -17037,6 +17040,7 @@
 0.0.0.0	rtb.adview.cn
 0.0.0.0	rtb.adx1.com
 0.0.0.0	rtb.adxpremium.services
+0.0.0.0	rtb.adxsenmeng.com
 0.0.0.0	rtb.avads.net
 0.0.0.0	rtb.beesads.com
 0.0.0.0	rtb.djaxadserver.com
@@ -17200,6 +17204,7 @@
 0.0.0.0	s0-2mdn-net.l.google.com
 127.0.0.1	s0.doubleclick.net
 0.0.0.0	s1.adsplay.in
+0.0.0.0	s1.cdn-sg.advlion.com
 127.0.0.1	s1.cmfu.com
 127.0.0.1	s1.cnzz.com
 0.0.0.0	s1.inviziads.com
@@ -19046,6 +19051,7 @@
 127.0.0.1	tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0	tapjoyads.com
 0.0.0.0	tarfendouq.pro
+0.0.0.0	target.ads.jihuoniao.com
 0.0.0.0	targetads.io
 0.0.0.0	targeting.api.drift.com
 0.0.0.0	tas-ba.toboads.com
@@ -20839,7 +20845,7 @@
 0.0.0.0	vs9.gzcm.u3.ucweb.com
 0.0.0.0	vs9.gzct.u3.ucweb.com
 0.0.0.0	vs9.gzcu.u3.ucweb.com
-13.107.213.73	vscode.dev
+152.32.215.247	vscode.dev
 0.0.0.0	vscore.pro
 0.0.0.0	vserv.mobi
 127.0.0.1	vshi.tc.qq.com
