@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-11-20 00:29:25
+# 最后更新时间: 2025-11-20 12:24:54
 # 规则总数: 23321
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -7786,7 +7786,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.112.21	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -9906,7 +9906,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	cemnet.advertserve.com
 0.0.0.0	cengineapi.contextads.live
-140.82.114.22	central.github.com
+140.82.112.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -10355,7 +10355,7 @@
 0.0.0.0	code.native-ad.net
 127.0.0.1	code.sms.mob.com
 0.0.0.0	codeads.com
-140.82.112.9	codeload.github.com
+20.205.243.165	codeload.github.com
 0.0.0.0	coin-ad.com
 0.0.0.0	coin-edex-pro.com
 0.0.0.0	coinads.io
@@ -11457,7 +11457,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.113.22	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -12231,11 +12231,11 @@
 0.0.0.0	ginads.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-3.5.22.216	github-cloud.s3.amazonaws.com
-52.217.99.116	github-com.s3.amazonaws.com
-3.5.27.95	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.172.25	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.137.201	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.78.172	github-cloud.s3.amazonaws.com
+52.217.207.105	github-com.s3.amazonaws.com
+52.217.121.169	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.218.1	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.143.33	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
