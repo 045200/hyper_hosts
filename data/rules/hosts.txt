@@ -1,4 +1,4 @@
-# 最后更新时间: 2025-11-29 00:27:06
+# 最后更新时间: 2025-11-29 12:25:54
 # 规则总数: 22456
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -7768,7 +7768,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.113.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -9825,7 +9825,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	cemnet.advertserve.com
 0.0.0.0	cengineapi.contextads.live
-140.82.113.21	central.github.com
+140.82.113.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -11343,7 +11343,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.112.22	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -12081,17 +12081,17 @@
 0.0.0.0	ginads.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-16.15.183.173	github-cloud.s3.amazonaws.com
-52.216.62.161	github-com.s3.amazonaws.com
-16.15.178.76	github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.71.33	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.218.181	github-production-user-asset-6210df.s3.amazonaws.com
+16.15.217.147	github-cloud.s3.amazonaws.com
+3.5.8.131	github-com.s3.amazonaws.com
+16.15.192.97	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.9.21	github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.30.18	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-151.101.129.194	github.global.ssl.fastly.net
+151.101.65.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
 185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
