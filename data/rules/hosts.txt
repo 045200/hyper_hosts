@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-11-30 12:34:46
-# 规则总数: 22395
+# 最后更新时间: 2025-12-01 00:25:24
+# 规则总数: 22409
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -1493,6 +1493,7 @@
 0.0.0.0	ad.setn.com
 0.0.0.0	ad.sg.doubleclick.net
 0.0.0.0	ad.sgdgjarfpp123.com
+0.0.0.0	ad.shenshiads.com
 0.0.0.0	ad.shepard.ad-stir.com
 127.0.0.1	ad.shunchangzhixing.com
 0.0.0.0	ad.si.doubleclick.net
@@ -5791,6 +5792,7 @@
 0.0.0.0	adultadvertising.com
 0.0.0.0	adunit.cdn.auditude.com
 0.0.0.0	adv-adserver.com
+0.0.0.0	adv-api.shenshiads.com
 0.0.0.0	adv-ettoday.cdn.hinet.net
 0.0.0.0	adv-front.devpnd.com
 0.0.0.0	adv-mydarkness.ggcorp.me
@@ -6883,6 +6885,7 @@
 0.0.0.0	analytics.nrg.com
 0.0.0.0	analytics.ns1.ff.avast.com
 0.0.0.0	analytics.ntlc.com.vn
+0.0.0.0	analytics.oceanengine.com
 0.0.0.0	analytics.onesearch.id
 0.0.0.0	analytics.onfluencer.net
 0.0.0.0	analytics.ooyala.com
@@ -7767,7 +7770,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.113.22	api.individual.githubcopilot.com
+140.82.112.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -8484,6 +8487,7 @@
 127.0.0.1	applog-lf.ixigua.com
 127.0.0.1	applog-lq.fqnovel.com
 127.0.0.1	applog-lq.ixigua.com
+0.0.0.0	applog-perf.uc.cn
 127.0.0.1	applog.camera360.com
 0.0.0.0	applog.lc.quark.cn
 127.0.0.1	applog.reader.qq.com
@@ -9455,7 +9459,7 @@
 0.0.0.0	cale.advance.net
 0.0.0.0	call-ad-network-api.marchex.com
 127.0.0.1	callback.tradplusad.com
-185.199.109.133	camo.githubusercontent.com
+185.199.111.133	camo.githubusercontent.com
 0.0.0.0	camopae.pro
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
@@ -9816,7 +9820,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	cemnet.advertserve.com
 0.0.0.0	cengineapi.contextads.live
-140.82.114.22	central.github.com
+140.82.112.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -11335,7 +11339,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.114.21	education.github.com
+140.82.113.22	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -11373,6 +11377,7 @@
 0.0.0.0	engine.adsupply.com
 0.0.0.0	engine.carbonads.com
 127.0.0.1	engine.data.cnzz.com
+0.0.0.0	engine.dcad01.com
 0.0.0.0	engine.labs.adsupply.com
 0.0.0.0	engine.nectarads.com
 0.0.0.0	engine.tronads.io
@@ -11621,7 +11626,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.109.133	favicons.githubusercontent.com
+185.199.111.133	favicons.githubusercontent.com
 0.0.0.0	fb.adsrvr.org
 127.0.0.1	fb.umeng.com
 127.0.0.1	fc-feed.cdn.bcebos.com
@@ -12069,11 +12074,11 @@
 0.0.0.0	ginads.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-16.182.32.105	github-cloud.s3.amazonaws.com
-16.15.184.219	github-com.s3.amazonaws.com
-16.15.194.97	github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.204.9	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.184.25	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.10.180	github-cloud.s3.amazonaws.com
+16.15.207.193	github-com.s3.amazonaws.com
+3.5.6.125	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.41.89	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.197.247	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -12081,7 +12086,7 @@
 185.199.110.154	github.githubassets.com
 151.101.65.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.109.133	github.map.fastly.net
+185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	gitlab-dev-pages.adsrvr.org
 127.0.0.1	gj.applog.uc.cn
@@ -13738,6 +13743,7 @@
 0.0.0.0	log.fc.yahoo.com
 127.0.0.1	log.gds.mmstat.com
 0.0.0.0	log.iflytek.com
+0.0.0.0	log.ireader.com
 127.0.0.1	log.isnssdk.com
 127.0.0.1	log.kuwo.cn
 127.0.0.1	log.m.sm.cn
@@ -13786,6 +13792,7 @@
 0.0.0.0	loginmojeing.ingbank.pl.adspire.top
 127.0.0.1	logonext.tv.kuyun.com
 127.0.0.1	logrcv.aiclk.com
+0.0.0.0	logrcv.yunxish.com
 0.0.0.0	logresskleso.pro
 0.0.0.0	logs.amap.com
 127.0.0.1	logs.umeng.com
@@ -13797,6 +13804,7 @@
 127.0.0.1	logstat.caixin.com
 0.0.0.0	logtj.kugou.com
 127.0.0.1	logupdate.avlyun.sec.miui.com
+0.0.0.0	logwebs.kugou.com
 0.0.0.0	lokalneecha.pro
 127.0.0.1	lon6-accesspoint-a33.lon6.spotify.com
 0.0.0.0	londerafex.pro
@@ -13891,6 +13899,7 @@
 127.0.0.1	m.mpl.dutils.com
 0.0.0.0	m.one.impact-ad.jp
 0.0.0.0	m.servedby-buysellads.com
+0.0.0.0	m.shenshiads.com
 127.0.0.1	m.sigmob.com
 127.0.0.1	m.simaba.taobao.com
 0.0.0.0	m.simba.taobao.com
@@ -14990,6 +14999,7 @@
 127.0.0.1	open-cms-api.quark.cn
 0.0.0.0	open-iflow.meizu.com
 127.0.0.1	open-pixon.ads-pixiv.net
+0.0.0.0	open-set-api.shenshiads.com
 0.0.0.0	open.admaster.com.cn
 0.0.0.0	open.adsaide.cn
 0.0.0.0	open.adview.cn
@@ -15924,7 +15934,7 @@
 0.0.0.0	prismaveldauf.pro
 127.0.0.1	privacy.api.intl.miui.com
 0.0.0.0	privacy.yieldlove-ad-serving.net
-185.199.109.133	private-user-images.githubusercontent.com
+185.199.111.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-factory.com
@@ -17020,6 +17030,8 @@
 0.0.0.0	saditeo.pro
 0.0.0.0	safe.res.meizu.com
 127.0.0.1	safe.ucweb.com
+0.0.0.0	safebrowsing.googleapis.com
+0.0.0.0	safebrowsing.urlsec.gg.com
 0.0.0.0	sagan.iad-03.braze.com
 0.0.0.0	saimedrox.pro
 0.0.0.0	salmonads.com
@@ -19035,6 +19047,7 @@
 0.0.0.0	trace.ynet.com
 127.0.0.1	tracelog-debug.aiclk.com
 0.0.0.0	tracelog-debug.qquanquan.com
+0.0.0.0	tracelog-debug.yunxish.com
 127.0.0.1	track-config.y5kfpt.com
 0.0.0.0	track-dmp.ad-falcon.com
 127.0.0.1	track-dsp.adwangmai.com
@@ -22063,6 +22076,7 @@
 0.0.0.0	xblasterads1.com
 127.0.0.1	xc.gdt.qq.com
 0.0.0.0	xcelsiusadserver.com
+0.0.0.0	xcx.dcad01.com
 127.0.0.1	xd-q.mediav.com
 0.0.0.0	xd.mediav.com
 127.0.0.1	xdcs-collector.ximalaya.com
