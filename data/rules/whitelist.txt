@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-12-12 12:34:37
-# 白名单总数: 343
+# 最后更新时间: 2025-12-13 00:28:22
+# 白名单总数: 344
 #########
 #Adaway专用白名单
 #禁止用在拦截黑名单或者Adguard订阅
@@ -269,6 +269,7 @@ ossapi.baidu.com
 p**-ppx.byteimg.com
 p-l.play.aiseet.atianqi.com
 p.qlogo.cn
+p3-tt.byteimg.com
 pacaio.match.qq.com
 pdds-c1-cdn.uc.cn
 pdds.ucweb.com
