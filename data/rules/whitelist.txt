@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-12-15 00:26:05
-# 白名单总数: 344
+# 最后更新时间: 2025-12-15 12:42:08
+# 白名单总数: 345
 #########
 #Adaway专用白名单
 #禁止用在拦截黑名单或者Adguard订阅
@@ -167,6 +167,7 @@ data.sec*.miui.com
 di.phncdn.com
 dig.bdurl.net
 dig.zjurl.cn
+dl.zuimeitianqi.com
 dm.toutiao.com
 dm1.phncdn.com
 dns.alidns.com
