@@ -1,5 +1,5 @@
-# 最后更新时间: 2025-12-15 12:42:08
-# 规则总数: 22598
+# 最后更新时间: 2025-12-16 00:34:06
+# 规则总数: 22597
 # 项目地址: https://github.com/045200/hyper_hosts
 
 0.0.0.0	0-bloghkgadv.app.salemove.com
@@ -7783,7 +7783,7 @@
 0.0.0.0	api.inboxdollars.com
 0.0.0.0	api.indexexchange.com
 0.0.0.0	api.indicative.com
-140.82.114.22	api.individual.githubcopilot.com
+140.82.114.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 0.0.0.0	api.inmense.site
 127.0.0.1	api.inmobi.cn
@@ -9479,7 +9479,7 @@
 0.0.0.0	cale.advance.net
 0.0.0.0	call-ad-network-api.marchex.com
 127.0.0.1	callback.tradplusad.com
-185.199.110.133	camo.githubusercontent.com
+185.199.111.133	camo.githubusercontent.com
 0.0.0.0	camopae.pro
 0.0.0.0	campads.xyz
 0.0.0.0	campaign.ad-brix.com
@@ -9843,7 +9843,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	cemnet.advertserve.com
 0.0.0.0	cengineapi.contextads.live
-140.82.114.22	central.github.com
+140.82.114.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -10989,7 +10989,6 @@
 0.0.0.0	dl.ops.baidu.com
 127.0.0.1	dl.txcdns.com
 0.0.0.0	dl.union.ijinshan.com
-0.0.0.0	dl.zuimeitianqi.com
 127.0.0.1	dl2.bav.baidu.com
 127.0.0.1	dl_dir.qq.com
 127.0.0.1	dl_dir2.qq.com
@@ -11665,7 +11664,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.110.133	favicons.githubusercontent.com
+185.199.111.133	favicons.githubusercontent.com
 0.0.0.0	fb.adsrvr.org
 127.0.0.1	fb.umeng.com
 127.0.0.1	fc-feed.cdn.bcebos.com
@@ -12110,19 +12109,19 @@
 0.0.0.0	ginads.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-16.15.191.116	github-cloud.s3.amazonaws.com
-54.231.232.145	github-com.s3.amazonaws.com
-16.15.199.223	github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.11.194	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.174.81	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.249.76	github-cloud.s3.amazonaws.com
+16.15.207.180	github-com.s3.amazonaws.com
+52.217.202.241	github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.192.41	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.184.3	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-151.101.193.194	github.global.ssl.fastly.net
+151.101.129.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.110.133	github.map.fastly.net
+185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 0.0.0.0	gitlab-dev-pages.adsrvr.org
 127.0.0.1	gj.applog.uc.cn
@@ -16011,7 +16010,7 @@
 0.0.0.0	prismaveldauf.pro
 127.0.0.1	privacy.api.intl.miui.com
 0.0.0.0	privacy.yieldlove-ad-serving.net
-185.199.110.133	private-user-images.githubusercontent.com
+185.199.111.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-factory.com
@@ -17109,7 +17108,6 @@
 0.0.0.0	sadc1.outbrain.org
 0.0.0.0	safe.res.meizu.com
 127.0.0.1	safe.ucweb.com
-0.0.0.0	safebrowsing.googleapis.com
 0.0.0.0	safebrowsing.urlsec.gg.com
 0.0.0.0	sagan.iad-03.braze.com
 0.0.0.0	saimedrox.pro
@@ -18496,6 +18494,7 @@
 0.0.0.0	sygic-api.infinario.com
 0.0.0.0	syh-imp.cdnjtzy.com
 127.0.0.1	syh-report.tingyun.com
+0.0.0.0	syh.zybang.com
 0.0.0.0	synad2.nuffnang.com.cn
 0.0.0.0	synad3.nuffnang.com.my
 0.0.0.0	sync-adform.ads.yieldmo.com
