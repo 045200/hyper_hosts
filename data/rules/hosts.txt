@@ -1,4 +1,4 @@
-# 最后更新时间: 2026-01-01 12:50:13
+# 最后更新时间: 2026-01-02 00:29:11
 # 规则总数: 16706
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -5278,7 +5278,7 @@
 127.0.0.1	api.im.jpush.cn
 0.0.0.0	api.immomo.com
 0.0.0.0	api.indicative.com
-140.82.112.21	api.individual.githubcopilot.com
+140.82.113.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 127.0.0.1	api.inmobi.cn
 127.0.0.1	api.instabug.com
@@ -6704,7 +6704,7 @@
 0.0.0.0	ceadx.agrantsem.com
 0.0.0.0	cellfun.mobi
 127.0.0.1	cellinfo.tingyun.com
-140.82.113.22	central.github.com
+140.82.114.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	cercorastr.pro
@@ -7099,7 +7099,7 @@
 0.0.0.0	code.native-ad.net
 127.0.0.1	code.sms.mob.com
 0.0.0.0	codeads.com
-140.82.113.10	codeload.github.com
+20.205.243.165	codeload.github.com
 0.0.0.0	cognicare-pro-app.com
 0.0.0.0	coin-ad.com
 0.0.0.0	col.mobileads.msn.com
@@ -7910,7 +7910,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.114.21	education.github.com
+140.82.113.21	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -8433,11 +8433,11 @@
 127.0.0.1	gini.snssdk.com
 0.0.0.0	giocopremu.pro
 20.205.243.166	gist.github.com
-16.182.105.153	github-cloud.s3.amazonaws.com
-52.217.166.89	github-com.s3.amazonaws.com
-16.182.38.25	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.128.161	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.197.169	github-production-user-asset-6210df.s3.amazonaws.com
+52.217.128.49	github-cloud.s3.amazonaws.com
+16.182.33.49	github-com.s3.amazonaws.com
+52.217.229.145	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.133.209	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.226.217	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
