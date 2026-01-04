@@ -1,5 +1,5 @@
-# 最后更新时间: 2026-01-04 00:27:16
-# 白名单总数: 347
+# 最后更新时间: 2026-01-04 12:50:19
+# 白名单总数: 351
 #########
 #Adaway专用白名单
 #禁止用在拦截黑名单或者Adguard订阅
@@ -283,6 +283,8 @@ puds.ucweb.com
 pv.sohu.com
 py.qlogo.cn
 py2.qlogo.cn
+qappcenterv*.qq.com
+qappcenterv6.3g.qq.com
 qhres2.com
 rcs.cmpassport.com
 register*mi.com
@@ -330,9 +332,11 @@ sugar.zhihu.com
 sugs.m.sm.cn
 t.uc.cn
 t7z.cupid.iqiyi.com
+tangram.e.qq.com
 target.clickfunnels.com
 tbskip.taobao.com
 tbsone.imtt.qq.com
+tdid.m.qq.com
 tracker.ai.xiaomi.com
 tracking.*miui.com
 tunion-api.m.taobao.com
