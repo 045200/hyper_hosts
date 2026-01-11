@@ -1,4 +1,4 @@
-# 最后更新时间: 2026-01-11 12:49:45
+# 最后更新时间: 2026-01-12 00:27:15
 # 规则总数: 16987
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -5278,7 +5278,7 @@
 127.0.0.1	api.im.jpush.cn
 0.0.0.0	api.immomo.com
 0.0.0.0	api.indicative.com
-140.82.112.22	api.individual.githubcopilot.com
+140.82.113.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 127.0.0.1	api.inmobi.cn
 127.0.0.1	api.instabug.com
@@ -6490,7 +6490,7 @@
 0.0.0.0	cal.meizu.com
 0.0.0.0	call-ad-network-api.marchex.com
 127.0.0.1	callback.tradplusad.com
-185.199.109.133	camo.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
 0.0.0.0	candidissi.pro
@@ -7125,7 +7125,7 @@
 0.0.0.0	code.native-ad.net
 127.0.0.1	code.sms.mob.com
 0.0.0.0	codeads.com
-140.82.113.10	codeload.github.com
+140.82.114.10	codeload.github.com
 0.0.0.0	coextavang.pro
 0.0.0.0	cognicare-pro-app.com
 0.0.0.0	coin-ad.com
@@ -8155,7 +8155,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.109.133	favicons.githubusercontent.com
+185.199.110.133	favicons.githubusercontent.com
 127.0.0.1	fb.umeng.com
 127.0.0.1	fc-feed.cdn.bcebos.com
 127.0.0.1	fc.yahoo.com
@@ -8501,11 +8501,11 @@
 127.0.0.1	gini.snssdk.com
 0.0.0.0	giocopremu.pro
 20.205.243.166	gist.github.com
-54.231.163.249	github-cloud.s3.amazonaws.com
-16.182.36.177	github-com.s3.amazonaws.com
-52.217.17.212	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.177.235	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.171.1	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.10.138	github-cloud.s3.amazonaws.com
+52.217.206.89	github-com.s3.amazonaws.com
+52.217.126.1	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.217.164	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.48.180	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -8513,7 +8513,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.109.133	github.map.fastly.net
+185.199.110.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 127.0.0.1	gj.applog.uc.cn
 0.0.0.0	gj.gds.mmstat.com
@@ -11615,7 +11615,7 @@
 0.0.0.0	prism.pandora.tv
 0.0.0.0	prismafloukend.pro
 127.0.0.1	privacy.api.intl.miui.com
-185.199.109.133	private-user-images.githubusercontent.com
+185.199.110.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-factory.com
