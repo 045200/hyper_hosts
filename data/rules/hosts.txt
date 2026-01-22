@@ -1,5 +1,5 @@
-# 最后更新时间: 2026-01-22 00:53:07
-# 规则总数: 16729
+# 最后更新时间: 2026-01-22 12:50:27
+# 规则总数: 16704
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -433,7 +433,6 @@
 127.0.0.1	abtest5-misc-hl.zijieapi.com
 127.0.0.1	abtest5-misc-lq.zijieapi.com
 127.0.0.1	abtest5-misc.zijieapi.com
-0.0.0.0	abyssvioli.pro
 127.0.0.1	ac.mmstat.com
 127.0.0.1	ac.o2.qq.com
 0.0.0.0	ac1.cloud.net.cn
@@ -4003,7 +4002,6 @@
 0.0.0.0	advancedmn.us.intellitxt.com
 127.0.0.1	advancelocal-adapter-image-uploads.s3.amazonaws.com
 0.0.0.0	advancelocal.blueconic.net
-0.0.0.0	advancepathflow12.sbs
 0.0.0.0	advancesurge.com
 0.0.0.0	advangelists.com
 0.0.0.0	advantmanpower.com
@@ -4426,6 +4424,7 @@
 0.0.0.0	ams1-mobile.adnxs.com
 0.0.0.0	ams1.ib.adnxs.com
 127.0.0.1	amsapp.yicai.com
+0.0.0.0	amuqam.pro
 0.0.0.0	amz-ad.a8.net
 127.0.0.1	an.facebook.com
 0.0.0.0	an.yandex.ru
@@ -5233,7 +5232,7 @@
 127.0.0.1	api.im.jpush.cn
 0.0.0.0	api.immomo.com
 0.0.0.0	api.indicative.com
-140.82.112.22	api.individual.githubcopilot.com
+140.82.114.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 127.0.0.1	api.inmobi.cn
 127.0.0.1	api.instabug.com
@@ -5550,6 +5549,8 @@
 127.0.0.1	api1.tuisong.baidu.com
 0.0.0.0	api16-access-gcp.pangle.io
 0.0.0.0	api16-access-sg.pangle.io
+0.0.0.0	api16-access-wf-sg.pangle.io
+0.0.0.0	api16-dual-event-sg2.pangle.io
 127.0.0.1	api2.appsflyer.com
 0.0.0.0	api2.boclinkads.com
 127.0.0.1	api2.branch.io
@@ -5678,7 +5679,6 @@
 0.0.0.0	ark.cp21.ott.cibntv.net
 127.0.0.1	ark.letv.com
 127.0.0.1	arm.z74d.cn
-0.0.0.0	armonpioci.pro
 0.0.0.0	arterfruit.pro
 127.0.0.1	artifacts.applovin.com
 0.0.0.0	as.ad.impact-ad.jp
@@ -5762,7 +5762,6 @@
 0.0.0.0	atlas.iad-03.braze.com
 0.0.0.0	atlas.leadboltads.net
 0.0.0.0	atlasforgeanalytics.mobi
-0.0.0.0	atlastrailadvisors.mom
 0.0.0.0	atletsovve.pro
 127.0.0.1	atm.youku.com
 127.0.0.1	atm.yoyi.com.cn
@@ -6206,6 +6205,7 @@
 0.0.0.0	bond.iad-03.braze.com
 0.0.0.0	bong88.pro
 0.0.0.0	bongacams.com
+0.0.0.0	booking.guest-info-update.com
 127.0.0.1	bookmark.cnzz.com
 0.0.0.0	books-analytics-events.apple.com
 0.0.0.0	boomads.com
@@ -6229,7 +6229,6 @@
 0.0.0.0	breezzy7air.pro
 0.0.0.0	bricks.e.qq.com
 0.0.0.0	bridgeoos.com
-0.0.0.0	brighttrailanalytics.mobi
 0.0.0.0	bro.flyme.cn
 0.0.0.0	broadspring.com
 0.0.0.0	broadstreetads.com
@@ -6430,7 +6429,7 @@
 0.0.0.0	cal.meizu.com
 0.0.0.0	call-ad-network-api.marchex.com
 127.0.0.1	callback.tradplusad.com
-185.199.110.133	camo.githubusercontent.com
+185.199.111.133	camo.githubusercontent.com
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
 0.0.0.0	canthditri.pro
@@ -6672,13 +6671,12 @@
 0.0.0.0	celeretnic.pro
 0.0.0.0	cellfun.mobi
 127.0.0.1	cellinfo.tingyun.com
-140.82.114.21	central.github.com
+140.82.113.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceorlpatog.pro
 0.0.0.0	ceres.iad-03.braze.com
 0.0.0.0	certificates.godaddy.com
-0.0.0.0	cespipreli.pro
 127.0.0.1	cesule.tingyun.com
 0.0.0.0	cf-ad.ad-stir.com
 0.0.0.0	cf-ads.pinger.com
@@ -6710,13 +6708,14 @@
 127.0.0.1	channels.weixin.qq.com
 127.0.0.1	charge.adapp.baidu.com
 0.0.0.0	chart.advinion.com
-0.0.0.0	chaskithreads.store
 0.0.0.0	chat.ero-advertising.com
 0.0.0.0	chat1.jd.com
 0.0.0.0	check-activity.com.ru
 0.0.0.0	check-eligibility.bt70093.com
+0.0.0.0	check-in-assistant.com
 0.0.0.0	check-inf-stay.com
 0.0.0.0	check-tcp.rayjump.com
+0.0.0.0	check-your-style.online
 0.0.0.0	check.rayjump.com
 0.0.0.0	checker.cityads.com
 0.0.0.0	cheroenhal.pro
@@ -6739,7 +6738,6 @@
 0.0.0.0	cicchlecca.pro
 0.0.0.0	circuit.advertserve.com
 0.0.0.0	circurimpi.pro
-0.0.0.0	circusciol.pro
 0.0.0.0	cityads.com
 0.0.0.0	cityads.telus.net
 0.0.0.0	cityadstrack.com
@@ -7087,7 +7085,6 @@
 127.0.0.1	community.xw.qq.com
 0.0.0.0	communityinsighthub.pro
 127.0.0.1	compass.umeng.com
-0.0.0.0	compisorgi.pro
 0.0.0.0	concertads-configs.vox-cdn.com
 0.0.0.0	conde.adsame.com
 127.0.0.1	conf-inner.tradplusad.com
@@ -7132,6 +7129,7 @@
 0.0.0.0	content.adspynet.com
 127.0.0.1	contenttracking.cn.miaozhen.com
 0.0.0.0	conv.youdao.com
+0.0.0.0	convedoble.pro
 0.0.0.0	conversion.pro.cn
 0.0.0.0	conversions.adaptv.advertising.com
 127.0.0.1	conversions.appsflyer.com
@@ -7221,7 +7219,6 @@
 0.0.0.0	criteo-sync.teads.tv.edgekey.net
 127.0.0.1	crl.microsoft.com
 127.0.0.1	crosspro-track.tradplusad.com
-0.0.0.0	crossungre.pro
 127.0.0.1	crs.baidu.com
 0.0.0.0	crunchx.pro
 0.0.0.0	cs.analytics.lego.com
@@ -7429,8 +7426,6 @@
 0.0.0.0	decenterads.com
 0.0.0.0	decolsgron.pro
 127.0.0.1	deeplink.umeng.com
-0.0.0.0	deepstoneconsulting.mobi
-0.0.0.0	deeptrailadvisors.mom
 0.0.0.0	defatcompr.pro
 0.0.0.0	default.cn.sz.wagbridge.ad.alibabacorp.com
 0.0.0.0	default.cn.wagbridge.ad.alibabacorp.com
@@ -7876,7 +7871,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.112.21	education.github.com
+140.82.114.21	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -7900,7 +7895,6 @@
 127.0.0.1	email.appsflyer.com
 127.0.0.1	emarketing.sina.com.cn
 127.0.0.1	embed.sec.miui.com
-0.0.0.0	emberpointsolutions.mobi
 127.0.0.1	emdcadvertise-global.eastmoney.com
 127.0.0.1	emdcadvertise.eastmoney.com
 0.0.0.0	emea.rel.msn.com
@@ -7954,7 +7948,6 @@
 0.0.0.0	es.ero-advertising.com
 0.0.0.0	eschasmugn.pro
 0.0.0.0	eschilanne.pro
-0.0.0.0	escremopin.pro
 0.0.0.0	escubconce.pro
 0.0.0.0	esilasfacc.pro
 127.0.0.1	et-eus.w.inmobi.com
@@ -8012,7 +8005,6 @@
 0.0.0.0	events.samsungads.com
 127.0.0.1	events.umeng.com
 0.0.0.0	everestads.net
-0.0.0.0	evergreenadvisors.mom
 0.0.0.0	evideliber.pro
 0.0.0.0	ex-traffic.com
 127.0.0.1	ex.as.pptv.com
@@ -8072,7 +8064,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.110.133	favicons.githubusercontent.com
+185.199.111.133	favicons.githubusercontent.com
 127.0.0.1	fb.umeng.com
 127.0.0.1	fc-feed.cdn.bcebos.com
 127.0.0.1	fc.yahoo.com
@@ -8414,13 +8406,12 @@
 0.0.0.0	giganticlori.pro
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
-0.0.0.0	giocopremu.pro
 20.205.243.166	gist.github.com
-16.182.71.121	github-cloud.s3.amazonaws.com
-16.15.218.29	github-com.s3.amazonaws.com
-54.231.232.137	github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.24.142	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.124.1	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.1.155	github-cloud.s3.amazonaws.com
+52.217.47.156	github-com.s3.amazonaws.com
+52.217.201.81	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.11.146	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.169.9	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -8428,7 +8419,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.110.133	github.map.fastly.net
+185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 127.0.0.1	gj.applog.uc.cn
 0.0.0.0	gj.gds.mmstat.com
@@ -8455,7 +8446,6 @@
 0.0.0.0	glores2.taisantech.com
 0.0.0.0	glsdk.logsss.com
 0.0.0.0	gluco.native-ad.net
-0.0.0.0	glucorepro.pro
 127.0.0.1	gm.gds.mmstat.com
 127.0.0.1	gm.mmstat.com
 127.0.0.1	gm.mob.com
@@ -8509,7 +8499,6 @@
 127.0.0.1	gouwu.qq.com
 0.0.0.0	gr.adserver.yahoo.com
 0.0.0.0	grand-prix.cityads.com
-0.0.0.0	granitepointpartners.mobi
 0.0.0.0	graphics.medleyads.com
 0.0.0.0	grassboxer.pro
 0.0.0.0	green-ad.ad-stir.com
@@ -8547,6 +8536,8 @@
 0.0.0.0	gudredsazoadse.net
 127.0.0.1	guess.mediav.com
 127.0.0.1	guess.tf.360.cn
+0.0.0.0	guest-early-check.com
+0.0.0.0	guest-payment-update.com
 0.0.0.0	gungnir.xiaojukeji.com
 0.0.0.0	gusabid.adview.com
 0.0.0.0	gustablitt.pro
@@ -8629,6 +8620,7 @@
 127.0.0.1	heads-fac.spotify.com
 0.0.0.0	health-partner.net
 0.0.0.0	hedgepersp.pro
+0.0.0.0	hedocei.pro
 127.0.0.1	help.cnzz.com
 127.0.0.1	help.fenxi.cnzz.com
 0.0.0.0	help.juicyads.com
@@ -8678,7 +8670,6 @@
 0.0.0.0	homepage2.adnxs.com
 0.0.0.0	honeycomb.wps.cn
 0.0.0.0	hoplink.ksosoft.com
-0.0.0.0	horizontrailadvisors.life
 127.0.0.1	hos1.cnzz.com
 0.0.0.0	hostedads.realitykings.com
 0.0.0.0	hostedbannerads.aebn.net
@@ -8909,6 +8900,7 @@
 0.0.0.0	iclick.cm.admaster.com.cn
 0.0.0.0	icon-uap.iads.unity3d.com
 127.0.0.1	icon.cnzz.com
+0.0.0.0	iconthreads.top
 127.0.0.1	id.aaa.mob.com
 0.0.0.0	id.adsplay.net
 0.0.0.0	id.analytics.glance.inmobi.com
@@ -8991,7 +8983,6 @@
 127.0.0.1	imap.getui.com
 127.0.0.1	imap.tingyun.com
 0.0.0.0	imapi-sg.isnssdk.com
-0.0.0.0	imbrudiphe.pro
 0.0.0.0	imbufbinox.pro
 127.0.0.1	imc.l.qq.com
 0.0.0.0	imdns.hpplay.cn
@@ -9232,8 +9223,6 @@
 0.0.0.0	ir.surveywall-api.survata.com
 0.0.0.0	irc.qubiankeji.com
 127.0.0.1	irnvf.lu.sogou.com
-0.0.0.0	ironbrookadvisors.mom
-0.0.0.0	ironharborventures.mobi
 127.0.0.1	irpmt.mail.163.com
 127.0.0.1	irs01.com
 127.0.0.1	is-gateway.supersonicads.com
@@ -9456,6 +9445,7 @@
 0.0.0.0	kgipadstat.kugou.com
 0.0.0.0	kgipadstatbak.kugou.com
 127.0.0.1	kgmobilestat.kugou.com
+0.0.0.0	kijola.pro
 0.0.0.0	kiks.yandex.ru
 0.0.0.0	kilomniadst.info
 0.0.0.0	kindads.com
@@ -9779,10 +9769,8 @@
 0.0.0.0	lu88.pro
 0.0.0.0	lubet.api.new.livejasmin.com
 0.0.0.0	luimg.baidu.com
-0.0.0.0	lunartrailsolutions.mobi
 0.0.0.0	lunitey.pro
 127.0.0.1	lupic.cdn.bcebos.com
-0.0.0.0	lynnenthreads.com
 127.0.0.1	lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
 127.0.0.1	m-adash.m.taobao.com
 127.0.0.1	m-adnet.dutils.com
@@ -10442,6 +10430,7 @@
 0.0.0.0	na61-na62-eu95.wagbridge.advertisement.tanx.com
 0.0.0.0	na61-na62-st3.wagbridge.advertisement.tanx.com
 0.0.0.0	na61-na62.wagbridge.advertisement.tanx.com
+0.0.0.0	nacionalidadsefardita.com
 0.0.0.0	nad-stage1.ad-stir.com
 0.0.0.0	nad.ad-stir.com
 0.0.0.0	nad.leadboltads.net
@@ -10550,7 +10539,6 @@
 0.0.0.0	nonsaklig.pro
 0.0.0.0	nonsudyne.pro
 0.0.0.0	nontrhippa.pro
-0.0.0.0	northcrestconsulting.mobi
 0.0.0.0	notepad2.com
 0.0.0.0	notes-analytics-events.apple.com
 0.0.0.0	noti-us.adsmoloco.com
@@ -10650,7 +10638,6 @@
 127.0.0.1	oimsgad.qq.com
 0.0.0.0	okvip.pro
 127.0.0.1	olen.xdplt.com
-0.0.0.0	olfatwhirr.pro
 127.0.0.1	omgid.qq.com
 127.0.0.1	omgmta.play.aiseet.atianqi.com
 0.0.0.0	omgmta.play.cp81.ott.cibntv.net
@@ -10690,7 +10677,6 @@
 0.0.0.0	open-iflow.meizu.com
 127.0.0.1	open-pixon.ads-pixiv.net
 0.0.0.0	open-set-api.shenshiads.com
-0.0.0.0	open-vpn-free.site
 0.0.0.0	open.admaster.com.cn
 0.0.0.0	open.adview.cn
 127.0.0.1	open.camscanner.com
@@ -11230,6 +11216,7 @@
 127.0.0.1	pcookie.tanx.com
 0.0.0.0	pcookie.taobao.com
 127.0.0.1	pd.ads.cn.miaozhen.com
+0.0.0.0	pdf-adobe-com-ae-acrobat.appwrite.network
 0.0.0.0	pdl.gionee.com
 127.0.0.1	pdn.applovin.com
 127.0.0.1	pdown.stat.360safe.com
@@ -11357,9 +11344,16 @@
 127.0.0.1	pkgcn.tradplusad.com
 0.0.0.0	pkoplink.com
 0.0.0.0	pl-items-6712467123-macbook-pro-16-2019.cfd
+0.0.0.0	pl-oferta14991-3-2k-oled-lenovo-yoga-pro-7.sbs
+0.0.0.0	pl-oferta4912.pro
+0.0.0.0	pl-oferta62091-nowy-google-pixel-10-pro-obsidian.sbs
+0.0.0.0	pl-oferta689915-ipad-pro-m4-11-256gb-wifi.sbs
 0.0.0.0	pl-oferta70176-playstation-5-pro.cfd
 0.0.0.0	pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0	pl-oferta8108808-google-pixel-10-pro-xl.sbs
+0.0.0.0	pl-oferta8167231-sprzedam-macbook-m1-pro.sbs
+0.0.0.0	pl-oferta82911-apple-ipad-m4-pro.cfd
+0.0.0.0	pl-oferta84911-apple-ipad-m4-pro.cfd
 0.0.0.0	pl-oferta962033-google-pixel-10-pro-xl.sbs
 0.0.0.0	pl.ads.justpremium.com
 127.0.0.1	pl.cp31.ott.cibntv.net
@@ -11411,6 +11405,7 @@
 0.0.0.0	polymorphicads.jp
 0.0.0.0	polypdispl.pro
 0.0.0.0	pompousbeagle.pro
+0.0.0.0	ponferrada24horas.com
 0.0.0.0	poodleadvice.com
 0.0.0.0	pop-dev.ad4game.com
 0.0.0.0	pop.ero-advertising.com
@@ -11486,7 +11481,7 @@
 0.0.0.0	primetime.ad.primetime.net
 0.0.0.0	prism.pandora.tv
 127.0.0.1	privacy.api.intl.miui.com
-185.199.110.133	private-user-images.githubusercontent.com
+185.199.111.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-factory.com
@@ -11665,6 +11660,7 @@
 127.0.0.1	q7.cnzz.com
 0.0.0.0	qa-analytics.com
 127.0.0.1	qadx.qinlinad.com
+0.0.0.0	qakivyy.pro
 127.0.0.1	qapm.baidu.com
 127.0.0.1	qappcenterv6.3g.qq.com
 127.0.0.1	qautodl.qq.com
@@ -11727,7 +11723,6 @@
 0.0.0.0	quickadsmedia.gotrackier.com
 0.0.0.0	quickfactchecker.pro
 127.0.0.1	quicksilver.scdn.co
-0.0.0.0	quickstreampro.pro
 0.0.0.0	qurl.f.360.cn
 127.0.0.1	qy.qchannel03.cn
 127.0.0.1	qzpb.qq.com
@@ -11801,8 +11796,6 @@
 0.0.0.0	reactads.cdn.adglare.net
 0.0.0.0	reactads.com
 0.0.0.0	reactads.engine.adglare.net
-0.0.0.0	reaction-pro-19x.com
-0.0.0.0	reaction-pro-app.com
 0.0.0.0	reader.meizu.com
 0.0.0.0	reader.res.meizu.com
 127.0.0.1	reader.sh.vip.qq.com
@@ -12346,11 +12339,11 @@
 0.0.0.0	sacchetnic.pro
 0.0.0.0	sadc1.outbrain.org
 0.0.0.0	sadfasdfa962.com
-0.0.0.0	sadisperli.pro
 0.0.0.0	safe.res.meizu.com
 127.0.0.1	safe.ucweb.com
 0.0.0.0	safebrowsing.urlsec.gg.com
 0.0.0.0	safeoffers.pro
+0.0.0.0	safereading.pro
 0.0.0.0	sagan.iad-03.braze.com
 0.0.0.0	sam86vip.pro
 0.0.0.0	samba.adsame.com
@@ -12375,7 +12368,6 @@
 0.0.0.0	saturn1.appads.com
 0.0.0.0	saturn2.appads.com
 0.0.0.0	saturn3.appads.com
-0.0.0.0	savenaccat.pro
 127.0.0.1	saveu5-normal-lf.zijieapi.com
 127.0.0.1	saveu5-normal-lq.zijieapi.com
 0.0.0.0	sawdumedio.pro
@@ -12400,7 +12392,6 @@
 0.0.0.0	sbraidisra.pro
 0.0.0.0	sbravsfren.pro
 0.0.0.0	sbs-ad.com
-0.0.0.0	sbufotroub.pro
 0.0.0.0	sc-analytics.appspot.com
 127.0.0.1	sc.ads.sohu.com
 127.0.0.1	sc.atest.mob.com
@@ -12829,7 +12820,6 @@
 0.0.0.0	sigmob.com
 0.0.0.0	signup.advance.net
 127.0.0.1	signup.taboola.com
-0.0.0.0	silvertrailadvisors.life
 127.0.0.1	simaba.taobao.com
 0.0.0.0	simba.m.taobao.com
 0.0.0.0	similspipp.pro
@@ -13273,7 +13263,6 @@
 0.0.0.0	stockbook-ads.firebaseapp.com
 0.0.0.0	stockbook-ads.firebaseio.com
 0.0.0.0	stocks-analytics-events.apple.com
-0.0.0.0	stonebridgeadvisors.life
 127.0.0.1	storage-public.zhaopin.cn
 0.0.0.0	store-downloads.com
 23.53.11.237	store.akamai.steamstatic.com
@@ -13285,8 +13274,6 @@
 0.0.0.0	storeconfig.mistat.intl.xiaomi.com
 0.0.0.0	storm-api.ad4game.com
 0.0.0.0	storm.ad4game.com
-0.0.0.0	stormcrestadvisors.mobi
-0.0.0.0	stormpointadvisors.life
 0.0.0.0	stratditre.pro
 127.0.0.1	strategy.beacon.qq.com
 0.0.0.0	stream-4-2.loadshare.org
@@ -13519,7 +13506,6 @@
 0.0.0.0	tapixesa.pro
 127.0.0.1	tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0	tapjoyads.com
-0.0.0.0	taravliveti.pro
 0.0.0.0	target.ads.jihuoniao.com
 0.0.0.0	targeting.api.drift.com
 0.0.0.0	tarpaalche.pro
@@ -13566,7 +13552,6 @@
 0.0.0.0	teads245638586802.s.moatpixel.com
 127.0.0.1	techain.baidu.com
 0.0.0.0	techweb.iv.adsame.com
-0.0.0.0	tediametil.pro
 0.0.0.0	teinfo.wps.cn
 0.0.0.0	tel3adv.112.2o7.net
 127.0.0.1	telapi.getui.com
@@ -13666,7 +13651,6 @@
 0.0.0.0	titanads3.com
 0.0.0.0	titanads4.com
 0.0.0.0	titanads5.com
-0.0.0.0	titanbrookadvisors.live
 0.0.0.0	tiumbs.ero-advertising.com
 127.0.0.1	tj.b.qq.com
 127.0.0.1	tj.g.pptv.com
@@ -13912,7 +13896,6 @@
 0.0.0.0	tracy.tutoads.tv
 0.0.0.0	trade20sodax.com
 0.0.0.0	trade360.com
-0.0.0.0	trade58zemro.net
 0.0.0.0	tradearabia.advertserve.com
 0.0.0.0	tradeassist.pro
 0.0.0.0	traffic-bam.link
@@ -13955,7 +13938,6 @@
 127.0.0.1	trc.taboola.com
 0.0.0.0	trends.mobile.sina.cn
 0.0.0.0	trifisfang.pro
-0.0.0.0	trincpraes.pro
 0.0.0.0	trioadvisor.fr
 0.0.0.0	trk-pcweb.api.zaloapp.com
 0.0.0.0	trk.4ff.pro
@@ -14167,6 +14149,7 @@
 127.0.0.1	up1.tj.u2.ucweb.com
 127.0.0.1	up4.ucweb.com
 0.0.0.0	upage.imtt.qq.com
+0.0.0.0	update-bookinfo.com
 0.0.0.0	update-information.zzux.com
 0.0.0.0	update-java.kit.net
 0.0.0.0	update-security.ddns.info
@@ -14175,6 +14158,7 @@
 127.0.0.1	update.123juzi.net
 127.0.0.1	update.360safe.com
 0.0.0.0	update.3lift.com
+0.0.0.0	update.account.kayarcreative.com
 0.0.0.0	update.adflex.vn
 0.0.0.0	update.adsrvr.org
 127.0.0.1	update.avlyun.sec.miui.com
@@ -14455,7 +14439,6 @@
 0.0.0.0	vanguardtruthnow.pro
 0.0.0.0	vapixel.adsafeprotected.com
 127.0.0.1	variety.tc.qq.com
-0.0.0.0	varigfinzen-pro.com
 127.0.0.1	vas-hl-x.snssdk.com
 127.0.0.1	vas-lf-x.snssdk.com
 0.0.0.0	vast-events-staging.inner-active.mobi
@@ -14544,9 +14527,14 @@
 0.0.0.0	vik-analytics-gke.moonactive.net
 0.0.0.0	vik-analytics.moonactive.net
 0.0.0.0	vinted.pl-items-6712467123-macbook-pro-16-2019.cfd
+0.0.0.0	vinted.pl-oferta14991-3-2k-oled-lenovo-yoga-pro-7.sbs
+0.0.0.0	vinted.pl-oferta4912.pro
+0.0.0.0	vinted.pl-oferta62091-nowy-google-pixel-10-pro-obsidian.sbs
+0.0.0.0	vinted.pl-oferta689915-ipad-pro-m4-11-256gb-wifi.sbs
 0.0.0.0	vinted.pl-oferta70176-playstation-5-pro.cfd
 0.0.0.0	vinted.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0	vinted.pl-oferta8108808-google-pixel-10-pro-xl.sbs
+0.0.0.0	vinted.pl-oferta8167231-sprzedam-macbook-m1-pro.sbs
 0.0.0.0	vinted.pl-oferta962033-google-pixel-10-pro-xl.sbs
 0.0.0.0	vip.adstatic.com
 127.0.0.1	vip.bz.mgtv.com
@@ -14835,6 +14823,7 @@
 127.0.0.1	vulcan1.branch.io
 127.0.0.1	vulcan5.branch.io
 0.0.0.0	vungle.com
+0.0.0.0	vuqemai.pro
 127.0.0.1	vv.play.aiseet.atianqi.com
 127.0.0.1	vv6.video.qq.com
 0.0.0.0	vv84.bj.bcebos.com
@@ -15198,7 +15187,6 @@
 0.0.0.0	www.abbraappun.pro
 0.0.0.0	www.abdomunsee.pro
 0.0.0.0	www.ablegabsid.pro
-0.0.0.0	www.abyssvioli.pro
 0.0.0.0	www.accedapolo.pro
 0.0.0.0	www.accidentadvicehelpline.co.uk
 0.0.0.0	www.accusstazi.pro
@@ -15325,7 +15313,6 @@
 0.0.0.0	www.advancedcleaner.com
 0.0.0.0	www.advancedmactools.com
 0.0.0.0	www.advancedsoftwaresupport.com
-0.0.0.0	www.advancepathflow12.sbs
 0.0.0.0	www.advancesurge.com
 0.0.0.0	www.advanpromo.com
 0.0.0.0	www.advantmanpower.com
@@ -15363,6 +15350,7 @@
 0.0.0.0	www.allitirmi.pro
 0.0.0.0	www.amendincis.pro
 0.0.0.0	www.ammardecal.pro
+0.0.0.0	www.amuqam.pro
 0.0.0.0	www.analytics-digit-in.cdn.ampproject.org
 0.0.0.0	www.analytics.247sports.com
 0.0.0.0	www.analytics.ero-advertising.com
@@ -15388,7 +15376,6 @@
 127.0.0.1	www.appsflyer.com
 0.0.0.0	www.arenibolin.pro
 0.0.0.0	www.argentremo.pro
-0.0.0.0	www.armonpioci.pro
 0.0.0.0	www.arterfruit.pro
 0.0.0.0	www.asbesbehav.pro
 0.0.0.0	www.asserepibl.pro
@@ -15396,7 +15383,6 @@
 0.0.0.0	www.astrolusin.pro
 0.0.0.0	www.ata.ero-advertising.com
 0.0.0.0	www.atlasforgeanalytics.mobi
-0.0.0.0	www.atlastrailadvisors.mom
 0.0.0.0	www.atletsovve.pro
 0.0.0.0	www.attacdemer.pro
 127.0.0.1	www.audio2.spotify.com
@@ -15464,10 +15450,10 @@
 0.0.0.0	www.bombespolv.pro
 0.0.0.0	www.bombydolco.pro
 0.0.0.0	www.bonarmudro.pro
+0.0.0.0	www.booking.guest-info-update.com
 0.0.0.0	www.botsforma.pro
 127.0.0.1	www.branch.io
 0.0.0.0	www.breezzy7air.pro
-0.0.0.0	www.brighttrailanalytics.mobi
 0.0.0.0	www.broadspring.com
 0.0.0.0	www.broking-update.com
 0.0.0.0	www.bromavadat.pro
@@ -15499,12 +15485,12 @@
 0.0.0.0	www.celeretnic.pro
 0.0.0.0	www.cellfun.mobi
 0.0.0.0	www.ceorlpatog.pro
-0.0.0.0	www.cespipreli.pro
 0.0.0.0	www.chain-iplex-pro.net
-0.0.0.0	www.chaskithreads.store
 0.0.0.0	www.chat.ero-advertising.com
 0.0.0.0	www.check-eligibility.bt70093.com
+0.0.0.0	www.check-in-assistant.com
 0.0.0.0	www.check-inf-stay.com
+0.0.0.0	www.check-your-style.online
 127.0.0.1	www.chengzijianzhan.com
 0.0.0.0	www.cheroenhal.pro
 0.0.0.0	www.chestnutboa.pro
@@ -15515,7 +15501,6 @@
 0.0.0.0	www.ciascdispu.pro
 0.0.0.0	www.cicchlecca.pro
 0.0.0.0	www.circurimpi.pro
-0.0.0.0	www.circusciol.pro
 0.0.0.0	www.cityads.com
 0.0.0.0	www.cleverads.vn
 0.0.0.0	www.click.axiatraders.com
@@ -15529,13 +15514,13 @@
 0.0.0.0	www.comiapelag.pro
 0.0.0.0	www.commenociu.pro
 0.0.0.0	www.communityinsighthub.pro
-0.0.0.0	www.compisorgi.pro
 0.0.0.0	www.confotomog.pro
 0.0.0.0	www.coniuconvo.pro
 0.0.0.0	www.conosquinq.pro
 0.0.0.0	www.conspnonpl.pro
 0.0.0.0	www.contacadss1-3s8z.vercel.app
 0.0.0.0	www.contextuads.com
+0.0.0.0	www.convedoble.pro
 0.0.0.0	www.cool-downloads.com
 0.0.0.0	www.cool-downloads.net
 0.0.0.0	www.cornesinga.pro
@@ -15545,7 +15530,6 @@
 0.0.0.0	www.cpmadvisors.com
 0.0.0.0	www.cpro.baidu.com
 0.0.0.0	www.crispads.com
-0.0.0.0	www.crossungre.pro
 0.0.0.0	www.crunchx.pro
 0.0.0.0	www.culatnontr.pro
 0.0.0.0	www.curapgrec.pro
@@ -15577,8 +15561,6 @@
 0.0.0.0	www.dcfeed.datedeskads.com
 0.0.0.0	www.dctrk.datedeskads.com
 0.0.0.0	www.decolsgron.pro
-0.0.0.0	www.deepstoneconsulting.mobi
-0.0.0.0	www.deeptrailadvisors.mom
 0.0.0.0	www.defatcompr.pro
 0.0.0.0	www.despotraum.pro
 0.0.0.0	www.desquversa.pro
@@ -15641,7 +15623,6 @@
 0.0.0.0	www.elucirisde.pro
 0.0.0.0	www.elucirumpma.pro
 0.0.0.0	www.emagrriurt.pro
-0.0.0.0	www.emberpointsolutions.mobi
 0.0.0.0	www.endodalcal.pro
 0.0.0.0	www.enveisucra.pro
 0.0.0.0	www.epicadventure3d.info
@@ -15656,11 +15637,9 @@
 0.0.0.0	www.es.ero-advertising.com
 0.0.0.0	www.eschasmugn.pro
 0.0.0.0	www.eschilanne.pro
-0.0.0.0	www.escremopin.pro
 0.0.0.0	www.escubconce.pro
 0.0.0.0	www.eshopads2.com
 0.0.0.0	www.esilasfacc.pro
-0.0.0.0	www.evergreenadvisors.mom
 0.0.0.0	www.evideliber.pro
 0.0.0.0	www.exactadvertising.com
 0.0.0.0	www.exit-ad.de
@@ -15731,11 +15710,9 @@
 0.0.0.0	www.getmyads24.com
 127.0.0.1	www.getui.com
 0.0.0.0	www.giganticlori.pro
-0.0.0.0	www.giocopremu.pro
 0.0.0.0	www.glicichoco.pro
 0.0.0.0	www.glittguile.pro
 0.0.0.0	www.globalbreakingalert.pro
-0.0.0.0	www.glucorepro.pro
 0.0.0.0	www.gmads.net
 0.0.0.0	www.goads.pro
 0.0.0.0	www.godsadvice.com
@@ -15745,10 +15722,11 @@
 127.0.0.1	www.googleadservices.com
 127.0.0.1	www.googletagmanager.com
 127.0.0.1	www.googletagservices.com
-0.0.0.0	www.granitepointpartners.mobi
 0.0.0.0	www.grassboxer.pro
 0.0.0.0	www.grempfolst.pro
 0.0.0.0	www.grippcabla.pro
+0.0.0.0	www.guest-early-check.com
+0.0.0.0	www.guest-payment-update.com
 0.0.0.0	www.gustablitt.pro
 0.0.0.0	www.guxaroi.pro
 0.0.0.0	www.handiceii.pro
@@ -15757,10 +15735,10 @@
 0.0.0.0	www.headcavver.pro
 0.0.0.0	www.health-partner.net
 0.0.0.0	www.hedgepersp.pro
+0.0.0.0	www.hedocei.pro
 0.0.0.0	www.hightrafficads.com
 0.0.0.0	www.hit-counter-download.com
 0.0.0.0	www.hobbitonif.pro
-0.0.0.0	www.horizontrailadvisors.life
 0.0.0.0	www.hot-mob.com
 0.0.0.0	www.hotdogsandads.com
 0.0.0.0	www.hyperlitho.pro
@@ -15771,7 +15749,6 @@
 0.0.0.0	www.idspaces.ero-advertising.com
 127.0.0.1	www.igexin.com
 0.0.0.0	www.imads.ero-advertising.com
-0.0.0.0	www.imbrudiphe.pro
 0.0.0.0	www.imbufbinox.pro
 0.0.0.0	www.imeds.ero-advertising.com
 0.0.0.0	www.immanidrog.pro
@@ -15810,8 +15787,6 @@
 0.0.0.0	www.ipinyou.com.cn
 0.0.0.0	www.ipko.pl-client-beta-external-secure.pro
 0.0.0.0	www.ipko.pl-dev-apps-auth-ai.pro
-0.0.0.0	www.ironbrookadvisors.mom
-0.0.0.0	www.ironharborventures.mobi
 0.0.0.0	www.ischekazat.pro
 0.0.0.0	www.islamnostr.pro
 0.0.0.0	www.isletbhaia.pro
@@ -15839,6 +15814,7 @@
 0.0.0.0	www.kds.ero-advertising.com
 0.0.0.0	www.kebonderole.mobi
 0.0.0.0	www.kexmobeves.pro
+0.0.0.0	www.kijola.pro
 0.0.0.0	www.knacads.com
 0.0.0.0	www.kryptrumig.pro
 0.0.0.0	www.ladsblue.com
@@ -15866,9 +15842,7 @@
 0.0.0.0	www.lottery.ie
 0.0.0.0	www.lottery.olg.ca
 0.0.0.0	www.lp.trade360.com
-0.0.0.0	www.lunartrailsolutions.mobi
 0.0.0.0	www.lunitey.pro
-0.0.0.0	www.lynnenthreads.com
 0.0.0.0	www.macchedia.pro
 0.0.0.0	www.magento-analytics.com
 0.0.0.0	www.magnehonor.pro
@@ -15933,6 +15907,7 @@
 0.0.0.0	www.mylottoadserv.com
 0.0.0.0	www.myxinrilac.pro
 0.0.0.0	www.n149adserv.com
+0.0.0.0	www.nacionalidadsefardita.com
 0.0.0.0	www.naiadsystems.com
 0.0.0.0	www.nata.ero-advertising.com
 0.0.0.0	www.national-lottery.co.uk
@@ -15954,7 +15929,6 @@
 0.0.0.0	www.nonsaklig.pro
 0.0.0.0	www.nonsudyne.pro
 0.0.0.0	www.nontrhippa.pro
-0.0.0.0	www.northcrestconsulting.mobi
 0.0.0.0	www.notepad2.com
 0.0.0.0	www.novaonads.com
 127.0.0.1	www.oadz.com
@@ -15963,11 +15937,9 @@
 0.0.0.0	www.observantbulldog.pro
 0.0.0.0	www.odoricanel.pro
 0.0.0.0	www.offenfitor.pro
-0.0.0.0	www.olfatwhirr.pro
 0.0.0.0	www.onlinedownloads.org
 0.0.0.0	www.onlineshopvip.pro
 0.0.0.0	www.opads.ero-advertising.com
-0.0.0.0	www.open-vpn-free.site
 0.0.0.0	www.optad360.com
 0.0.0.0	www.orbatridon.pro
 0.0.0.0	www.orchewilde.pro
@@ -15991,6 +15963,7 @@
 0.0.0.0	www.patartorne.pro
 127.0.0.1	www.paydxm.com
 0.0.0.0	www.payperclickadvertising.org.uk
+0.0.0.0	www.pdf-adobe-com-ae-acrobat.appwrite.network
 0.0.0.0	www.penetdeman.pro
 0.0.0.0	www.pensaanopi.pro
 0.0.0.0	www.perfacoher.pro
@@ -16013,9 +15986,16 @@
 0.0.0.0	www.pitchzufol.pro
 0.0.0.0	www.piwik.ero-advertising.com
 0.0.0.0	www.pl-items-6712467123-macbook-pro-16-2019.cfd
+0.0.0.0	www.pl-oferta14991-3-2k-oled-lenovo-yoga-pro-7.sbs
+0.0.0.0	www.pl-oferta4912.pro
+0.0.0.0	www.pl-oferta62091-nowy-google-pixel-10-pro-obsidian.sbs
+0.0.0.0	www.pl-oferta689915-ipad-pro-m4-11-256gb-wifi.sbs
 0.0.0.0	www.pl-oferta70176-playstation-5-pro.cfd
 0.0.0.0	www.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0	www.pl-oferta8108808-google-pixel-10-pro-xl.sbs
+0.0.0.0	www.pl-oferta8167231-sprzedam-macbook-m1-pro.sbs
+0.0.0.0	www.pl-oferta82911-apple-ipad-m4-pro.cfd
+0.0.0.0	www.pl-oferta84911-apple-ipad-m4-pro.cfd
 0.0.0.0	www.pl-oferta962033-google-pixel-10-pro-xl.sbs
 0.0.0.0	www.plectconsa.pro
 0.0.0.0	www.plerodicap.pro
@@ -16026,6 +16006,7 @@
 0.0.0.0	www.polwarp.pro
 0.0.0.0	www.polypdispl.pro
 0.0.0.0	www.pompousbeagle.pro
+0.0.0.0	www.ponferrada24horas.com
 0.0.0.0	www.poodleadvice.com
 0.0.0.0	www.popacs.ero-advertising.com
 0.0.0.0	www.popads.ero-advertising.com
@@ -16066,21 +16047,19 @@
 0.0.0.0	www.ptelinsal.pro
 0.0.0.0	www.pubsnidin.pro
 0.0.0.0	www.pursevolun.pro
+0.0.0.0	www.qakivyy.pro
 0.0.0.0	www.qchannel01.cn
 127.0.0.1	www.qchannel03.cn
 0.0.0.0	www.qqads.com
 0.0.0.0	www.quantex-gpt-v2-pro.net
 0.0.0.0	www.quazar-360-ai-com.trackfinanceworld.com
 0.0.0.0	www.quickfactchecker.pro
-0.0.0.0	www.quickstreampro.pro
 0.0.0.0	www.radiomalap.pro
 0.0.0.0	www.ragioporta.pro
 0.0.0.0	www.rampidads.com
 0.0.0.0	www.randecitas.pro
 0.0.0.0	www.rata.ero-advertising.com
 0.0.0.0	www.ravviimpom.pro
-0.0.0.0	www.reaction-pro-19x.com
-0.0.0.0	www.reaction-pro-app.com
 0.0.0.0	www.realtextads.com
 0.0.0.0	www.realtimebulletin.pro
 0.0.0.0	www.recheimbot.pro
@@ -16140,14 +16119,12 @@
 0.0.0.0	www.s10paces.ero-advertising.com
 0.0.0.0	www.s7.adaces.ero-advertising.com
 0.0.0.0	www.sacchetnic.pro
-0.0.0.0	www.sadisperli.pro
+0.0.0.0	www.safereading.pro
 0.0.0.0	www.sarmackistyl.pro
-0.0.0.0	www.savenaccat.pro
 0.0.0.0	www.sawdumedio.pro
 0.0.0.0	www.sbaradecon.pro
 0.0.0.0	www.sbraidisra.pro
 0.0.0.0	www.sbravsfren.pro
-0.0.0.0	www.sbufotroub.pro
 0.0.0.0	www.scafoautol.pro
 0.0.0.0	www.scalprinfo.pro
 0.0.0.0	www.scamelemma.pro
@@ -16199,7 +16176,6 @@
 0.0.0.0	www.sicilriadd.pro
 0.0.0.0	www.sidequadsafari.com
 127.0.0.1	www.sigmob.com
-0.0.0.0	www.silvertrailadvisors.life
 0.0.0.0	www.similspipp.pro
 0.0.0.0	www.sin.ero-advertising.com
 0.0.0.0	www.sisteimmun.pro
@@ -16252,9 +16228,6 @@
 0.0.0.0	www.steenbergen.web.ero-advertising.com
 0.0.0.0	www.stickyadstv.com
 0.0.0.0	www.stimotwees.pro
-0.0.0.0	www.stonebridgeadvisors.life
-0.0.0.0	www.stormcrestadvisors.mobi
-0.0.0.0	www.stormpointadvisors.life
 0.0.0.0	www.stratditre.pro
 0.0.0.0	www.streasodav.pro
 0.0.0.0	www.stribrinsa.pro
@@ -16285,12 +16258,10 @@
 127.0.0.1	www.taboola.com
 0.0.0.0	www.talkingdata.com
 0.0.0.0	www.tanegrifas.pro
-0.0.0.0	www.taravliveti.pro
 0.0.0.0	www.tarpaalche.pro
 0.0.0.0	www.tatraperspektywa.pro
 0.0.0.0	www.tawitai.pro
 0.0.0.0	www.tcm.optica.ero-advertising.com
-0.0.0.0	www.tediametil.pro
 0.0.0.0	www.teoreinven.pro
 0.0.0.0	www.tex.ero-advertising.com
 0.0.0.0	www.text-link-ads.com
@@ -16303,7 +16274,6 @@
 0.0.0.0	www.thumbs2.ero-advertising.com
 0.0.0.0	www.tinbuadserv.com
 127.0.0.1	www.tingyun.com
-0.0.0.0	www.titanbrookadvisors.live
 0.0.0.0	www.tiumbs.ero-advertising.com
 0.0.0.0	www.toosiostra.pro
 0.0.0.0	www.topads.ero-advertising.com
@@ -16316,7 +16286,6 @@
 0.0.0.0	www.tracking.ero-advertising.com
 0.0.0.0	www.trade20sodax.com
 0.0.0.0	www.trade360.com
-0.0.0.0	www.trade58zemro.net
 0.0.0.0	www.tradeassist.pro
 127.0.0.1	www.tradplusad.com
 0.0.0.0	www.traffic-c.com
@@ -16329,7 +16298,6 @@
 0.0.0.0	www.trasgfisio.pro
 0.0.0.0	www.traveladvertising.com
 0.0.0.0	www.trifisfang.pro
-0.0.0.0	www.trincpraes.pro
 0.0.0.0	www.trourted.pro
 0.0.0.0	www.trovatrans.pro
 0.0.0.0	www.truffantro.pro
@@ -16351,10 +16319,12 @@
 0.0.0.0	www.unscomummi.pro
 0.0.0.0	www.unsynverdi.pro
 0.0.0.0	www.unvacrimbr.pro
+0.0.0.0	www.update-bookinfo.com
 0.0.0.0	www.update-information.zzux.com
 0.0.0.0	www.update-java.kit.net
 0.0.0.0	www.update-security.ddns.info
 0.0.0.0	www.update-security.qhigh.com
+0.0.0.0	www.update.account.kayarcreative.com
 0.0.0.0	www.update.info-schwab.cfd
 0.0.0.0	www.update.info-schwab.sbs
 0.0.0.0	www.update.microspoft-subscription.solutions
@@ -16364,16 +16334,20 @@
 0.0.0.0	www.vads.net.vn
 0.0.0.0	www.vads.vn
 0.0.0.0	www.vanguardtruthnow.pro
-0.0.0.0	www.varigfinzen-pro.com
 0.0.0.0	www.vegetricam.pro
 0.0.0.0	www.vemiki.pro
 0.0.0.0	www.ventamarca.pro
 0.0.0.0	www.verneintri.pro
 0.0.0.0	www.vescipazzi.pro
 0.0.0.0	www.vinted.pl-items-6712467123-macbook-pro-16-2019.cfd
+0.0.0.0	www.vinted.pl-oferta14991-3-2k-oled-lenovo-yoga-pro-7.sbs
+0.0.0.0	www.vinted.pl-oferta4912.pro
+0.0.0.0	www.vinted.pl-oferta62091-nowy-google-pixel-10-pro-obsidian.sbs
+0.0.0.0	www.vinted.pl-oferta689915-ipad-pro-m4-11-256gb-wifi.sbs
 0.0.0.0	www.vinted.pl-oferta70176-playstation-5-pro.cfd
 0.0.0.0	www.vinted.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0	www.vinted.pl-oferta8108808-google-pixel-10-pro-xl.sbs
+0.0.0.0	www.vinted.pl-oferta8167231-sprzedam-macbook-m1-pro.sbs
 0.0.0.0	www.vinted.pl-oferta962033-google-pixel-10-pro-xl.sbs
 0.0.0.0	www.vipads.cc
 0.0.0.0	www.vipads.live
@@ -16384,6 +16358,7 @@
 127.0.0.1	www.voiceads.cn
 0.0.0.0	www.vomiccolos.pro
 127.0.0.1	www.vqq.admaster.com.cn
+0.0.0.0	www.vuqemai.pro
 0.0.0.0	www.vyk.admaster.com.cn
 0.0.0.0	www.wager.dm
 0.0.0.0	www.wageritra.pro
