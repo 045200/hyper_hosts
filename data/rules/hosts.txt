@@ -1,5 +1,5 @@
-# 最后更新时间: 2026-01-27 12:49:41
-# 规则总数: 16647
+# 最后更新时间: 2026-01-28 00:33:17
+# 规则总数: 16651
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -1103,6 +1103,7 @@
 0.0.0.0	ad.wavu.hu
 0.0.0.0	ad.weatherbug.com
 0.0.0.0	ad.webdice.jp
+0.0.0.0	ad.weibo.com
 127.0.0.1	ad.weixin.qq.com
 0.0.0.0	ad.weplayer.cc
 0.0.0.0	ad.where.com
@@ -4209,6 +4210,7 @@
 0.0.0.0	adx-sg.ads.heytapmobi.com
 0.0.0.0	adx-sg.ads.heytapmobile.com
 0.0.0.0	adx-static.ksosoft.com
+0.0.0.0	adx-strategy-api-cn.statisticslinks.com
 0.0.0.0	adx-th.ads.heytapmobile.com
 127.0.0.1	adx-tk.rayjump.com
 127.0.0.1	adx-track.domob.cn
@@ -5234,7 +5236,7 @@
 127.0.0.1	api.im.jpush.cn
 0.0.0.0	api.immomo.com
 0.0.0.0	api.indicative.com
-140.82.112.22	api.individual.githubcopilot.com
+140.82.113.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 127.0.0.1	api.inmobi.cn
 127.0.0.1	api.instabug.com
@@ -6427,7 +6429,7 @@
 0.0.0.0	cal.meizu.com
 0.0.0.0	call-ad-network-api.marchex.com
 127.0.0.1	callback.tradplusad.com
-185.199.111.133	camo.githubusercontent.com
+185.199.109.133	camo.githubusercontent.com
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
 0.0.0.0	canthditri.pro
@@ -6669,7 +6671,7 @@
 0.0.0.0	celeretnic.pro
 0.0.0.0	cellfun.mobi
 127.0.0.1	cellinfo.tingyun.com
-140.82.113.22	central.github.com
+140.82.114.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceorlpatog.pro
@@ -7860,7 +7862,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.112.21	education.github.com
+140.82.114.21	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -8051,7 +8053,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.111.133	favicons.githubusercontent.com
+185.199.109.133	favicons.githubusercontent.com
 127.0.0.1	fb.umeng.com
 127.0.0.1	fc-feed.cdn.bcebos.com
 127.0.0.1	fc.yahoo.com
@@ -8396,11 +8398,11 @@
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-52.217.125.185	github-cloud.s3.amazonaws.com
-16.15.191.47	github-com.s3.amazonaws.com
-52.216.217.241	github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.28.205	github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.16.59	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.9.100	github-cloud.s3.amazonaws.com
+16.15.176.176	github-com.s3.amazonaws.com
+3.5.9.100	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.35.113	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.199.2	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -8408,7 +8410,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.111.133	github.map.fastly.net
+185.199.109.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 127.0.0.1	gj.applog.uc.cn
 0.0.0.0	gj.gds.mmstat.com
@@ -11458,7 +11460,7 @@
 0.0.0.0	primetime.ad.primetime.net
 0.0.0.0	prism.pandora.tv
 127.0.0.1	privacy.api.intl.miui.com
-185.199.111.133	private-user-images.githubusercontent.com
+185.199.109.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-factory.com
@@ -13449,6 +13451,7 @@
 0.0.0.0	tags.hypeads.org
 0.0.0.0	tags.native-ad.net
 0.0.0.0	tags.premiumads.com.br
+0.0.0.0	tagtic.cn
 0.0.0.0	tai.win79.pro
 0.0.0.0	taigameviet.mobi
 0.0.0.0	taigo88vn.pro
@@ -13939,6 +13942,7 @@
 0.0.0.0	ttt4.agrantsem.com
 127.0.0.1	tui.cnzz.com
 127.0.0.1	tui.gtimg.com
+0.0.0.0	tuiguang.meitu.com
 127.0.0.1	tuijian.baidu.com
 0.0.0.0	tungsrepat.pro
 127.0.0.1	tunion-api.m.taobao.com

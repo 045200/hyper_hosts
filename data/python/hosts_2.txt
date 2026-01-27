@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1774
+!Total lines: 1792
 !Version: 1.6.9-release
-!Update time: 2026-01-15 22:37:28 UTC+8
-!Update content: remove ”bugly.qq.com“
+!Update time: 2026-01-27 21:39:22 UTC+8
+!Update content: add tagtic ads, thanks @Jessire close #194
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -83,6 +83,8 @@
 :: ad.toutiao.com
 0.0.0.0 ad.v3mh.com
 :: ad.v3mh.com
+0.0.0.0 ad.weibo.com
+:: ad.weibo.com
 0.0.0.0 ad.winrar.com.cn
 :: ad.winrar.com.cn
 0.0.0.0 ad.ximalaya.com
@@ -127,6 +129,8 @@
 :: adfilter.imtt.qq.com
 0.0.0.0 adguanggao.eee114.com
 :: adguanggao.eee114.com
+0.0.0.0 adimg.uve.weibo.com
+:: adimg.uve.weibo.com
 0.0.0.0 adjust.cn
 :: adjust.cn
 0.0.0.0 adjust.com
@@ -259,6 +263,8 @@
 :: adstore-1252524079.file.myqcloud.com
 0.0.0.0 adstore-index-1252524079.file.myqcloud.com
 :: adstore-index-1252524079.file.myqcloud.com
+0.0.0.0 adstrategy.biz.weibo.com
+:: adstrategy.biz.weibo.com
 0.0.0.0 adstudio-assets.scdn.co
 :: adstudio-assets.scdn.co
 0.0.0.0 adstudio.spotify.com
@@ -271,6 +277,8 @@
 :: adtrack.quark.cn
 0.0.0.0 adtracker.medproad.com
 :: adtracker.medproad.com
+0.0.0.0 adui.tg.meitu.com
+:: adui.tg.meitu.com
 0.0.0.0 adv-api.shenshiads.com
 :: adv-api.shenshiads.com
 0.0.0.0 adv.sec.intl.miui.com
@@ -311,6 +319,8 @@
 :: adx-os.anythinktech.com
 0.0.0.0 adx-saas.advlion.com
 :: adx-saas.advlion.com
+0.0.0.0 adx-strategy-api-cn.statisticslinks.com
+:: adx-strategy-api-cn.statisticslinks.com
 0.0.0.0 adx.ads.heytapmobi.com
 :: adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
@@ -1109,6 +1119,8 @@
 :: monitor.uu.qq.com
 0.0.0.0 monsetting.toutiao.com
 :: monsetting.toutiao.com
+0.0.0.0 mores.toponad.com
+:: mores.toponad.com
 0.0.0.0 ms.applovin.com
 :: ms.applovin.com
 0.0.0.0 ms.applvn.com
@@ -1353,6 +1365,8 @@
 :: sdk.mobads.adwangmai.com
 0.0.0.0 sdkapi.cloooud.com
 :: sdkapi.cloooud.com
+0.0.0.0 sdkapp.uve.weibo.com
+:: sdkapp.uve.weibo.com
 0.0.0.0 sdkauth.hpplay.cn
 :: sdkauth.hpplay.cn
 0.0.0.0 sdkconf.avlyun.com
@@ -1481,6 +1495,8 @@
 :: t3.a.market.xiaomi.com
 0.0.0.0 t7z.cupid.ptqy.gitv.tv
 :: t7z.cupid.ptqy.gitv.tv
+0.0.0.0 tagtic.cn
+:: tagtic.cn
 0.0.0.0 tangram.e.qq.com
 :: tangram.e.qq.com
 0.0.0.0 target.ads.jihuoniao.com
@@ -1585,6 +1601,8 @@
 :: tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
 :: tracking.rus.miui.com
+0.0.0.0 tuiguang.meitu.com
+:: tuiguang.meitu.com
 0.0.0.0 tvapp.hpplay.cn
 :: tvapp.hpplay.cn
 0.0.0.0 tvuser-ch.cedock.com
