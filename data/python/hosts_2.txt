@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 1792
 !Version: 1.6.9-release
-!Update time: 2026-01-27 21:39:22 UTC+8
-!Update content: add tagtic ads, thanks @Jessire close #194
+!Update time: 2026-01-28 09:50:13 UTC+8
+!Update content: block some yahoo ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -165,6 +165,8 @@
 :: ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
 :: ads.95516.com
+0.0.0.0 ads.auctions.yahoo.com
+:: ads.auctions.yahoo.com
 0.0.0.0 ads.cup.com.cn
 :: ads.cup.com.cn
 0.0.0.0 ads.google.cn
@@ -475,8 +477,6 @@
 :: applog.zijieapi.com
 0.0.0.0 applovin.com
 :: applovin.com
-0.0.0.0 appversion.115.com
-:: appversion.115.com
 0.0.0.0 aqyad.com
 :: aqyad.com
 0.0.0.0 aspect-upush.umeng.com
