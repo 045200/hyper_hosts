@@ -1,4 +1,4 @@
-# 最后更新时间: 2026-02-07 00:49:55
+# 最后更新时间: 2026-02-07 13:05:46
 # 规则总数: 16522
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -7835,7 +7835,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.113.22	education.github.com
+140.82.114.22	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -8361,11 +8361,11 @@
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-3.5.3.196	github-cloud.s3.amazonaws.com
-16.182.68.33	github-com.s3.amazonaws.com
-16.182.37.25	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.195.156	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.103.145	github-production-user-asset-6210df.s3.amazonaws.com
+54.231.135.121	github-cloud.s3.amazonaws.com
+52.216.62.49	github-com.s3.amazonaws.com
+52.217.124.225	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.38.65	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.207.90	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
