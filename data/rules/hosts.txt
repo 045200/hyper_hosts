@@ -1,5 +1,5 @@
-# 最后更新时间: 2026-02-26 01:09:16
-# 规则总数: 16666
+# 最后更新时间: 2026-02-26 13:20:18
+# 规则总数: 16697
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -1149,6 +1149,7 @@
 0.0.0.0	ad02.focalink.com
 0.0.0.0	ad03.doubleadx.com
 0.0.0.0	ad03.focalink.com
+0.0.0.0	ad0324.ch
 0.0.0.0	ad04.focalink.com
 0.0.0.0	ad05.focalink.com
 0.0.0.0	ad06.focalink.com
@@ -4445,6 +4446,7 @@
 0.0.0.0	akar.iad.appboy.com
 0.0.0.0	aksdk-images.adikteev.com
 0.0.0.0	aldenspur.pro
+0.0.0.0	alderwoodty.pro
 127.0.0.1	ali-ad.a.yximgs.com
 0.0.0.0	ali-p2p-v2.pull.yximgs.com
 127.0.0.1	ali-stats.jpush.cn
@@ -4488,6 +4490,7 @@
 142.251.10.188	alt7-mtalk.google.com
 74.125.200.188	alt8-mtalk.google.com
 0.0.0.0	alternativos.iw-advertising.com
+0.0.0.0	alvrixtrade82.com
 0.0.0.0	ama.adwo.com
 127.0.0.1	amap-aos-info-nogw.amap.com
 127.0.0.1	amazon-adsystem.com
@@ -5278,6 +5281,7 @@
 0.0.0.0	api.exoclick.com
 127.0.0.1	api.exv.mob.com
 0.0.0.0	api.ezca.asia
+0.0.0.0	api.ezilax.com
 0.0.0.0	api.f8bet5.com
 127.0.0.1	api.fc.mob.com
 127.0.0.1	api.fd.mob.com
@@ -5817,6 +5821,7 @@
 0.0.0.0	asmedia.adsupplyssl.com
 0.0.0.0	asp.adsame.com
 127.0.0.1	aspect-upush.umeng.com
+0.0.0.0	aspenridgeup.pro
 0.0.0.0	asset.adserver.vrizead.com
 0.0.0.0	assets.adspruce.com
 0.0.0.0	assets.adstage.io
@@ -6221,6 +6226,10 @@
 0.0.0.0	biedadsz-pl.shop
 0.0.0.0	biedadsza-pl.shop
 0.0.0.0	biedadszb-pl.shop
+0.0.0.0	biedadszh-pl.shop
+0.0.0.0	biedadszi-pl.shop
+0.0.0.0	biedadszj-pl.shop
+0.0.0.0	biedadszl-pl.shop
 0.0.0.0	big-bang-ads.com
 0.0.0.0	bigads.guj.de
 0.0.0.0	bigapple.contextuads.com
@@ -6535,7 +6544,7 @@
 127.0.0.1	callback.tradplusad.com
 0.0.0.0	calmstreet.pro
 0.0.0.0	calven-ridge.pro
-185.199.111.133	camo.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
 0.0.0.0	camorivel.pro
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
@@ -6779,7 +6788,7 @@
 0.0.0.0	cellfun.mobi
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	cenambrozi.pro
-140.82.112.21	central.github.com
+140.82.112.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -6818,6 +6827,7 @@
 0.0.0.0	chat.ero-advertising.com
 0.0.0.0	chat1.jd.com
 0.0.0.0	chatikpereezd1.pro
+0.0.0.0	chaveltrugo.pro
 0.0.0.0	check-activity.com.ru
 0.0.0.0	check-grammar-software.com
 0.0.0.0	check-tcp.rayjump.com
@@ -7160,7 +7170,7 @@
 0.0.0.0	code.native-ad.net
 127.0.0.1	code.sms.mob.com
 0.0.0.0	codeads.com
-140.82.113.9	codeload.github.com
+20.205.243.165	codeload.github.com
 0.0.0.0	coin-ad.com
 0.0.0.0	col.mobileads.msn.com
 0.0.0.0	collect.adsorb.com
@@ -7735,6 +7745,7 @@
 0.0.0.0	doublepimpads.com
 0.0.0.0	doublexvi.pro
 127.0.0.1	douyu.grey.voiceads.cn
+0.0.0.0	dovlatinka.pro
 0.0.0.0	down.360.cn
 0.0.0.0	down.360safe.com
 127.0.0.1	down.apps.sina.cn
@@ -8135,7 +8146,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.111.133	favicons.githubusercontent.com
+185.199.110.133	favicons.githubusercontent.com
 127.0.0.1	fb.umeng.com
 127.0.0.1	fc-feed.cdn.bcebos.com
 127.0.0.1	fc.yahoo.com
@@ -8162,7 +8173,6 @@
 0.0.0.0	feeds.wise-click.com
 0.0.0.0	feedsads.cn
 0.0.0.0	feedtoreadnow.pro
-0.0.0.0	fefatei.pro
 0.0.0.0	fei.pro-market.net
 0.0.0.0	fetusuaryfoot.pro
 127.0.0.1	fex.bdstatic.com
@@ -8245,6 +8255,7 @@
 127.0.0.1	fodder.tc.qq.com
 0.0.0.0	folder.adsunflower.com
 0.0.0.0	folder.advmob.cn
+0.0.0.0	fontabrasch.pro
 0.0.0.0	fontamiglia.pro
 0.0.0.0	fonts.ad.admitad.com
 0.0.0.0	forex-advice.net
@@ -8382,7 +8393,6 @@
 0.0.0.0	gaslitads.com
 0.0.0.0	gaspra.iad-03.braze.com
 0.0.0.0	gata.ero-advertising.com
-0.0.0.0	gatepass-corp.com
 127.0.0.1	gateway-mobile-gray.soulapp.cn
 127.0.0.1	gateway.kugou.com
 127.0.0.1	gateway.open.umeng.com
@@ -8478,11 +8488,11 @@
 127.0.0.1	gini.snssdk.com
 0.0.0.0	giovanturi.pro
 20.205.243.166	gist.github.com
-52.217.168.97	github-cloud.s3.amazonaws.com
-52.217.231.1	github-com.s3.amazonaws.com
-3.5.17.123	github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.168.49	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.199.249	github-production-user-asset-6210df.s3.amazonaws.com
+3.5.28.201	github-cloud.s3.amazonaws.com
+16.15.183.173	github-com.s3.amazonaws.com
+54.231.234.17	github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.12.254	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.89.236	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -8490,7 +8500,7 @@
 185.199.110.154	github.githubassets.com
 151.101.193.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.111.133	github.map.fastly.net
+185.199.110.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 127.0.0.1	gj.applog.uc.cn
 0.0.0.0	gj.gds.mmstat.com
@@ -9482,6 +9492,7 @@
 0.0.0.0	kambitnex-pro.net
 0.0.0.0	kapitaflow.pro
 0.0.0.0	kasebonoa.pro
+0.0.0.0	katz.adv.br
 0.0.0.0	kd.api.agrantsem.com
 127.0.0.1	kde.qq.com
 0.0.0.0	kds.ero-advertising.com
@@ -9666,6 +9677,7 @@
 127.0.0.1	lh3.googleadsserving.cn
 127.0.0.1	lianmengapi.snssdk.com
 0.0.0.0	liberty.gedads.com
+0.0.0.0	lichenfordup.pro
 127.0.0.1	life.html5.qq.com
 0.0.0.0	lifethreadshomestead.com
 0.0.0.0	lightstep-collector.api.ua.com
@@ -10585,6 +10597,7 @@
 0.0.0.0	notify.sec.miui.com
 127.0.0.1	nova-collector-1192479543.us-east-1.elb.amazonaws.com
 0.0.0.0	novaonads.com
+0.0.0.0	novaprint.pro
 0.0.0.0	novaraless.pro
 127.0.0.1	novel.pangolin-sdk-toutiao.com
 127.0.0.1	novelapp.fqnovelvod.com
@@ -10640,6 +10653,7 @@
 127.0.0.1	oa.getui.com
 0.0.0.0	oads.cracked.com
 0.0.0.0	oadsiphathaugy.com
+0.0.0.0	oakdenup.pro
 0.0.0.0	oamsrhads.us.publicus.com
 0.0.0.0	oas-c18.adnxs.com
 0.0.0.0	oas.adservingml.com
@@ -10657,7 +10671,6 @@
 127.0.0.1	ocp.umeng.com
 127.0.0.1	ocpx.adwangmai.com
 127.0.0.1	ocx.umeng.com
-0.0.0.0	odbsasjd.upgrade4file.digital
 127.0.0.1	odin.sohu.com
 127.0.0.1	oe-book.xdplt.com
 0.0.0.0	oeeee.adsame.com
@@ -11374,6 +11387,7 @@
 0.0.0.0	pkoplink.com
 0.0.0.0	pl-oferta127439-google-pixel-10-pro-xl.cfd
 0.0.0.0	pl-oferta12783612-ipad-m4-pro-512gb.cfd
+0.0.0.0	pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0	pl-oferta2105131-ipad-pro-m1-512gb.sbs
 0.0.0.0	pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0	pl-oferta495307-playstation-5-1-pad.sbs
@@ -11429,6 +11443,7 @@
 127.0.0.1	policy.jd.com
 0.0.0.0	policy.video.iqiyi.com
 0.0.0.0	policy.video.ptqy.gitv.tv
+0.0.0.0	polinexis-pro.com
 0.0.0.0	polskainnowacja.pro
 0.0.0.0	polymorphicads.jp
 0.0.0.0	pompaverde.pro
@@ -11501,7 +11516,7 @@
 0.0.0.0	prismalinkerty.pro
 0.0.0.0	prismanodere.pro
 127.0.0.1	privacy.api.intl.miui.com
-185.199.111.133	private-user-images.githubusercontent.com
+185.199.110.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-factory.com
@@ -11787,7 +11802,6 @@
 0.0.0.0	r.wallstrads.com
 0.0.0.0	r2.adwo.com
 0.0.0.0	r3.adwo.com
-0.0.0.0	r8ada0zp.novacode.digital
 127.0.0.1	ra.gtimg.com
 0.0.0.0	rabbit.tg.meitu.com
 127.0.0.1	rack.ra.icast.cn
@@ -12357,7 +12371,6 @@
 0.0.0.0	safebrowsing.urlsec.gg.com
 0.0.0.0	safekeepup.pro
 0.0.0.0	safeoffers.pro
-0.0.0.0	safetynews.pro
 0.0.0.0	sagan.iad-03.braze.com
 0.0.0.0	saltovegna.pro
 0.0.0.0	sam86vip.pro
@@ -14516,6 +14529,7 @@
 0.0.0.0	vik-analytics.moonactive.net
 0.0.0.0	vinted.oferta-89125673-macbook-pro-m4-24gb.cfd
 0.0.0.0	vinted.pl-oferta127439-google-pixel-10-pro-xl.cfd
+0.0.0.0	vinted.pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0	vinted.pl-oferta2105131-ipad-pro-m1-512gb.sbs
 0.0.0.0	vinted.pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0	vinted.pl-oferta495307-playstation-5-1-pad.sbs
@@ -15060,6 +15074,7 @@
 0.0.0.0	wonderlandads.com
 0.0.0.0	wondoads.de
 127.0.0.1	woocall.sina.com.cn
+0.0.0.0	woodnessty.pro
 127.0.0.1	woodpecker.uc.cn
 127.0.0.1	workbench.umeng.com
 0.0.0.0	worker1.advertnative.com
@@ -15213,6 +15228,7 @@
 0.0.0.0	www.ad0.api.ero-advertising.com
 0.0.0.0	www.ad0.banners.ero-advertising.com
 0.0.0.0	www.ad0.data2.ero-advertising.com
+0.0.0.0	www.ad0324.ch
 0.0.0.0	www.ad1.api.ero-advertising.com
 0.0.0.0	www.ad1.banners.ero-advertising.com
 0.0.0.0	www.ad1.ero-advertising.com
@@ -15360,6 +15376,8 @@
 0.0.0.0	www.aid-ad.jp
 0.0.0.0	www.airybotsh.pro
 0.0.0.0	www.aldenspur.pro
+0.0.0.0	www.alderwoodty.pro
+0.0.0.0	www.alvrixtrade82.com
 0.0.0.0	www.ampliheads.rest
 0.0.0.0	www.analytics-digit-in.cdn.ampproject.org
 0.0.0.0	www.analytics.247sports.com
@@ -15388,6 +15406,7 @@
 127.0.0.1	www.appsflyer.com
 0.0.0.0	www.arrowrivan.pro
 0.0.0.0	www.articlesnowfeed.pro
+0.0.0.0	www.aspenridgeup.pro
 0.0.0.0	www.ata.ero-advertising.com
 0.0.0.0	www.atlaraty.pro
 0.0.0.0	www.atmosadvisor.com
@@ -15455,6 +15474,10 @@
 0.0.0.0	www.biedadsz-pl.shop
 0.0.0.0	www.biedadsza-pl.shop
 0.0.0.0	www.biedadszb-pl.shop
+0.0.0.0	www.biedadszh-pl.shop
+0.0.0.0	www.biedadszi-pl.shop
+0.0.0.0	www.biedadszj-pl.shop
+0.0.0.0	www.biedadszl-pl.shop
 0.0.0.0	www.bigbangads.go2cloud.org
 0.0.0.0	www.bijiwii.pro
 127.0.0.1	www.bingads.microsoft.com
@@ -15521,6 +15544,7 @@
 0.0.0.0	www.certablazetop.pro
 0.0.0.0	www.chat.ero-advertising.com
 0.0.0.0	www.chatikpereezd1.pro
+0.0.0.0	www.chaveltrugo.pro
 0.0.0.0	www.check-grammar-software.com
 127.0.0.1	www.chengzijianzhan.com
 0.0.0.0	www.christianbusinessadvertising.com
@@ -15600,6 +15624,7 @@
 0.0.0.0	www.doubleclick.net
 0.0.0.0	www.doublepimpads.com
 0.0.0.0	www.doublexvi.pro
+0.0.0.0	www.dovlatinka.pro
 0.0.0.0	www.down1oads.com
 0.0.0.0	www.download.inboxace.com
 0.0.0.0	www.download.televisionfanatic.com
@@ -15652,7 +15677,6 @@
 0.0.0.0	www.fast-adv.it
 0.0.0.0	www.fata.ero-advertising.com
 0.0.0.0	www.feedtoreadnow.pro
-0.0.0.0	www.fefatei.pro
 0.0.0.0	www.fetusuaryfoot.pro
 0.0.0.0	www.feyads.com
 0.0.0.0	www.fhatfee.ero-advertising.com
@@ -15680,6 +15704,7 @@
 0.0.0.0	www.fluxwingless.pro
 0.0.0.0	www.flw.ero-advertising.com
 0.0.0.0	www.fnatfee.ero-advertising.com
+0.0.0.0	www.fontabrasch.pro
 0.0.0.0	www.fontamiglia.pro
 0.0.0.0	www.forex-advice.net
 0.0.0.0	www.forgebeamty.pro
@@ -15806,6 +15831,7 @@
 0.0.0.0	www.leadsystemx.com
 0.0.0.0	www.led1688.pro
 0.0.0.0	www.ledadventures.com
+0.0.0.0	www.lichenfordup.pro
 0.0.0.0	www.lifethreadshomestead.com
 0.0.0.0	www.ligrinsixuord.pro
 0.0.0.0	www.links-and-traffic.com
@@ -15891,11 +15917,13 @@
 0.0.0.0	www.northpathd.pro
 0.0.0.0	www.notepad2.com
 0.0.0.0	www.novaonads.com
+0.0.0.0	www.novaprint.pro
 0.0.0.0	www.novaraless.pro
 0.0.0.0	www.noventarionyx.pro
 0.0.0.0	www.nucleusapexd.pro
 0.0.0.0	www.nuhewiy.pro
 127.0.0.1	www.oadz.com
+0.0.0.0	www.oakdenup.pro
 0.0.0.0	www.oata.ero-advertising.com
 0.0.0.0	www.oferta-89125673-macbook-pro-m4-24gb.cfd
 0.0.0.0	www.olx.oferta-89125673-macbook-pro-m4-24gb.cfd
@@ -15939,6 +15967,7 @@
 0.0.0.0	www.piwik.ero-advertising.com
 0.0.0.0	www.pl-oferta127439-google-pixel-10-pro-xl.cfd
 0.0.0.0	www.pl-oferta12783612-ipad-m4-pro-512gb.cfd
+0.0.0.0	www.pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0	www.pl-oferta2105131-ipad-pro-m1-512gb.sbs
 0.0.0.0	www.pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0	www.pl-oferta495307-playstation-5-1-pad.sbs
@@ -15954,6 +15983,7 @@
 0.0.0.0	www.pllaay-google.com
 0.0.0.0	www.pllay-google.com
 0.0.0.0	www.pobierzteraz.mobi
+0.0.0.0	www.polinexis-pro.com
 0.0.0.0	www.polskainnowacja.pro
 0.0.0.0	www.pompaverde.pro
 0.0.0.0	www.popacs.ero-advertising.com
@@ -16055,7 +16085,6 @@
 0.0.0.0	www.s7.adaces.ero-advertising.com
 0.0.0.0	www.s76.pro
 0.0.0.0	www.safekeepup.pro
-0.0.0.0	www.safetynews.pro
 0.0.0.0	www.saltovegna.pro
 0.0.0.0	www.samuretto.pro
 0.0.0.0	www.sartorelli.pro
@@ -16248,6 +16277,7 @@
 0.0.0.0	www.vertexsoapy.pro
 0.0.0.0	www.vinted.oferta-89125673-macbook-pro-m4-24gb.cfd
 0.0.0.0	www.vinted.pl-oferta127439-google-pixel-10-pro-xl.cfd
+0.0.0.0	www.vinted.pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0	www.vinted.pl-oferta2105131-ipad-pro-m1-512gb.sbs
 0.0.0.0	www.vinted.pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0	www.vinted.pl-oferta495307-playstation-5-1-pad.sbs
@@ -16299,6 +16329,7 @@
 0.0.0.0	www.witsuc.pro
 0.0.0.0	www.wks.ero-advertising.com
 0.0.0.0	www.wofisey.pro
+0.0.0.0	www.woodnessty.pro
 0.0.0.0	www.worldhotels.pro
 0.0.0.0	www.worldhotelss.pro
 0.0.0.0	www.worshritogi.pro
