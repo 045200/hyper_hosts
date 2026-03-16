@@ -1,5 +1,5 @@
-# 最后更新时间: 2026-03-16 00:35:26
-# 白名单总数: 351
+# 最后更新时间: 2026-03-16 13:49:14
+# 白名单总数: 354
 #########
 #Adaway专用白名单
 #禁止用在拦截黑名单或者Adguard订阅
@@ -215,6 +215,7 @@ haohuo.snssdk.com
 hot.browser.intl.miui.com
 hot.browser.miui.com
 httpdns.push.oppomobile.com
+hyperos.developer.xiaomi.com
 i*.snssdk.com
 i.snssdk.com
 idmb.register.xmpush.global.xiaomi.com
@@ -245,6 +246,8 @@ mcs.zijieapi.com
 mdevstat.qqlive.qq.com
 me-api.jd.com
 med-fe.cdn.bcebos.com
+metok.sys*miui.com
+metok.sys.miui.com
 midas.gtimg.cn
 mime.baidu.com
 mini2015.qq.com

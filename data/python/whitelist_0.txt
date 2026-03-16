@@ -538,3 +538,7 @@ qappcenterv6.3g.qq.com
 qappcenterv*.qq.com
 tdid.m.qq.com
 tangram.e.qq.com
+#HyperOS超级岛
+hyperos.developer.xiaomi.com
+metok.sys.miui.com
+metok.sys*miui.com
