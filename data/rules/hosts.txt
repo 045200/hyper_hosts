@@ -1,4 +1,4 @@
-# 最后更新时间: 2026-04-11 00:53:47
+# 最后更新时间: 2026-04-11 13:25:05
 # 规则总数: 18328
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -6853,7 +6853,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	celmoris-tromeli.pro
 0.0.0.0	centaurusquantyeos.pro
-140.82.113.22	central.github.com
+140.82.114.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	cephalothorax.pro
@@ -8195,7 +8195,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.114.22	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -8805,11 +8805,11 @@
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-16.182.73.201	github-cloud.s3.amazonaws.com
-16.15.218.163	github-com.s3.amazonaws.com
-52.216.89.228	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.223.178	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.191.211	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.217.185	github-cloud.s3.amazonaws.com
+52.216.240.252	github-com.s3.amazonaws.com
+52.217.82.28	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.118.153	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.207.151	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
@@ -15593,7 +15593,7 @@
 0.0.0.0	vs9.gzcm.u3.ucweb.com
 0.0.0.0	vs9.gzct.u3.ucweb.com
 0.0.0.0	vs9.gzcu.u3.ucweb.com
-150.171.110.70	vscode.dev
+150.171.110.65	vscode.dev
 0.0.0.0	vscore.pro
 0.0.0.0	vserv.mobi
 127.0.0.1	vshi.tc.qq.com
