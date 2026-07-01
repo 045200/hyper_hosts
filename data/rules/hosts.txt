@@ -1,5 +1,5 @@
-# 最后更新时间: 2026-07-01 01:56:25
-# 规则总数: 16484
+# 最后更新时间: 2026-07-01 16:14:51
+# 规则总数: 16487
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -5284,6 +5284,7 @@
 127.0.0.1	api.growingio.com
 0.0.0.0	api.growthbeat.com
 0.0.0.0	api.growthpush.com
+0.0.0.0	api.haybet.ws
 0.0.0.0	api.hb8887.com
 0.0.0.0	api.hdbet.com
 0.0.0.0	api.hdtv.letv.com
@@ -7888,6 +7889,7 @@
 0.0.0.0	echoobywatelskie.pro
 0.0.0.0	echoportalowe.pro
 0.0.0.0	echowieczorne.pro
+0.0.0.0	echozblokowych.pro
 0.0.0.0	echozpodmorza.pro
 0.0.0.0	echozskweru.pro
 127.0.0.1	eclick.baidu.com
@@ -7907,7 +7909,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.114.22	education.github.com
+140.82.112.21	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -8241,6 +8243,7 @@
 0.0.0.0	ftp.dns-info.dyndns.pro
 127.0.0.1	ftp.qchannel03.cn
 127.0.0.1	ftp.shuzilm.cn
+0.0.0.0	fudelua.pro
 127.0.0.1	fumiad.dxys.pro
 0.0.0.0	fun-adx.admaster.com.cn
 0.0.0.0	fun.adx.admaster.com.cn
@@ -8429,17 +8432,17 @@
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-16.182.106.57	github-cloud.s3.amazonaws.com
-54.231.169.81	github-com.s3.amazonaws.com
-52.217.234.177	github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.132.97	github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.200.81	github-production-user-asset-6210df.s3.amazonaws.com
+52.217.125.121	github-cloud.s3.amazonaws.com
+52.217.229.233	github-com.s3.amazonaws.com
+54.231.203.41	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.173.33	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.227.1	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-108.160.163.117	github.global.ssl.fastly.net
+31.13.73.169	github.global.ssl.fastly.net
 185.199.110.133	github.io
 185.199.110.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
@@ -9547,7 +9550,6 @@
 127.0.0.1	letv.ipdx.cn.miaozhen.com
 127.0.0.1	letv.irs01.com
 0.0.0.0	letv.m.cn.miaozhen.com
-0.0.0.0	leukoalbif.pro
 0.0.0.0	level.turboads.de
 0.0.0.0	lever-analytics.com
 0.0.0.0	lewymyt.pro
@@ -12615,6 +12617,7 @@
 0.0.0.0	seosoftware.onlinedownloads.org
 0.0.0.0	september.cityads.com
 127.0.0.1	ser.5tmovice.com
+0.0.0.0	serendiptyless.pro
 0.0.0.0	serpens.iad-01.braze.com
 0.0.0.0	serpens.iad.appboy.com
 0.0.0.0	serv-api.target2sell.com
@@ -13460,6 +13463,7 @@
 0.0.0.0	teads.tv.edgekey.net
 0.0.0.0	teads245638586802.s.moatpixel.com
 127.0.0.1	techain.baidu.com
+0.0.0.0	techartadverts.com
 0.0.0.0	techweb.iv.adsame.com
 0.0.0.0	teieqlpdr.mobi
 0.0.0.0	teinfo.wps.cn
@@ -14022,7 +14026,6 @@
 127.0.0.1	ump.sz.creditcard.ecitic.com
 127.0.0.1	umtrack.com
 127.0.0.1	un-acs.youku.com
-0.0.0.0	unagladst.shop
 0.0.0.0	unconf.mobad.ijinshan.com
 0.0.0.0	unet.ucweb.com
 127.0.0.1	uni-shumeng.zhipin.com
@@ -14980,7 +14983,6 @@
 0.0.0.0	worker73.advertnative.com
 0.0.0.0	world.popadscdn.net
 127.0.0.1	world.qpic.cn
-0.0.0.0	worldmediaiqora.pro
 0.0.0.0	worldpulseiq.pro
 0.0.0.0	worldtrendingalert.pro
 0.0.0.0	worldwideupdates.pro
@@ -15481,6 +15483,7 @@
 0.0.0.0	www.echoobywatelskie.pro
 0.0.0.0	www.echoportalowe.pro
 0.0.0.0	www.echowieczorne.pro
+0.0.0.0	www.echozblokowych.pro
 0.0.0.0	www.echozpodmorza.pro
 0.0.0.0	www.echozskweru.pro
 0.0.0.0	www.eedclicks.ero-advertising.com
@@ -15548,6 +15551,7 @@
 0.0.0.0	www.frontlineflashreport.pro
 0.0.0.0	www.frontlinepulsewire.pro
 0.0.0.0	www.frontlinevanguardalert.pro
+0.0.0.0	www.fudelua.pro
 0.0.0.0	www.fxadviceformeandyou.com
 0.0.0.0	www.fyzoceu.pro
 0.0.0.0	www.game-advertising-online.com
@@ -15655,7 +15659,6 @@
 0.0.0.0	www.lanzouz.com
 0.0.0.0	www.latestupdates.pro
 0.0.0.0	www.layers.ero-advertising.com
-0.0.0.0	www.leukoalbif.pro
 0.0.0.0	www.lewymyt.pro
 0.0.0.0	www.links-and-traffic.com
 0.0.0.0	www.liptonadventures.com
@@ -15922,6 +15925,7 @@
 0.0.0.0	www.security-update.ddns.info
 0.0.0.0	www.security-update.ocry.com
 0.0.0.0	www.security-update.qhigh.com
+0.0.0.0	www.serendiptyless.pro
 0.0.0.0	www.servedby-buysellads.com
 0.0.0.0	www.sesquipedaeie.pro
 0.0.0.0	www.seure-update.fartit.com
@@ -15988,6 +15992,7 @@
 0.0.0.0	www.talkingdata.com
 0.0.0.0	www.tcm.optica.ero-advertising.com
 0.0.0.0	www.techadvisorpro.name
+0.0.0.0	www.techartadverts.com
 0.0.0.0	www.teieqlpdr.mobi
 0.0.0.0	www.tejeadventur.fit
 0.0.0.0	www.tejeadventur.luxe
@@ -16047,7 +16052,6 @@
 127.0.0.1	www.umeng.co
 127.0.0.1	www.umeng.com
 127.0.0.1	www.umengcloud.com
-0.0.0.0	www.unagladst.shop
 0.0.0.0	www.universal-traffic.com
 0.0.0.0	www.update-information.zzux.com
 0.0.0.0	www.update-java.kit.net
@@ -16101,7 +16105,6 @@
 0.0.0.0	www.winads.cn
 0.0.0.0	www.witnessinstantfeed.pro
 0.0.0.0	www.wks.ero-advertising.com
-0.0.0.0	www.worldmediaiqora.pro
 0.0.0.0	www.worldpulseiq.pro
 0.0.0.0	www.worldtrendingalert.pro
 0.0.0.0	www.worldwideupdates.pro
