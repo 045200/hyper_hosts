@@ -1,5 +1,5 @@
-# 最后更新时间: 2026-07-06 01:12:43
-# 规则总数: 16511
+# 最后更新时间: 2026-07-06 16:21:53
+# 规则总数: 16508
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -266,6 +266,7 @@
 0.0.0.0	7r3cna.viqiyi.admaster.com.cn
 0.0.0.0	7r76oa.vyk.admaster.com.cn
 0.0.0.0	7r8a9a.viqiyi.admaster.com.cn
+0.0.0.0	7v8ver7f.1xgame.pro
 127.0.0.1	8168974.fls.doubleclick.net
 0.0.0.0	822.dlads.cn
 127.0.0.1	8397396.fls.doubleclick.net
@@ -4977,8 +4978,6 @@
 0.0.0.0	api-client.okvipworldcup.com
 127.0.0.1	api-d.dutils.com
 127.0.0.1	api-d.hiaiabc.com
-0.0.0.0	api-data-1234-s3-region-amazonaws-user.creampieoverload.com
-0.0.0.0	api-data-1234-s3-region-amazonaws-user.dayspring-store.com
 0.0.0.0	api-data-1234-s3-region-amazonaws-user.fitness-digest.com
 127.0.0.1	api-developer.tradplusad.com
 127.0.0.1	api-devs.dutils.com
@@ -5291,7 +5290,6 @@
 0.0.0.0	api.huq.io
 0.0.0.0	api.huqindustries.co.uk
 127.0.0.1	api.hybrid.xiaomi.com
-0.0.0.0	api.hypremia.com
 0.0.0.0	api.hzsanjiaomao.com
 0.0.0.0	api.ibeat-analytics.com
 0.0.0.0	api.idio.co
@@ -5300,7 +5298,7 @@
 127.0.0.1	api.im.jpush.cn
 0.0.0.0	api.immomo.com
 0.0.0.0	api.indicative.com
-140.82.114.21	api.individual.githubcopilot.com
+140.82.112.21	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 127.0.0.1	api.inmobi.cn
 127.0.0.1	api.instabug.com
@@ -6188,6 +6186,7 @@
 47.246.37.220	bigota.d.miui.com
 127.0.0.1	bin5y4muil.execute-api.us-east-1.amazonaws.com
 127.0.0.1	bingads.microsoft.com
+0.0.0.0	binkowski.pro
 0.0.0.0	birdgesdk.com
 0.0.0.0	bit-prolexi-pro.com
 127.0.0.1	bitauto.irs01.com
@@ -6719,7 +6718,7 @@
 0.0.0.0	cedarvistaflow.pro
 0.0.0.0	cellfun.mobi
 127.0.0.1	cellinfo.tingyun.com
-140.82.114.21	central.github.com
+140.82.112.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceormelidan.pro
@@ -6749,11 +6748,15 @@
 0.0.0.0	ch615.wx.11h5.com
 0.0.0.0	challenge.cityads.com
 0.0.0.0	chanalytics.merchantadvantage.com
+0.0.0.0	changenow.com-bloom-hub.pro
+0.0.0.0	changenow.com-direct-hub.pro
+0.0.0.0	changenow.com-free-pro.cyou
 0.0.0.0	channel.api.duapp.com
 127.0.0.1	channel.fanxing.kugou.com
 127.0.0.1	channel.getui.com
 127.0.0.1	channels.weixin.qq.com
 127.0.0.1	charge.adapp.baidu.com
+0.0.0.0	chargenow.com-eco-io.pro
 0.0.0.0	chart.advinion.com
 0.0.0.0	chat.ero-advertising.com
 0.0.0.0	chat1.jd.com
@@ -7523,6 +7526,7 @@
 127.0.0.1	devs-data.hiaiabc.com
 127.0.0.1	devs.data.mob.com
 127.0.0.1	dex.advg.jp
+0.0.0.0	dexyfui.pro
 127.0.0.1	df-mic.mob.com
 127.0.0.1	df.mic.mob.com
 0.0.0.0	df.mob.com
@@ -7863,6 +7867,7 @@
 0.0.0.0	e0.extreme-dm.com
 0.0.0.0	e1.extreme-dm.com
 0.0.0.0	e2.extreme-dm.com
+0.0.0.0	e703cad0-1b37-4cd4-b3d6.tapscalafilepro.net
 0.0.0.0	ead-soft.popunder.ru
 0.0.0.0	eadsrv.com
 0.0.0.0	eagleasp.adsame.com
@@ -7904,7 +7909,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.112.22	education.github.com
+140.82.113.21	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -8197,7 +8202,6 @@
 0.0.0.0	forums.data2.ero-advertising.com
 0.0.0.0	forums.ero-advertising.com
 0.0.0.0	fota.advmob.cn
-0.0.0.0	fotocadvow.cyou
 0.0.0.0	fp-analytics.hotstar.com
 127.0.0.1	fp-it.fengkongcloud.com
 127.0.0.1	fp-it.portal101.cn
@@ -8239,7 +8243,6 @@
 0.0.0.0	fundingchoicesmessages.google.com
 127.0.0.1	funds.iapp.jiguang.cn
 127.0.0.1	funshion-mipdx.cn.miaozhen.com
-0.0.0.0	fuotcd3b.futshart.pro
 0.0.0.0	fusion-iad-dev-clogs-eqbrmmvphc.elasticbeanstalk.com
 127.0.0.1	fusion.qq.com
 0.0.0.0	fusionads.net
@@ -8424,17 +8427,17 @@
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-52.217.203.249	github-cloud.s3.amazonaws.com
-52.216.39.97	github-com.s3.amazonaws.com
-52.217.192.129	github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.69.4	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.42.81	github-production-user-asset-6210df.s3.amazonaws.com
+54.231.198.25	github-cloud.s3.amazonaws.com
+52.217.254.9	github-com.s3.amazonaws.com
+52.217.200.65	github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.175.81	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.64.57	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-108.160.165.53	github.global.ssl.fastly.net
+108.160.167.156	github.global.ssl.fastly.net
 185.199.110.133	github.io
 185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
@@ -8773,6 +8776,7 @@
 127.0.0.1	huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
 127.0.0.1	huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
 127.0.0.1	huskieaccess.bugly.qq.com
+0.0.0.0	huvateo.pro
 0.0.0.0	hvdbeutysale.pro
 0.0.0.0	hw-cdn-ap.trafficjunky.net
 0.0.0.0	hw-cdn.trafficjunky.net
@@ -9546,6 +9550,7 @@
 0.0.0.0	leadsynaptic.go2jump.org
 127.0.0.1	learn.appsflyer.com
 127.0.0.1	learn.chaoxing.com
+0.0.0.0	lecypoe.pro
 0.0.0.0	legjava.pro
 127.0.0.1	letv-mipdx.cn.miaozhen.com
 127.0.0.1	letv.axp.admaster.com.cn
@@ -9651,7 +9656,6 @@
 127.0.0.1	lives.l.qq.com
 127.0.0.1	livew.l.qq.com
 0.0.0.0	livewebbs2pcdn.msstatic.com
-0.0.0.0	lk-ssgroup.pro
 127.0.0.1	lks.share.mob.com
 127.0.0.1	llmchat.voiceads.cn
 0.0.0.0	lm10111.jtrincc.cn
@@ -10135,7 +10139,6 @@
 127.0.0.1	mlinks.jiguang.cn
 0.0.0.0	mlog.bigda.com
 127.0.0.1	mlog.search.xiaomi.net
-0.0.0.0	mlvgwjn.1xforward.pro
 0.0.0.0	mma.admaster.com.cn
 0.0.0.0	mmg.aty.cp45.ott.cibntv.net
 127.0.0.1	mmg.aty.sohu.com
@@ -10490,7 +10493,6 @@
 0.0.0.0	newsfeed-drcn.cloud.hihonorcloud.cn
 0.0.0.0	newsfeed-drcn.cloud.hihonorcloud.com
 0.0.0.0	newsfluxion.pro
-0.0.0.0	newsorbitnova.pro
 127.0.0.1	newspush.sinajs.cn
 0.0.0.0	newsyoucanread24.com
 0.0.0.0	newvoice.chiq5.smart-tv.cn
@@ -11394,13 +11396,11 @@
 0.0.0.0	podslychanezzakretuulicylodzkiej.pro
 0.0.0.0	podslychanezzatokanki.pro
 0.0.0.0	podslyszaneo.pro
-0.0.0.0	podslyszanesrodka.pro
 0.0.0.0	podslyszanezautobusu.pro
 0.0.0.0	podslyszanezlawkii.pro
 0.0.0.0	podslyszanezparapetu3.pro
 0.0.0.0	podslyszanezparapetuobokdrzwisciany.pro
 0.0.0.0	podslyszanezpoczekalnilekarskiej.pro
-0.0.0.0	podslyszanezpodworka2.pro
 0.0.0.0	podslyszaneztramwaju.pro
 0.0.0.0	podslyszanezzamykanychdrzwi.pro
 0.0.0.0	pokkt.fuse-ad.com
@@ -11596,7 +11596,6 @@
 0.0.0.0	pulchritueoa.pro
 127.0.0.1	pull-flv-l11.douyincdn.com
 0.0.0.0	pulse.data.flurry.com
-0.0.0.0	pulslokalu.pro
 0.0.0.0	pulsportalowy.pro
 127.0.0.1	puma-api.iqiyi.com
 0.0.0.0	puma.api.iqiyi.com
@@ -11658,6 +11657,7 @@
 127.0.0.1	q17.cnzz.com
 127.0.0.1	q19.cnzz.com
 127.0.0.1	q3.cnzz.com
+0.0.0.0	q3g84ost.22beet.pro
 127.0.0.1	q4.cnzz.com
 127.0.0.1	q5.cnzz.com
 127.0.0.1	q7.cnzz.com
@@ -12617,6 +12617,7 @@
 0.0.0.0	segment.api.useinsider.com
 0.0.0.0	sejs.moatads.com
 0.0.0.0	seks-partner.com
+0.0.0.0	sell-ukaldi.cadsualblouses.com
 0.0.0.0	sensors-log.dongqiudi.com
 0.0.0.0	sensors.snaptube.app
 0.0.0.0	sentry.music.163.com
@@ -12775,6 +12776,7 @@
 0.0.0.0	sina.mediav.com
 0.0.0.0	single.upsight-api.com
 0.0.0.0	sirius.iad-03.braze.com
+0.0.0.0	siroamolten.pro
 127.0.0.1	sis-ipv6.jpush.cn
 127.0.0.1	sis.iot.jiguang.cn
 127.0.0.1	sis.jpush.cn
@@ -13325,6 +13327,7 @@
 127.0.0.1	syrs.z74d.com
 127.0.0.1	sysdk.cl2009.com
 0.0.0.0	syzbh66.xyz
+0.0.0.0	syzygyiao.pro
 127.0.0.1	sz.gafz.chanct.cn
 0.0.0.0	szbdyd.com
 127.0.0.1	szlong.weixin.qq.com
@@ -13496,7 +13499,6 @@
 127.0.0.1	ten.sngapm.qq.com
 127.0.0.1	tencent-dtv.m.cn.miaozhen.com
 0.0.0.0	ter-adserver-origin-ap.prod.adtechjp.com
-0.0.0.0	terraqspark.pro
 127.0.0.1	test-adx-event.tradplusad.com
 127.0.0.1	test-api-developer.tradplusad.com
 127.0.0.1	test-api-installer.pt.xiaomi.com
@@ -14202,7 +14204,6 @@
 127.0.0.1	utp.ucweb.com
 127.0.0.1	uu.qq.com
 0.0.0.0	uusee.adsame.com
-0.0.0.0	uusqctu.eurojet.pro
 127.0.0.1	uweb.umeng.com
 0.0.0.0	uxip-res.meizu.com
 0.0.0.0	uxip.meizu.com
@@ -14724,7 +14725,7 @@
 0.0.0.0	vs9.gzcm.u3.ucweb.com
 0.0.0.0	vs9.gzct.u3.ucweb.com
 0.0.0.0	vs9.gzcu.u3.ucweb.com
-150.171.110.102	vscode.dev
+150.171.110.103	vscode.dev
 0.0.0.0	vscore.pro
 0.0.0.0	vserv.mobi
 127.0.0.1	vshi.tc.qq.com
@@ -14904,6 +14905,7 @@
 0.0.0.0	wejuxee.pro
 0.0.0.0	wemamsdkkwioweioadi.site
 0.0.0.0	wenku-cms.bj.bcebos.com
+0.0.0.0	wep-open.wpdevcloud.com
 0.0.0.0	wer.qdwght.com
 0.0.0.0	weriadokweosdko.site
 127.0.0.1	wes.df.telemetry.microsoft.com
@@ -14921,7 +14923,6 @@
 0.0.0.0	widgets.outbrain.com
 0.0.0.0	widgets.pinterest.com
 0.0.0.0	wiescinadrannych.pro
-0.0.0.0	wiescipl24.pro
 0.0.0.0	wiesciredakcja.pro
 0.0.0.0	wifi.ads.oppomobile.com
 0.0.0.0	wifiads.cleverads.vn
@@ -15284,11 +15285,8 @@
 0.0.0.0	www.analytics.picsart.com
 0.0.0.0	www.anners.ero-advertising.com
 127.0.0.1	www.anythinktech.com
-0.0.0.0	www.api-data-1234-s3-region-amazonaws-user.creampieoverload.com
-0.0.0.0	www.api-data-1234-s3-region-amazonaws-user.dayspring-store.com
 0.0.0.0	www.api-data-1234-s3-region-amazonaws-user.fitness-digest.com
 0.0.0.0	www.api.axiatraders.com
-0.0.0.0	www.api.hypremia.com
 0.0.0.0	www.api.taboola.com
 127.0.0.1	www.applovin.com
 127.0.0.1	www.appsflyer.com
@@ -15338,6 +15336,7 @@
 0.0.0.0	www.bigbangads.go2cloud.org
 0.0.0.0	www.bigetei.pro
 127.0.0.1	www.bingads.microsoft.com
+0.0.0.0	www.binkowski.pro
 0.0.0.0	www.bit-prolexi-pro.com
 0.0.0.0	www.bitcoinsmarter-pro.com
 0.0.0.0	www.bitcoinup-pro.com
@@ -15446,6 +15445,7 @@
 0.0.0.0	www.deta.ero-advertising.com
 0.0.0.0	www.detailedanalysis.pro
 0.0.0.0	www.dewcoreaj.pro
+0.0.0.0	www.dexyfui.pro
 0.0.0.0	www.dia-traffic.com
 0.0.0.0	www.dinexura-pro.com
 0.0.0.0	www.dinijye.pro
@@ -15547,7 +15547,6 @@
 0.0.0.0	www.forum.ero-advertising.com
 0.0.0.0	www.forums.data2.ero-advertising.com
 0.0.0.0	www.forums.ero-advertising.com
-0.0.0.0	www.fotocadvow.cyou
 0.0.0.0	www.fpa.ero-advertising.com
 0.0.0.0	www.frontlinebulletin.pro
 0.0.0.0	www.frontlinebulletinhub.pro
@@ -15604,6 +15603,7 @@
 0.0.0.0	www.hot-mob.com
 0.0.0.0	www.hotdogsandads.com
 0.0.0.0	www.hufywoi.pro
+0.0.0.0	www.huvateo.pro
 0.0.0.0	www.hvdbeutysale.pro
 0.0.0.0	www.hylavyo.pro
 0.0.0.0	www.idspaces.ero-advertising.com
@@ -15668,11 +15668,11 @@
 0.0.0.0	www.laxabou.pro
 0.0.0.0	www.layers.ero-advertising.com
 0.0.0.0	www.lazajuy.pro
+0.0.0.0	www.lecypoe.pro
 0.0.0.0	www.lewymyt.pro
 0.0.0.0	www.links-and-traffic.com
 0.0.0.0	www.lisimya.pro
 0.0.0.0	www.liverollads.com
-0.0.0.0	www.lk-ssgroup.pro
 0.0.0.0	www.loadsabingo.com
 0.0.0.0	www.loginssl-dns.bv-seniorenbad.de
 0.0.0.0	www.losijiy.pro
@@ -15733,7 +15733,6 @@
 0.0.0.0	www.newhold.pro
 0.0.0.0	www.newlookstories.pro
 0.0.0.0	www.newsfluxion.pro
-0.0.0.0	www.newsorbitnova.pro
 0.0.0.0	www.newsyoucanread24.com
 0.0.0.0	www.ngads.com
 0.0.0.0	www.nibapee.pro
@@ -15835,13 +15834,11 @@
 0.0.0.0	www.podslychanezzakretuulicylodzkiej.pro
 0.0.0.0	www.podslychanezzatokanki.pro
 0.0.0.0	www.podslyszaneo.pro
-0.0.0.0	www.podslyszanesrodka.pro
 0.0.0.0	www.podslyszanezautobusu.pro
 0.0.0.0	www.podslyszanezlawkii.pro
 0.0.0.0	www.podslyszanezparapetu3.pro
 0.0.0.0	www.podslyszanezparapetuobokdrzwisciany.pro
 0.0.0.0	www.podslyszanezpoczekalnilekarskiej.pro
-0.0.0.0	www.podslyszanezpodworka2.pro
 0.0.0.0	www.podslyszaneztramwaju.pro
 0.0.0.0	www.podslyszanezzamykanychdrzwi.pro
 0.0.0.0	www.polskagdziennie.pro
@@ -15873,7 +15870,6 @@
 0.0.0.0	www.proadscdn.com
 0.0.0.0	www.properrayam.pro
 0.0.0.0	www.pulchritueoa.pro
-0.0.0.0	www.pulslokalu.pro
 0.0.0.0	www.pulsportalowy.pro
 0.0.0.0	www.purnyagole.pro
 0.0.0.0	www.qadsrftgvcx.site
@@ -15934,6 +15930,7 @@
 0.0.0.0	www.security-update.ddns.info
 0.0.0.0	www.security-update.ocry.com
 0.0.0.0	www.security-update.qhigh.com
+0.0.0.0	www.sell-ukaldi.cadsualblouses.com
 0.0.0.0	www.serendiptyless.pro
 0.0.0.0	www.servedby-buysellads.com
 0.0.0.0	www.sesquipedaeie.pro
@@ -15946,6 +15943,7 @@
 127.0.0.1	www.sigmob.com
 0.0.0.0	www.silverpeakdeskv.pro
 0.0.0.0	www.sin.ero-advertising.com
+0.0.0.0	www.siroamolten.pro
 0.0.0.0	www.slimads.vn
 0.0.0.0	www.sluchajpl.pro
 0.0.0.0	www.smartadserver.com
@@ -15995,6 +15993,7 @@
 0.0.0.0	www.sygnalredakcji.pro
 0.0.0.0	www.sygnalzredakcji.pro
 0.0.0.0	www.syndication.exdynsrv.com
+0.0.0.0	www.syzygyiao.pro
 0.0.0.0	www.t-analytics.com
 127.0.0.1	www.taboola.com
 0.0.0.0	www.talkingdata.com
@@ -16006,7 +16005,6 @@
 0.0.0.0	www.tejeadventur.luxe
 0.0.0.0	www.tejeadventur.wiki
 0.0.0.0	www.temeorufgan.pro
-0.0.0.0	www.terraqspark.pro
 0.0.0.0	www.tex.ero-advertising.com
 0.0.0.0	www.text-link-ads.com
 0.0.0.0	www.textlinkads.com
@@ -16107,6 +16105,7 @@
 0.0.0.0	www.websdiidoadsfuiwrirjsif.site
 0.0.0.0	www.wejuxee.pro
 0.0.0.0	www.wemamsdkkwioweioadi.site
+0.0.0.0	www.wep-open.wpdevcloud.com
 0.0.0.0	www.weriadokweosdko.site
 0.0.0.0	www.wesewsisdofisdkiad.site
 0.0.0.0	www.westfieldfocus.pro
@@ -16114,7 +16113,6 @@
 0.0.0.0	www.whalecashads.com
 0.0.0.0	www.whatsitsnameaui.pro
 0.0.0.0	www.wiescinadrannych.pro
-0.0.0.0	www.wiescipl24.pro
 0.0.0.0	www.wiesciredakcja.pro
 0.0.0.0	www.wiki.ero-advertising.com
 0.0.0.0	www.winads.cn
@@ -16142,6 +16140,7 @@
 0.0.0.0	www.xelvaroqin.pro
 0.0.0.0	www.xisubya.pro
 0.0.0.0	www.xn--adspace-kvg.ero-advertising.com
+0.0.0.0	www.xoqyceo.pro
 0.0.0.0	www.yesterdayadv.buyfastservice.com
 0.0.0.0	www.yoads.net
 0.0.0.0	www.youripad4free.com
@@ -16156,7 +16155,6 @@
 0.0.0.0	www.zblokowegoprzejscia.pro
 0.0.0.0	www.zblokowegoprzejsciawkatowicach.pro
 0.0.0.0	www.zblokowegowychoduzwindyoczekujac.pro
-0.0.0.0	www.zicodey.pro
 0.0.0.0	www.zijuqie.pro
 0.0.0.0	www.zinoair.pro
 0.0.0.0	www.zklatkischodowejzbetonu.pro
@@ -16172,7 +16170,6 @@
 0.0.0.0	www.zprzystankuautobus.pro
 0.0.0.0	www.zsasiadkiejlawy.pro
 0.0.0.0	www.zszkolnegokorytarza.pro
-0.0.0.0	www.zszkolnejlawy.pro
 0.0.0.0	www.zszkolnejszatni.pro
 0.0.0.0	www.zuhigyf.pro
 0.0.0.0	www.zunduarex.pro
@@ -16321,6 +16318,7 @@
 127.0.0.1	xnet.da.mgtv.com
 0.0.0.0	xo88.pro
 0.0.0.0	xoada0pzosa.appspot.com
+0.0.0.0	xoqyceo.pro
 0.0.0.0	xratt15.sky1818.net
 127.0.0.1	xreach.miaozhen.com
 127.0.0.1	xs.gdt.qq.com
@@ -16449,6 +16447,7 @@
 0.0.0.0	zdads.e-media.com
 127.0.0.1	zeus.ad.intl.xiaomi.com
 127.0.0.1	zeus.ad.xiaomi.com
+0.0.0.0	zgfnygu.prozhe.download
 0.0.0.0	zgsdk.zhugeio.com
 127.0.0.1	zhan.cnzz.com
 127.0.0.1	zhanzhang.cnzz.com
@@ -16457,7 +16456,6 @@
 0.0.0.0	zhihu-web-analytics.zhihu.com
 127.0.0.1	zhizi.qq.com
 0.0.0.0	zhushou.2345.com
-0.0.0.0	zicodey.pro
 0.0.0.0	zijuqie.pro
 0.0.0.0	zinoair.pro
 0.0.0.0	zion-telemetry.api.cnn.io
@@ -16497,7 +16495,6 @@
 0.0.0.0	zs9.cnzz.com
 0.0.0.0	zsasiadkiejlawy.pro
 0.0.0.0	zszkolnegokorytarza.pro
-0.0.0.0	zszkolnejlawy.pro
 0.0.0.0	zszkolnejszatni.pro
 127.0.0.1	zt.gifshow.com
 127.0.0.1	zt.jd.com
