@@ -1,4 +1,4 @@
-# 最后更新时间: 2026-08-14 13:37:44
+# 最后更新时间: 2026-08-15 00:54:09
 # 规则总数: 17307
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -5342,7 +5342,7 @@
 127.0.0.1	api.im.jpush.cn
 0.0.0.0	api.immomo.com
 0.0.0.0	api.indicative.com
-140.82.113.21	api.individual.githubcopilot.com
+140.82.112.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 127.0.0.1	api.inmobi.cn
 127.0.0.1	api.instabug.com
@@ -6844,7 +6844,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	celticwealth.pro
 0.0.0.0	cenogradspravina.live
-140.82.112.22	central.github.com
+140.82.114.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	centroluxalis.pro
@@ -8045,7 +8045,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.113.22	education.github.com
+140.82.113.21	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -8609,17 +8609,17 @@
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-16.15.228.66	github-cloud.s3.amazonaws.com
-16.15.228.181	github-com.s3.amazonaws.com
-16.15.199.255	github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.76.188	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.183.101	github-production-user-asset-6210df.s3.amazonaws.com
+16.15.183.167	github-cloud.s3.amazonaws.com
+16.15.207.151	github-com.s3.amazonaws.com
+16.15.207.151	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.191.81	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.252.148	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-103.252.114.61	github.global.ssl.fastly.net
+173.252.105.21	github.global.ssl.fastly.net
 185.199.110.133	github.io
 185.199.110.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
@@ -11592,7 +11592,7 @@
 127.0.0.1	pingtcss.qq.com
 0.0.0.0	pinterest.adsymptotic.com
 72.247.96.248	pinterest.com
-13.107.43.16	pipelines.actions.githubusercontent.com
+13.107.42.16	pipelines.actions.githubusercontent.com
 127.0.0.1	pitaya.bytedance.com
 0.0.0.0	pitk.birdgesdk.com
 0.0.0.0	piwik.ero-advertising.com
@@ -15119,7 +15119,7 @@
 0.0.0.0	vs9.gzcm.u3.ucweb.com
 0.0.0.0	vs9.gzct.u3.ucweb.com
 0.0.0.0	vs9.gzcu.u3.ucweb.com
-150.171.110.101	vscode.dev
+150.171.110.98	vscode.dev
 0.0.0.0	vscore.pro
 0.0.0.0	vserv.mobi
 127.0.0.1	vshi.tc.qq.com
