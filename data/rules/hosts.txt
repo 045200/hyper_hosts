@@ -1,5 +1,5 @@
-# 最后更新时间: 2026-09-08 16:40:40
-# 规则总数: 16075
+# 最后更新时间: 2026-09-09 03:18:06
+# 规则总数: 16100
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -490,6 +490,7 @@
 0.0.0.0	ad-android.51wnl.com
 0.0.0.0	ad-apac.doubleclick.net
 0.0.0.0	ad-api-v01.uliza.jp
+0.0.0.0	ad-api.4pyun.com
 0.0.0.0	ad-api.ad-stir.com
 0.0.0.0	ad-arata.com
 127.0.0.1	ad-asm.tianmu.mobi
@@ -529,6 +530,7 @@
 0.0.0.0	ad-extra.kajicam.com
 0.0.0.0	ad-feed.com
 0.0.0.0	ad-feeds.com
+0.0.0.0	ad-files.4pyun.com
 0.0.0.0	ad-flow.com
 0.0.0.0	ad-formats.advertising.aol.com
 0.0.0.0	ad-g.doubleclick.net
@@ -720,6 +722,7 @@
 0.0.0.0	ad.bitmedia.io
 0.0.0.0	ad.bizo.com
 0.0.0.0	ad.bloggerads.net
+0.0.0.0	ad.bn.netease.com
 0.0.0.0	ad.bnmla.com
 0.0.0.0	ad.bondage.com
 0.0.0.0	ad.br.doubleclick.net
@@ -779,6 +782,7 @@
 0.0.0.0	ad.dropbooks.tv
 0.0.0.0	ad.duapps.com
 0.0.0.0	ad.duga.jp
+0.0.0.0	ad.duoduo.link
 0.0.0.0	ad.dzwindows.com
 0.0.0.0	ad.dzwww.com
 0.0.0.0	ad.e-kolay.net
@@ -1471,6 +1475,7 @@
 0.0.0.0	adc3-assets.adcolony.com
 127.0.0.1	adc3-launch.adcolony.com
 0.0.0.0	adcannyads.com
+0.0.0.0	adcanvas.com
 0.0.0.0	adcdn.goo.ne.jp
 127.0.0.1	adcdn.hpplay.cn
 0.0.0.0	adcdn.tencentmusic.com
@@ -1583,6 +1588,7 @@
 127.0.0.1	adm1.autoimg.cn
 127.0.0.1	adm2.autoimg.cn
 127.0.0.1	adm3.autoimg.cn
+0.0.0.0	admarketing.yahoo.net
 127.0.0.1	admarvel.s3.amazonaws.com
 0.0.0.0	admaster.cc
 0.0.0.0	admaster.com.cn
@@ -1598,6 +1604,7 @@
 0.0.0.0	admin.iad.eclick.vn
 127.0.0.1	admin.jpush.cn
 0.0.0.0	admin.vserv.mobi
+0.0.0.0	admobile.top
 127.0.0.1	admonitor-feedback.cn-hangzhou.log.aliyuncs.com
 127.0.0.1	admonitor-lite.miaozhen.com
 127.0.0.1	admonitor.miaozhen.com
@@ -2160,6 +2167,7 @@
 0.0.0.0	ads.fiat-bg.org
 0.0.0.0	ads.fileindexer.com
 0.0.0.0	ads.filmup.com
+0.0.0.0	ads.finance.yahoo.com
 0.0.0.0	ads.financialcontent.com
 0.0.0.0	ads.fingersoft.net
 0.0.0.0	ads.first-response.be
@@ -4455,6 +4463,7 @@
 0.0.0.0	all.cnzz.com.danuoyi.tbcache.com
 0.0.0.0	all.orfr.adgtw.orangeads.fr
 127.0.0.1	allnews.uodoo.com
+0.0.0.0	alltbcsp2p.baidu.com
 127.0.0.1	alog-default.umeng.com
 127.0.0.1	alog.umeng.co
 127.0.0.1	alog.umeng.com
@@ -5316,7 +5325,7 @@
 127.0.0.1	api.im.jpush.cn
 0.0.0.0	api.immomo.com
 0.0.0.0	api.indicative.com
-140.82.114.22	api.individual.githubcopilot.com
+140.82.112.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 127.0.0.1	api.inmobi.cn
 127.0.0.1	api.instabug.com
@@ -6488,7 +6497,7 @@
 0.0.0.0	call-ad-network-api.marchex.com
 127.0.0.1	callback.tradplusad.com
 0.0.0.0	calyptra.pro
-185.199.108.133	camo.githubusercontent.com
+185.199.110.133	camo.githubusercontent.com
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
 0.0.0.0	canvas-cdn.gdt.qq.com
@@ -6724,7 +6733,7 @@
 127.0.0.1	cellinfo.tingyun.com
 0.0.0.0	celorintrade92.net
 0.0.0.0	cemeja.mobi
-140.82.113.22	central.github.com
+140.82.113.21	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -7876,7 +7885,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.113.21	education.github.com
+140.82.114.22	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -7997,6 +8006,7 @@
 0.0.0.0	events.redditmedia.com
 0.0.0.0	events.samsungads.com
 127.0.0.1	events.umeng.com
+0.0.0.0	eventv1.leidong.rayenergytech.com
 0.0.0.0	everestads.net
 0.0.0.0	everfield.mobi
 0.0.0.0	evurbroikacy.pro
@@ -8054,7 +8064,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.108.133	favicons.githubusercontent.com
+185.199.110.133	favicons.githubusercontent.com
 127.0.0.1	fb.umeng.com
 127.0.0.1	fc-feed.cdn.bcebos.com
 127.0.0.1	fc.yahoo.com
@@ -8382,19 +8392,19 @@
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-16.15.253.156	github-cloud.s3.amazonaws.com
-52.217.164.41	github-com.s3.amazonaws.com
-16.15.199.222	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.213.120	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.207.113	github-production-user-asset-6210df.s3.amazonaws.com
+16.15.236.148	github-cloud.s3.amazonaws.com
+52.216.206.91	github-com.s3.amazonaws.com
+16.182.35.193	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.40.89	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.52.73	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-104.23.125.189	github.global.ssl.fastly.net
+184.72.1.148	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.108.133	github.map.fastly.net
+185.199.110.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 127.0.0.1	gj.applog.uc.cn
 0.0.0.0	gj.gds.mmstat.com
@@ -8524,6 +8534,7 @@
 0.0.0.0	gw.flurry.com
 127.0.0.1	gw.mmstat.com
 127.0.0.1	gw5.push.mcp.weibo.cn
+0.0.0.0	gw6.push.mcp.weibo.cn
 127.0.0.1	gxb.mmstat.com
 127.0.0.1	gxbr.cnzz.com
 127.0.0.1	gxh.material.qq.com
@@ -8722,9 +8733,11 @@
 127.0.0.1	hunantv-mipdx.cn.miaozhen.com
 127.0.0.1	hunantv.m.cn.miaozhen.com
 0.0.0.0	hungerfordbookshop.pro
+0.0.0.0	huodong.ios.shouji.360.cn
 0.0.0.0	huodong.mobilem.360.cn
 127.0.0.1	huodong.pl.youku.com
 127.0.0.1	huodong.vip.youku.com
+0.0.0.0	huodong.weibo.cn
 127.0.0.1	huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
 127.0.0.1	huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
 127.0.0.1	huskieaccess.bugly.qq.com
@@ -8845,7 +8858,9 @@
 0.0.0.0	iad6.ipromote.com
 0.0.0.0	iad7.ipromote.com
 0.0.0.0	iad8.ipromote.com
+0.0.0.0	iadcontent.apple.com
 0.0.0.0	iadctest.qwapi.com
+0.0.0.0	iadmoo.apple.com
 127.0.0.1	iadmusicmat.music.126.net
 127.0.0.1	iadmusicmatvideo.music.126.net
 0.0.0.0	iadmusicpic.music.126.net
@@ -9090,6 +9105,7 @@
 0.0.0.0	injuredworkersadvocates.com
 0.0.0.0	inmobisdk-a.akamaihd.net
 0.0.0.0	inner-active.mobi
+0.0.0.0	inner-hw.huazirc.com
 127.0.0.1	inner-million-api.aiclk.com
 127.0.0.1	inner.baihemob.com
 127.0.0.1	inside.baidu.com
@@ -9420,6 +9436,7 @@
 0.0.0.0	kvinit-prod.api.kochava.com
 127.0.0.1	kw.qchannel03.cn
 127.0.0.1	kwimg3.kuwo.cn
+0.0.0.0	kwpush.kuwo.cn
 127.0.0.1	kwurl.ucweb.com
 0.0.0.0	kyson.ad.daum.net
 0.0.0.0	kz.admaster.com.cn
@@ -9679,6 +9696,7 @@
 127.0.0.1	logonext.tv.kuyun.com
 127.0.0.1	logrcv.aiclk.com
 0.0.0.0	logrcv.yunxish.com
+0.0.0.0	logs-bigdata.yeehaw.com.cn
 0.0.0.0	logs.amap.com
 127.0.0.1	logs.umeng.com
 127.0.0.1	logsdk.qq.com
@@ -9689,9 +9707,11 @@
 127.0.0.1	logstat.caixin.com
 0.0.0.0	logtj.kugou.com
 127.0.0.1	logupdate.avlyun.sec.miui.com
+0.0.0.0	logv2.ireader.com
 0.0.0.0	logwebs.kugou.com
 0.0.0.0	loimearadiku.pro
 127.0.0.1	lon6-accesspoint-a33.lon6.spotify.com
+0.0.0.0	lookup.api.bsb.baidu.com
 0.0.0.0	lorenterendor-click.pages.dev
 0.0.0.0	lottery.flygame.io
 0.0.0.0	lottery.headlines.pw
@@ -11356,7 +11376,7 @@
 0.0.0.0	primeviagpt.pro
 0.0.0.0	prism.pandora.tv
 127.0.0.1	privacy.api.intl.miui.com
-185.199.108.133	private-user-images.githubusercontent.com
+185.199.110.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-factory.com
@@ -11395,6 +11415,7 @@
 0.0.0.0	profile-api-prod-elb.53.localytics.com
 0.0.0.0	progressive.lp.mydas.mobi
 0.0.0.0	projectorreviews.advertserve.com
+0.0.0.0	prom-sdkv2.jysper.net
 127.0.0.1	prom.b.qq.com
 0.0.0.0	promo-images.ttpsdk.info
 0.0.0.0	promo.cityads.com
@@ -11735,12 +11756,14 @@
 127.0.0.1	report.cms.qq.com
 127.0.0.1	report.dhsz.cn
 127.0.0.1	report.doublewin123.com
+0.0.0.0	report.dxunion.cn
 0.0.0.0	report.hb.brainlyads.com
 127.0.0.1	report.im.jpush.cn
 127.0.0.1	report.jpush.cn
 0.0.0.0	report.propellerads.com
 127.0.0.1	report.qq.com
 0.0.0.0	report.salmonads.com
+0.0.0.0	report.tencentmusic.com
 127.0.0.1	report.tingyun.com
 0.0.0.0	report.tv.kohesport.qq.com
 0.0.0.0	report.url.cn
@@ -13610,6 +13633,7 @@
 0.0.0.0	track.xapads.com
 0.0.0.0	trackadsb1.com
 0.0.0.0	tracker-api.my.com
+0.0.0.0	tracker-prd.aldi.com.cn
 0.0.0.0	tracker.ai.xiaomi.com
 0.0.0.0	tracker.baidu.com
 0.0.0.0	tracker.ero-advertising.com
@@ -13868,6 +13892,7 @@
 0.0.0.0	unified.adsafeprotected.com
 0.0.0.0	unifiedbidding.ad.smaato.net
 0.0.0.0	union-mlog.bigda.com
+0.0.0.0	union-record.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0	union.56.com
 0.0.0.0	union.6.cn
 0.0.0.0	union.baidu.cn
@@ -14546,7 +14571,7 @@
 0.0.0.0	vs9.gzcm.u3.ucweb.com
 0.0.0.0	vs9.gzct.u3.ucweb.com
 0.0.0.0	vs9.gzcu.u3.ucweb.com
-150.171.110.108	vscode.dev
+150.171.110.102	vscode.dev
 0.0.0.0	vscore.pro
 0.0.0.0	vserv.mobi
 127.0.0.1	vshi.tc.qq.com
