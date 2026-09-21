@@ -1,5 +1,5 @@
-# 最后更新时间: 2026-09-21 17:43:53
-# 规则总数: 16301
+# 最后更新时间: 2026-09-22 04:17:14
+# 规则总数: 16303
 # 项目地址: https://github.com/045200/hyper_hosts
 
 127.0.0.1	0.r.msn.com
@@ -5339,7 +5339,7 @@
 127.0.0.1	api.im.jpush.cn
 0.0.0.0	api.immomo.com
 0.0.0.0	api.indicative.com
-140.82.113.22	api.individual.githubcopilot.com
+140.82.112.22	api.individual.githubcopilot.com
 0.0.0.0	api.infinario.com
 127.0.0.1	api.inmobi.cn
 127.0.0.1	api.instabug.com
@@ -6767,7 +6767,7 @@
 0.0.0.0	cemeja.mobi
 0.0.0.0	cenalo.pro
 0.0.0.0	cenogradspravina.net
-140.82.113.21	central.github.com
+140.82.114.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -7936,7 +7936,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.112.21	education.github.com
+140.82.114.22	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -8442,17 +8442,17 @@
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-52.217.125.145	github-cloud.s3.amazonaws.com
-16.15.236.229	github-com.s3.amazonaws.com
-16.15.244.207	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.212.176	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.247.125	github-production-user-asset-6210df.s3.amazonaws.com
+16.15.183.117	github-cloud.s3.amazonaws.com
+16.15.162.155	github-com.s3.amazonaws.com
+52.217.230.249	github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.68.49	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.101.161	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-103.97.176.73	github.global.ssl.fastly.net
+128.121.243.235	github.global.ssl.fastly.net
 185.199.110.133	github.io
 185.199.110.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
@@ -11277,6 +11277,8 @@
 0.0.0.0	pic2.bloggerads.net
 127.0.0.1	pic6.ajkimg.com
 127.0.0.1	pic640.weishi.qq.com
+0.0.0.0	pica-a-display.diwodiwo.xyz
+0.0.0.0	pica-ad-api.diwodiwo.xyz
 0.0.0.0	piccdn.bloggerads.net
 0.0.0.0	picture-uploads.com
 0.0.0.0	pig.pupuapi.com
