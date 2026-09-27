@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2026-09-27 01:39:44
-# 规则数量: 12587
+# 更新日期: 2026-09-27 12:17:17
+# 规则数量: 12584
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -3943,6 +3943,7 @@ Domain, adve.net
 Domain, adveng.hiasys.com
 Domain, adventory.com
 Domain, adventurefeeds.com
+Domain, adventurepl.com
 Domain, adventurousamount.com
 Domain, adver.24h.com.vn
 Domain, adver.pengyou.com
@@ -4723,11 +4724,8 @@ Domain, api-d.dutils.com
 Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.adjustapost.com
 Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.asusboards.com
 Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.baryyer.com
-Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.blogwogin.com
 Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.ctotto.com
 Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.defilecafe.com
-Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.dotnetspurt.com
-Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.dvdunlocker.com
 Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.jingtain.com
 Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.mizzworthy.com
 Domain, api-data-contacts-digitals-vu-configurations-region-amazonaws.tipertz.co
@@ -5408,6 +5406,7 @@ Domain, auraxai-app.pro
 Domain, aurextradeai.pro
 Domain, auronixpro-click.pages.dev
 Domain, aurorapeakd.pro
+Domain, aurvenixtplateforme-click.pages.dev
 Domain, auth-google.site
 Domain, auth.cityads.com
 Domain, auth2.cityads.com
@@ -5679,6 +5678,7 @@ Domain, bmvip.alimama.cn
 Domain, bnet-api.playm8ru.win
 Domain, bnr6txockztw.l.adsco.re
 Domain, bo.goadservices.com
+Domain, bodrofinekssolution-pro.pages.dev
 Domain, boffoadsapi.com
 Domain, bohats-fondi-pro.pages.dev
 Domain, boilingmadsoup.com
@@ -6039,7 +6039,6 @@ Domain, chatgptinvestbot-click.pages.dev
 Domain, check-activity.com.ru
 Domain, check-id2193.fun
 Domain, check-id7277.eu.cc
-Domain, check-poczta.vercel.app
 Domain, check-products.org
 Domain, check-tcp.rayjump.com
 Domain, check-you-id-972727.eu.cc
@@ -6048,7 +6047,6 @@ Domain, checker.cityads.com
 Domain, chey-luxe-platform-pro.pages.dev
 Domain, chineseinla.com
 Domain, christianbusinessadvertising.com
-Domain, chrome.windows-browser.net
 Domain, chuguadventures.co.tz
 Domain, chykohija.pro
 Domain, cimaonrendaviol-click.pages.dev
@@ -6455,7 +6453,6 @@ Domain, daaa.ero-advertising.com
 Domain, dadsats.com
 Domain, daea.ero-advertising.com
 Domain, daia.ero-advertising.com
-Domain, dailybulletinra.pro
 Domain, dailydesknow.pro
 Domain, dailylivebrief.pro
 Domain, dart.l.doubleclick.net
@@ -6983,6 +6980,7 @@ Domain, flatfae.ero-advertising.com
 Domain, flatfea.ero-advertising.com
 Domain, flatfee.ero-advertising.com
 Domain, flex.msn.com
+Domain, flick-edge-pro.pages.dev
 Domain, floatingads.madisonavenue.com
 Domain, fls-eu.amazon-adsystem.com
 Domain, fls-fe.amazon-adsystem.com
@@ -6996,6 +6994,7 @@ Domain, flw.ero-advertising.com
 Domain, fly-ads.net
 Domain, fm.ipinyou.com
 Domain, fmads.osdn.com
+Domain, fmadvqmy.shop
 Domain, fms.ipinyou.com
 Domain, fmsads.com
 Domain, fnatfee.ero-advertising.com
@@ -7148,7 +7147,8 @@ Domain, global-websis.api.engagelab.cc
 Domain, global.adserver.yahoo.com
 Domain, global.msads.net
 Domain, globalapi.ad.xiaomi.com
-Domain, globalbriefra.pro
+Domain, globalmeshix.pro
+Domain, globalstackis.pro
 Domain, globaltradeai-click.pages.dev
 Domain, globalwebads.com
 Domain, glores2.lanzoui.com
@@ -7590,6 +7590,7 @@ Domain, installer-drcn.hispace.hihonorcloud.cn
 Domain, installer-drcn.hispace.hihonorcloud.com
 Domain, installer-drcn.hispace.hihonorcloud.eu
 Domain, instant-profit-click.pages.dev
+Domain, instant9bferon-pro.pages.dev
 Domain, instantaloxi-click.pages.dev
 Domain, instantamrix-3000-click.pages.dev
 Domain, insulevel24.pro
@@ -7806,7 +7807,6 @@ Domain, lanzouz.com
 Domain, lap-click.tr.line.me
 Domain, largefondrive-click.pages.dev
 Domain, latam.adspecs.yahoo.com
-Domain, latestnewshub.pro
 Domain, launch.adserver.yahoo.com
 Domain, lavenderokys.pro
 Domain, lax1-ib.adnxs.com
@@ -7930,7 +7930,6 @@ Domain, lubet.api.new.livejasmin.com
 Domain, lucrovenza-pro.pages.dev
 Domain, lunarentisto.pro
 Domain, lupic.cdn.bcebos.com
-Domain, lustravivo.pro
 Domain, m-adash.m.taobao.com
 Domain, m-hayakawa.ad.dev.nend.net
 Domain, m-vali.cp31.ott.cibntv.net
@@ -9029,6 +9028,7 @@ Domain, pl-pro-aiapp.com
 Domain, pl-pro-aisolution.com
 Domain, pl.ads.justpremium.com
 Domain, planeadvancing.com
+Domain, planetportix.pro
 Domain, planning-analytics.ibmcloud.com
 Domain, platform-api.sharethis.com
 Domain, platform.adsymptotic.com
@@ -9054,7 +9054,6 @@ Domain, pnrt.stsdk.vivo.com.cn
 Domain, pobierzteraz.mobi
 Domain, pokkt.fuse-ad.com
 Domain, polarzinsmere.pro
-Domain, polavex-pro.com
 Domain, policy.video.iqiyi.com
 Domain, polymorphicads.jp
 Domain, pop-dev.ad4game.com
@@ -9375,6 +9374,7 @@ Domain, rescn.u3.ucweb.com
 Domain, reseller.sexyads.com
 Domain, reselling-corp.com
 Domain, reserv-advanced1544928.com
+Domain, reserv-advanced1557929.com
 Domain, reserv-advanced353890677.com
 Domain, reserv-advanced653890177.com
 Domain, reserv-advanced67557.com
@@ -9955,7 +9955,6 @@ Domain, sestat.baidu.com
 Domain, settings-analytics.hotstar.com
 Domain, setup.advancedcleaner.com
 Domain, seure-update.fartit.com
-Domain, sextyron.pro
 Domain, sf.adsfactor.net
 Domain, sf.vserv.mobi
 Domain, sf1-be-pack.pglstatp-toutiao.com
@@ -10057,6 +10056,7 @@ Domain, smart4ads.com
 Domain, smartad.10010.com
 Domain, smartads.tech
 Domain, smartadserver.com
+Domain, smartbitai-pro-com.pages.dev
 Domain, smartinit.webads.nl
 Domain, smartlock.google.com
 Domain, smartmoney-ai-platform.pro
@@ -10545,6 +10545,7 @@ Domain, theadvertiser.us.intellitxt.com
 Domain, theholidayroads.com
 Domain, thind.unityads.unity3d.com
 Domain, this.content.served.by.adshuffle.com
+Domain, throbbing-shape-cad3.samuelramseyaitx22666.workers.dev
 Domain, thumb.ero-advertising.com
 Domain, thumbads.ero-advertising.com
 Domain, thumbnail.smartnews-ads.com
@@ -10882,7 +10883,6 @@ Domain, unityads.unity.cn
 Domain, unityads.unity3d.com
 Domain, unityads.unity3d.com.edgekey.net
 Domain, unityads.unitychina.cn
-Domain, universalmobility.pro
 Domain, unstat.baidu.com
 Domain, uole.ad.uol.com.br
 Domain, uop.umeng.com
@@ -11494,7 +11494,6 @@ Domain, websgsadvert.sanguosha.com
 Domain, webview.unityads.unity3d.com
 Domain, weishi.baidu.com
 Domain, weixin.renrenying.com
-Domain, welkotrivax.pro
 Domain, welkrotivax-click.pages.dev
 Domain, wenku-cms.bj.bcebos.com
 Domain, wer.qdwght.com
@@ -11556,7 +11555,6 @@ Domain, worker71.advertnative.com
 Domain, worker72.advertnative.com
 Domain, worker73.advertnative.com
 Domain, world.popadscdn.net
-Domain, worlddailybrief.pro
 Domain, wow.ero-advertising.com
 Domain, wp-cdn.cityads.com
 Domain, wp.9bet.mobi
@@ -11786,6 +11784,7 @@ Domain, www.advancedsoftwaresupport.com
 Domain, www.advanpromo.com
 Domain, www.advconversion.com
 Domain, www.adventurefeeds.com
+Domain, www.adventurepl.com
 Domain, www.adversal.com
 Domain, www.adversalservers.com
 Domain, www.adverster.com
@@ -11828,11 +11827,8 @@ Domain, www.anners.ero-advertising.com
 Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.adjustapost.com
 Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.asusboards.com
 Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.baryyer.com
-Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.blogwogin.com
 Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.ctotto.com
 Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.defilecafe.com
-Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.dotnetspurt.com
-Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.dvdunlocker.com
 Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.jingtain.com
 Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.mizzworthy.com
 Domain, www.api-data-contacts-digitals-vu-configurations-region-amazonaws.tipertz.co
@@ -11849,6 +11845,7 @@ Domain, www.auraxai-app.pro
 Domain, www.aurextradeai.pro
 Domain, www.auronixpro-click.pages.dev
 Domain, www.aurorapeakd.pro
+Domain, www.aurvenixtplateforme-click.pages.dev
 Domain, www.autoads.asia
 Domain, www.auvrikensolmireth-click.pages.dev
 Domain, www.avalinvest.pro
@@ -11895,6 +11892,7 @@ Domain, www.blockadsnot.com
 Domain, www.blog.intext.ero-advertising.com
 Domain, www.blogads.com
 Domain, www.blueadvantagearkasas.com
+Domain, www.bodrofinekssolution-pro.pages.dev
 Domain, www.bohats-fondi-pro.pages.dev
 Domain, www.borsektron-click.pages.dev
 Domain, www.braylenthquantum-pro.com
@@ -11935,7 +11933,6 @@ Domain, www.chat.ero-advertising.com
 Domain, www.chatgptinvestbot-click.pages.dev
 Domain, www.check-id2193.fun
 Domain, www.check-id7277.eu.cc
-Domain, www.check-poczta.vercel.app
 Domain, www.check-you-id-972727.eu.cc
 Domain, www.chengzijianzhan.com
 Domain, www.chey-luxe-platform-pro.pages.dev
@@ -11976,7 +11973,6 @@ Domain, www.da-ads.com
 Domain, www.daaa.ero-advertising.com
 Domain, www.daea.ero-advertising.com
 Domain, www.daia.ero-advertising.com
-Domain, www.dailybulletinra.pro
 Domain, www.dailydesknow.pro
 Domain, www.dailylivebrief.pro
 Domain, www.dat2.ero-advertising.com
@@ -12069,8 +12065,10 @@ Domain, www.flatdee.ero-advertising.com
 Domain, www.flatfae.ero-advertising.com
 Domain, www.flatfea.ero-advertising.com
 Domain, www.flatfee.ero-advertising.com
+Domain, www.flick-edge-pro.pages.dev
 Domain, www.flurry.com
 Domain, www.flw.ero-advertising.com
+Domain, www.fmadvqmy.shop
 Domain, www.fnatfee.ero-advertising.com
 Domain, www.fondavind.pro
 Domain, www.forex-advice.net
@@ -12090,7 +12088,8 @@ Domain, www.genvixtrade-v96-pro.pages.dev
 Domain, www.genvixtrade-v96.pro
 Domain, www.getmyads24.com
 Domain, www.glassygrovefy.pro
-Domain, www.globalbriefra.pro
+Domain, www.globalmeshix.pro
+Domain, www.globalstackis.pro
 Domain, www.globaltradeai-click.pages.dev
 Domain, www.gmads.net
 Domain, www.goads.pro
@@ -12137,6 +12136,7 @@ Domain, www.infogrowth.pro
 Domain, www.information-update.dynamic-dns.net
 Domain, www.ingresointeligente.pro
 Domain, www.instant-profit-click.pages.dev
+Domain, www.instant9bferon-pro.pages.dev
 Domain, www.instantaloxi-click.pages.dev
 Domain, www.instantamrix-3000-click.pages.dev
 Domain, www.insulevel24.pro
@@ -12173,7 +12173,6 @@ Domain, www.lanzoud.com
 Domain, www.lanzous.com
 Domain, www.lanzouz.com
 Domain, www.largefondrive-click.pages.dev
-Domain, www.latestnewshub.pro
 Domain, www.lavenderokys.pro
 Domain, www.layers.ero-advertising.com
 Domain, www.legacy-bitfundextech-pro.pages.dev
@@ -12189,7 +12188,6 @@ Domain, www.lottery.olg.ca
 Domain, www.lp.trade360.com
 Domain, www.lucrovenza-pro.pages.dev
 Domain, www.lunarentisto.pro
-Domain, www.lustravivo.pro
 Domain, www.macrotrade.pro
 Domain, www.magento-analytics.com
 Domain, www.mainadv.com
@@ -12302,12 +12300,12 @@ Domain, www.pl-aiapp-pro.com
 Domain, www.pl-oferta74928-share.cfd
 Domain, www.pl-pro-aiapp.com
 Domain, www.pl-pro-aisolution.com
+Domain, www.planetportix.pro
 Domain, www.plazentiapro-click.pages.dev
 Domain, www.plenacapitoria-pro.pages.dev
 Domain, www.plus-pro.uplg-plus.shop
 Domain, www.pobierzteraz.mobi
 Domain, www.polarzinsmere.pro
-Domain, www.polavex-pro.com
 Domain, www.popacs.ero-advertising.com
 Domain, www.popads.ero-advertising.com
 Domain, www.popads.net
@@ -12350,6 +12348,7 @@ Domain, www.redirect.ero-advertising.com
 Domain, www.registrarads.com
 Domain, www.rendaluce.pro
 Domain, www.reserv-advanced1544928.com
+Domain, www.reserv-advanced1557929.com
 Domain, www.reserv-advanced353890677.com
 Domain, www.reserv-advanced653890177.com
 Domain, www.reserv-advanced67557.com
@@ -12385,7 +12384,6 @@ Domain, www.sereinplacoire.pro
 Domain, www.servedby-buysellads.com
 Domain, www.seure-update.fartit.com
 Domain, www.sexadvertentiesite.nl
-Domain, www.sextyron.pro
 Domain, www.sexyads.net
 Domain, www.sfrundamolu.pro
 Domain, www.share-server.com
@@ -12399,6 +12397,7 @@ Domain, www.skonhed.pro
 Domain, www.slide-aloxi-ark.pro
 Domain, www.slimads.vn
 Domain, www.smartadserver.com
+Domain, www.smartbitai-pro-com.pages.dev
 Domain, www.smartmoney-ai-platform.pro
 Domain, www.smtp.ero-advertising.com
 Domain, www.smyfinancial.com
@@ -12451,6 +12450,7 @@ Domain, www.terracotruies.pro
 Domain, www.tex.ero-advertising.com
 Domain, www.text-link-ads.com
 Domain, www.textlinkads.com
+Domain, www.throbbing-shape-cad3.samuelramseyaitx22666.workers.dev
 Domain, www.thumb.ero-advertising.com
 Domain, www.thumbads.ero-advertising.com
 Domain, www.thumbs.xlaces.ero-advertising.com
@@ -12487,7 +12487,6 @@ Domain, www.ultravix-app-pro.pages.dev
 Domain, www.umbs.ero-advertising.com
 Domain, www.umeng.com
 Domain, www.universal-traffic.com
-Domain, www.universalmobility.pro
 Domain, www.update-information.zzux.com
 Domain, www.update-java.kit.net
 Domain, www.update-netflix.com
@@ -12526,7 +12525,6 @@ Domain, www.wager.dm
 Domain, www.wdata.ero-advertising.com
 Domain, www.wealthicato.pro
 Domain, www.web.cellfun.mobi
-Domain, www.welkotrivax.pro
 Domain, www.welkrotivax-click.pages.dev
 Domain, www.wertkernix-click.pages.dev
 Domain, www.wertoven.pro
@@ -12538,7 +12536,6 @@ Domain, www.willowcorner.mobi
 Domain, www.winads.cn
 Domain, www.wiuapp.pro
 Domain, www.wks.ero-advertising.com
-Domain, www.worlddailybrief.pro
 Domain, www.wow.ero-advertising.com
 Domain, www.wsw.ero-advertising.com
 Domain, www.wta.ero-advertising.com
