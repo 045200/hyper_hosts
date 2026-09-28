@@ -1,4 +1,4 @@
-# 最后更新时间: 2026-09-28 03:36:20
+# 最后更新时间: 2026-09-28 18:40:10
 # 规则总数: 16360
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -6768,7 +6768,7 @@
 0.0.0.0	cemeja.mobi
 0.0.0.0	cenalo.pro
 0.0.0.0	cenogradspravina.net
-140.82.113.21	central.github.com
+140.82.114.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceres.iad-03.braze.com
@@ -7938,7 +7938,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.113.22	education.github.com
+140.82.112.21	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -8450,17 +8450,17 @@
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-16.15.191.109	github-cloud.s3.amazonaws.com
-16.15.161.177	github-com.s3.amazonaws.com
-16.15.245.158	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.183.122	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.245.84	github-production-user-asset-6210df.s3.amazonaws.com
+16.15.252.222	github-cloud.s3.amazonaws.com
+16.15.212.72	github-com.s3.amazonaws.com
+16.15.244.58	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.237.247	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.199.253	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-151.101.65.194	github.global.ssl.fastly.net
+115.126.100.160	github.global.ssl.fastly.net
 185.199.110.133	github.io
 185.199.109.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
@@ -11328,7 +11328,7 @@
 127.0.0.1	pingtcss.qq.com
 0.0.0.0	pinterest.adsymptotic.com
 72.247.96.248	pinterest.com
-13.107.42.16	pipelines.actions.githubusercontent.com
+13.107.43.16	pipelines.actions.githubusercontent.com
 127.0.0.1	pitaya.bytedance.com
 0.0.0.0	pitk.birdgesdk.com
 0.0.0.0	piwik.ero-advertising.com
@@ -14705,7 +14705,7 @@
 0.0.0.0	vs9.gzcm.u3.ucweb.com
 0.0.0.0	vs9.gzct.u3.ucweb.com
 0.0.0.0	vs9.gzcu.u3.ucweb.com
-150.171.110.103	vscode.dev
+150.171.110.105	vscode.dev
 0.0.0.0	vscore.pro
 0.0.0.0	vserv.mobi
 127.0.0.1	vshi.tc.qq.com
