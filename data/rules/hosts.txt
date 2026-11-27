@@ -1,4 +1,4 @@
-# 最后更新时间: 2026-11-26 21:36:58
+# 最后更新时间: 2026-11-27 08:20:29
 # 规则总数: 16631
 # 项目地址: https://github.com/045200/hyper_hosts
 
@@ -6559,7 +6559,7 @@
 0.0.0.0	cal.meizu.com
 0.0.0.0	call-ad-network-api.marchex.com
 127.0.0.1	callback.tradplusad.com
-185.199.110.133	camo.githubusercontent.com
+185.199.111.133	camo.githubusercontent.com
 0.0.0.0	campaign.ad-brix.com
 127.0.0.1	campaign.adobe.com
 0.0.0.0	candor-dividholden.pro
@@ -6797,7 +6797,7 @@
 0.0.0.0	cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0	cellfun.mobi
 127.0.0.1	cellinfo.tingyun.com
-140.82.112.21	central.github.com
+140.82.114.22	central.github.com
 0.0.0.0	centralads.simpli.fi
 0.0.0.0	centro.pixel.ad
 0.0.0.0	ceravindo.pro
@@ -7188,7 +7188,7 @@
 0.0.0.0	code.native-ad.net
 127.0.0.1	code.sms.mob.com
 0.0.0.0	codeads.com
-57.155.223.241	codeload.github.com
+20.6.7.16	codeload.github.com
 0.0.0.0	coin-ad.com
 0.0.0.0	col.mobileads.msn.com
 0.0.0.0	collect.adsorb.com
@@ -7969,7 +7969,7 @@
 127.0.0.1	edu-ad-test-cdn.cdn.bcebos.com
 0.0.0.0	eduardorodrigues.adv.br
 127.0.0.1	education.data.cnzz.com
-140.82.112.22	education.github.com
+140.82.112.21	education.github.com
 0.0.0.0	eedclicks.ero-advertising.com
 0.0.0.0	eee.dada8828.com
 127.0.0.1	ef-dongfeng.tanx.com
@@ -8163,7 +8163,7 @@
 0.0.0.0	fata.ero-advertising.com
 0.0.0.0	fathed.pro
 0.0.0.0	fav.simba.taobao.com
-185.199.110.133	favicons.githubusercontent.com
+185.199.111.133	favicons.githubusercontent.com
 0.0.0.0	fawnkyperic.pro
 127.0.0.1	fb.umeng.com
 127.0.0.1	fc-feed.cdn.bcebos.com
@@ -8506,19 +8506,19 @@
 0.0.0.0	gimg.baidu.com
 127.0.0.1	gini.snssdk.com
 20.205.243.166	gist.github.com
-16.15.172.160	github-cloud.s3.amazonaws.com
-16.15.167.108	github-com.s3.amazonaws.com
-16.15.183.108	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.253.50	github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.172.164	github-production-user-asset-6210df.s3.amazonaws.com
+16.15.212.191	github-cloud.s3.amazonaws.com
+16.15.207.213	github-com.s3.amazonaws.com
+16.15.255.108	github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.246.16	github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.252.153	github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2	github.blog
 20.27.177.113	github.com
 140.82.112.18	github.community
 20.43.185.14	github.dev
 185.199.110.154	github.githubassets.com
-104.244.43.128	github.global.ssl.fastly.net
+146.75.45.194	github.global.ssl.fastly.net
 185.199.110.133	github.io
-185.199.110.133	github.map.fastly.net
+185.199.111.133	github.map.fastly.net
 185.199.110.153	githubstatus.com
 127.0.0.1	gj.applog.uc.cn
 0.0.0.0	gj.gds.mmstat.com
@@ -11572,7 +11572,7 @@
 0.0.0.0	prisevance-fr.pro
 0.0.0.0	prism.pandora.tv
 127.0.0.1	privacy.api.intl.miui.com
-185.199.110.133	private-user-images.githubusercontent.com
+185.199.111.133	private-user-images.githubusercontent.com
 0.0.0.0	prizefestival.mobi
 0.0.0.0	pro-accesssoires.fr
 0.0.0.0	pro-factory.com
